@@ -1,10 +1,10 @@
 {
   "trend_name": "AI Smart Glasses",
   "status": "surging",
-  "search_volume": "~100,000",
+  "search_volume": "~300,000",
   "category": "AI & Technology",
-  "growth_5y": "+367%",
-  "growth_1y": "+367%",
+  "growth_5y": "+365%",
+  "growth_1y": "+110%",
   "growth_3m": "+22%",
   "trigger": "2026 multiplatform convergence: Meta, Google, Samsung, and Apple all entering mainstream AI eyewear simultaneously — driving 4x revenue growth in a single year.",
   "timeline": [
@@ -17,8 +17,8 @@
       "event": "Harvard students publicly demonstrate 'I-XRAY' — combining Ray-Ban Meta glasses with facial recognition to identify strangers in real time — triggering global privacy alarm and EU regulatory scrutiny."
     },
     {
-      "date": "2025-07",
-      "event": "Meta acquires a ~3% stake in EssilorLuxottica for $3.5 billion, cementing a decade-long smart glasses roadmap and signaling the largest single corporate bet on AI eyewear in history."
+      "date": "2025-06",
+      "event": "Qualcomm unveils Snapdragon AR1+ Gen 1 — the first chip capable of running on-device Llama 3.2 AI directly on smart glasses without a phone or cloud, cutting temple depth 20% and enabling truly autonomous AI eyewear."
     },
     {
       "date": "2025-09",
@@ -95,16 +95,16 @@
       "segment": "AR display / gaming / productivity"
     },
     {
-      "name": "Rokid",
-      "share": "[unverified]",
-      "loved": "Ultra-light 38.5g frame, 12-hour battery, $300 price, CES 2026 breakout, expanding into U.S. optical retail at Vision Expo 2026",
-      "segment": "Consumer AI / global travel"
+      "name": "Xiaomi",
+      "share": "~4.2%",
+      "loved": "Competitive pricing (~€179), strong China distribution, multimodal AI features — second largest by shipment share in H1 2025 per Counterpoint Research",
+      "segment": "Consumer electronics / China-first expansion"
     },
     {
-      "name": "Brilliant Labs",
+      "name": "Even Realities",
       "share": "[unverified]",
-      "loved": "Open-source, on-device Llama 3.2 AI with no cloud dependency, developer-friendly SDK, 11-hour battery, strong privacy positioning",
-      "segment": "Developer / privacy-conscious"
+      "loved": "Named best HUD glasses at CES 2026 by Mashable; live translation, teleprompter mode, prescription-ready, normal-looking frames under $500",
+      "segment": "Professionals / travelers / HUD enthusiasts"
     },
     {
       "name": "RealWear",
@@ -208,6 +208,26 @@
       "title": "Seeing a New Future: How Smart Glasses Are Unlocking Independence for Visually Impaired Individuals",
       "url": "https://connsensereport.com/2025/08/20/seeing-a-new-future-how-smart-glasses-are-unlocking-independence-for-visually-impaired-individuals/",
       "publisher": "ConnSENSE Report"
+    },
+    {
+      "title": "Global Smart Glasses Shipments Soared 110% YoY in H1 2025, With Meta Capturing Over 70% Share",
+      "url": "https://counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share",
+      "publisher": "Counterpoint Research"
+    },
+    {
+      "title": "Meta Sold Over 7 Million Smart Glasses Last Year, Effectively Tripling Sales in 2025 Alone",
+      "url": "https://www.roadtovr.com/meta-sold-over-7-million-smart-glasses-last-year-effectively-tripling-sales-in-2025-alone/",
+      "publisher": "Road to VR"
+    },
+    {
+      "title": "Qualcomm Says Its New AR1 Gen 1 Chip Can Handle AI Directly on Smart Glasses",
+      "url": "https://www.engadget.com/wearables/qualcomm-says-its-new-ar1-gen-1-chip-can-handle-ai-directly-on-smart-glasses-163002410.html",
+      "publisher": "Engadget"
+    },
+    {
+      "title": "Apple Eyes 2027 for AI Smart Glasses Built Around Context, Not Screens",
+      "url": "https://appleinsider.com/articles/26/02/17/apple-eyes-2027-for-ai-smart-glasses-built-around-context-not-screens",
+      "publisher": "Apple Insider"
     }
   ]
 }
