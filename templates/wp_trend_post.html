@@ -1,0 +1,366 @@
+<!-- Trend Report — fragment (nav/footer = Kadence natif) -->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;0,800;1,400&family=Inter:wght@400;600&family=Space+Grotesk:wght@300;500;700&family=Newsreader:opsz,wght@6..72,400;6..72,700&display=swap');
+
+body { background-color: #171023; color: #ebddf8; font-family: 'Inter', sans-serif; margin: 0; padding: 0; }
+* { box-sizing: border-box; }
+.brutalist-border { border: 1px solid rgba(149, 142, 158, 0.15); }
+
+/* Hover states */
+.nav-link:hover { background-color: #3a3146; color: #ffffff; }
+.footer-link:hover { color: #6b3fc0; text-decoration: underline; }
+.cta-button:hover { background-color: #ffffff; color: #000000; }
+.hero-image-wrap:hover img { filter: none; }
+
+/* Selection */
+::selection { background-color: #6b3fc0; color: #ddcbff; }
+
+/* Responsive grid fallbacks */
+@media (min-width: 768px) {
+  .md-flex-row { flex-direction: row; }
+  .md-grid-4 { grid-template-columns: repeat(4, 1fr); }
+  .md-grid-12 { grid-template-columns: repeat(12, 1fr); }
+  .md-grid-5 { grid-template-columns: repeat(5, 1fr); }
+  .md-grid-2 { grid-template-columns: repeat(2, 1fr); }
+  .md-col-span-4 { grid-column: span 4; }
+  .md-col-span-8 { grid-column: span 8; }
+  .md-col-span-3 { grid-column: span 3; }
+  .md-w-third { width: 33.333%; }
+  .md-h-600 { height: 600px; }
+  .md-flex-nav { display: flex; }
+  .md-border-b-0 { border-bottom: 0; }
+  .md-text-left { text-align: left; }
+  .md-text-8xl { font-size: 6rem; line-height: 0.9; }
+}
+</style>
+<!-- 1. DARK HERO HEADER -->
+<section class="md-flex-row" style="background-color: #0d0618; padding: 80px 32px; display: flex; flex-direction: column; justify-content: space-between; align-items: flex-end; gap: 48px;">
+<div style="max-width: 896px;">
+<nav style="display: flex; align-items: center; gap: 8px; margin-bottom: 32px; font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; color: #958e9e;">
+<span>Reports</span>
+<span style="font-size: 10px;">&#9656;</span>
+<span style="color: #d2bcff;">AI &amp; Technology</span>
+</nav>
+<h1 class="md-text-8xl" style="font-family: 'EB Garamond', serif; font-size: 4.5rem; font-weight: 700; letter-spacing: -0.025em; color: #ffffff; margin-bottom: 24px; line-height: 0.9; margin-top: 0;">
+                    Autonomous Creative Agents
+                </h1>
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 24px; margin-top: 40px;">
+<span style="background-color: #0a5c42; color: #8dd5b4; padding: 4px 12px; font-family: 'Space Grotesk', sans-serif; font-size: 0.75rem; font-weight: 700; letter-spacing: -0.025em;">SURGING &#9650;&#9650;&#9650;</span>
+<div style="display: flex; flex-direction: column;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #958e9e;">Category</span>
+<span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; font-weight: 600;">Generative AI</span>
+</div>
+<div style="display: flex; flex-direction: column;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #958e9e;">Updated</span>
+<span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; font-weight: 600;">Oct 24, 2024</span>
+</div>
+<div style="display: flex; flex-direction: column;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #958e9e;">Search Volume</span>
+<span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; font-weight: 600;">1.2M Monthly</span>
+</div>
+</div>
+</div>
+<div class="hero-image-wrap md-w-third" style="width: 100%; aspect-ratio: 4/3; background-color: #241c2f; position: relative; overflow: hidden;">
+<img style="width: 100%; height: 100%; object-fit: cover; opacity: 0.6; filter: grayscale(100%); transition: all 0.7s;" data-alt="Abstract digital rendering of neural networks and liquid chrome flowing in dark purple space, futuristic editorial style" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDyEpjtkhZHE1r4VRUj2Vlqkuf5YxJlSRVvu5ii1zdVlPi56qy0pFrAIAZ4jWRt1svfW8AHbUuI9Y671mJ0veBtkY5DLkUBXhdGuamCnvmPFxGlamv0A-o9YRBk6gA6zCm7EzZh_s2pfXnnPk7AwVno1_hxz-JDKtAFZDrHsBhdQJO6_ZmIc-o9BFEdNryxxf9LThubi3F6yvZUwL6ZI_HF8Fw22IgGqziAxYctaYEcXcQzL1fqHLHIv3qnjRSdWq2WMVLZbKSX8P0"/>
+<div style="position: absolute; inset: 0; border: 20px solid #0d0618;"></div>
+</div>
+</section>
+<!-- 2. METRICS GRID -->
+<section style="background-color: #ede8f8; padding: 4px 0; border-top: 1px solid rgba(149,142,158,0.1); border-bottom: 1px solid rgba(149,142,158,0.1);">
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; background-color: #171023;">
+<div style="padding: 32px; border-right: 1px solid rgba(149,142,158,0.1); background-color: #ede8f8; color: #171023;">
+<p style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 16px; opacity: 0.7;">5Y Growth</p>
+<p style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; margin: 0;">+2,400%</p>
+</div>
+<div style="padding: 32px; border-right: 1px solid rgba(149,142,158,0.1); background-color: #ede8f8; color: #171023;">
+<p style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 16px; opacity: 0.7;">1Y Growth</p>
+<p style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; margin: 0;">+340%</p>
+</div>
+<div style="padding: 32px; border-right: 1px solid rgba(149,142,158,0.1); background-color: #ede8f8; color: #171023;">
+<p style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 16px; opacity: 0.7;">3M Growth</p>
+<p style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; margin: 0;">+89%</p>
+</div>
+<div style="padding: 32px; background-color: #ede8f8; color: #171023;">
+<p style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 16px; opacity: 0.7;">Monthly Searches</p>
+<p style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; margin: 0;">1.2M</p>
+</div>
+</div>
+</section>
+<!-- 3. SPARKLINE CHART -->
+<section style="background-color: #ede8f8; padding: 80px 32px; border-bottom: 1px solid rgba(149,142,158,0.1);">
+<div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 48px;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 2.25rem; color: #171023; font-weight: 700; font-style: italic; margin: 0;">Trajectory Analysis</h2>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; color: rgba(23,16,35,0.6); text-transform: uppercase; letter-spacing: 0.1em;">2019 -- 2024 Historical Data</span>
+</div>
+<div style="width: 100%; height: 256px; background-color: rgba(255,255,255,0.4); padding: 48px;">
+<svg style="width: 100%; height: 100%; overflow: visible;" viewBox="0 0 1000 200">
+<path d="M0,180 L100,175 L200,160 L300,165 L400,140 L500,110 L600,95 L700,40 L800,35 L900,15 L1000,5" fill="none" stroke="#6b3fc0" stroke-linecap="square" stroke-width="4"></path>
+<rect fill="#6b3fc0" height="10" width="10" x="990" y="0"></rect>
+</svg>
+</div>
+</section>
+<!-- 4. TIMELINE -->
+<section class="md-grid-12" style="padding: 128px 32px; display: grid; grid-template-columns: 1fr; gap: 48px; background-color: #171023;">
+<div class="md-col-span-4">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; color: #ffffff; position: sticky; top: 128px; margin: 0;">Evolutionary<br/>Milestones</h2>
+</div>
+<div class="md-col-span-8" style="display: flex; flex-direction: column; gap: 80px; position: relative;">
+<div style="position: absolute; left: 0; top: 0; bottom: 0; width: 2px; border-left: 2px dashed rgba(74,68,83,0.3); margin-left: -2px;"></div>
+<div style="position: relative; padding-left: 48px;">
+<div style="position: absolute; left: -5px; top: 4px; width: 10px; height: 10px; background-color: #8dd5b4;"></div>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #d2bcff; font-weight: 700; margin-bottom: 8px; display: block;">JUNE 2022</span>
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; color: #ffffff; margin-bottom: 16px; margin-top: 0;">The Zero-Shot Inception</h3>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; max-width: 576px; line-height: 1.625;">Early research papers emerge demonstrating that large language models could begin generating structured creative outputs without explicit fine-tuning for specific artistic styles.</p>
+</div>
+<div style="position: relative; padding-left: 48px;">
+<div style="position: absolute; left: -5px; top: 4px; width: 10px; height: 10px; background-color: #8dd5b4;"></div>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #d2bcff; font-weight: 700; margin-bottom: 8px; display: block;">MARCH 2023</span>
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; color: #ffffff; margin-bottom: 16px; margin-top: 0;">Agentic Framework Expansion</h3>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; max-width: 576px; line-height: 1.625;">Release of open-source frameworks allowing LLMs to "loop" their own outputs, enabling self-critique and multi-step creative production without human intervention.</p>
+</div>
+<div style="position: relative; padding-left: 48px;">
+<div style="position: absolute; left: -5px; top: 4px; width: 10px; height: 10px; background-color: #8dd5b4;"></div>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #d2bcff; font-weight: 700; margin-bottom: 8px; display: block;">JANUARY 2024</span>
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; color: #ffffff; margin-bottom: 16px; margin-top: 0;">Commercial Creative Sovereignty</h3>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; max-width: 576px; line-height: 1.625;">First fully autonomous marketing campaigns launched by Fortune 500 companies, where AI agents handled strategy, design, and media buying end-to-end.</p>
+</div>
+</div>
+</section>
+<!-- 5. PESTAL TABLE -->
+<section style="background-color: #20182b; padding: 96px 32px;">
+<div style="margin-bottom: 64px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; color: #ffffff; margin-bottom: 16px; margin-top: 0;">PESTAL Analysis</h2>
+<p style="font-family: 'Inter', sans-serif; color: #958e9e; max-width: 672px;">A comprehensive structural audit of the macro-environmental forces driving the adoption of Autonomous Creative Agents.</p>
+</div>
+<div style="max-width: 1152px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px;">
+<!-- Political -->
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; padding: 32px; background-color: #241c2f; border-left: 4px solid #6b3fc0; align-items: center;">
+<div style="display: flex; align-items: center; gap: 16px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #d2bcff; text-transform: uppercase;">Political</span>
+</div>
+<div class="md-col-span-3">
+<p style="font-family: 'Inter', sans-serif; color: #ebddf8; margin: 8px 0 0 0;">Increasing sovereign investment in AI computational infrastructure and national strategic "AI Sovereignity" policies.</p>
+</div>
+</div>
+<!-- Economic -->
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; padding: 32px; background-color: #241c2f; border-left: 4px solid #8dd5b4; align-items: center;">
+<div style="display: flex; align-items: center; gap: 16px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #8dd5b4; text-transform: uppercase;">Economic</span>
+</div>
+<div class="md-col-span-3">
+<p style="font-family: 'Inter', sans-serif; color: #ebddf8; margin: 8px 0 0 0;">Massive capital reallocation from traditional agency models to specialized AI infrastructure and talent acquisition.</p>
+</div>
+</div>
+<!-- Social -->
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; padding: 32px; background-color: #241c2f; border-left: 4px solid #c9c4d4; align-items: center;">
+<div style="display: flex; align-items: center; gap: 16px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #c9c4d4; text-transform: uppercase;">Social</span>
+</div>
+<div class="md-col-span-3">
+<p style="font-family: 'Inter', sans-serif; color: #ebddf8; margin: 8px 0 0 0;">Normalization of AI-generated content in mainstream media; emergence of "Synthetic Celebrities" with massive followings.</p>
+</div>
+</div>
+<!-- Technological -->
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; padding: 32px; background-color: #241c2f; border-left: 4px solid #eaddff; align-items: center;">
+<div style="display: flex; align-items: center; gap: 16px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #d2bcff; text-transform: uppercase;">Technological</span>
+</div>
+<div class="md-col-span-3">
+<p style="font-family: 'Inter', sans-serif; color: #ebddf8; margin: 8px 0 0 0;">Advancements in Long Context Windows (1M+ tokens) allowing agents to maintain coherent brand identities over years of content.</p>
+</div>
+</div>
+<!-- Environmental -->
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; padding: 32px; background-color: #241c2f; border-left: 4px solid #00573d; align-items: center;">
+<div style="display: flex; align-items: center; gap: 16px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #83caaa; text-transform: uppercase;">Environmental</span>
+</div>
+<div class="md-col-span-3">
+<p style="font-family: 'Inter', sans-serif; color: #ebddf8; margin: 8px 0 0 0;">Intense energy demands for inference; emergence of "Green AI" standards and carbon-neutral data centers.</p>
+</div>
+</div>
+<!-- Legal -->
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; padding: 32px; background-color: #241c2f; border-left: 4px solid #ffb4ab; align-items: center;">
+<div style="display: flex; align-items: center; gap: 16px;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-weight: 700; color: #ffb4ab; text-transform: uppercase;">Legal</span>
+</div>
+<div class="md-col-span-3">
+<p style="font-family: 'Inter', sans-serif; color: #ebddf8; margin: 8px 0 0 0;">Evolving copyright frameworks regarding "Work Made for Hire" when the author is a non-human autonomous system.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- 6. JOBS TO BE DONE -->
+<section style="background-color: #ede8f8; padding: 96px 32px;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; color: #171023; margin-bottom: 48px; margin-top: 0;">Jobs To Be Done</h2>
+<div class="md-grid-4" style="display: grid; grid-template-columns: 1fr; gap: 32px;">
+<div style="background-color: #ffffff; padding: 40px; display: flex; flex-direction: column; justify-content: space-between; aspect-ratio: 1/1;">
+<div>
+<span style="color: #6b3fc0; margin-bottom: 24px; display: block; font-size: 2rem;">&#10024;</span>
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; font-weight: 700; color: #171023; margin-bottom: 16px; line-height: 1.25; margin-top: 0;">Infinite Creative Iteration</h3>
+<p style="font-family: 'Inter', sans-serif; color: rgba(23,16,35,0.7); font-size: 0.875rem;">Testing 1,000 variations of a visual concept in real-time to find the optimal emotional resonance for a specific demographic.</p>
+</div>
+<div style="padding-top: 24px; border-top: 1px solid rgba(149,142,158,0.1); font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; font-weight: 700; color: #6b3fc0;">Outcome: Optimized Engagement</div>
+</div>
+<div style="background-color: #ffffff; padding: 40px; display: flex; flex-direction: column; justify-content: space-between; aspect-ratio: 1/1;">
+<div>
+<span style="color: #6b3fc0; margin-bottom: 24px; display: block; font-size: 2rem;">&#128269;</span>
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; font-weight: 700; color: #171023; margin-bottom: 16px; line-height: 1.25; margin-top: 0;">Contextual Brand Adaptation</h3>
+<p style="font-family: 'Inter', sans-serif; color: rgba(23,16,35,0.7); font-size: 0.875rem;">Automatically localizing tone, cultural nuance, and visual style for hyper-local market penetration without manual oversight.</p>
+</div>
+<div style="padding-top: 24px; border-top: 1px solid rgba(149,142,158,0.1); font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; font-weight: 700; color: #6b3fc0;">Outcome: Cultural Fluidity</div>
+</div>
+<div style="background-color: #ffffff; padding: 40px; display: flex; flex-direction: column; justify-content: space-between; aspect-ratio: 1/1;">
+<div>
+<span style="color: #6b3fc0; margin-bottom: 24px; display: block; font-size: 2rem;">&#9203;</span>
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; font-weight: 700; color: #171023; margin-bottom: 16px; line-height: 1.25; margin-top: 0;">Real-Time Culture Response</h3>
+<p style="font-family: 'Inter', sans-serif; color: rgba(23,16,35,0.7); font-size: 0.875rem;">Generating high-quality creative assets responding to viral trends within minutes of detection, securing first-mover advantage.</p>
+</div>
+<div style="padding-top: 24px; border-top: 1px solid rgba(149,142,158,0.1); font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; font-weight: 700; color: #6b3fc0;">Outcome: Temporal Dominance</div>
+</div>
+</div>
+</section>
+<!-- 7. CONSUMER TREND CANVAS -->
+<section style="padding: 96px 32px; background-color: #171023;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 3rem; font-weight: 700; color: #ffffff; margin-bottom: 64px; font-style: italic; text-align: right; margin-top: 0;">Trend Canvas 04.2</h2>
+<div class="md-grid-5 md-h-600" style="display: grid; grid-template-columns: 1fr; height: auto; border: 1px solid rgba(74,68,83,0.2);">
+<div class="md-border-b-0" style="padding: 40px; border-right: 1px solid rgba(74,68,83,0.2); border-bottom: 1px solid rgba(74,68,83,0.2); display: flex; flex-direction: column; justify-content: flex-start;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #d2bcff; font-weight: 700; margin-bottom: 24px;">Who</span>
+<h4 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; margin-bottom: 16px; color: #ffffff; margin-top: 0;">The Efficiency Ethos</h4>
+<p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: #ccc3d5; line-height: 1.625;">Gen Alpha and late Gen Z professionals who view AI as a primary collaborator rather than a secondary tool.</p>
+</div>
+<div class="md-border-b-0" style="padding: 40px; border-right: 1px solid rgba(74,68,83,0.2); border-bottom: 1px solid rgba(74,68,83,0.2); display: flex; flex-direction: column; justify-content: flex-start;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #d2bcff; font-weight: 700; margin-bottom: 24px;">Where</span>
+<h4 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; margin-bottom: 16px; color: #ffffff; margin-top: 0;">Hybrid Domains</h4>
+<p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: #ccc3d5; line-height: 1.625;">Predominantly in decentralized digital workspaces, metaverse gaming environments, and high-frequency trading social loops.</p>
+</div>
+<div class="md-border-b-0" style="padding: 40px; border-right: 1px solid rgba(74,68,83,0.2); border-bottom: 1px solid rgba(74,68,83,0.2); display: flex; flex-direction: column; justify-content: flex-start; background-color: #241c2f;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #d2bcff; font-weight: 700; margin-bottom: 24px;">Why Now</span>
+<h4 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; margin-bottom: 16px; color: #ffffff; margin-top: 0;">Latency Collapse</h4>
+<p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: #ccc3d5; line-height: 1.625;">The cost of production has dropped toward zero, making the "value of the idea" the only remaining scarcity.</p>
+</div>
+<div class="md-border-b-0" style="padding: 40px; border-right: 1px solid rgba(74,68,83,0.2); border-bottom: 1px solid rgba(74,68,83,0.2); display: flex; flex-direction: column; justify-content: flex-start;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #d2bcff; font-weight: 700; margin-bottom: 24px;">Behavior</span>
+<h4 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; margin-bottom: 16px; color: #ffffff; margin-top: 0;">Co-Authored Life</h4>
+<p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: #ccc3d5; line-height: 1.625;">Users spend 40% more time refining agent prompts than executing tasks manually, shifting from 'doer' to 'director'.</p>
+</div>
+<div style="padding: 40px; display: flex; flex-direction: column; justify-content: flex-start;">
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; text-transform: uppercase; color: #d2bcff; font-weight: 700; margin-bottom: 24px;">Unmet Need</span>
+<h4 style="font-family: 'EB Garamond', serif; font-size: 1.5rem; margin-bottom: 16px; color: #ffffff; margin-top: 0;">Human Variance</h4>
+<p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: #ccc3d5; line-height: 1.625;">As AI perfection becomes the baseline, consumers will hunger for 'intentional imperfection' and human-verified flaws.</p>
+</div>
+</div>
+</section>
+<!-- 8. MARKET POSITIONING -->
+<section style="background-color: #2f263a; padding: 96px 32px;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 2.25rem; font-weight: 700; color: #ffffff; margin-bottom: 48px; margin-top: 0;">Market Concentration</h2>
+<div style="display: flex; flex-direction: column; gap: 48px; max-width: 896px;">
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 8px;">
+<span style="font-family: 'Inter', sans-serif; font-weight: 700; color: #ffffff;">Infrastructure Providers (Cloud/GPUs)</span>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #d2bcff;">42%</span>
+</div>
+<div style="width: 100%; height: 16px; background-color: #171023;">
+<div style="height: 100%; background-color: #6b3fc0; width: 42%;"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 8px;">
+<span style="font-family: 'Inter', sans-serif; font-weight: 700; color: #ffffff;">Model Originators (OpenAI/Anthropic)</span>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #8dd5b4;">28%</span>
+</div>
+<div style="width: 100%; height: 16px; background-color: #171023;">
+<div style="height: 100%; background-color: #00573d; width: 28%;"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 8px;">
+<span style="font-family: 'Inter', sans-serif; font-weight: 700; color: #ffffff;">Agentic Middleware Systems</span>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #c9c4d4;">18%</span>
+</div>
+<div style="width: 100%; height: 16px; background-color: #171023;">
+<div style="height: 100%; background-color: #5c5a67; width: 18%;"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 8px;">
+<span style="font-family: 'Inter', sans-serif; font-weight: 700; color: #ffffff;">Application Layer (SaaS)</span>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 0.875rem; color: #958e9e;">12%</span>
+</div>
+<div style="width: 100%; height: 16px; background-color: #171023;">
+<div style="height: 100%; background-color: #3a3146; width: 12%;"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- 9. COMPANIES TO WATCH -->
+<section class="md-grid-2" style="padding: 96px 4px; background-color: rgba(74,68,83,0.1); display: grid; grid-template-columns: 1fr; gap: 4px;">
+<div style="background-color: #171023; padding: 48px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px;">
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; color: #ffffff; font-weight: 700; margin: 0;">Cognition Labs</h3>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; background-color: rgba(210,188,255,0.1); color: #d2bcff; padding: 4px 12px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.1em;">Growth Phase</span>
+</div>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">Pioneering Devin, the world's first AI software engineer, setting the standard for autonomous reasoning and task execution in complex technical environments.</p>
+</div>
+<div style="background-color: #171023; padding: 48px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px;">
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; color: #ffffff; font-weight: 700; margin: 0;">MultiOn</h3>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; background-color: rgba(141,213,180,0.1); color: #8dd5b4; padding: 4px 12px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.1em;">Early Stage</span>
+</div>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">Developing an "AI Agent for the Web" that can browse, book flights, and manage complex digital procurement tasks without human interface interaction.</p>
+</div>
+<div style="background-color: #171023; padding: 48px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px;">
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; color: #ffffff; font-weight: 700; margin: 0;">Luma AI</h3>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; background-color: rgba(201,196,212,0.1); color: #c9c4d4; padding: 4px 12px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.1em;">Scaling</span>
+</div>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">Pushing the boundaries of 3D generative content, enabling autonomous agents to populate virtual worlds with complex architectural and environmental assets.</p>
+</div>
+<div style="background-color: #171023; padding: 48px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px;">
+<h3 style="font-family: 'EB Garamond', serif; font-size: 1.875rem; color: #ffffff; font-weight: 700; margin: 0;">CrewAI</h3>
+<span style="font-family: 'Space Grotesk', sans-serif; font-size: 10px; background-color: rgba(210,188,255,0.1); color: #d2bcff; padding: 4px 12px; text-transform: uppercase; font-weight: 700; letter-spacing: 0.1em;">Infrastructure</span>
+</div>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">An open-source framework for orchestrating role-playing autonomous AI agents, enabling complex multi-agent collaborative workflows for enterprise.</p>
+</div>
+</section>
+<!-- 10. ACTIONABLE TAKEAWAYS -->
+<section style="background-color: #171023; padding: 128px 32px; border-top: 1px solid rgba(149,142,158,0.1);">
+<div style="max-width: 896px; margin: 0 auto;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 3.75rem; font-weight: 700; color: #ffffff; margin-bottom: 80px; text-align: center; margin-top: 0;">Executive Directives</h2>
+<div style="display: flex; flex-direction: column; gap: 64px;">
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+<span style="font-family: 'EB Garamond', serif; font-size: 4.5rem; font-weight: 700; color: #6b3fc0; line-height: 1; opacity: 0.4;">01</span>
+<div>
+<h4 style="font-family: 'Inter', sans-serif; font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 16px; margin-top: 0;">Shift from Workflow to Orchestration</h4>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">Stop hiring for specific creative skills and start hiring for prompt architecture and agent management capabilities. The role of the "Lead Designer" is becoming the "Lead Orchestrator."</p>
+</div>
+</div>
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+<span style="font-family: 'EB Garamond', serif; font-size: 4.5rem; font-weight: 700; color: #6b3fc0; line-height: 1; opacity: 0.4;">02</span>
+<div>
+<h4 style="font-family: 'Inter', sans-serif; font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 16px; margin-top: 0;">Invest in Proprietary Brand Data</h4>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">Agents are only as good as the context they are given. Secure and curate your internal brand guidelines, historical data, and style sheets to feed private Agent models.</p>
+</div>
+</div>
+<div style="display: flex; gap: 40px; align-items: flex-start;">
+<span style="font-family: 'EB Garamond', serif; font-size: 4.5rem; font-weight: 700; color: #6b3fc0; line-height: 1; opacity: 0.4;">03</span>
+<div>
+<h4 style="font-family: 'Inter', sans-serif; font-size: 1.25rem; font-weight: 700; color: #ffffff; margin-bottom: 16px; margin-top: 0;">Establish "Human-in-the-Loop" Audits</h4>
+<p style="font-family: 'Inter', sans-serif; color: #ccc3d5; line-height: 1.625;">Autonomous doesn't mean unsupervised. Implement mandatory human verification gates for ethical alignment, brand safety, and radical creative pivot points.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 11. CTA BLOCK -->
+<section style="background-color: #6b3fc0; padding: 128px 32px; text-align: center; display: flex; flex-direction: column; align-items: center;">
+<h2 style="font-family: 'EB Garamond', serif; font-size: 3.75rem; font-weight: 700; color: #ddcbff; margin-bottom: 32px; max-width: 896px; margin-top: 0;">
+                The world moves faster than your dashboard.
+            </h2>
+<p style="font-family: 'Inter', sans-serif; color: rgba(221,203,255,0.8); font-size: 1.25rem; margin-bottom: 48px; max-width: 672px;">
+                Unlock 450+ deep-dive intelligence reports and real-time signals from the Hemle proprietary database.
+            </p>
+<button class="cta-button" style="background-color: #171023; color: #ffffff; font-family: 'Space Grotesk', sans-serif; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; padding: 24px 48px; font-size: 1.125rem; border: none; cursor: pointer;">
+                Unlock the full database
+            </button>
+</section>

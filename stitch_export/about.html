@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+
+<html class="light" lang="fr"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&amp;family=Inter:wght@100..900&amp;family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "on-secondary-container": "#390084",
+              "primary-fixed": "#ebddf8",
+              "secondary-fixed-dim": "#d2bcff",
+              "tertiary-fixed-dim": "#8dd5b4",
+              "on-secondary-fixed": "#25005a",
+              "tertiary-container": "#002115",
+              "surface-tint": "#645a71",
+              "primary-container": "#20182b",
+              "secondary-container": "#a57bfe",
+              "tertiary-fixed": "#a9f2cf",
+              "inverse-on-surface": "#f3eefe",
+              "on-tertiary-fixed-variant": "#005139",
+              "on-surface-variant": "#49454c",
+              "secondary-fixed": "#eaddff",
+              "on-secondary-fixed-variant": "#5626aa",
+              "surface-container": "#f0ebfb",
+              "background": "#fcf8ff",
+              "surface-container-lowest": "#ffffff",
+              "surface-container-low": "#f6f1ff",
+              "surface-container-high": "#ebe6f6",
+              "surface-container-highest": "#e5e0f0",
+              "error-container": "#ffdad6",
+              "primary": "#000000",
+              "on-surface": "#1c1a25",
+              "on-primary-fixed-variant": "#4c4358",
+              "on-tertiary": "#ffffff",
+              "tertiary": "#000000",
+              "surface-bright": "#fcf8ff",
+              "outline-variant": "#cbc4cc",
+              "surface": "#fcf8ff",
+              "on-tertiary-container": "#4a9173",
+              "on-primary": "#ffffff",
+              "on-background": "#1c1a25",
+              "on-error-container": "#93000a",
+              "on-primary-fixed": "#20182b",
+              "outline": "#7a757d",
+              "on-error": "#ffffff",
+              "on-secondary": "#ffffff",
+              "on-tertiary-fixed": "#002115",
+              "secondary": "#6e43c3",
+              "surface-dim": "#dcd8e7",
+              "primary-fixed-dim": "#cfc1dc",
+              "on-primary-container": "#8b7f97",
+              "error": "#ba1a1a",
+              "inverse-primary": "#cfc1dc",
+              "inverse-surface": "#312f3b"
+            },
+            fontFamily: {
+              "headline": ["Newsreader", "serif"],
+              "body": ["Inter", "sans-serif"],
+              "label": ["Inter", "sans-serif"],
+              "serif": ["EB Garamond", "serif"]
+            },
+            borderRadius: {"DEFAULT": "0px", "lg": "0px", "xl": "0px", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+            vertical-align: middle;
+        }
+        body { font-family: 'Inter', sans-serif; }
+    </style>
+</head>
+<body class="bg-background text-on-background selection:bg-secondary selection:text-white">
+<!-- NAVIGATION BAR -->
+<nav class="bg-[#0d0618] flex justify-between items-center w-full px-8 py-6 max-w-full fixed top-0 z-50">
+<div class="text-xl font-serif tracking-tight text-[#fcf8ff]">
+            Trend Signal by Hémle
+        </div>
+<div class="hidden md:flex gap-10 items-center">
+<a class="text-[#fcf8ff]/70 hover:text-[#6e43c3] transition-colors duration-300 text-xs uppercase tracking-widest font-medium" href="#">Reports</a>
+<a class="text-[#6e43c3] font-bold border-b-0 text-xs uppercase tracking-widest transition-opacity opacity-80" href="#">About</a>
+<button class="bg-[#6e43c3] text-white px-6 py-2 text-xs uppercase tracking-widest font-bold hover:opacity-90 transition-opacity">
+                Subscribe
+            </button>
+</div>
+<div class="md:hidden">
+<span class="material-symbols-outlined text-[#fcf8ff]">menu</span>
+</div>
+</nav>
+<main class="pt-20">
+<!-- HERO SECTION -->
+<section class="bg-[#0d0618] text-[#fcf8ff] min-h-[716px] flex flex-col justify-center px-8 md:px-24 py-32 border-b-0">
+<div class="max-w-5xl">
+<span class="text-secondary uppercase tracking-[0.3em] text-[10px] font-bold mb-8 block">Intelligence de Marché</span>
+<h1 class="font-serif text-5xl md:text-8xl leading-[1.1] mb-12 tracking-tight">
+                    Intelligence de marché pour créateurs indépendants.
+                </h1>
+<p class="font-body text-lg md:text-2xl text-[#fcf8ff]/60 max-w-2xl leading-relaxed">
+                    Trend Signal by Hémle décrypte les tendances tech et IA avec rigueur, données et angles inédits.
+                </p>
+</div>
+</section>
+<!-- MISSION SECTION (Lavender) -->
+<section class="bg-surface-container-low py-32 px-8 md:px-24">
+<div class="grid grid-cols-1 md:grid-cols-3 gap-16 md:gap-24">
+<div class="flex flex-col gap-6">
+<span class="text-primary font-serif text-4xl">01</span>
+<h3 class="font-serif text-2xl font-bold italic">Rigueur</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                        Every claim sourced. Zero speculation. Nous basons nos analyses sur des preuves tangibles et des jeux de données vérifiables.
+                    </p>
+</div>
+<div class="flex flex-col gap-6">
+<span class="text-primary font-serif text-4xl">02</span>
+<h3 class="font-serif text-2xl font-bold italic">Action</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                        Insights you can act on today. Pas de philosophie abstraite, seulement des vecteurs de croissance exploitables immédiatement.
+                    </p>
+</div>
+<div class="flex flex-col gap-6">
+<span class="text-primary font-serif text-4xl">03</span>
+<h3 class="font-serif text-2xl font-bold italic">Indépendance</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                        No sponsors. No bias. Pure signal. Notre modèle économique repose uniquement sur nos lecteurs, garantissant une neutralité totale.
+                    </p>
+</div>
+</div>
+</section>
+<!-- METHODOLOGY -->
+<section class="bg-surface py-32 px-8 md:px-24">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+<div class="lg:col-span-5">
+<h2 class="font-serif text-4xl md:text-5xl leading-tight mb-8">
+                        L'architecture du Signal
+                    </h2>
+<p class="font-body text-on-surface-variant mb-12 text-lg">
+                        Notre moteur scanne 100+ sources (GitHub, arXiv, Product Hunt, HN, Reddit), triangule chaque signal, et produit des analyses PESTAL + positionnement marché.
+                    </p>
+</div>
+<div class="lg:col-span-6 lg:col-start-7 space-y-1">
+<div class="bg-surface-container-lowest p-10 flex gap-8 items-start border-b border-outline-variant/10">
+<span class="material-symbols-outlined text-secondary text-3xl">hub</span>
+<div>
+<h4 class="font-serif text-xl font-bold mb-2">Scanning Global</h4>
+<p class="text-sm text-on-surface-variant leading-relaxed">Extraction automatisée de données sur les dépôts de code, les publications académiques et les signaux faibles communautaires.</p>
+</div>
+</div>
+<div class="bg-surface-container-lowest p-10 flex gap-8 items-start border-b border-outline-variant/10">
+<span class="material-symbols-outlined text-secondary text-3xl">architecture</span>
+<div>
+<h4 class="font-serif text-xl font-bold mb-2">Triangulation</h4>
+<p class="text-sm text-on-surface-variant leading-relaxed">Croisement des données pour éliminer le bruit et identifier les convergences technologiques réelles.</p>
+</div>
+</div>
+<div class="bg-surface-container-lowest p-10 flex gap-8 items-start">
+<span class="material-symbols-outlined text-secondary text-3xl">analytics</span>
+<div>
+<h4 class="font-serif text-xl font-bold mb-2">Analyse PESTAL</h4>
+<p class="text-sm text-on-surface-variant leading-relaxed">Synthèse des impacts Politiques, Économiques, Sociaux, Technologiques, Environnementaux et Légaux.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- TEAM/CREATOR -->
+<section class="bg-surface-container-high py-32 px-8 md:px-24">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-20 items-center">
+<div class="relative group">
+<img alt="Hémle Studio Portrait" class="w-full aspect-[4/5] object-cover filter grayscale" data-alt="Professional cinematic black and white portrait of a creative professional in a minimal studio setting with dramatic shadows" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCt5hzaNA_FmhdvAbZTAU-NWL7rRm-dUYRjzprtR58vgkT1CwQHHIgvJMkXVDx8gO2VAKfORgaYIN97v7xExUGpmIACqBMHxbJHIRDwbM_epx2hSVNEHtmTcvy46Xfwvgr3exddHNX3Ry0VMJ9DLg5QYp3CYtW7Kij7y1rRJRwqzK4vd8556GHmFj63rSJKgOPW_h8r9TL-BmQlYjUMZax7PXn0PqkKCfwEQqbtgSW0pwPG9SJwWBjr2SPHd279lodVZCg_lrw2h8U"/>
+<div class="absolute -bottom-6 -right-6 bg-primary text-white p-8 hidden md:block">
+<p class="font-serif italic text-xl">"Le futur appartient à ceux qui voient le signal à travers le bruit."</p>
+</div>
+</div>
+<div class="max-w-lg">
+<span class="text-secondary uppercase tracking-[0.3em] text-[10px] font-bold mb-8 block">The Laboratory</span>
+<h2 class="font-serif text-4xl mb-8">Hémle est un lab indépendant basé en Europe.</h2>
+<p class="font-body text-on-surface-variant leading-relaxed mb-6">
+                        Spécialisé dans l'intelligence créative et les tendances technologiques, nous opérons à l'intersection de l'ingénierie et du design stratégique.
+                    </p>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                        Notre équipe de chercheurs et d'analystes s'efforce de fournir aux créateurs les outils intellectuels nécessaires pour naviguer dans une économie de plus en plus complexe et automatisée.
+                    </p>
+</div>
+</div>
+</section>
+<!-- CTA SECTION -->
+<section class="bg-primary text-on-primary py-40 px-8 text-center">
+<div class="max-w-3xl mx-auto">
+<h2 class="font-serif text-4xl md:text-6xl mb-8">Rejoignez 500+ créateurs qui restent en avance.</h2>
+<p class="font-body text-on-primary/70 mb-12 text-lg">Recevez chaque semaine une analyse profonde directement dans votre boîte mail.</p>
+<div class="flex flex-col md:flex-row gap-0 max-w-md mx-auto">
+<input class="flex-grow bg-white/10 border-none text-white px-6 py-4 focus:ring-1 focus:ring-secondary placeholder:text-white/40 font-body outline-none" placeholder="Votre email" type="email"/>
+<button class="bg-[#6e43c3] text-white px-10 py-4 text-xs uppercase tracking-widest font-bold hover:bg-secondary-container transition-colors">
+                        Rejoindre
+                    </button>
+</div>
+</div>
+</section>
+</main>
+<!-- FOOTER -->
+<footer class="bg-[#0d0618] grid grid-cols-1 md:grid-cols-4 gap-12 px-12 py-20 w-full">
+<div class="md:col-span-1">
+<div class="text-2xl font-serif text-[#fcf8ff] mb-6">Trend Signal</div>
+<p class="text-[#fcf8ff]/30 text-[10px] uppercase tracking-[0.2em] leading-relaxed">
+                Market Intelligence Laboratory for the Independent Era.
+            </p>
+</div>
+<div>
+<h5 class="text-[#fcf8ff] text-xs uppercase tracking-widest font-bold mb-8">Platform</h5>
+<ul class="space-y-4">
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Latest Reports</a></li>
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Archive</a></li>
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Methodology</a></li>
+</ul>
+</div>
+<div>
+<h5 class="text-[#fcf8ff] text-xs uppercase tracking-widest font-bold mb-8">Company</h5>
+<ul class="space-y-4">
+<li><a class="text-[#fcf8ff] text-xs uppercase tracking-widest transition-colors" href="#">About Us</a></li>
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Contact</a></li>
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Media Kit</a></li>
+</ul>
+</div>
+<div class="flex flex-col justify-between">
+<div>
+<h5 class="text-[#fcf8ff] text-xs uppercase tracking-widest font-bold mb-8">Legal</h5>
+<ul class="space-y-4">
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Privacy</a></li>
+<li><a class="text-[#fcf8ff]/50 hover:text-[#6e43c3] text-xs uppercase tracking-widest transition-colors" href="#">Terms</a></li>
+</ul>
+</div>
+<div class="mt-12 md:mt-0 text-[#fcf8ff]/30 text-[10px] uppercase tracking-widest">
+                © 2024 Trend Signal by Hémle. All rights reserved.
+            </div>
+</div>
+</footer>
+</body></html>

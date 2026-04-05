@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trend Report — {{TREND_NAME}}</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;600&display=swap');
+
+  :root {
+    --bg: #0a0a0f;
+    --surface: #12121a;
+    --surface2: #1a1a28;
+    --border: #2a2a3a;
+    --text: #e8e8f0;
+    --text-dim: #8888a0;
+    --accent: {{STATUS_COLOR}};
+    --accent-glow: {{STATUS_COLOR}}33;
+    --blue: #4d8eff;
+    --purple: #a855f7;
+    --orange: #fb923c;
+    --pink: #f472b6;
+    --cyan: #22d3ee;
+    --green: #34d399;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, sans-serif;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 24px;
+  }
+
+  /* ── HEADER ───────────────────────────────── */
+  .header {
+    text-align: center;
+    margin-bottom: 48px;
+    position: relative;
+  }
+  .header::before {
+    content: '';
+    position: absolute;
+    top: -80px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 600px;
+    height: 400px;
+    background: radial-gradient(ellipse, var(--accent-glow) 0%, transparent 70%);
+    pointer-events: none;
+    z-index: 0;
+  }
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 18px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    background: var(--accent-glow);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    position: relative;
+    z-index: 1;
+    margin-bottom: 16px;
+  }
+  .badge .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.7); }
+  }
+  .header h1 {
+    font-size: clamp(36px, 6vw, 64px);
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 1.1;
+    position: relative;
+    z-index: 1;
+    background: linear-gradient(135deg, var(--text) 0%, var(--accent) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .header .subtitle {
+    font-size: 16px;
+    color: var(--text-dim);
+    margin-top: 12px;
+    position: relative;
+    z-index: 1;
+  }
+  .header .meta-row {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 16px;
+    font-size: 13px;
+    color: var(--text-dim);
+    position: relative;
+    z-index: 1;
+  }
+  .header .meta-row span {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* ── METRIC CARDS ─────────────────────────── */
+  .metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+  .metric-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .metric-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent);
+  }
+  .metric-card .label {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--text-dim);
+    margin-bottom: 8px;
+  }
+  .metric-card .value {
+    font-size: 32px;
+    font-weight: 800;
+    font-family: 'JetBrains Mono', monospace;
+    line-height: 1;
+  }
+  .metric-card .value.up { color: var(--green); }
+  .metric-card .value.down { color: #FF5252; }
+  .metric-card .value.neutral { color: var(--orange); }
+  .metric-card .detail {
+    font-size: 12px;
+    color: var(--text-dim);
+    margin-top: 6px;
+  }
+
+  /* ── SECTIONS ──────────────────────────────── */
+  .section {
+    margin-bottom: 40px;
+  }
+  .section-title {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title .icon {
+    width: 32px; height: 32px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+  }
+
+  /* ── TIMELINE ──────────────────────────────── */
+  .timeline {
+    position: relative;
+    padding-left: 32px;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 7px;
+    top: 4px;
+    bottom: 4px;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--accent), var(--purple));
+    border-radius: 2px;
+  }
+  .timeline-item {
+    position: relative;
+    margin-bottom: 20px;
+    padding: 16px 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -29px;
+    top: 22px;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 3px solid var(--bg);
+  }
+  .timeline-item .t-date {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: var(--accent);
+    font-weight: 600;
+  }
+  .timeline-item .t-event {
+    font-size: 14px;
+    margin-top: 4px;
+  }
+
+  /* ── TABLES ────────────────────────────────── */
+  .data-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  .data-table th {
+    background: var(--surface2);
+    padding: 14px 20px;
+    text-align: left;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--text-dim);
+    font-weight: 600;
+  }
+  .data-table td {
+    padding: 14px 20px;
+    border-top: 1px solid var(--border);
+    font-size: 14px;
+  }
+  .data-table tr:hover td {
+    background: var(--surface2);
+  }
+  .data-table .factor-badge {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+  .factor-P { background: #4d8eff22; color: var(--blue); }
+  .factor-E { background: #34d39922; color: var(--green); }
+  .factor-S { background: #a855f722; color: var(--purple); }
+  .factor-T { background: #22d3ee22; color: var(--cyan); }
+  .factor-N { background: #fb923c22; color: var(--orange); }
+  .factor-L { background: #f472b622; color: var(--pink); }
+
+  /* ── JTBD GRID ─────────────────────────────── */
+  .jtbd-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 16px;
+  }
+  .jtbd-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    border-left: 3px solid var(--accent);
+  }
+  .jtbd-card .job {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 8px;
+  }
+  .jtbd-card .solution {
+    font-size: 13px;
+    color: var(--text-dim);
+    line-height: 1.5;
+  }
+
+  /* ── MARKET POSITION BAR CHART ─────────────── */
+  .market-bars {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .market-bar-row {
+    display: grid;
+    grid-template-columns: 140px 1fr 60px;
+    align-items: center;
+    gap: 12px;
+  }
+  .market-bar-row .player-name {
+    font-size: 14px;
+    font-weight: 600;
+    text-align: right;
+  }
+  .bar-track {
+    height: 32px;
+    background: var(--surface);
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    position: relative;
+  }
+  .bar-fill {
+    height: 100%;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    padding-left: 12px;
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--bg);
+    transition: width 1s ease;
+    position: relative;
+  }
+  .bar-fill.p1 { background: linear-gradient(90deg, var(--accent), var(--green)); }
+  .bar-fill.p2 { background: linear-gradient(90deg, var(--blue), var(--cyan)); }
+  .bar-fill.p3 { background: linear-gradient(90deg, var(--purple), var(--pink)); }
+  .bar-fill.p4 { background: linear-gradient(90deg, var(--orange), #fbbf24); }
+  .market-bar-row .loved-pct {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: var(--pink);
+  }
+
+  /* ── CANVAS GRID ───────────────────────────── */
+  .canvas-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+  }
+  .canvas-cell {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 18px;
+  }
+  .canvas-cell .c-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .canvas-cell .c-value {
+    font-size: 13px;
+    color: var(--text);
+    line-height: 1.5;
+  }
+
+  /* ── NOTEBOOK INSIGHTS ─────────────────────── */
+  .notebook-panel {
+    background: linear-gradient(135deg, #1a1040 0%, #0d1b2a 100%);
+    border: 1px solid #2a1a5a;
+    border-radius: 16px;
+    padding: 28px;
+    position: relative;
+    overflow: hidden;
+  }
+  .notebook-panel::before {
+    content: '';
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, #a855f722 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .notebook-panel .nb-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+    position: relative;
+    z-index: 1;
+  }
+  .notebook-panel .nb-icon {
+    width: 36px; height: 36px;
+    background: #a855f733;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+  }
+  .notebook-panel .nb-title {
+    font-size: 16px;
+    font-weight: 700;
+  }
+  .notebook-panel .nb-body {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #c8c0e0;
+    position: relative;
+    z-index: 1;
+    white-space: pre-wrap;
+  }
+
+  /* ── TAKEAWAYS ─────────────────────────────── */
+  .takeaways-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .takeaways-list li {
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+    padding: 18px 20px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    font-size: 14px;
+    line-height: 1.6;
+  }
+  .takeaways-list .t-num {
+    flex-shrink: 0;
+    width: 28px; height: 28px;
+    background: var(--accent-glow);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    font-weight: 700;
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  /* ── COMPANIES ─────────────────────────────── */
+  .companies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 14px;
+  }
+  .company-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 20px;
+    transition: border-color 0.2s;
+  }
+  .company-card:hover {
+    border-color: var(--blue);
+  }
+  .company-card .co-name {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    color: var(--blue);
+  }
+  .company-card .co-detail {
+    font-size: 13px;
+    color: var(--text-dim);
+    line-height: 1.5;
+  }
+
+  /* ── FOOTER ────────────────────────────────── */
+  .footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    font-size: 12px;
+    color: var(--text-dim);
+    border-top: 1px solid var(--border);
+    margin-top: 48px;
+  }
+  .footer a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  /* ── SPARKLINE SVG ─────────────────────────── */
+  .sparkline-container {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 40px;
+  }
+  .sparkline-container .spark-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--text-dim);
+    margin-bottom: 12px;
+  }
+  .sparkline-container svg {
+    width: 100%;
+    height: 80px;
+  }
+
+  /* ── RESPONSIVE ────────────────────────────── */
+  @media (max-width: 640px) {
+    .container { padding: 24px 16px; }
+    .metrics-grid { grid-template-columns: 1fr 1fr; }
+    .market-bar-row { grid-template-columns: 100px 1fr 50px; }
+    .canvas-grid { grid-template-columns: 1fr; }
+  }
+
+  /* ── PRINT ─────────────────────────────────── */
+  @media print {
+    body { background: #fff; color: #111; }
+    .metric-card, .section, .data-table, .jtbd-card, .notebook-panel,
+    .company-card, .timeline-item, .canvas-cell, .takeaways-list li {
+      background: #f8f8fa; border-color: #ddd;
+    }
+    .header::before { display: none; }
+    .notebook-panel::before { display: none; }
+    .data-table th { background: #eee; }
+    .bar-track { background: #eee; }
+    .badge { background: #eee; border-color: #aaa; color: #333; }
+    .header h1 { -webkit-text-fill-color: #111; background: none; }
+    .footer { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- ── HEADER ─────────────────────────────── -->
+  <header class="header">
+    <div class="badge"><span class="dot"></span> {{STATUS_UPPER}}</div>
+    <h1>{{TREND_NAME}}</h1>
+    <p class="subtitle">{{CATEGORY}}</p>
+    <div class="meta-row">
+      <span>Volume: {{SEARCH_VOLUME}}</span>
+      <span>|</span>
+      <span>Generated: {{GENERATED_AT}}</span>
+    </div>
+  </header>
+
+  <!-- ── GROWTH METRICS ─────────────────────── -->
+  <div class="metrics-grid">
+    <div class="metric-card">
+      <div class="label">5-Year Growth</div>
+      <div class="value up">{{GROWTH_5Y}}</div>
+      <div class="detail">Since inception</div>
+    </div>
+    <div class="metric-card">
+      <div class="label">1-Year Growth</div>
+      <div class="value up">{{GROWTH_1Y}}</div>
+      <div class="detail">Year-over-year</div>
+    </div>
+    <div class="metric-card">
+      <div class="label">3-Month Growth</div>
+      <div class="value up">{{GROWTH_3M}}</div>
+      <div class="detail">Recent momentum</div>
+    </div>
+    <div class="metric-card">
+      <div class="label">Search Volume</div>
+      <div class="value neutral">{{SEARCH_VOLUME}}</div>
+      <div class="detail">Monthly average</div>
+    </div>
+  </div>
+
+  <!-- ── SPARKLINE ──────────────────────────── -->
+  <div class="sparkline-container">
+    <div class="spark-title">Interest Over Time</div>
+    <svg viewBox="0 0 1000 100" preserveAspectRatio="none">
+      <defs>
+        <linearGradient id="sparkGrad" x1="0" y1="0" x2="0" y2="1">
+          <stop offset="0%" stop-color="{{STATUS_COLOR}}" stop-opacity="0.3"/>
+          <stop offset="100%" stop-color="{{STATUS_COLOR}}" stop-opacity="0"/>
+        </linearGradient>
+      </defs>
+      <path d="{{SPARKLINE_AREA}}" fill="url(#sparkGrad)" />
+      <path d="{{SPARKLINE_LINE}}" fill="none" stroke="{{STATUS_COLOR}}" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+    <div style="display:flex;justify-content:space-between;font-size:11px;color:var(--text-dim);margin-top:6px;">
+      <span>2021</span><span>2022</span><span>2023</span><span>2024</span><span>2025</span><span>2026</span>
+    </div>
+  </div>
+
+  <!-- ── TRIGGER EVENT ──────────────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#22d3ee22;">&#x26A1;</div>
+      Trigger Event
+    </div>
+    <div class="timeline">
+      {{TIMELINE_ITEMS}}
+    </div>
+  </div>
+
+  <!-- ── PESTAL ANALYSIS ────────────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#a855f722;">&#x1F30D;</div>
+      PESTAL Analysis
+    </div>
+    <table class="data-table">
+      <thead><tr><th>Factor</th><th>Impact</th></tr></thead>
+      <tbody>
+        {{PESTAL_ROWS}}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ── JOBS TO BE DONE ────────────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#34d39922;">&#x1F3AF;</div>
+      Jobs To Be Done
+    </div>
+    <div class="jtbd-grid">
+      {{JTBD_CARDS}}
+    </div>
+  </div>
+
+  <!-- ── CONSUMER TREND CANVAS ──────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#fb923c22;">&#x1F4CA;</div>
+      Consumer Trend Canvas
+    </div>
+    <div class="canvas-grid">
+      <div class="canvas-cell"><div class="c-label">Who</div><div class="c-value">{{CANVAS_WHO}}</div></div>
+      <div class="canvas-cell"><div class="c-label">Where</div><div class="c-value">{{CANVAS_WHERE}}</div></div>
+      <div class="canvas-cell"><div class="c-label">Why Now</div><div class="c-value">{{CANVAS_WHY_NOW}}</div></div>
+      <div class="canvas-cell"><div class="c-label">Emerging Behavior</div><div class="c-value">{{CANVAS_BEHAVIOR}}</div></div>
+      <div class="canvas-cell"><div class="c-label">Unmet Need</div><div class="c-value">{{CANVAS_UNMET}}</div></div>
+    </div>
+  </div>
+
+  <!-- ── MARKET POSITION ────────────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#4d8eff22;">&#x1F4C8;</div>
+      Market Position
+    </div>
+    <div style="display:grid;grid-template-columns:1fr auto;gap:8px;margin-bottom:10px;font-size:12px;color:var(--text-dim);text-transform:uppercase;letter-spacing:1px;">
+      <span></span><span style="text-align:right;">Loved</span>
+    </div>
+    <div class="market-bars">
+      {{MARKET_BARS}}
+    </div>
+  </div>
+
+  <!-- ── COMPANIES TO WATCH ─────────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#f472b622;">&#x1F3E2;</div>
+      Companies to Watch
+    </div>
+    <div class="companies-grid">
+      {{COMPANIES_CARDS}}
+    </div>
+  </div>
+
+  <!-- ── NOTEBOOKLM INSIGHTS ────────────────── -->
+  <div class="section" id="notebook-section" style="{{NOTEBOOK_DISPLAY}}">
+    <div class="notebook-panel">
+      <div class="nb-header">
+        <div class="nb-icon">&#x1F4D3;</div>
+        <div class="nb-title">NotebookLM Research Insights</div>
+      </div>
+      <div class="nb-body">{{NOTEBOOK_INSIGHTS}}</div>
+    </div>
+  </div>
+
+  <!-- ── ACTIONABLE TAKEAWAYS ───────────────── -->
+  <div class="section">
+    <div class="section-title">
+      <div class="icon" style="background:#00E67622;">&#x1F680;</div>
+      Actionable Takeaways
+    </div>
+    <ul class="takeaways-list">
+      {{TAKEAWAY_ITEMS}}
+    </ul>
+  </div>
+
+  <!-- ── FOOTER ─────────────────────────────── -->
+  <footer class="footer">
+    Social Media Genie &mdash; Trend Intelligence Report<br>
+    Powered by <a href="#">Claude Code</a> + Keywords Everywhere + NotebookLM<br>
+    {{GENERATED_AT}}
+  </footer>
+
+</div>
+
+</body>
+</html>

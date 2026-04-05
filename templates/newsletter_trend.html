@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="telephone=no">
+<title>{{SUBJECT}}</title>
+<!--[if mso]>
+<noscript>
+<xml>
+<o:OfficeDocumentSettings>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</noscript>
+<![endif]-->
+<style>
+  /* Reset */
+  * { box-sizing: border-box; }
+  body, table, td, p, a, li, blockquote {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+  table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+  img { -ms-interpolation-mode: bicubic; border: 0; outline: none; text-decoration: none; }
+  body { margin: 0; padding: 0; background-color: #f0eafc; }
+
+  /* Typography */
+  .font-main { font-family: Georgia, 'Times New Roman', serif; }
+  .font-ui   { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+
+  /* Responsive */
+  @media only screen and (max-width: 640px) {
+    .email-container { width: 100% !important; }
+    .mobile-pad      { padding-left: 24px !important; padding-right: 24px !important; }
+    .topic-title     { font-size: 26px !important; }
+    .metric-value    { font-size: 20px !important; }
+    .hook-text       { font-size: 17px !important; }
+    .metrics-table td { padding: 16px 8px !important; }
+    .hide-mobile     { display: none !important; }
+    .cta-btn         { padding: 14px 24px !important; font-size: 13px !important; }
+  }
+</style>
+</head>
+
+<body style="margin:0;padding:0;background-color:#f0eafc;">
+
+<!-- Preheader (hidden preview text) -->
+<div style="display:none;max-height:0;overflow:hidden;font-size:1px;color:#f0eafc;">
+{{HOOK}} &nbsp;&#847;&nbsp;{{TOPIC}} · Trend Signal {{CHROME_BY}} Hemle
+</div>
+
+<!-- Email wrapper -->
+<table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"
+       style="background-color:#f0eafc;padding:32px 16px;">
+<tr><td align="center">
+
+<!-- Email container -->
+<table role="presentation" cellspacing="0" cellpadding="0" border="0"
+       width="600" class="email-container"
+       style="max-width:600px;width:100%;">
+
+
+  <!-- ═══ HEADER ═══════════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#1a0a2e;border-radius:12px 12px 0 0;padding:28px 40px 0;"
+          class="mobile-pad">
+
+    <!-- Eyebrow -->
+    <p style="margin:0 0 14px;font-size:10px;letter-spacing:4px;color:#9b7fd4;
+              text-transform:uppercase;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      {{CHROME_EYEBROW}}
+    </p>
+
+    <!-- Logo -->
+    <p style="margin:0 0 4px;font-size:24px;font-weight:400;color:#ffffff;text-align:center;
+              font-family:Georgia,'Times New Roman',serif;">
+      Trend Signal
+    </p>
+
+    <!-- Tagline -->
+    <p style="margin:0 0 18px;font-size:11px;letter-spacing:2px;color:#6b5a8a;
+              text-transform:uppercase;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      {{CHROME_BY}} Hemle &nbsp;&middot;&nbsp; {{CHROME_TAGLINE}}
+    </p>
+
+    <!-- Status badge + volume -->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tr><td align="center" style="padding-bottom:20px;">
+      <span style="display:inline-block;background:#2d1a4e;border:1px solid #4a2d7a;
+                   border-radius:20px;padding:6px 16px;font-size:11px;color:#c4a0f0;
+                   letter-spacing:1px;text-transform:uppercase;
+                   font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+        <span style="display:inline-block;width:6px;height:6px;border-radius:50%;
+                     background:#7fff7f;vertical-align:middle;margin-right:6px;"></span>
+        {{STATUS_FR}}
+      </span>
+      &nbsp;&nbsp;
+      <span style="font-size:11px;color:#4a3060;
+                   font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+        Vol. {{VOLUME}} &nbsp;·&nbsp; {{DATE}}
+      </span>
+    </td></tr>
+    </table>
+
+  </td></tr>
+
+
+  <!-- ═══ TOPIC BLOCK ══════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#f7f5ff;padding:28px 40px 0;"
+          class="mobile-pad">
+
+    <!-- Category breadcrumb -->
+    <p style="margin:0 0 8px;font-size:11px;letter-spacing:2px;color:#9b7fd4;
+              text-transform:uppercase;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      {{CATEGORY_PATH}}
+    </p>
+
+    <!-- Topic title -->
+    <h1 class="topic-title"
+        style="margin:0 0 6px;font-size:34px;font-weight:400;color:#1a0a2e;line-height:1.15;
+               text-align:center;font-family:Georgia,'Times New Roman',serif;">
+      {{TOPIC}}
+    </h1>
+
+    <!-- Editorial subtitle -->
+    <p style="margin:0 0 20px;font-size:14px;color:#8a7aaa;font-style:italic;
+              text-align:center;font-family:Georgia,'Times New Roman',serif;">
+      {{ANGLE_SHORT}}
+    </p>
+
+  </td></tr>
+
+
+  <!-- ═══ METRICS ══════════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#f7f5ff;padding:0;">
+
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"
+           style="border-collapse:separate;border-spacing:1px;background-color:#e2d9f8;">
+    <tr>
+      <td width="33%" align="center" class="metrics-table"
+          style="background:#f7f5ff;padding:14px 12px;">
+        <p style="margin:0 0 8px;font-size:10px;letter-spacing:2px;color:#9b7fd4;
+                  text-transform:uppercase;
+                  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+          {{CHROME_5Y}}
+        </p>
+        <p class="metric-value"
+           style="margin:0;font-size:24px;font-weight:400;color:#8a7aaa;
+                  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+          {{GROWTH_5Y}}
+        </p>
+      </td>
+      <td width="34%" align="center" class="metrics-table"
+          style="background:#f7f5ff;padding:14px 12px;">
+        <p style="margin:0 0 8px;font-size:10px;letter-spacing:2px;color:#9b7fd4;
+                  text-transform:uppercase;
+                  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+          {{CHROME_1Y}}
+        </p>
+        <p class="metric-value"
+           style="margin:0;font-size:24px;font-weight:500;color:#0e7a5a;
+                  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+          {{GROWTH_1Y}}
+        </p>
+      </td>
+      <td width="33%" align="center" class="metrics-table"
+          style="background:#f7f5ff;padding:14px 12px;">
+        <p style="margin:0 0 8px;font-size:10px;letter-spacing:2px;color:#9b7fd4;
+                  text-transform:uppercase;
+                  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+          {{CHROME_3M}}
+        </p>
+        <p class="metric-value"
+           style="margin:0;font-size:24px;font-weight:500;color:#0e7a5a;
+                  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+          {{GROWTH_3M}}
+        </p>
+      </td>
+    </tr>
+    </table>
+
+  </td></tr>
+
+
+  <!-- ═══ HOOK ═════════════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#ffffff;padding:24px 40px 0;
+                 border-left:1px solid #e8e2f8;border-right:1px solid #e8e2f8;"
+          class="mobile-pad">
+
+    <p class="hook-text"
+       style="margin:0;font-size:20px;font-weight:400;color:#1a0a2e;line-height:1.55;
+              font-style:italic;border-left:3px solid #9b7fd4;padding-left:20px;
+              font-family:Georgia,'Times New Roman',serif;">
+      {{HOOK}}
+    </p>
+
+  </td></tr>
+
+
+  <!-- ═══ BODY INTRO ═══════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#ffffff;padding:16px 40px 24px;
+                 border-left:1px solid #e8e2f8;border-right:1px solid #e8e2f8;"
+          class="mobile-pad">
+
+    <p style="margin:0;font-size:15px;color:#444444;line-height:1.8;
+              font-family:Georgia,'Times New Roman',serif;">
+      {{BODY_INTRO}}
+    </p>
+
+  </td></tr>
+
+
+  <!-- ═══ GROWTH TIMELINE ══════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#ffffff;padding:24px 40px;
+                 border-left:1px solid #e8e2f8;border-right:1px solid #e8e2f8;
+                 border-top:1px solid #f0eafc;"
+          class="mobile-pad">
+
+    <p style="margin:0 0 16px;font-size:10px;color:#9b7fd4;letter-spacing:3px;
+              text-transform:uppercase;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      &#x2500;&#x2500; {{CHROME_TIMELINE}} &#x2500;&#x2500;
+    </p>
+
+    <div>
+      {{TIMELINE}}
+    </div>
+
+  </td></tr>
+
+
+  <!-- ═══ TAKEAWAYS ════════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#ffffff;padding:24px 40px;
+                 border-left:1px solid #e8e2f8;border-right:1px solid #e8e2f8;
+                 border-top:1px solid #f0eafc;"
+          class="mobile-pad">
+
+    <p style="margin:0 0 16px;font-size:10px;color:#9b7fd4;letter-spacing:3px;
+              text-transform:uppercase;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      &#x2500;&#x2500; {{CHROME_TAKEAWAYS}} &#x2500;&#x2500;
+    </p>
+
+    <div>
+      {{TAKEAWAYS}}
+    </div>
+
+    {{PAYWALL_BLOCK}}
+
+  </td></tr>
+
+
+  <!-- ═══ CTA DARK BLOCK ═══════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#1a0a2e;padding:28px 40px;" class="mobile-pad">
+
+    <p style="margin:0 0 16px;font-size:11px;letter-spacing:2px;color:#6b5a8a;
+              text-transform:uppercase;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      {{CHROME_FULL_REPORT}}
+    </p>
+
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tr><td align="center">
+      <a href="{{PROJECT_URL}}" class="cta-btn"
+         style="display:inline-block;background:#7b4fd4;color:#ffffff;
+                padding:16px 40px;border-radius:4px;font-size:14px;
+                letter-spacing:1px;text-decoration:none;
+                font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+        {{CTA_TEXT}} &rarr;
+      </a>
+    </td></tr>
+    </table>
+
+    <p style="margin:16px 0 0;font-size:11px;color:#4a3060;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      hemle.blog &nbsp;&middot;&nbsp; {{CHROME_POWERED_BY}} Claude Code + NotebookLM
+    </p>
+
+  </td></tr>
+
+
+  <!-- ═══ PS LINE ══════════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#f7f5ff;padding:16px 40px;
+                 border-left:1px solid #e8e2f8;border-right:1px solid #e8e2f8;"
+          class="mobile-pad">
+
+    <p style="margin:0;font-size:13px;color:#8a7aaa;font-style:italic;
+              font-family:Georgia,'Times New Roman',serif;">
+      P.S. &mdash; {{PS_LINE}}
+    </p>
+
+  </td></tr>
+
+
+  <!-- ═══ FOOTER ═══════════════════════════════════════════════════════════ -->
+  <tr><td style="background-color:#e8e0f5;padding:16px 40px;border-radius:0 0 12px 12px;"
+          class="mobile-pad">
+
+    <p style="margin:0 0 6px;font-size:11px;color:#9b7fd4;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      Trend Signal {{CHROME_BY}} <strong style="color:#7b4fd4;">Hemle</strong>
+      &nbsp;&middot;&nbsp; {{CHROME_FOOTER_TAG}}
+    </p>
+
+    <p style="margin:0;font-size:11px;color:#b8a0d8;text-align:center;
+              font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+      &copy; {{YEAR}} Artclic Studios
+      &nbsp;&middot;&nbsp;
+      <a href="{{UNSUBSCRIBE}}"
+         style="color:#b8a0d8;text-decoration:underline;">{{CHROME_UNSUB}}</a>
+      &nbsp;&middot;&nbsp;
+      <a href="https://hemle.site"
+         style="color:#b8a0d8;text-decoration:underline;">hemle.site</a>
+    </p>
+
+  </td></tr>
+
+
+</table>
+<!-- /Email container -->
+
+</td></tr>
+</table>
+<!-- /Email wrapper -->
+
+</body>
+</html>

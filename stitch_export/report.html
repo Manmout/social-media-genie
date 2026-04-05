@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;0,800;1,400&amp;family=Inter:wght@400;600&amp;family=Space+Grotesk:wght@300;500;700&amp;family=Newsreader:opsz,wght@6..72,400;6..72,700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "surface-tint": "#d2bcff",
+              "primary": "#d2bcff",
+              "inverse-surface": "#ebddf8",
+              "on-primary-fixed-variant": "#5626aa",
+              "outline-variant": "#4a4453",
+              "on-tertiary-fixed-variant": "#474552",
+              "on-primary-fixed": "#25005a",
+              "surface-container-low": "#20182b",
+              "tertiary": "#c9c4d4",
+              "primary-fixed": "#eaddff",
+              "on-secondary": "#003826",
+              "on-secondary-fixed": "#002115",
+              "surface-container-highest": "#3a3146",
+              "secondary-fixed-dim": "#8dd5b4",
+              "tertiary-fixed-dim": "#c9c4d4",
+              "tertiary-container": "#5c5a67",
+              "on-tertiary-container": "#d6d2e1",
+              "inverse-on-surface": "#352d41",
+              "surface-container-high": "#2f263a",
+              "primary-container": "#6b3fc0",
+              "secondary-container": "#00573d",
+              "on-primary-container": "#ddcbff",
+              "on-secondary-container": "#83caaa",
+              "surface": "#171023",
+              "error": "#ffb4ab",
+              "on-surface-variant": "#ccc3d5",
+              "on-background": "#ebddf8",
+              "tertiary-fixed": "#e5e0f0",
+              "on-error-container": "#ffdad6",
+              "secondary-fixed": "#a9f2cf",
+              "on-secondary-fixed-variant": "#005139",
+              "on-primary": "#3e008e",
+              "primary-fixed-dim": "#d2bcff",
+              "background": "#171023",
+              "surface-container": "#241c2f",
+              "surface-variant": "#3a3146",
+              "outline": "#958e9e",
+              "inverse-primary": "#6e43c3",
+              "on-tertiary-fixed": "#1c1a25",
+              "surface-dim": "#171023",
+              "surface-container-lowest": "#120a1d",
+              "on-surface": "#ebddf8",
+              "on-error": "#690005",
+              "secondary": "#8dd5b4",
+              "surface-bright": "#3e354a",
+              "on-tertiary": "#312f3b",
+              "error-container": "#93000a"
+            },
+            fontFamily: {
+              "headline": ["Newsreader", "serif"],
+              "body": ["Inter", "sans-serif"],
+              "label": ["Space Grotesk", "sans-serif"],
+              "garamond": ["EB Garamond", "serif"]
+            },
+            borderRadius: {"DEFAULT": "0px", "lg": "0px", "xl": "0px", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined { font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 48; }
+        body { background-color: #171023; color: #ebddf8; font-family: 'Inter', sans-serif; }
+        .brutalist-border { border: 1px solid rgba(149, 142, 158, 0.15); }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+    </style>
+</head>
+<body class="selection:bg-primary-container selection:text-on-primary-container">
+<!-- TopAppBar Shell -->
+<header class="fixed top-0 z-50 flex justify-between items-center w-full px-8 py-4 bg-[#171023]">
+<div class="flex items-center gap-8">
+<span class="font-['EB_Garamond'] text-2xl font-bold uppercase tracking-widest text-white">Trend Signal by Hémle</span>
+<nav class="hidden md:flex gap-6 items-center">
+<a class="text-[#6b3fc0] border-b-2 border-[#6b3fc0] pb-1 font-['Space_Grotesk'] uppercase text-xs tracking-widest" href="#">Reports</a>
+<a class="text-[#958e9e] font-['Space_Grotesk'] uppercase text-xs tracking-widest hover:bg-[#3a3146] hover:text-white" href="#">Signals</a>
+<a class="text-[#958e9e] font-['Space_Grotesk'] uppercase text-xs tracking-widest hover:bg-[#3a3146] hover:text-white" href="#">Archive</a>
+<a class="text-[#958e9e] font-['Space_Grotesk'] uppercase text-xs tracking-widest hover:bg-[#3a3146] hover:text-white" href="#">PESTAL</a>
+<a class="text-[#958e9e] font-['Space_Grotesk'] uppercase text-xs tracking-widest hover:bg-[#3a3146] hover:text-white" href="#">Methodology</a>
+</nav>
+</div>
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-on-surface cursor-pointer">account_circle</span>
+<span class="material-symbols-outlined text-on-surface cursor-pointer">notifications</span>
+</div>
+</header>
+<main class="pt-20">
+<!-- 1. DARK HERO HEADER -->
+<section class="bg-[#0d0618] px-8 py-20 flex flex-col md:flex-row justify-between items-end gap-12">
+<div class="max-w-4xl">
+<nav class="flex items-center gap-2 mb-8 font-label text-[10px] uppercase tracking-widest text-outline">
+<span>Reports</span>
+<span class="material-symbols-outlined text-[10px]">chevron_right</span>
+<span class="text-primary">AI &amp; Technology</span>
+</nav>
+<h1 class="font-garamond text-7xl md:text-8xl font-bold tracking-tight text-white mb-6 leading-[0.9]">
+                    Autonomous Creative Agents
+                </h1>
+<div class="flex flex-wrap items-center gap-6 mt-10">
+<span class="bg-[#0a5c42] text-[#8dd5b4] px-3 py-1 font-label text-xs font-bold tracking-tighter">SURGING ▲▲▲</span>
+<div class="flex flex-col">
+<span class="font-label text-[10px] uppercase text-outline">Category</span>
+<span class="font-body text-sm font-semibold">Generative AI</span>
+</div>
+<div class="flex flex-col">
+<span class="font-label text-[10px] uppercase text-outline">Updated</span>
+<span class="font-body text-sm font-semibold">Oct 24, 2024</span>
+</div>
+<div class="flex flex-col">
+<span class="font-label text-[10px] uppercase text-outline">Search Volume</span>
+<span class="font-body text-sm font-semibold">1.2M Monthly</span>
+</div>
+</div>
+</div>
+<div class="w-full md:w-1/3 aspect-[4/3] bg-surface-container relative overflow-hidden group">
+<img class="w-full h-full object-cover opacity-60 grayscale group-hover:grayscale-0 transition-all duration-700" data-alt="Abstract digital rendering of neural networks and liquid chrome flowing in dark purple space, futuristic editorial style" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDyEpjtkhZHE1r4VRUj2Vlqkuf5YxJlSRVvu5ii1zdVlPi56qy0pFrAIAZ4jWRt1svfW8AHbUuI9Y671mJ0veBtkY5DLkUBXhdGuamCnvmPFxGlamv0A-o9YRBk6gA6zCm7EzZh_s2pfXnnPk7AwVno1_hxz-JDKtAFZDrHsBhdQJO6_ZmIc-o9BFEdNryxxf9LThubi3F6yvZUwL6ZI_HF8Fw22IgGqziAxYctaYEcXcQzL1fqHLHIv3qnjRSdWq2WMVLZbKSX8P0"/>
+<div class="absolute inset-0 border-[20px] border-[#0d0618]"></div>
+</div>
+</section>
+<!-- 2. METRICS GRID -->
+<section class="bg-[#ede8f8] py-1 border-y border-outline/10">
+<div class="grid grid-cols-1 md:grid-cols-4 bg-surface">
+<div class="p-8 border-r border-outline/10 bg-[#ede8f8] text-[#171023]">
+<p class="font-label text-[10px] uppercase tracking-widest mb-4 opacity-70">5Y Growth</p>
+<p class="font-garamond text-5xl font-bold">+2,400%</p>
+</div>
+<div class="p-8 border-r border-outline/10 bg-[#ede8f8] text-[#171023]">
+<p class="font-label text-[10px] uppercase tracking-widest mb-4 opacity-70">1Y Growth</p>
+<p class="font-garamond text-5xl font-bold">+340%</p>
+</div>
+<div class="p-8 border-r border-outline/10 bg-[#ede8f8] text-[#171023]">
+<p class="font-label text-[10px] uppercase tracking-widest mb-4 opacity-70">3M Growth</p>
+<p class="font-garamond text-5xl font-bold">+89%</p>
+</div>
+<div class="p-8 bg-[#ede8f8] text-[#171023]">
+<p class="font-label text-[10px] uppercase tracking-widest mb-4 opacity-70">Monthly Searches</p>
+<p class="font-garamond text-5xl font-bold">1.2M</p>
+</div>
+</div>
+</section>
+<!-- 3. SPARKLINE CHART -->
+<section class="bg-[#ede8f8] px-8 py-20 border-b border-outline/10">
+<div class="flex justify-between items-baseline mb-12">
+<h2 class="font-garamond text-4xl text-[#171023] font-bold italic">Trajectory Analysis</h2>
+<span class="font-label text-[10px] text-[#171023]/60 uppercase tracking-widest">2019 — 2024 Historical Data</span>
+</div>
+<div class="w-full h-64 bg-white/40 p-12">
+<svg class="w-full h-full overflow-visible" viewbox="0 0 1000 200">
+<path d="M0,180 L100,175 L200,160 L300,165 L400,140 L500,110 L600,95 L700,40 L800,35 L900,15 L1000,5" fill="none" stroke="#6b3fc0" stroke-linecap="square" stroke-width="4"></path>
+<rect fill="#6b3fc0" height="10" width="10" x="990" y="0"></rect>
+</svg>
+</div>
+</section>
+<!-- 4. TIMELINE -->
+<section class="px-8 py-32 grid grid-cols-1 md:grid-cols-12 gap-12 bg-surface">
+<div class="md:col-span-4">
+<h2 class="font-garamond text-5xl font-bold text-white sticky top-32">Evolutionary<br/>Milestones</h2>
+</div>
+<div class="md:col-span-8 space-y-20 relative">
+<div class="absolute left-0 top-0 bottom-0 w-[2px] border-l-2 border-dashed border-outline-variant/30 ml-[-2px]"></div>
+<div class="relative pl-12">
+<div class="absolute left-[-5px] top-1 w-2.5 h-2.5 bg-secondary-fixed-dim"></div>
+<span class="font-label text-sm text-primary font-bold mb-2 block">JUNE 2022</span>
+<h3 class="font-garamond text-2xl text-white mb-4">The Zero-Shot Inception</h3>
+<p class="font-body text-on-surface-variant max-w-xl leading-relaxed">Early research papers emerge demonstrating that large language models could begin generating structured creative outputs without explicit fine-tuning for specific artistic styles.</p>
+</div>
+<div class="relative pl-12">
+<div class="absolute left-[-5px] top-1 w-2.5 h-2.5 bg-secondary-fixed-dim"></div>
+<span class="font-label text-sm text-primary font-bold mb-2 block">MARCH 2023</span>
+<h3 class="font-garamond text-2xl text-white mb-4">Agentic Framework Expansion</h3>
+<p class="font-body text-on-surface-variant max-w-xl leading-relaxed">Release of open-source frameworks allowing LLMs to "loop" their own outputs, enabling self-critique and multi-step creative production without human intervention.</p>
+</div>
+<div class="relative pl-12">
+<div class="absolute left-[-5px] top-1 w-2.5 h-2.5 bg-secondary-fixed-dim"></div>
+<span class="font-label text-sm text-primary font-bold mb-2 block">JANUARY 2024</span>
+<h3 class="font-garamond text-2xl text-white mb-4">Commercial Creative Sovereignty</h3>
+<p class="font-body text-on-surface-variant max-w-xl leading-relaxed">First fully autonomous marketing campaigns launched by Fortune 500 companies, where AI agents handled strategy, design, and media buying end-to-end.</p>
+</div>
+</div>
+</section>
+<!-- 5. PESTAL TABLE -->
+<section class="bg-surface-container-low px-8 py-24">
+<div class="mb-16 flex flex-col items-center text-center">
+<h2 class="font-garamond text-5xl font-bold text-white mb-4">PESTAL Analysis</h2>
+<p class="font-body text-outline max-w-2xl">A comprehensive structural audit of the macro-environmental forces driving the adoption of Autonomous Creative Agents.</p>
+</div>
+<div class="max-w-6xl mx-auto space-y-4">
+<!-- Political -->
+<div class="grid grid-cols-1 md:grid-cols-4 p-8 bg-surface-container border-l-4 border-primary-container items-center">
+<div class="flex items-center gap-4">
+<span class="font-label font-bold text-primary uppercase">Political</span>
+</div>
+<div class="md:col-span-3">
+<p class="font-body text-on-surface">Increasing sovereign investment in AI computational infrastructure and national strategic "AI Sovereignity" policies.</p>
+</div>
+</div>
+<!-- Economic -->
+<div class="grid grid-cols-1 md:grid-cols-4 p-8 bg-surface-container border-l-4 border-secondary-fixed-dim items-center">
+<div class="flex items-center gap-4">
+<span class="font-label font-bold text-secondary uppercase">Economic</span>
+</div>
+<div class="md:col-span-3">
+<p class="font-body text-on-surface">Massive capital reallocation from traditional agency models to specialized AI infrastructure and talent acquisition.</p>
+</div>
+</div>
+<!-- Social -->
+<div class="grid grid-cols-1 md:grid-cols-4 p-8 bg-surface-container border-l-4 border-tertiary-fixed-dim items-center">
+<div class="flex items-center gap-4">
+<span class="font-label font-bold text-tertiary uppercase">Social</span>
+</div>
+<div class="md:col-span-3">
+<p class="font-body text-on-surface">Normalization of AI-generated content in mainstream media; emergence of "Synthetic Celebrities" with massive followings.</p>
+</div>
+</div>
+<!-- Technological -->
+<div class="grid grid-cols-1 md:grid-cols-4 p-8 bg-surface-container border-l-4 border-primary-fixed items-center">
+<div class="flex items-center gap-4">
+<span class="font-label font-bold text-primary uppercase">Technological</span>
+</div>
+<div class="md:col-span-3">
+<p class="font-body text-on-surface">Advancements in Long Context Windows (1M+ tokens) allowing agents to maintain coherent brand identities over years of content.</p>
+</div>
+</div>
+<!-- Environmental -->
+<div class="grid grid-cols-1 md:grid-cols-4 p-8 bg-surface-container border-l-4 border-secondary-container items-center">
+<div class="flex items-center gap-4">
+<span class="font-label font-bold text-on-secondary-container uppercase">Environmental</span>
+</div>
+<div class="md:col-span-3">
+<p class="font-body text-on-surface">Intense energy demands for inference; emergence of "Green AI" standards and carbon-neutral data centers.</p>
+</div>
+</div>
+<!-- Legal -->
+<div class="grid grid-cols-1 md:grid-cols-4 p-8 bg-surface-container border-l-4 border-error items-center">
+<div class="flex items-center gap-4">
+<span class="font-label font-bold text-error uppercase">Legal</span>
+</div>
+<div class="md:col-span-3">
+<p class="font-body text-on-surface">Evolving copyright frameworks regarding "Work Made for Hire" when the author is a non-human autonomous system.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- 6. JOBS TO BE DONE -->
+<section class="bg-[#ede8f8] px-8 py-24">
+<h2 class="font-garamond text-5xl font-bold text-[#171023] mb-12">Jobs To Be Done</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<div class="bg-white p-10 flex flex-col justify-between aspect-square">
+<div>
+<span class="material-symbols-outlined text-[#6b3fc0] mb-6 scale-150">auto_awesome_motion</span>
+<h3 class="font-garamond text-3xl font-bold text-[#171023] mb-4 leading-tight">Infinite Creative Iteration</h3>
+<p class="font-body text-[#171023]/70 text-sm">Testing 1,000 variations of a visual concept in real-time to find the optimal emotional resonance for a specific demographic.</p>
+</div>
+<div class="pt-6 border-t border-outline/10 font-label text-[10px] uppercase font-bold text-[#6b3fc0]">Outcome: Optimized Engagement</div>
+</div>
+<div class="bg-white p-10 flex flex-col justify-between aspect-square">
+<div>
+<span class="material-symbols-outlined text-[#6b3fc0] mb-6 scale-150">troubleshoot</span>
+<h3 class="font-garamond text-3xl font-bold text-[#171023] mb-4 leading-tight">Contextual Brand Adaptation</h3>
+<p class="font-body text-[#171023]/70 text-sm">Automatically localizing tone, cultural nuance, and visual style for hyper-local market penetration without manual oversight.</p>
+</div>
+<div class="pt-6 border-t border-outline/10 font-label text-[10px] uppercase font-bold text-[#6b3fc0]">Outcome: Cultural Fluidity</div>
+</div>
+<div class="bg-white p-10 flex flex-col justify-between aspect-square">
+<div>
+<span class="material-symbols-outlined text-[#6b3fc0] mb-6 scale-150">hourglass_empty</span>
+<h3 class="font-garamond text-3xl font-bold text-[#171023] mb-4 leading-tight">Real-Time Culture Response</h3>
+<p class="font-body text-[#171023]/70 text-sm">Generating high-quality creative assets responding to viral trends within minutes of detection, securing first-mover advantage.</p>
+</div>
+<div class="pt-6 border-t border-outline/10 font-label text-[10px] uppercase font-bold text-[#6b3fc0]">Outcome: Temporal Dominance</div>
+</div>
+</div>
+</section>
+<!-- 7. CONSUMER TREND CANVAS -->
+<section class="px-8 py-24 bg-surface">
+<h2 class="font-garamond text-5xl font-bold text-white mb-16 italic text-right">Trend Canvas 04.2</h2>
+<div class="grid grid-cols-1 md:grid-cols-5 h-auto md:h-[600px] border border-outline-variant/20">
+<div class="p-10 border-r border-b md:border-b-0 border-outline-variant/20 flex flex-col justify-start">
+<span class="font-label text-[10px] uppercase text-primary font-bold mb-6">Who</span>
+<h4 class="font-garamond text-2xl mb-4 text-white">The Efficiency Ethos</h4>
+<p class="font-body text-xs text-on-surface-variant leading-relaxed">Gen Alpha and late Gen Z professionals who view AI as a primary collaborator rather than a secondary tool.</p>
+</div>
+<div class="p-10 border-r border-b md:border-b-0 border-outline-variant/20 flex flex-col justify-start">
+<span class="font-label text-[10px] uppercase text-primary font-bold mb-6">Where</span>
+<h4 class="font-garamond text-2xl mb-4 text-white">Hybrid Domains</h4>
+<p class="font-body text-xs text-on-surface-variant leading-relaxed">Predominantly in decentralized digital workspaces, metaverse gaming environments, and high-frequency trading social loops.</p>
+</div>
+<div class="p-10 border-r border-b md:border-b-0 border-outline-variant/20 flex flex-col justify-start bg-surface-container">
+<span class="font-label text-[10px] uppercase text-primary font-bold mb-6">Why Now</span>
+<h4 class="font-garamond text-2xl mb-4 text-white">Latency Collapse</h4>
+<p class="font-body text-xs text-on-surface-variant leading-relaxed">The cost of production has dropped toward zero, making the "value of the idea" the only remaining scarcity.</p>
+</div>
+<div class="p-10 border-r border-b md:border-b-0 border-outline-variant/20 flex flex-col justify-start">
+<span class="font-label text-[10px] uppercase text-primary font-bold mb-6">Behavior</span>
+<h4 class="font-garamond text-2xl mb-4 text-white">Co-Authored Life</h4>
+<p class="font-body text-xs text-on-surface-variant leading-relaxed">Users spend 40% more time refining agent prompts than executing tasks manually, shifting from 'doer' to 'director'.</p>
+</div>
+<div class="p-10 flex flex-col justify-start">
+<span class="font-label text-[10px] uppercase text-primary font-bold mb-6">Unmet Need</span>
+<h4 class="font-garamond text-2xl mb-4 text-white">Human Variance</h4>
+<p class="font-body text-xs text-on-surface-variant leading-relaxed">As AI perfection becomes the baseline, consumers will hunger for 'intentional imperfection' and human-verified flaws.</p>
+</div>
+</div>
+</section>
+<!-- 8. MARKET POSITIONING -->
+<section class="bg-surface-container-high px-8 py-24">
+<h2 class="font-garamond text-4xl font-bold text-white mb-12">Market Concentration</h2>
+<div class="space-y-12 max-w-4xl">
+<div class="space-y-2">
+<div class="flex justify-between items-end mb-2">
+<span class="font-body font-bold text-white">Infrastructure Providers (Cloud/GPUs)</span>
+<span class="font-label text-sm text-primary">42%</span>
+</div>
+<div class="w-full h-4 bg-surface">
+<div class="h-full bg-primary-container" style="width: 42%;"></div>
+</div>
+</div>
+<div class="space-y-2">
+<div class="flex justify-between items-end mb-2">
+<span class="font-body font-bold text-white">Model Originators (OpenAI/Anthropic)</span>
+<span class="font-label text-sm text-secondary">28%</span>
+</div>
+<div class="w-full h-4 bg-surface">
+<div class="h-full bg-secondary-container" style="width: 28%;"></div>
+</div>
+</div>
+<div class="space-y-2">
+<div class="flex justify-between items-end mb-2">
+<span class="font-body font-bold text-white">Agentic Middleware Systems</span>
+<span class="font-label text-sm text-tertiary">18%</span>
+</div>
+<div class="w-full h-4 bg-surface">
+<div class="h-full bg-tertiary-container" style="width: 18%;"></div>
+</div>
+</div>
+<div class="space-y-2">
+<div class="flex justify-between items-end mb-2">
+<span class="font-body font-bold text-white">Application Layer (SaaS)</span>
+<span class="font-label text-sm text-outline">12%</span>
+</div>
+<div class="w-full h-4 bg-surface">
+<div class="h-full bg-surface-variant" style="width: 12%;"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- 9. COMPANIES TO WATCH -->
+<section class="px-8 py-24 bg-surface grid grid-cols-1 md:grid-cols-2 gap-1 px-1 bg-outline-variant/10">
+<div class="bg-surface p-12">
+<div class="flex justify-between items-start mb-6">
+<h3 class="font-garamond text-3xl text-white font-bold">Cognition Labs</h3>
+<span class="font-label text-[10px] bg-primary/10 text-primary px-3 py-1 uppercase font-bold tracking-widest">Growth Phase</span>
+</div>
+<p class="font-body text-on-surface-variant leading-relaxed">Pioneering Devin, the world’s first AI software engineer, setting the standard for autonomous reasoning and task execution in complex technical environments.</p>
+</div>
+<div class="bg-surface p-12">
+<div class="flex justify-between items-start mb-6">
+<h3 class="font-garamond text-3xl text-white font-bold">MultiOn</h3>
+<span class="font-label text-[10px] bg-secondary/10 text-secondary px-3 py-1 uppercase font-bold tracking-widest">Early Stage</span>
+</div>
+<p class="font-body text-on-surface-variant leading-relaxed">Developing an "AI Agent for the Web" that can browse, book flights, and manage complex digital procurement tasks without human interface interaction.</p>
+</div>
+<div class="bg-surface p-12">
+<div class="flex justify-between items-start mb-6">
+<h3 class="font-garamond text-3xl text-white font-bold">Luma AI</h3>
+<span class="font-label text-[10px] bg-tertiary/10 text-tertiary px-3 py-1 uppercase font-bold tracking-widest">Scaling</span>
+</div>
+<p class="font-body text-on-surface-variant leading-relaxed">Pushing the boundaries of 3D generative content, enabling autonomous agents to populate virtual worlds with complex architectural and environmental assets.</p>
+</div>
+<div class="bg-surface p-12">
+<div class="flex justify-between items-start mb-6">
+<h3 class="font-garamond text-3xl text-white font-bold">CrewAI</h3>
+<span class="font-label text-[10px] bg-primary/10 text-primary px-3 py-1 uppercase font-bold tracking-widest">Infrastructure</span>
+</div>
+<p class="font-body text-on-surface-variant leading-relaxed">An open-source framework for orchestrating role-playing autonomous AI agents, enabling complex multi-agent collaborative workflows for enterprise.</p>
+</div>
+</section>
+<!-- 10. ACTIONABLE TAKEAWAYS -->
+<section class="bg-surface px-8 py-32 border-t border-outline/10">
+<div class="max-w-4xl mx-auto">
+<h2 class="font-garamond text-6xl font-bold text-white mb-20 text-center">Executive Directives</h2>
+<div class="space-y-16">
+<div class="flex gap-10 items-start">
+<span class="font-garamond text-7xl font-bold text-primary-container leading-none opacity-40">01</span>
+<div>
+<h4 class="font-body text-xl font-bold text-white mb-4">Shift from Workflow to Orchestration</h4>
+<p class="font-body text-on-surface-variant leading-relaxed">Stop hiring for specific creative skills and start hiring for prompt architecture and agent management capabilities. The role of the "Lead Designer" is becoming the "Lead Orchestrator."</p>
+</div>
+</div>
+<div class="flex gap-10 items-start">
+<span class="font-garamond text-7xl font-bold text-primary-container leading-none opacity-40">02</span>
+<div>
+<h4 class="font-body text-xl font-bold text-white mb-4">Invest in Proprietary Brand Data</h4>
+<p class="font-body text-on-surface-variant leading-relaxed">Agents are only as good as the context they are given. Secure and curate your internal brand guidelines, historical data, and style sheets to feed private Agent models.</p>
+</div>
+</div>
+<div class="flex gap-10 items-start">
+<span class="font-garamond text-7xl font-bold text-primary-container leading-none opacity-40">03</span>
+<div>
+<h4 class="font-body text-xl font-bold text-white mb-4">Establish "Human-in-the-Loop" Audits</h4>
+<p class="font-body text-on-surface-variant leading-relaxed">Autonomous doesn't mean unsupervised. Implement mandatory human verification gates for ethical alignment, brand safety, and radical creative pivot points.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 11. CTA BLOCK -->
+<section class="bg-primary-container px-8 py-32 text-center flex flex-col items-center">
+<h2 class="font-garamond text-6xl font-bold text-on-primary-container mb-8 max-w-4xl">
+                The world moves faster than your dashboard.
+            </h2>
+<p class="font-body text-on-primary-container/80 text-xl mb-12 max-w-2xl">
+                Unlock 450+ deep-dive intelligence reports and real-time signals from the Hémle proprietary database.
+            </p>
+<button class="bg-[#171023] text-white font-label font-bold uppercase tracking-widest px-12 py-6 text-lg hover:bg-white hover:text-black transition-colors duration-0">
+                Unlock the full database
+            </button>
+</section>
+</main>
+<!-- FOOTER Shell -->
+<footer class="bg-[#171023] py-20 px-8 border-t border-[#20182b] mt-20">
+<div class="w-full flex flex-col md:flex-row justify-between items-center gap-12">
+<div class="space-y-4 text-center md:text-left">
+<span class="font-['EB_Garamond'] text-2xl text-white font-bold">Trend Signal by Hémle</span>
+<p class="font-['Inter'] text-sm text-[#958e9e]">© 2024 Trend Signal by Hémle. All Rights Reserved.</p>
+</div>
+<div class="flex flex-wrap justify-center gap-8">
+<a class="text-[#958e9e] text-sm font-['Inter'] hover:text-[#6b3fc0] hover:underline transition-none" href="#">Privacy Policy</a>
+<a class="text-[#958e9e] text-sm font-['Inter'] hover:text-[#6b3fc0] hover:underline transition-none" href="#">Terms of Service</a>
+<a class="text-[#958e9e] text-sm font-['Inter'] hover:text-[#6b3fc0] hover:underline transition-none" href="#">Intellectual Property</a>
+<a class="text-[#958e9e] text-sm font-['Inter'] hover:text-[#6b3fc0] hover:underline transition-none" href="#">Contact Analyst</a>
+</div>
+</div>
+</footer>
+</body></html>

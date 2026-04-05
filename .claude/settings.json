@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Read|Edit|Write|Bash|Grep|Glob",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "py -3.13 -c \"import sys,json,re;d=json.load(sys.stdin);ti=d.get('tool_input',{});haystack=' '.join(str(ti.get(f,'')) for f in ['file_path','command','pattern']);pat=r'[/\\\\\\\\](\\\\x2eenv|\\\\x2ewpcom_token|\\\\x2etoken|\\\\x2epem|\\\\x2ekey)(\\\\s|$)|credentials|secrets|app_password';result={'decision':'block','reason':'BLOCKED: credential file access denied. Use env vars via config/settings.py.'} if re.search(pat,haystack,re.I) else {'continue':True};json.dump(result,sys.stdout)\"",
+            "timeout": 5,
+            "statusMessage": "Checking credential access..."
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "deny": [
+      "Read(.env)",
+      "Read(.wpcom_token)",
+      "Read(.token)",
+      "Edit(.env)",
+      "Edit(.wpcom_token)"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+.env
+.wpcom_token
+.mcp.json
+__pycache__/
+*.pyc
+output/
+node_modules/
+.venv/
+*.log
+.DS_Store
+
+# gws integration state files
+.gws_config.json
+.dashboard_config.json
+.triggered_runs.json
+
+# Tokens & secrets
+.brevo_token
+.tumblr_token
+.env00.txt
+*.zip

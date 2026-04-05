@@ -1,0 +1,64 @@
+{
+  "model": "claude-sonnet-4-20250514",
+  
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pwsh -Command \"$input = $env:CLAUDE_TOOL_INPUT | ConvertFrom-Json; $cmd = $input.command; if ($cmd -match 'npm test|jest|vitest') { Write-Output ('Filtrage auto: ' + $cmd + ' | tail -20 errors only'); $env:CLAUDE_TOOL_INPUT = ($input | Add-Member -NotePropertyName 'command' -NotePropertyValue ($cmd + ' 2>&1 | Select-String FAIL,ERROR,✗ | Select-Object -First 30') -PassThru -Force | ConvertTo-Json) } elseif ($cmd -match 'npm install|pip install') { Write-Output 'Filtrage auto: affichage erreurs uniquement'; $env:CLAUDE_TOOL_INPUT = ($input | Add-Member -NotePropertyName 'command' -NotePropertyValue ($cmd + ' 2>&1 | Select-String ERR,error,Successfully') -PassThru -Force | ConvertTo-Json) }\""
+          }
+        ]
+      }
+    ],
+    
+    "PostToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "pwsh -Command \"$output = $env:CLAUDE_TOOL_OUTPUT; if ($output.Length -gt 5000) { Write-Warning ('⚠️ Sortie volumineuse détectée (' + $output.Length + ' chars). Envisage /delegation-isolee pour cette tâche.') }\""
+          }
+        ]
+      }
+    ]
+  },
+
+  "skills": {
+    "auto_load": false,
+    "available": [
+      {
+        "name": "recherche-econome",
+        "path": ".claude/skills/recherche-econome/SKILL.md",
+        "invoke": "/recherche-econome",
+        "disable-model-invocation": true
+      },
+      {
+        "name": "planification-stricte", 
+        "path": ".claude/skills/planification-stricte/SKILL.md",
+        "invoke": "/planification-stricte",
+        "disable-model-invocation": true
+      },
+      {
+        "name": "delegation-isolee",
+        "path": ".claude/skills/delegation-isolee/SKILL.md", 
+        "invoke": "/delegation-isolee",
+        "disable-model-invocation": true
+      },
+      {
+        "name": "execution-propre",
+        "path": ".claude/skills/execution-propre/SKILL.md",
+        "invoke": "/execution-propre",
+        "disable-model-invocation": true
+      }
+    ]
+  },
+
+  "env": {
+    "CLAUDE_TOKEN_BUDGET_WARNING": "80000",
+    "CLAUDE_SUBAGENT_DEFAULT_MODEL": "claude-haiku-4-5-20251001"
+  }
+}

@@ -1,0 +1,129 @@
+# ============================================
+# .claudeignore — Artclic Studios / GorgusWorld
+# Garde-fou universel : élimine 80% des lectures inutiles
+# ============================================
+
+# === DÉPENDANCES ===
+node_modules/
+.npm/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.python-version
+pip-log.txt
+
+# === BUILD / DIST ===
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+*.min.js
+*.min.css
+*.bundle.js
+*.chunk.js
+
+# === LOGS ===
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# === MÉDIAS (LOURDS) ===
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+*.psd
+*.ai
+*.sketch
+*.fig
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# === IMAGES (sauf references nécessaires) ===
+assets/raw/
+exports/
+renders/
+*.tiff
+*.bmp
+*.raw
+
+# === CACHES ===
+.cache/
+.parcel-cache/
+.turbo/
+.vercel/
+.netlify/
+*.cache
+
+# === IDE / SYSTÈME ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.user
+*.swp
+*~
+
+# === SECRETS ===
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+credentials/
+service-account*.json
+
+# === GIT ===
+.git/
+*.patch
+
+# === SPÉCIFIQUE GORGUSWORLD ===
+# Outputs de génération en masse (traiter via sous-agents)
+batch-outputs/
+generated-images/
+exports-canva/
+pdf-exports/
+lulu-uploads/
+
+# === SPÉCIFIQUE BLUEOCEANLAB ===
+# SQLite databases (lire via API, jamais directement)
+*.db
+*.sqlite
+*.sqlite3
+instance/
+
+# === SPÉCIFIQUE HEMLE ===
+# Site buildé (lire les sources, pas le build)
+_site/
+.jekyll-cache/
+public/build/
+
+# === DOCUMENTATION VOLUMINEUSE ===
+# Lire via sous-agents si nécessaire
+docs/api-reference/
+*.pdf
+CHANGELOG.md
+CHANGELOG*.md
+
+# === TESTS FIXTURES ===
+# Grandes fixtures de test → déléguer à Haiku
+tests/fixtures/large/
+tests/snapshots/
+__snapshots__/
+coverage/
+.nyc_output/

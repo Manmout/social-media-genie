@@ -1,0 +1,16 @@
+{
+  "run_id": "20260330-113058",
+  "subject": "Agentic Music Composition 2026",
+  "prompt_hash": "f82ef13cd7ecf07a",
+  "gemini_model": "gemini-2.0-flash",
+  "options_used": {
+    "horizon": "2025-2028",
+    "audience": "indie_creator",
+    "lang": "fr"
+  },
+  "word_count": 916,
+  "duration_seconds": 43.1,
+  "gdoc_id": "1_1BqmpkA-UNT1lpPuecA7lAvcGoEkeLXV9Y-txtfVwA",
+  "gdoc_url": "https://docs.google.com/document/d/1_1BqmpkA-UNT1lpPuecA7lAvcGoEkeLXV9Y-txtfVwA/edit",
+  "created_at": "2026-03-30T09:32:20.817468+00:00"
+}

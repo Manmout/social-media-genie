@@ -1,0 +1,359 @@
+/* ============================================================
+   Trend Signal by Hemle — WordPress Additional CSS
+   Coller dans : Apparence > Personnaliser > CSS additionnel
+   Dernière MAJ : 2026-04-01
+   ============================================================ */
+
+/* --- 0. FONTS ----------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,300;0,400;0,700;1,300&family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@300;400;500;600;700&family=EB+Garamond:ital,wght@0,400;0,700;0,800;1,400&display=swap');
+
+/* --- 1. MASQUER KADENCE HEADER & FOOTER --------------------- */
+.site-header,
+.site-header-wrap,
+header.site-header,
+header.banner,
+.site-header-row,
+#masthead,
+.kadence-header,
+.kadence-header-wrap { display: none !important; }
+
+.site-footer,
+.site-footer-wrap,
+footer.site-footer,
+.footer-widget-area,
+.site-footer-bottom-wrap,
+.kadence-footer,
+#colophon,
+#colophon .site-info,
+.site-footer .kadence-footer-bottom { display: none !important; }
+
+body {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+.site-content,
+#content,
+.content-area,
+.site-main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* --- 2. DESIGN SYSTEM VARIABLES ----------------------------- */
+:root {
+  /* Artclic canonical palette (available for future components) */
+  --bg-hero:        #0d0618;
+  --bg-deep:        #1a0a2e;
+  --bg-surface:     #ede8f8;
+  --bg-page:        #f7f5fb;
+  --accent:         #6b3fc0;
+  --accent-light:   #8b5cf6;
+  --accent-glow:    rgba(107, 63, 192, 0.25);
+  --text-on-dark:   #f0ebfc;
+  --text-on-light:  #1a0a2e;
+  --text-muted:     #8875a8;
+  --border-subtle:  rgba(107, 63, 192, 0.18);
+  --border-active:  rgba(107, 63, 192, 0.55);
+
+  /* Artclic violet palette (active on hemle.blog) */
+  --ts-bg:          #f7f5fb;
+  --ts-dark:        #0d0618;
+  --ts-accent:      #6b3fc0;
+  --ts-green:       #8b5cf6;
+  --ts-green-light: #a57bfe;
+  --ts-muted:       #8875a8;
+  --ts-card-bg:     #ede8f8;
+  --ts-section-alt: #ede8f8;
+}
+
+/* --- 3. TYPOGRAPHIE GLOBALE --------------------------------- */
+* { box-sizing: border-box; }
+
+body {
+  font-family: Georgia, 'Times New Roman', serif;
+  background-color: var(--ts-bg);
+  color: var(--ts-dark);
+  margin: 0;
+  padding: 0;
+}
+
+p, .body-text {
+  text-align: justify;
+  line-height: 1.75;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, 'Newsreader', serif;
+  color: var(--text-on-light);
+}
+
+nav, button, label,
+.meta, .tag, .ui {
+  font-family: system-ui, -apple-system, 'Inter', sans-serif;
+}
+
+::selection { background: var(--ts-accent); color: white; }
+
+/* --- 4. WPAUTOP FIX (grilles) ------------------------------ */
+.three-col > p,
+.three-col > p:empty,
+.two-col > p,
+.two-col > p:empty,
+.four-col > p,
+.four-col > p:empty,
+.ts-grid > p,
+.ts-grid > p:empty {
+  display: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+/* --- 5. NAV CUSTOM (.ts-nav) -------------------------------- */
+.ts-nav {
+  background-color: var(--ts-dark);
+  color: #ffffff;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 1.25rem 2rem;
+}
+
+.ts-nav-brand {
+  font-size: 1.5rem;
+  font-family: 'Newsreader', serif;
+  font-style: italic;
+  letter-spacing: -0.025em;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.ts-nav-links {
+  display: none;
+  align-items: center;
+  gap: 2.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ts-nav-links a {
+  font-family: 'Space Grotesk', monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ts-muted);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.ts-nav-links a:hover,
+.ts-nav-links a.active {
+  color: #ffffff;
+}
+.ts-nav-links a.active {
+  border-bottom: 1px solid var(--ts-accent);
+  padding-bottom: 0.25rem;
+}
+
+.ts-nav-cta {
+  display: inline-block;
+  background-color: var(--ts-accent);
+  color: #ffffff;
+  font-family: 'Space Grotesk', monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.75rem 1.5rem;
+  text-decoration: none;
+  transition: background-color 0.15s, color 0.15s;
+}
+.ts-nav-cta:hover {
+  background-color: #ffffff;
+  color: var(--ts-dark);
+}
+
+@media (min-width: 768px) {
+  .ts-nav-links { display: flex; }
+}
+
+/* --- 6. FOOTER CUSTOM (.ts-footer) -------------------------- */
+.ts-footer {
+  background-color: var(--ts-dark);
+  padding: 5rem 0;
+}
+
+.ts-footer-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 3rem;
+  padding: 0 2rem;
+  max-width: 80rem;
+  margin: 0 auto;
+}
+
+.ts-footer-brand {
+  font-size: 1.25rem;
+  font-family: 'Newsreader', serif;
+  color: #ffffff;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.ts-footer-desc {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.875rem;
+  color: #6b7280;
+  max-width: 20rem;
+  line-height: 1.625;
+  margin: 0;
+}
+
+.ts-footer h4 {
+  font-family: 'Space Grotesk', monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  margin: 0 0 1rem 0;
+}
+
+.ts-footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.ts-footer li { margin-bottom: 0.5rem; }
+
+.ts-footer a {
+  font-size: 0.875rem;
+  font-family: 'Inter', sans-serif;
+  color: #6b7280;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.ts-footer a:hover { color: var(--ts-accent); }
+
+.ts-footer-bottom {
+  max-width: 80rem;
+  margin: 5rem auto 0;
+  padding: 2rem 2rem 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.ts-footer-copy {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.75rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .ts-footer-grid { grid-template-columns: 1fr; }
+}
+
+/* --- 7. HOVER STATES GLOBAUX -------------------------------- */
+.nav-link:hover { color: #ffffff !important; }
+.subscribe-btn:hover { background-color: #8b5cf6 !important; color: #ffffff !important; }
+.card:hover { box-shadow: 0 20px 40px rgba(26, 31, 26, 0.08); }
+.card:hover .card-title { color: var(--ts-accent) !important; }
+.archive-link:hover { text-decoration: underline; }
+.footer-link:hover { color: var(--ts-accent) !important; }
+.hero-read-btn:hover .arrow-icon { transform: translateX(8px); }
+.arrow-icon { transition: transform 0.2s; display: inline-block; }
+.card-link svg { transition: transform 0.15s; }
+.card-link:hover svg { transform: translate(2px, -2px); }
+input::placeholder { color: #6b7280; }
+input:focus { border-color: var(--ts-accent) !important; outline: none; }
+
+/* Subscribe page */
+.ts-nav-link:hover { opacity: 1 !important; color: var(--ts-green) !important; }
+.ts-nav-signin:hover { background-color: #1c1a25 !important; }
+.ts-btn-free:hover { background-color: #0d0618 !important; color: #ffffff !important; }
+.ts-btn-pro:hover { opacity: 0.9; }
+.ts-faq-title:hover { color: var(--ts-accent) !important; }
+.ts-footer-link:hover { color: var(--ts-dark) !important; }
+
+/* About page */
+.btn-subscribe:hover { opacity: 0.9; }
+.btn-join:hover { background-color: #8b5cf6; }
+
+/* Report template */
+.brutalist-border { border: 1px solid rgba(149, 142, 158, 0.15); }
+.cta-button:hover { background-color: #ffffff; color: #000000; }
+.hero-image-wrap:hover img { filter: none; }
+
+/* --- 8. FAQ TOGGLE (details/summary) ------------------------ */
+.ts-faq-item summary { list-style: none; cursor: pointer; }
+.ts-faq-item summary::-webkit-details-marker { display: none; }
+.ts-faq-item summary::marker { display: none; }
+.ts-faq-item[open] .ts-faq-plus { transform: rotate(45deg); }
+.ts-faq-plus {
+  display: inline-block;
+  transition: transform 0.3s ease;
+  font-size: 24px;
+  color: #7a757d;
+  font-weight: 300;
+  line-height: 1;
+}
+
+/* --- 9. RESPONSIVE ------------------------------------------ */
+@media (max-width: 767px) {
+  /* Layout */
+  .md-hide { display: none !important; }
+  .hide-mobile { display: none !important; }
+  .show-mobile { display: block !important; }
+  .hero-grid { grid-template-columns: 1fr !important; }
+  .three-col { grid-template-columns: 1fr !important; }
+  .four-col { grid-template-columns: 1fr !important; }
+  .two-col { grid-template-columns: 1fr !important; }
+  .form-row { flex-direction: column !important; }
+
+  /* Typography */
+  .hero-h1 { font-size: 4.5rem !important; }
+  .hero-title { font-size: 3rem !important; }
+  .cta-h2 { font-size: 3rem !important; }
+  .cta-title { font-size: 2.25rem !important; }
+  .hero-p { font-size: 1.25rem !important; }
+
+  /* Pages */
+  .hero-section { padding-left: 2rem !important; padding-right: 2rem !important; }
+  .section-pad { padding-left: 2rem !important; padding-right: 2rem !important; }
+  .mission-grid { grid-template-columns: 1fr !important; }
+  .method-grid { grid-template-columns: 1fr !important; }
+  .method-right { grid-column: auto !important; }
+  .team-grid { grid-template-columns: 1fr !important; }
+  .quote-overlay { display: none !important; }
+  .cta-form { flex-direction: column !important; }
+  .footer-grid { grid-template-columns: 1fr !important; }
+
+  /* Subscribe */
+  .ts-desktop-nav { display: none !important; }
+  .ts-hero-title { font-size: 3.75rem !important; }
+  .ts-hero-subtitle { font-size: 1.25rem !important; }
+  .ts-pricing-grid { grid-template-columns: 1fr !important; }
+  .ts-footer-inner { flex-direction: column !important; }
+  .ts-proof-inner { flex-direction: column !important; }
+}
+
+@media (min-width: 768px) {
+  .md-show { display: flex !important; }
+  .show-mobile { display: none !important; }
+  .md-flex-row { flex-direction: row; }
+  .md-grid-2 { grid-template-columns: repeat(2, 1fr); }
+  .md-grid-4 { grid-template-columns: repeat(4, 1fr); }
+  .md-grid-5 { grid-template-columns: repeat(5, 1fr); }
+  .md-grid-12 { grid-template-columns: repeat(12, 1fr); }
+  .md-col-span-3 { grid-column: span 3; }
+  .md-col-span-4 { grid-column: span 4; }
+  .md-col-span-8 { grid-column: span 8; }
+  .md-w-third { width: 33.333%; }
+  .md-h-600 { height: 600px; }
+  .md-flex-nav { display: flex; }
+  .md-border-b-0 { border-bottom: 0; }
+  .md-text-left { text-align: left; }
+  .md-text-8xl { font-size: 6rem; line-height: 0.9; }
+}

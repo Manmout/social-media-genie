@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+
+<html lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Trend Signal by Hémle | Editorial Intelligence</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,300;0,400;0,700;1,300&amp;family=Inter:wght@400;700&amp;family=Space+Grotesk:wght@300;400;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "on-primary-fixed": "#20182b",
+              "tertiary-fixed-dim": "#8dd5b4",
+              "on-tertiary-fixed": "#002115",
+              "on-secondary-fixed-variant": "#5626aa",
+              "on-tertiary": "#ffffff",
+              "on-tertiary-fixed-variant": "#005139",
+              "secondary-fixed": "#eaddff",
+              "secondary-container": "#a57bfe",
+              "on-surface": "#1c1a25",
+              "surface-dim": "#dcd8e7",
+              "surface-bright": "#fcf8ff",
+              "inverse-on-surface": "#f3eefe",
+              "outline-variant": "#cbc4cc",
+              "outline": "#7a757d",
+              "on-secondary-fixed": "#25005a",
+              "on-primary-fixed-variant": "#4c4358",
+              "primary-fixed-dim": "#cfc1dc",
+              "on-background": "#1c1a25",
+              "secondary-fixed-dim": "#d2bcff",
+              "error": "#ba1a1a",
+              "surface-tint": "#645a71",
+              "on-primary-container": "#8b7f97",
+              "on-secondary-container": "#390084",
+              "surface-container-low": "#f6f1ff",
+              "surface-container": "#f0ebfb",
+              "surface-variant": "#e5e0f0",
+              "on-tertiary-container": "#4a9173",
+              "on-primary": "#ffffff",
+              "inverse-surface": "#312f3b",
+              "primary-fixed": "#ebddf8",
+              "secondary": "#6e43c3",
+              "primary-container": "#20182b",
+              "surface": "#fcf8ff",
+              "on-secondary": "#ffffff",
+              "background": "#fcf8ff",
+              "on-surface-variant": "#49454c",
+              "inverse-primary": "#cfc1dc",
+              "tertiary-fixed": "#a9f2cf",
+              "tertiary": "#000000",
+              "surface-container-highest": "#e5e0f0",
+              "error-container": "#ffdad6",
+              "on-error": "#ffffff",
+              "primary": "#000000",
+              "surface-container-lowest": "#ffffff",
+              "surface-container-high": "#ebe6f6",
+              "on-error-container": "#93000a",
+              "tertiary-container": "#002115"
+            },
+            fontFamily: {
+              "headline": ["Newsreader", "serif"],
+              "body": ["Inter", "sans-serif"],
+              "label": ["Space Grotesk", "monospace"]
+            },
+            borderRadius: {"DEFAULT": "0px", "lg": "0px", "xl": "0px", "full": "0px"},
+          },
+        },
+      }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 300, 'GRAD' 0, 'opsz' 24;
+            vertical-align: middle;
+        }
+        body { background-color: #fcf8ff; }
+        /* Editorial text selection */
+        ::selection { background: #6e43c3; color: white; }
+    </style>
+</head>
+<body class="font-body text-on-surface selection:bg-secondary selection:text-white">
+<!-- TOPNAVBAR (Shared) -->
+<nav class="bg-[#0d0618] text-white docked full-width top-0 z-50 flex justify-between items-center w-full px-8 py-6 max-w-none sticky">
+<div class="text-2xl font-headline italic tracking-tight text-white">TREND SIGNAL</div>
+<div class="hidden md:flex items-center gap-10">
+<a class="font-label text-xs uppercase tracking-widest text-white border-b border-[#6e43c3] pb-1" href="#">Reports</a>
+<a class="font-label text-xs uppercase tracking-widest text-gray-400 hover:text-white transition-colors" href="#">About</a>
+<a class="font-label text-xs uppercase tracking-widest text-gray-400 hover:text-white transition-colors" href="#">Subscribe</a>
+</div>
+<div class="flex items-center">
+<button class="bg-[#6e43c3] text-white font-label text-xs uppercase tracking-widest px-6 py-3 active:scale-95 duration-150 transition-transform">
+                Subscribe
+            </button>
+</div>
+</nav>
+<main>
+<!-- HERO SECTION -->
+<section class="bg-[#0d0618] text-white pt-24 pb-32 px-8">
+<div class="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-end">
+<div class="lg:col-span-8">
+<div class="flex items-center gap-4 mb-8">
+<span class="font-label text-xs uppercase tracking-tighter bg-tertiary-container text-tertiary-fixed px-3 py-1 flex items-center gap-2">
+<span class="w-2 h-2 bg-tertiary-fixed rounded-full"></span>
+                            SURGING
+                        </span>
+<span class="font-label text-sm text-secondary">+312% YoY Search Volume</span>
+</div>
+<h1 class="font-headline text-7xl md:text-9xl font-light leading-tight mb-8">
+                        Autonomous <br/> <span class="italic">Creative</span> Agents
+                    </h1>
+<p class="font-body text-xl md:text-2xl text-gray-400 max-w-2xl mb-12 leading-relaxed">
+                        AI-driven content creation is moving beyond automation into strategic orchestration. Explore the paradigm shift in digital agency models.
+                    </p>
+<button class="flex items-center gap-4 font-label text-sm uppercase tracking-widest text-white group">
+                        Read Report 
+                        <span class="material-symbols-outlined transition-transform group-hover:translate-x-2">arrow_right_alt</span>
+</button>
+</div>
+<div class="lg:col-span-4 hidden lg:block">
+<div class="aspect-[4/5] bg-surface-container relative overflow-hidden">
+<img alt="Abstract AI Visual" class="w-full h-full object-cover grayscale opacity-60" data-alt="Abstract conceptual digital artwork representing artificial intelligence with glowing interconnected nodes and dark purple geometric patterns" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDqLAbpG6-_uTByv7iOmWCoSvaXrWFF4DYb596geABF1RVZJqMhfXeXuV41sh_IcYxcJyxMoa-OYa_IXYeRLGB54xxkrh4173mmGYmVvR-ZikshvMETu0tTK-QNXmdQpSQ9jw-lNMSJBi-Jxt6an72ZFPlzcnysFfZeo0Z4K5cgeVtnjRjL9fldrx74VXczZK8I4uIkPtFurWT_AztD-BO9mYbnm4T5IfDmIny2IQ4tHSHPj6WYiy-a7x7NKooo1bn0S8R9s64ji9Y"/>
+<div class="absolute inset-0 border border-white/10 m-6"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- RECENT REPORTS GRID -->
+<section class="bg-[#ede8f8] py-24 px-8">
+<div class="max-w-7xl mx-auto">
+<div class="flex justify-between items-baseline mb-16">
+<h2 class="font-headline text-5xl">Latest Intelligence</h2>
+<a class="font-label text-xs uppercase tracking-widest text-secondary hover:underline" href="#">View Archive</a>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-px bg-outline-variant/30">
+<!-- Card 1 -->
+<div class="bg-surface-container-lowest p-8 hover:shadow-[0px_20px_40px_rgba(13,6,24,0.08)] transition-all group border-l-2 border-secondary">
+<div class="flex justify-between items-start mb-12">
+<span class="font-label text-[10px] uppercase tracking-widest text-outline">Oct 2026 — Technology</span>
+<span class="font-label text-[10px] uppercase tracking-widest text-[#0a5c42]">Surging</span>
+</div>
+<h3 class="font-headline text-3xl mb-6 group-hover:text-secondary transition-colors">Spatial Commerce Paradigms</h3>
+<p class="font-body text-sm text-on-surface-variant leading-relaxed mb-8">
+                            Retail's transition from 2D interfaces to immersive volumetric experiences. Analyzing the "Apple Vision" effect on e-commerce.
+                        </p>
+<a class="font-label text-[10px] uppercase tracking-widest flex items-center gap-2" href="#">
+                            Full Analysis <span class="material-symbols-outlined text-sm">trending_up</span>
+</a>
+</div>
+<!-- Card 2 -->
+<div class="bg-surface-container-lowest p-8 hover:shadow-[0px_20px_40px_rgba(13,6,24,0.08)] transition-all group">
+<div class="flex justify-between items-start mb-12">
+<span class="font-label text-[10px] uppercase tracking-widest text-outline">Sep 2026 — Economics</span>
+<span class="font-label text-[10px] uppercase tracking-widest text-secondary">Steady</span>
+</div>
+<h3 class="font-headline text-3xl mb-6 group-hover:text-secondary transition-colors">The Solopreneur Conglomerate</h3>
+<p class="font-body text-sm text-on-surface-variant leading-relaxed mb-8">
+                            How single-person entities are reaching $10M ARR using decentralized workforce protocols and automated operations.
+                        </p>
+<a class="font-label text-[10px] uppercase tracking-widest flex items-center gap-2" href="#">
+                            Full Analysis <span class="material-symbols-outlined text-sm">trending_up</span>
+</a>
+</div>
+<!-- Card 3 -->
+<div class="bg-surface-container-lowest p-8 hover:shadow-[0px_20px_40px_rgba(13,6,24,0.08)] transition-all group">
+<div class="flex justify-between items-start mb-12">
+<span class="font-label text-[10px] uppercase tracking-widest text-outline">Sep 2026 — Marketing</span>
+<span class="font-label text-[10px] uppercase tracking-widest text-error">Peaked</span>
+</div>
+<h3 class="font-headline text-3xl mb-6 group-hover:text-secondary transition-colors">Algorithmic Authenticity</h3>
+<p class="font-body text-sm text-on-surface-variant leading-relaxed mb-8">
+                            The saturation of AI-generated personality in social media and the subsequent market pivot back to raw, human-verified content.
+                        </p>
+<a class="font-label text-[10px] uppercase tracking-widest flex items-center gap-2" href="#">
+                            Full Analysis <span class="material-symbols-outlined text-sm">trending_up</span>
+</a>
+</div>
+</div>
+</div>
+</section>
+<!-- HOW IT WORKS SECTION -->
+<section class="bg-surface py-32 px-8">
+<div class="max-w-7xl mx-auto">
+<h2 class="font-label text-xs uppercase tracking-[0.2em] mb-20 text-center text-outline">Methodology</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-16">
+<div class="space-y-6">
+<div class="flex items-center gap-4">
+<span class="font-label text-4xl font-light text-secondary/30">01</span>
+<span class="material-symbols-outlined text-4xl text-primary" data-icon="travel_explore">travel_explore</span>
+</div>
+<h3 class="font-label text-xl uppercase font-bold tracking-tight">We Scan</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                            Our proprietary AI monitors 100+ global intelligence sources, academic papers, and venture capital flows in real-time to identify weak signals.
+                        </p>
+</div>
+<div class="space-y-6">
+<div class="flex items-center gap-4">
+<span class="font-label text-4xl font-light text-secondary/30">02</span>
+<span class="material-symbols-outlined text-4xl text-primary" data-icon="analytics">analytics</span>
+</div>
+<h3 class="font-label text-xl uppercase font-bold tracking-tight">We Analyze</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                            Analysts apply PESTAL, JTBD frameworks, and competitive positioning filters to separate transient noise from structural market shifts.
+                        </p>
+</div>
+<div class="space-y-6">
+<div class="flex items-center gap-4">
+<span class="font-label text-4xl font-light text-secondary/30">03</span>
+<span class="material-symbols-outlined text-4xl text-primary" data-icon="mark_as_unread">mark_as_unread</span>
+</div>
+<h3 class="font-label text-xl uppercase font-bold tracking-tight">We Deliver</h3>
+<p class="font-body text-on-surface-variant leading-relaxed">
+                            You receive high-density weekly reports and a daily intelligence briefing designed for executive decision-making and rapid implementation.
+                        </p>
+</div>
+</div>
+</div>
+</section>
+<!-- NEWSLETTER SIGNUP -->
+<section class="bg-[#0d0618] py-32 px-8 overflow-hidden relative">
+<!-- Decorative Background Element -->
+<div class="absolute top-0 right-0 w-1/3 h-full bg-[#6e43c3]/5 -skew-x-12 translate-x-1/2"></div>
+<div class="max-w-4xl mx-auto relative z-10 text-center">
+<h2 class="font-headline text-5xl md:text-7xl text-white mb-8">Stay ahead of the market.</h2>
+<p class="font-body text-lg text-gray-400 mb-12 max-w-xl mx-auto">
+                    Receive 2 trend reports per month for free. Upgrade to Pro for unlimited access and raw signal data.
+                </p>
+<form class="flex flex-col md:flex-row gap-0 max-w-2xl mx-auto">
+<input class="flex-grow bg-white/5 border-0 border-b border-white/20 text-white font-label p-6 focus:ring-0 focus:border-secondary transition-colors placeholder:text-gray-600" placeholder="Enter your business email" type="email"/>
+<button class="bg-[#6e43c3] text-white px-10 py-6 font-label uppercase tracking-widest hover:bg-white hover:text-[#0d0618] transition-all">
+                        Join Free
+                    </button>
+</form>
+<p class="font-label text-[10px] uppercase tracking-widest text-gray-600 mt-8">
+                    Strictly signal. No spam. 45,000+ subscribers.
+                </p>
+</div>
+</section>
+</main>
+<!-- FOOTER (Shared) -->
+<footer class="bg-[#0d0618] py-20">
+<div class="grid grid-cols-1 md:grid-cols-4 gap-12 px-8 max-w-7xl mx-auto">
+<div class="md:col-span-1">
+<span class="text-xl font-headline text-white mb-4 block">Trend Signal by Hémle</span>
+<p class="font-body text-sm text-gray-500 max-w-xs leading-relaxed">
+                    Intelligence for the polymath executive. Decoding market shifts before they become mainstream.
+                </p>
+</div>
+<div class="space-y-4">
+<h4 class="font-label text-xs uppercase tracking-widest text-white">Platform</h4>
+<ul class="space-y-2">
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Reports</a></li>
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Archive</a></li>
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Pricing</a></li>
+</ul>
+</div>
+<div class="space-y-4">
+<h4 class="font-label text-xs uppercase tracking-widest text-white">Company</h4>
+<ul class="space-y-2">
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">About</a></li>
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Hémle Studio</a></li>
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Contact</a></li>
+</ul>
+</div>
+<div class="space-y-4">
+<h4 class="font-label text-xs uppercase tracking-widest text-white">Legal</h4>
+<ul class="space-y-2">
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Privacy</a></li>
+<li><a class="text-sm font-body text-gray-500 hover:text-[#6e43c3] transition-colors" href="#">Terms</a></li>
+</ul>
+</div>
+</div>
+<div class="max-w-7xl mx-auto px-8 mt-20 pt-8 border-t border-white/5">
+<p class="font-body text-xs text-gray-500">© 2026 Trend Signal by Hémle. All rights reserved.</p>
+</div>
+</footer>
+</body></html>
