@@ -1,0 +1,175 @@
+{
+  "trend": "AI Smart Glasses",
+  "slug": "ai-smart-glasses",
+  "research_date": "2026-04-05",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Smart Glasses to Quadruple Revenue in 2026 as Apple and Samsung Prepare to Enter the Market",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/AI-Smart-Glasses-to-Quadruple-Revenue-in-2026-as-Apple-and-Samsung-Prepare-to-Enter-the-Market-Says-Smart-Analytics-Global-SAG",
+      "publisher": "Smart Analytics Global / BusinessWire",
+      "date": "2026-01-13",
+      "claims_supported": [
+        "Market revenue ~$1.2B in 2025 rising to $5.6B in 2026 (AI-enabled segment)",
+        "Apple and Samsung confirmed market entry in 2026",
+        "Meta scaling production to 20 million units in 2026"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Smart Glasses Market Size, Share & Trends Analysis Report, 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/smart-glasses-market-report",
+      "publisher": "Grand View Research",
+      "date": "2026-01",
+      "claims_supported": [
+        "Broader smart glasses market at $2.46B in 2025, projected $3.16B in 2026",
+        "24.2% CAGR (2026–2033)",
+        "Xreal market position in AR display sub-segment"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Meta Invests $3.5 Billion in EssilorLuxottica in AI Glasses Push",
+      "url": "https://www.bloomberg.com/news/articles/2025-07-08/meta-invests-3-5-billion-in-essilorluxottica-in-ai-glasses-push",
+      "publisher": "Bloomberg",
+      "date": "2025-07-08",
+      "claims_supported": [
+        "Meta acquired ~3% stake in EssilorLuxottica for $3.5 billion",
+        "Decade-long smart glasses partnership roadmap confirmed",
+        "Timeline event: July 2025 investment milestone"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Ray-Ban Maker EssilorLuxottica More Than Tripled Meta AI Glasses Sales in 2025",
+      "url": "https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html",
+      "publisher": "CNBC",
+      "date": "2026-02-11",
+      "claims_supported": [
+        "Meta AI glasses sales tripled in full-year 2025",
+        "7 million units sold in 2025, up from 2 million combined in 2023–2024",
+        "Mainstream market breakout confirmed by earnings data"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Google to Launch First AI Glasses in 2026",
+      "url": "https://www.cnbc.com/2025/12/08/google-ai-glasses-launch-2026.html",
+      "publisher": "CNBC",
+      "date": "2025-12-08",
+      "claims_supported": [
+        "Google announced 2026 AI glasses launch",
+        "Partnership with Warby Parker confirmed",
+        "Glasses run Android XR with Gemini AI",
+        "$150M Google investment in Warby Parker"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Samsung Reveals First Details of AI Smart Glasses to Launch in 2026",
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+      "publisher": "CNBC",
+      "date": "2026-03-06",
+      "claims_supported": [
+        "Samsung confirmed 2026 AI glasses launch",
+        "Runs Android XR with Qualcomm AR1 chipset and 12MP camera",
+        "Gemini AI integration confirmed"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Harvard Students Demonstrate AI and Meta Glasses Can Identify Strangers in Real Time",
+      "url": "https://www.bostonglobe.com/2024/10/04/business/harvard-students-ai-meta-glasses/",
+      "publisher": "Boston Globe",
+      "date": "2024-10-04",
+      "claims_supported": [
+        "I-XRAY demonstration: Ray-Ban Meta + facial recognition identifies strangers",
+        "Timeline event: October 2024 privacy alarm",
+        "PESTAL Legal: facial recognition in public is currently legal in most U.S. jurisdictions"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "AI Smart Glasses Privacy Concerns Trigger EU Probes in December 2025",
+      "url": "https://glassalmanac.com/ai-smart-glasses-raise-significant-privacy-concerns-triggers-eu-probes-in-december-2025-heres-why/",
+      "publisher": "Glass Almanac",
+      "date": "2025-12",
+      "claims_supported": [
+        "EU triggered formal probes under GDPR and AI Act in December 2025",
+        "PESTAL Political: regulatory risk from surveillance capabilities",
+        "Privacy concerns related to I-XRAY and Meta footage collection"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "AI Glasses Market Poised to Hit 10 Million Units in 2026 — Omdia Forecasts",
+      "url": "https://omdia.tech.informa.com/pr/2025/sep/ai-glasses-market-poised-to-hit-10-million-units-in-2026-omdia-forecasts",
+      "publisher": "Omdia / Informa Tech",
+      "date": "2025-09",
+      "claims_supported": [
+        "Omdia forecast: 10 million AI glasses units shipped in 2026",
+        "Confirms category crossing the chasm in 2026",
+        "Consumer Trend Canvas why_now: inflection point data"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Warby Parker and Google Reveal $150M Plan for AI Glasses in 2026",
+      "url": "https://glassalmanac.com/warby-parker-and-google-reveal-150m-plan-for-ai-glasses-in-2026-why-it-matters-now/",
+      "publisher": "Glass Almanac",
+      "date": "2025-12",
+      "claims_supported": [
+        "$150M Google investment in Warby Parker confirmed",
+        "Prescription lens market opportunity for Google/Warby Parker",
+        "Competitor entry details for Google"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Future of Smart Glasses Was on Full Display at CES 2026",
+      "url": "https://www.idc.com/resource-center/blog/the-future-of-smart-glasses-was-on-full-display-at-ces-2026/",
+      "publisher": "IDC",
+      "date": "2026-01",
+      "claims_supported": [
+        "50+ companies showcased AI/AR hardware at CES 2026",
+        "Xreal named Google's primary Android XR hardware partner (Project Aura)",
+        "ByteDance AI glasses entry confirmed at CES 2026",
+        "Rokid market position and CES presence"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Seeing a New Future: How Smart Glasses Are Unlocking Independence for Visually Impaired Individuals",
+      "url": "https://connsensereport.com/2025/08/20/seeing-a-new-future-how-smart-glasses-are-unlocking-independence-for-visually-impaired-individuals/",
+      "publisher": "ConnSENSE Report",
+      "date": "2025-08-20",
+      "claims_supported": [
+        "285 million visually impaired people globally (WHO figure)",
+        "JTBD #4: AI glasses for low-vision and blind users",
+        "Accessibility use case and unmet need validation"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: +367%",
+      "note": "Derived from unit shipment estimates across multiple analyst reports (2M units 2021 era → 20M projected 2026). No single-source 5-year revenue CAGR figure covers this exact window cleanly."
+    },
+    {
+      "claim": "growth_3m: +22%",
+      "note": "Estimated from EssilorLuxottica quarterly earnings trend data (Q3 2025: +11.7% QoQ with wearables contributing 4+ percentage points) and Counterpoint Research 110% YoY H1 2025 shipment data. No single-quarter figure directly cited."
+    },
+    {
+      "claim": "Monthly search volume ~100,000",
+      "note": "Estimated from Accio.com normalized trend index (score 100 in August 2025 for 'smart glasses'). No Google Keyword Planner data directly available; figure is an approximation."
+    },
+    {
+      "claim": "Market share for Rokid, Brilliant Labs, RealWear",
+      "note": "No analyst report cited specific share percentages for these three companies. Positions described qualitatively based on product characteristics and deployment reports."
+    },
+    {
+      "claim": "Adoption: 4% to 17% of U.S. online adults (Forrester)",
+      "note": "Cited via IntelligentLiving secondary source. Direct Forrester paywall report not independently verified."
+    }
+  ]
+}
