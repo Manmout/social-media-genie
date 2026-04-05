@@ -3,7 +3,7 @@
   "status": "surging",
   "search_volume": "~300,000",
   "category": "AI & Technology",
-  "growth_5y": "+365%",
+  "growth_5y": "+1,200%",
   "growth_1y": "+110%",
   "growth_3m": "+22%",
   "trigger": "2026 multiplatform convergence: Meta, Google, Samsung, and Apple all entering mainstream AI eyewear simultaneously — driving 4x revenue growth in a single year.",
@@ -31,6 +31,10 @@
     {
       "date": "2026-02",
       "event": "EssilorLuxottica reports Meta AI glasses sales more than tripled in 2025, reaching 7 million units — up from 2 million combined in all of 2023–2024 — confirming mainstream market breakout."
+    },
+    {
+      "date": "2026-03",
+      "event": "Meta faces a U.S. class-action lawsuit (TechCrunch) and UK ICO formal investigation over contractors reviewing intimate user footage captured by Ray-Ban Meta glasses — triggering the first major regulatory test for AI wearables privacy."
     }
   ],
   "pestal": [
@@ -56,7 +60,7 @@
     },
     {
       "factor": "Legal",
-      "impact": "No U.S. federal law bars facial recognition use in public spaces; only Illinois (BIPA) and a handful of states have meaningful biometric data restrictions. GDPR requires consent for biometric processing but enforcement for always-on cameras in public remains untested. IP disputes are escalating as dozens of companies file competing AI inference pipeline patents for wearables."
+      "impact": "A March 2026 U.S. class-action lawsuit alleges Meta violated privacy rights by routing intimate footage to contractors for AI training without adequate disclosure. The UK ICO opened a formal investigation the same week. No U.S. federal law bars facial recognition in public; only Illinois (BIPA) and a few states have biometric restrictions. GDPR enforcement for always-on cameras in public remains untested, but these 2026 cases will set precedent."
     }
   ],
   "jobs": [
@@ -228,6 +232,21 @@
       "title": "Apple Eyes 2027 for AI Smart Glasses Built Around Context, Not Screens",
       "url": "https://appleinsider.com/articles/26/02/17/apple-eyes-2027-for-ai-smart-glasses-built-around-context-not-screens",
       "publisher": "Apple Insider"
+    },
+    {
+      "title": "Meta Sued Over AI Smart Glasses Privacy Concerns After Workers Reviewed Intimate Footage",
+      "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "Meta Smart Glasses Face UK Privacy Probe",
+      "url": "https://www.theregister.com/2026/03/05/ico_meta_glasses/",
+      "publisher": "The Register"
+    },
+    {
+      "title": "What's Next for Smart Glasses",
+      "url": "https://www.technologyreview.com/2025/02/05/1110983/whats-next-for-smart-glasses/",
+      "publisher": "MIT Technology Review"
     }
   ]
 }

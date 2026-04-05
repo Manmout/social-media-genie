@@ -152,8 +152,8 @@
   ],
   "unverified_claims": [
     {
-      "claim": "growth_5y: +367%",
-      "note": "Derived from unit shipment estimates across multiple analyst reports (2M units 2021 era → 20M projected 2026). No single-source 5-year revenue CAGR figure covers this exact window cleanly."
+      "claim": "growth_5y: +1,200%",
+      "note": "Calculated from ~$150M smart glasses market in 2020 growing to $1.93B in 2024 (Counterpoint Research). 2020 baseline is estimated (not a single primary source figure). Directionally confirmed by Counterpoint's 210% YoY growth in 2024 and 60% CAGR 2022–2029 projection."
     },
     {
       "claim": "growth_3m: +22%",
