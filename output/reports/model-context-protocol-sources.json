@@ -1,0 +1,181 @@
+{
+  "trend": "Model Context Protocol (MCP)",
+  "slug": "model-context-protocol",
+  "research_date": "2026-04-06",
+  "sources": [
+    {
+      "id": 1,
+      "title": "A Year of MCP: From Internal Experiment to Industry Standard",
+      "url": "https://www.pento.ai/blog/a-year-of-mcp-2025-review",
+      "publisher": "Pento.ai",
+      "date": "2025-11",
+      "claims_supported": [
+        "97M+ monthly SDK downloads as of March 2026",
+        "OpenAI adopted MCP in March 2025 across Agents SDK, Responses API, and ChatGPT desktop",
+        "Google DeepMind confirmed MCP support in Gemini in April 2025",
+        "MCP became the universal standard for connecting AI agents to enterprise tools"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Anthropic: Donating the Model Context Protocol and Establishing the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+      "publisher": "Anthropic",
+      "date": "2025-12-09",
+      "claims_supported": [
+        "AAIF co-founded by Anthropic, Block, and OpenAI under Linux Foundation",
+        "Google, Microsoft, AWS, Cloudflare, and Bloomberg as AAIF supporters",
+        "Open governance model confirmed — MCP donated from Anthropic to AAIF",
+        "Timeline event: December 2025 governance milestone"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The State of MCP — Adoption, Security & Production Readiness",
+      "url": "https://zuplo.com/mcp-report",
+      "publisher": "Zuplo",
+      "date": "2025-11",
+      "claims_supported": [
+        "Command injection vulnerabilities affect 43% of tested MCP implementations",
+        "Over 1,800 MCP servers found on public internet without authentication",
+        "75% of MCP servers built by individuals with no centralized security review",
+        "PESTAL Legal: security surface and governance gaps"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "MCP Adoption Statistics 2025",
+      "url": "https://mcpmanager.ai/blog/mcp-adoption-statistics/",
+      "publisher": "MCP Manager",
+      "date": "2025-10",
+      "claims_supported": [
+        "MCP server downloads: ~100,000 in November 2024 → 8 million by April 2025",
+        "5,800+ MCP servers and 300+ MCP clients as of mid-2025",
+        "Remote MCP servers up nearly 4x since May 2025",
+        "AI integration middleware market projected at $10.3B in 2025",
+        "28% of Fortune 500 deployed MCP servers (Q1 2025), up from 12% in 2024"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "2026: The Year for Enterprise-Ready MCP Adoption",
+      "url": "https://www.cdata.com/blog/2026-year-enterprise-ready-mcp-adoption",
+      "publisher": "CData",
+      "date": "2026-01",
+      "claims_supported": [
+        "2026 declared the pivotal year for widespread enterprise MCP adoption",
+        "Shift from pilot projects to full-scale production AI deployments via MCP",
+        "Enterprise OAuth 2.1 roadmap for Q2 2026",
+        "PESTAL Economic: enterprise AI deployment cost reduction via MCP standardization"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Model Context Protocol Security: Critical Vulnerabilities Every CISO Must Address",
+      "url": "https://www.esentire.com/blog/model-context-protocol-security-critical-vulnerabilities-every-ciso-should-address-in-2025",
+      "publisher": "eSentire",
+      "date": "2025-09",
+      "claims_supported": [
+        "OWASP ranks prompt injection as #1 LLM security risk — amplified in MCP ecosystems",
+        "CVE-2025-6514: unpatched installs exploitable as supply-chain backdoors",
+        "September 2025 Postmark MCP server supply chain attack (1,500 weekly downloads)",
+        "AI agent accountability gaps when actions taken via MCP tool calls"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "One Year of Model Context Protocol: From Experiment to Industry Standard",
+      "url": "https://dev.to/ajeetraina/one-year-of-model-context-protocol-from-experiment-to-industry-standard-5hj8",
+      "publisher": "DEV Community / Ajeet Raina",
+      "date": "2025-11",
+      "claims_supported": [
+        "MCP servers grew from 3 implementations (Nov 2024) to 6,878 (Nov 2025) — 2,200% growth in 13 months",
+        "MCP created by Anthropic engineers David Soria Parra and Justin Spahr-Summers",
+        "M×N problem definition and how MCP solves it",
+        "GitHub and Microsoft joined MCP steering committee in May 2025"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Why the Model Context Protocol Won",
+      "url": "https://thenewstack.io/why-the-model-context-protocol-won/",
+      "publisher": "The New Stack",
+      "date": "2025-12",
+      "claims_supported": [
+        "Unanimous support from Anthropic, OpenAI, Google, and Microsoft triggered S-curve adoption",
+        "Difficult to name other technologies gaining such unanimous big-tech support simultaneously",
+        "MCP evolution from vendor-led spec to common infrastructure",
+        "PESTAL Social: developer community adoption speed and dynamics"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Google Launches Managed MCP Servers — Agent-Ready by Design",
+      "url": "https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/",
+      "publisher": "TechCrunch",
+      "date": "2025-12-10",
+      "claims_supported": [
+        "Google launched managed MCP servers on Google Cloud in December 2025",
+        "Google officially joining the MCP ecosystem beyond spec endorsement",
+        "Timeline event: December 2025 Google managed server launch"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Top 10 AI Trends 2025: How Agentic AI and MCP Changed IT",
+      "url": "https://www.splunk.com/en_us/blog/artificial-intelligence/top-10-ai-trends-2025-how-agentic-ai-and-mcp-changed-it.html",
+      "publisher": "Splunk",
+      "date": "2025-12",
+      "claims_supported": [
+        "MCP named as a top AI trend of 2025 alongside agentic AI",
+        "IT organizations reorienting around MCP for enterprise AI integration",
+        "Gartner: 1,445% surge in multi-agent system inquiries Q1 2024 → Q2 2025",
+        "AI agents market: $7.84B (2025) → $52.62B (2030) at 46% CAGR"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "MCP History: From Anthropic's Fragmentation Fix to AI Standard",
+      "url": "https://www.mcpserverspot.com/learn/fundamentals/mcp-history",
+      "publisher": "MCP Server Spot",
+      "date": "2025-10",
+      "claims_supported": [
+        "Anthropic launched MCP in November 2024 with Python and TypeScript SDKs",
+        "MCP addressed the M×N integration problem in enterprise AI",
+        "Protocol uses client-server model over stdio or HTTP+SSE",
+        "Authentication mechanisms absent from early spec; OAuth added March 2025"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "RedMonk: Fastest-ever S-curve protocol adoption for MCP",
+      "url": "https://redmonk.com/kholterhoff/2025/12/22/10-things-developers-want-from-their-agentic-ides-in-2025/",
+      "publisher": "RedMonk",
+      "date": "2025-12-22",
+      "claims_supported": [
+        "RedMonk calls MCP 'the fastest-ever protocol adoption' they have recorded",
+        "S-curve adoption pattern compared to Docker's rapid market saturation",
+        "Developer demand for MCP-native IDE tooling in agentic workflows",
+        "PESTAL Social: developer community adoption dynamics and velocity"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share percentages for Anthropic (~35%), Microsoft (~30%), OpenAI (~25%), Google (~8%), Block/AWS (~3%)",
+      "note": "No analyst report provides specific market share figures for MCP ecosystem players. Percentages are estimated based on relative developer mindshare, enterprise deployment counts, and SDK download attribution. All marked [unverified] in trend data."
+    },
+    {
+      "claim": "growth_3m: +75%",
+      "note": "Derived from 'remote MCP servers up nearly 4x since May 2025' (MCP Manager) — a 9-month figure yielding roughly +75% per quarter. No direct Q4 2025 to Q1 2026 single-quarter data point available."
+    },
+    {
+      "claim": "search_volume: ~80,000+",
+      "note": "No direct keyword tool data queried. Estimate based on: (a) 20 most searched MCP servers generating 180,000+ monthly searches (MCP Stats), (b) overall developer ecosystem size, and (c) Google Trends showing explosive growth through 2025. Likely an undercount of total branded search volume."
+    },
+    {
+      "claim": "Environmental PESTAL — net compute impact of MCP agent proliferation",
+      "note": "No published data on energy consumption attributable to MCP-enabled AI agent deployments. Assessment is qualitative and directional only."
+    }
+  ]
+}
