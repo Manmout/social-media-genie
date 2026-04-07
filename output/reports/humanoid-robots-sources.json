@@ -1,0 +1,240 @@
+{
+  "trend": "Humanoid Robots",
+  "slug": "humanoid-robots",
+  "research_date": "2026-04-07",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Humanoid Robot Market Size & Share, 2025–2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+      "publisher": "MarketsandMarkets",
+      "date": "2025",
+      "claims_supported": [
+        "Market size $2.92B in 2025, $15.26B in 2030",
+        "39.2% CAGR (2025–2030)",
+        "growth_5y: +39% CAGR",
+        "growth_1y: +88% (from $1.55B 2024 to $2.92B 2025)"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Humanoid Robot Market Report — Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+      "publisher": "Grand View Research",
+      "date": "2025",
+      "claims_supported": [
+        "Market size $1.55B in 2024",
+        "Baseline for +88% YoY growth calculation"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Humanoid Robot Market Size to Surpass $251.40 Billion by 2035",
+      "url": "https://www.globenewswire.com/news-release/2026/02/05/3232660/0/en/Humanoid-Robot-Market-Size-to-Surpass-USD-251-40-Billion-by-2035-Research-by-SNS-Insider.html",
+      "publisher": "SNS Insider / GlobeNewswire",
+      "date": "2026-02-05",
+      "claims_supported": [
+        "Long-range market projection $251.4B by 2035",
+        "High-growth scenario corroborating surging status"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Humanoid Robots: From Demos to Deployment",
+      "url": "https://www.bain.com/insights/humanoid-robots-from-demos-to-deployment-technology-report-2025/",
+      "publisher": "Bain & Company",
+      "date": "2025",
+      "claims_supported": [
+        "Manufacturing costs dropped 40% YoY (growth_3m proxy)",
+        "Digit ROI breakeven under 2 years in high-wage regions",
+        "Agility Robotics (Digit) deployed at Amazon and GXO Logistics",
+        "First documented revenue-generating commercial humanoid deployment",
+        "Figure 02 deployed at BMW",
+        "Apollo deployed at Mercedes-Benz"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Humanoid Robot Market Could Reach $5 Trillion by 2050",
+      "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+      "publisher": "Morgan Stanley",
+      "date": "2024",
+      "claims_supported": [
+        "Morgan Stanley $5T long-term projection by 2050",
+        "Economic PESTAL context"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Humanoid Robots Enter the Workforce: Figure, Boston Dynamics & Tesla Optimus 2026",
+      "url": "https://vfuturemedia.com/future-tech/humanoid-robots-enter-the-workforce-figure-boston-dynamics-and-tesla-optimus-2026/",
+      "publisher": "vFutureMedia",
+      "date": "2026",
+      "claims_supported": [
+        "Agibot 10,000th unit shipped from Shanghai (timeline Mar 2026)",
+        "Figure AI $39B valuation, $1B Series C, BotQ Austin factory",
+        "Tesla Optimus targeting 50,000 units in 2026 at $20K–$30K"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Boston Dynamics Atlas: Commercial Production Begins",
+      "url": "https://www.theregister.com/2026/01/06/boston_dynamics_atlas_production/",
+      "publisher": "The Register",
+      "date": "2026-01-06",
+      "claims_supported": [
+        "Atlas fully electric version in commercial production as of Jan 2026",
+        "Deployed at Hyundai's Georgia plant",
+        "Atlas priced at $140K–$150K"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Humanoid Robots: Disruption and Promise",
+      "url": "https://www.weforum.org/stories/2025/06/humanoid-robots-offer-disruption-and-promise/",
+      "publisher": "World Economic Forum",
+      "date": "2025-06",
+      "claims_supported": [
+        "$7B+ VC investment in humanoid robots 2023–2025",
+        "Social PESTAL: McKinsey 400–800M job displacement risk by 2030",
+        "Elder care adoption driven by aging society caregiver shortages"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Humanoid Robots 2025: The Race to Useful Intelligence",
+      "url": "https://www.edge-ai-vision.com/2025/11/humanoid-robots-2025-the-race-to-useful-intelligence/",
+      "publisher": "Edge AI and Vision Alliance",
+      "date": "2025-11",
+      "claims_supported": [
+        "VLA models closing the autonomy gap",
+        "Battery life 4–6hr cap as key technical bottleneck",
+        "Most units require remote supervision or pre-mapped environments",
+        "Autonomy gap services opportunity"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Humanoid Robot Market Size 2026",
+      "url": "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+      "publisher": "Robozaps",
+      "date": "2026",
+      "claims_supported": [
+        "~74,000 monthly search volume for 'humanoid robot'",
+        "Unitree R1 launched at $5,900 in July 2025",
+        "Goldman Sachs $38B market by 2035 projection",
+        "China Humanoid 2025 national policy overview"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Top 5 Global Robotics Trends 2026",
+      "url": "https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026",
+      "publisher": "International Federation of Robotics (IFR)",
+      "date": "2026",
+      "claims_supported": [
+        "Electric actuation replacing hydraulics (Environmental PESTAL)",
+        "Industry-wide trend validation from authoritative robotics body"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "EU AI Act and Robotics: What Changes in August 2026",
+      "url": "https://www.hiai-design.com/blog-eu-ai-act-robotics-2026",
+      "publisher": "HI AI Design",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act fully applicable August 2, 2026",
+        "Autonomous robots classified as high-risk AI",
+        "EU Revised Product Liability Directive extends liability to AI software (Dec 2026)",
+        "Legal PESTAL and Takeaway #4"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "IEEE Framework for Humanoid Robot Standards",
+      "url": "https://aibusiness.com/robotics/ieee-framework-humanoid-robot-standards",
+      "publisher": "AI Business",
+      "date": "2025",
+      "claims_supported": [
+        "IEEE Humanoid Study Group publishing safety standards",
+        "Legal PESTAL regulatory gap context"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Musk Says Tesla's Value Will Primarily Come From Optimus Robot",
+      "url": "https://www.cnbc.com/2025/09/02/musk-tesla-value-optimus-robot.html",
+      "publisher": "CNBC",
+      "date": "2025-09-02",
+      "claims_supported": [
+        "Musk claims Optimus represents 80% of Tesla's long-term value",
+        "Tesla Optimus market position context"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Boston Dynamics IPO and $100B Valuation",
+      "url": "https://robottoday.com/article/boston-dynamics-ipo-and-100-b-valuation-how-it-compares-to-tesla-optimus-figure-ai-and-humanoid-rivals",
+      "publisher": "RobotToday",
+      "date": "2026",
+      "claims_supported": [
+        "Boston Dynamics potential IPO at $100B valuation",
+        "Market player competitive context"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "2025 Robotics Trends: Humanoids Enter Commercial Use",
+      "url": "https://www.robotics247.com/article/2025-robotics-trends-humanoids-enter-commercial-use-logistics-and-automation-rise",
+      "publisher": "Robotics 24/7",
+      "date": "2025",
+      "claims_supported": [
+        "Digit deployed at Amazon and GXO Logistics warehouses",
+        "Commercial humanoid deployment in logistics confirmed"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Applications of Humanoid Robots 2026",
+      "url": "https://blog.robozaps.com/b/applications-of-humanoid-robots",
+      "publisher": "Robozaps",
+      "date": "2026",
+      "claims_supported": [
+        "Fourier GR-1 in rehabilitation clinics",
+        "Moxi reduces nurse walking time by 30%",
+        "Pepper in 2,000+ healthcare facilities",
+        "Healthcare and elder care JTBD"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Humanoid Robot Ownership: Laws, Regulations & Insurance 2025",
+      "url": "https://humanoidsportsnetwork.com/humanoid-robot-ownership-laws-regulations-and-insurance-what-you-need-to-know-in-2025/",
+      "publisher": "Humanoid Sports Network",
+      "date": "2025",
+      "claims_supported": [
+        "Liability insurance for humanoid robot accidents is undefined",
+        "Canvas unmet needs: regulatory and insurance gap"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_3m: '-40% unit cost'",
+      "note": "Manufacturing cost reduction of 40% YoY is sourced from Bain & Company 2025 report. However, this is a YoY figure, not a quarterly 3-month figure. Used as the best available proxy for recent momentum. No single-quarter cost data was available."
+    },
+    {
+      "claim": "Market share percentages for Agibot (~20%), Figure AI (~15%), Boston Dynamics (~12%), Agility Robotics (~10%)",
+      "note": "These are directional estimates derived from shipment volume data and industry reporting, not from a single analyst's market share breakdown. No analyst firm has published an authoritative 2025 humanoid market share table as of April 2026. Treat as approximate."
+    },
+    {
+      "claim": "Monthly search volume ~74,000",
+      "note": "Directionally confirmed via Robozaps citing rising search interest for 'humanoid robot'. The absolute 74,000 figure is an estimate based on secondary reporting; no primary keyword tool data directly queried."
+    },
+    {
+      "claim": "1X NEO accepting 2026 pre-orders for consumer home use",
+      "note": "1X Technologies (backed by OpenAI) has announced NEO as a consumer home robot, but specific pre-order details and pricing were not independently verified from a primary source at time of research."
+    }
+  ]
+}

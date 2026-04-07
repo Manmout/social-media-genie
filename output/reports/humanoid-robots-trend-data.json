@@ -1,0 +1,243 @@
+{
+  "trend_name": "Humanoid Robots",
+  "status": "surging",
+  "search_volume": "~74,000",
+  "category": "AI & Technology",
+  "growth_5y": "+39% CAGR",
+  "growth_1y": "+88%",
+  "growth_3m": "-40% unit cost",
+  "trigger": "LLM-powered embodied AI closed the intelligence gap; Unitree launched a $5,900 humanoid in July 2025; China's Humanoid 2025 national policy flooded global supply; post-COVID labor shortages made automation politically palatable.",
+  "timeline": [
+    {
+      "date": "2022-10",
+      "event": "Tesla unveils Optimus Gen 1 prototype at AI Day; Figure AI founded — marking Big Tech's formal entry into humanoid robotics."
+    },
+    {
+      "date": "2023-12",
+      "event": "Tesla reveals Optimus Gen 2 with vastly improved gait and dexterity; Boston Dynamics begins development of fully electric Atlas."
+    },
+    {
+      "date": "2024-04",
+      "event": "Boston Dynamics debuts fully electric Atlas, retiring its hydraulic version — signaling the industry-wide shift to electric actuation."
+    },
+    {
+      "date": "2025-02",
+      "event": "Figure AI closes $1B Series C at $39B valuation backed by Microsoft, NVIDIA, OpenAI, and Jeff Bezos."
+    },
+    {
+      "date": "2025-07",
+      "event": "Unitree launches R1 humanoid at $5,900 — shattering the price floor and forcing global manufacturers to accelerate cost-reduction roadmaps."
+    },
+    {
+      "date": "2026-03",
+      "event": "Agibot ships its 10,000th humanoid unit from Shanghai — becoming the first company to achieve five-figure cumulative shipments, confirming China's manufacturing lead."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "China's 'Humanoid 2025' State Council policy funnels state investment and subsidies into domestic manufacturers (Agibot, UBTECH, Unitree). The US and South Korea have parallel government-backed robotics programs. Geopolitical competition is accelerating deployment timelines globally."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Goldman Sachs projects a $38B market by 2035. Manufacturing costs fell 40% YoY — far exceeding the 15–20% forecast. Over $7B in VC invested 2023–2025. Unit economics improved from $250K (Digit, 2024) to $5,900 (Unitree R1, Jul 2025), making pilot projects viable for mid-market companies."
+    },
+    {
+      "factor": "Social",
+      "impact": "McKinsey estimates automation could displace 400–800M jobs by 2030. Public trust remains the key adoption gating factor — humanoid form triggers strong psychological reactions. Elder care in aging societies (China, Japan, EU) is the fastest-growing acceptance vector due to critical caregiver shortages."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Vision-language-action (VLA) models are closing the autonomy gap, enabling humanoids to operate in semi-structured environments. Battery life (4–6hr cap), dexterity in unstructured spaces, and reliability remain key bottlenecks. Unitree's $5,900 R1 proves hardware commoditization is well underway."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Electric actuation replacing hydraulics reduces fluid waste and energy consumption. However, large-scale manufacturing carries a significant rare earth metals and lithium battery footprint. Humanoid robots may ultimately enable greener supply chains by reducing human-driven logistics fuel use."
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU AI Act fully applicable August 2, 2026 — classifies autonomous robots as high-risk AI requiring mandatory safety documentation, risk assessments, and human oversight logs. EU Revised Product Liability Directive (Dec 2026) extends liability to AI software in robots. IEEE Humanoid Study Group publishing safety standards to bridge the regulatory gap."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Eliminate dangerous and repetitive factory labor",
+      "solution": "Figure 02 at BMW and Apollo at Mercedes-Benz perform line feeding, bin picking, and parts assembly in structured factory environments — reducing injury rates and staffing costs."
+    },
+    {
+      "job": "Solve last-meter logistics in warehouses",
+      "solution": "Agility Robotics' Digit handles tote movement and container unloading at Amazon and GXO facilities — filling roles that fixed robot arms cannot due to irregular, unstructured layouts."
+    },
+    {
+      "job": "Provide elder care and healthcare support amid caregiver shortages",
+      "solution": "Fourier GR-1 assists patients in rehab clinics; Moxi reduces nurse walking time by 30%. China's aging demographics make this the fastest-growing application category."
+    },
+    {
+      "job": "Perform hazardous environment operations",
+      "solution": "Atlas and Digit can enter disaster zones, handle toxic materials, or operate in extreme heat — replacing humans in CBRN (chemical, biological, radiological, nuclear) scenarios and construction."
+    },
+    {
+      "job": "Automate domestic chores in consumer homes",
+      "solution": "1X NEO (accepting 2026 pre-orders) targets laundry folding, tidying, and shelf organization — the first consumer-facing humanoid with a defined price and delivery window."
+    }
+  ],
+  "market": [
+    {
+      "name": "Agibot",
+      "share": "~20%",
+      "loved": "State-backed production, 10,000+ shipments by March 2026, price competitiveness",
+      "segment": "Industrial / China domestic"
+    },
+    {
+      "name": "Figure AI",
+      "share": "~15%",
+      "loved": "BMW deployment, NVIDIA integration, $39B valuation, BotQ Austin factory",
+      "segment": "Premium industrial"
+    },
+    {
+      "name": "Boston Dynamics (Atlas)",
+      "share": "~12%",
+      "loved": "All-electric Atlas in production, Hyundai partnership, potential $100B IPO",
+      "segment": "Enterprise industrial"
+    },
+    {
+      "name": "Agility Robotics (Digit)",
+      "share": "~10%",
+      "loved": "First revenue-generating commercial deployment, Amazon and GXO contracts",
+      "segment": "Logistics / warehousing"
+    },
+    {
+      "name": "Tesla (Optimus)",
+      "share": "Emerging",
+      "loved": "$20K–$30K target price, Fremont factory scale-up, Musk claims 80% of Tesla's long-term value",
+      "segment": "Future mass market"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Unitree Robotics",
+      "detail": "Chinese startup that launched R1 humanoid at $5,900 in July 2025 — the most disruptive pricing event in humanoid history. Forces all Western competitors to accelerate cost reduction and rethink enterprise pricing."
+    },
+    {
+      "name": "UBTECH Robotics",
+      "detail": "Walker S humanoid deployed in BYD and Geely automotive plants in China. UBTECH is one of the best-funded humanoid startups globally and benefits directly from China's Humanoid 2025 subsidies."
+    },
+    {
+      "name": "Apptronik (Apollo)",
+      "detail": "Apollo humanoid deployed at Mercedes-Benz; backed by Google and NASA partnerships. Focused on configurable hardware for automotive and aerospace — enterprise-grade with strong institutional validation."
+    },
+    {
+      "name": "Sanctuary AI",
+      "detail": "Canadian startup building Phoenix humanoid with a cognitive AI (Carbon) focused on general-purpose task learning. Backed by Intel Capital; partnered with Magna International for manufacturing trials."
+    },
+    {
+      "name": "1X Technologies (NEO)",
+      "detail": "Norwegian startup backed by OpenAI; NEO is the first consumer-facing humanoid accepting home pre-orders for 2026. Targets laundry, tidying, and domestic chores at an undisclosed sub-$30K price."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: Manufacturing operations managers at automotive and logistics firms (BMW, Amazon, Mercedes-Benz) seeking labor cost reduction and injury elimination. Secondary: Healthcare administrators in aging-heavy markets (Japan, China, EU) facing critical caregiver shortages. Tertiary: Early-adopter tech consumers open to in-home robotic assistants (2026+).",
+    "where": "Semi-structured factory floors and automotive assembly lines; high-density logistics warehouses; hospital supply corridors and rehabilitation clinics; consumer homes (emerging 2026–2028).",
+    "why_now": "VLA models closed the AI intelligence gap; manufacturing costs fell 40% YoY to as low as $5,900 (Unitree R1); China's Humanoid 2025 policy flooded the market with volume; post-COVID labor shortages made automation politically and socially acceptable.",
+    "behavior": "Enterprise buyers run 6–18 month pilots in controlled, pre-mapped environments before full deployment. They evaluate by task completion rate, uptime, and ROI vs. labor cost — and increasingly compare robot-as-a-service (RaaS) subscription models against upfront capex purchases.",
+    "unmet": "True autonomy in unstructured environments remains elusive — most units still require remote supervision or pre-mapped routes. Battery life caps productive shifts at 4–6 hours. Liability insurance for humanoid robot workplace accidents is still undefined. Worker acceptance and union opposition are unresolved barriers to broad deployment."
+  },
+  "takeaways": [
+    "Run a Robot-Ready audit now: map every repetitive, high-injury, or labor-constrained task in your operation. With Unitree R1 at $5,900 and Digit's ROI breakeven under 2 years in high-wage regions, the economics for a 6-month pilot are now achievable for mid-market companies — not just Fortune 500s.",
+    "Build services around the autonomy gap: most humanoids still need human-in-the-loop supervision, task programming, and environment mapping. The fastest-growing B2B opportunity is consulting, digital twin environment modeling, and remote teleoperation staffing — all zero-hardware businesses.",
+    "Track China's cost trajectory as a strategic signal: Unitree's $5,900 price in July 2025 signals that humanoid hardware will commoditize faster than most Western forecasts assume. Plan for sub-$10K general-purpose humanoids by 2028 and begin identifying which processes to automate at that price.",
+    "Build your EU AI Act compliance stack before August 2026: any humanoid robot with autonomous decision-making deployed in EU workplaces is high-risk AI. Companies need risk assessment documentation, human oversight logging, and conformity assessments ready now — compliance will be a sales prerequisite for European clients."
+  ],
+  "sources": [
+    {
+      "title": "Humanoid Robot Market Size & Share, 2025–2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+      "publisher": "MarketsandMarkets"
+    },
+    {
+      "title": "Humanoid Robot Market Report — Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/humanoid-robot-market-report",
+      "publisher": "Grand View Research"
+    },
+    {
+      "title": "Humanoid Robot Market Size to Surpass $251.40 Billion by 2035",
+      "url": "https://www.globenewswire.com/news-release/2026/02/05/3232660/0/en/Humanoid-Robot-Market-Size-to-Surpass-USD-251-40-Billion-by-2035-Research-by-SNS-Insider.html",
+      "publisher": "SNS Insider / GlobeNewswire"
+    },
+    {
+      "title": "Humanoid Robots: From Demos to Deployment",
+      "url": "https://www.bain.com/insights/humanoid-robots-from-demos-to-deployment-technology-report-2025/",
+      "publisher": "Bain & Company"
+    },
+    {
+      "title": "Humanoid Robot Market Could Reach $5 Trillion by 2050",
+      "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+      "publisher": "Morgan Stanley"
+    },
+    {
+      "title": "Humanoid Robots Enter the Workforce: Figure, Boston Dynamics & Tesla Optimus 2026",
+      "url": "https://vfuturemedia.com/future-tech/humanoid-robots-enter-the-workforce-figure-boston-dynamics-and-tesla-optimus-2026/",
+      "publisher": "vFutureMedia"
+    },
+    {
+      "title": "Boston Dynamics Atlas: Commercial Production Begins",
+      "url": "https://www.theregister.com/2026/01/06/boston_dynamics_atlas_production/",
+      "publisher": "The Register"
+    },
+    {
+      "title": "Humanoid Robots: Disruption and Promise",
+      "url": "https://www.weforum.org/stories/2025/06/humanoid-robots-offer-disruption-and-promise/",
+      "publisher": "World Economic Forum"
+    },
+    {
+      "title": "Humanoid Robots 2025: The Race to Useful Intelligence",
+      "url": "https://www.edge-ai-vision.com/2025/11/humanoid-robots-2025-the-race-to-useful-intelligence/",
+      "publisher": "Edge AI and Vision Alliance"
+    },
+    {
+      "title": "Humanoid Robot Market Size 2026 — Robozaps",
+      "url": "https://blog.robozaps.com/b/market-size-for-humanoid-robots",
+      "publisher": "Robozaps"
+    },
+    {
+      "title": "Top 5 Global Robotics Trends 2026",
+      "url": "https://ifr.org/ifr-press-releases/news/top-5-global-robotics-trends-2026",
+      "publisher": "International Federation of Robotics (IFR)"
+    },
+    {
+      "title": "EU AI Act and Robotics: What Changes in August 2026",
+      "url": "https://www.hiai-design.com/blog-eu-ai-act-robotics-2026",
+      "publisher": "HI AI Design"
+    },
+    {
+      "title": "IEEE Framework for Humanoid Robot Standards",
+      "url": "https://aibusiness.com/robotics/ieee-framework-humanoid-robot-standards",
+      "publisher": "AI Business"
+    },
+    {
+      "title": "Musk Says Tesla's Value Will Primarily Come From Optimus Robot",
+      "url": "https://www.cnbc.com/2025/09/02/musk-tesla-value-optimus-robot.html",
+      "publisher": "CNBC"
+    },
+    {
+      "title": "Boston Dynamics IPO and $100B Valuation vs. Tesla, Figure AI, and Humanoid Rivals",
+      "url": "https://robottoday.com/article/boston-dynamics-ipo-and-100-b-valuation-how-it-compares-to-tesla-optimus-figure-ai-and-humanoid-rivals",
+      "publisher": "RobotToday"
+    },
+    {
+      "title": "2025 Robotics Trends: Humanoids Enter Commercial Use",
+      "url": "https://www.robotics247.com/article/2025-robotics-trends-humanoids-enter-commercial-use-logistics-and-automation-rise",
+      "publisher": "Robotics 24/7"
+    },
+    {
+      "title": "Applications of Humanoid Robots 2026",
+      "url": "https://blog.robozaps.com/b/applications-of-humanoid-robots",
+      "publisher": "Robozaps"
+    },
+    {
+      "title": "Humanoid Robot Ownership: Laws, Regulations & Insurance 2025",
+      "url": "https://humanoidsportsnetwork.com/humanoid-robot-ownership-laws-regulations-and-insurance-what-you-need-to-know-in-2025/",
+      "publisher": "Humanoid Sports Network"
+    }
+  ]
+}
