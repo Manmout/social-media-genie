@@ -1,0 +1,151 @@
+{
+  "trend": "AI Drug Discovery",
+  "slug": "ai-drug-discovery",
+  "retrieved": "2026-04-08",
+  "sources": [
+    {
+      "title": "AI in Drug Discovery Market to Hit USD 10.29 Bn by 2031 at 27%+ CAGR — Mordor Intelligence",
+      "url": "https://www.globenewswire.com/news-release/2026/03/30/3264774/0/en/AI-in-Drug-Discovery-Market-to-Hit-USD-10.29-Bn-by-2031-with-Quantum-Machine-Learning-Advancing-Rapidly-at-27-CAGR-Mordor-Intelligence-Report.html",
+      "publisher": "GlobeNewswire / Mordor Intelligence",
+      "date": "2026-03-30",
+      "type": "market_research",
+      "key_data": "Market to reach USD 10.29B by 2031 at 25.94% CAGR; quantum ML advancing rapidly"
+    },
+    {
+      "title": "Artificial Intelligence In Drug Discovery Market Report, 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-drug-discovery-market",
+      "publisher": "Grand View Research",
+      "date": "2025-01-01",
+      "type": "market_research",
+      "key_data": "Market at USD 2.35B in 2025; 24.83% CAGR from 2026 to 2033"
+    },
+    {
+      "title": "AI in Drug Discovery Market Rises USD 160.49 Billion by 2035",
+      "url": "https://www.towardshealthcare.com/insights/artificial-intelligence-in-drug-discovery",
+      "publisher": "Towards Healthcare",
+      "date": "2025-06-01",
+      "type": "market_research",
+      "key_data": "High-end forecast: $160.49B by 2035 at 23.22% CAGR"
+    },
+    {
+      "title": "Google DeepMind and Isomorphic Labs introduce AlphaFold 3 AI model",
+      "url": "https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/",
+      "publisher": "Google DeepMind",
+      "date": "2024-05-08",
+      "type": "product_launch",
+      "key_data": "AF3 can predict interactions across proteins, DNA, RNA, small molecules, ions"
+    },
+    {
+      "title": "AlphaFold 3: transformative advances in drug design and therapeutics — PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292590/",
+      "publisher": "PubMed Central / NCBI",
+      "date": "2024-07-01",
+      "type": "academic",
+      "key_data": "AF3 predicts 76% of protein-ligand interactions correctly vs. 52% for previous best tool"
+    },
+    {
+      "title": "Isomorphic Labs announces $600M external investment round",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round",
+      "publisher": "Isomorphic Labs",
+      "date": "2025-03-31",
+      "type": "funding",
+      "key_data": "$600M Series A led by Thrive Capital + GV; first external funding since DeepMind spinout (2021)"
+    },
+    {
+      "title": "Isomorphic Labs raises $600M toward AI drug design — BioPharma Dive",
+      "url": "https://www.biopharmadive.com/news/isomorphic-venture-raise-alphabet-ai-drug-discovery/743983/",
+      "publisher": "BioPharma Dive",
+      "date": "2025-03-31",
+      "type": "news",
+      "key_data": "Funding to power AI drug design engine and advance therapeutic programs to clinic"
+    },
+    {
+      "title": "A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial",
+      "url": "https://www.nature.com/articles/s41591-025-03743-2",
+      "publisher": "Nature Medicine",
+      "date": "2025-06-03",
+      "type": "clinical_trial",
+      "key_data": "First AI-designed drug Phase IIa: +98.4 mL FVC in 60mg QD group vs. −62.3 mL placebo (71 patients, 12 weeks)"
+    },
+    {
+      "title": "Insilico Medicine announces Nature Medicine publication of Phase IIa results of Rentosertib",
+      "url": "https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi",
+      "publisher": "Insilico Medicine",
+      "date": "2025-06-03",
+      "type": "clinical_trial",
+      "key_data": "Rentosertib (ISM001-055) — both target and molecule discovered entirely by generative AI; IPF indication"
+    },
+    {
+      "title": "FDA Draft Guidance: Considerations for the Use of AI to Support Regulatory Decision-Making",
+      "url": "https://www.federalregister.gov/documents/2025/01/07/2024-31542/considerations-for-the-use-of-artificial-intelligence-to-support-regulatory-decision-making-for-drug",
+      "publisher": "U.S. FDA / Federal Register",
+      "date": "2025-01-06",
+      "type": "regulatory",
+      "key_data": "First FDA guidance on AI in drug development; 7-step risk-based credibility assessment framework; comment period closed April 7, 2025"
+    },
+    {
+      "title": "Recursion and Exscientia combine to create global AI drug discovery leader",
+      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-and-exscientia-two-leaders-ai-drug-discovery-space",
+      "publisher": "Recursion Pharmaceuticals",
+      "date": "2024-10-01",
+      "type": "merger",
+      "key_data": "Merger of Recursion + Exscientia — combined 60+ PB proprietary data, 2.2M experiments/week, $20B+ in future milestones"
+    },
+    {
+      "title": "AI-Discovered Drugs Reach Phase III — 2026 Will Determine Whether All the Promises Were Real",
+      "url": "https://www.humai.blog/ai-discovered-drugs-reach-phase-iii-and-2026-will-determine-whether-all-the-promises-were-real/",
+      "publisher": "Humai Blog",
+      "date": "2026-01-15",
+      "type": "analysis",
+      "key_data": "173 AI-discovered programs in clinical trials (94 Phase I, 56 Phase II, 15 Phase III); 15-20 pivotal trials expected in 2026"
+    },
+    {
+      "title": "AI Biotech Funding: A 2025 Analysis of VC Investment Trends",
+      "url": "https://intuitionlabs.ai/articles/ai-biotech-funding-trends",
+      "publisher": "IntuitionLabs",
+      "date": "2025-11-01",
+      "type": "market_research",
+      "key_data": "$3.3B invested in AI drug discovery in 2024 (+27% YoY); 530+ companies globally; total sector raised $420B+ in disclosed funding"
+    },
+    {
+      "title": "Who Owns the AI-Discovered Drug? Patent Ownership Guide for Pharma IP Teams",
+      "url": "https://www.drugpatentwatch.com/blog/ai-meets-drug-discovery-but-who-gets-the-patent/",
+      "publisher": "DrugPatentWatch",
+      "date": "2025-03-01",
+      "type": "legal",
+      "key_data": "USPTO: AI cannot be named as inventor; human must 'significantly contribute' to every claim; black-box AI makes attribution legally ambiguous"
+    },
+    {
+      "title": "AI Drug Discovery and Patent Law — Goodwin Law",
+      "url": "https://www.goodwinlaw.com/en/insights/publications/2025/12/insights-lifesciences-ip-ai-drug-discovery-tests-the-limits-of-patent-law",
+      "publisher": "Goodwin Law",
+      "date": "2025-12-01",
+      "type": "legal",
+      "key_data": "Analysis of AI inventorship doctrines; co-ownership risks in pharma AI partnerships; data licensing gaps"
+    },
+    {
+      "title": "2026: The Year AI Reinvents Drug Discovery",
+      "url": "https://aiworldjournal.com/2026-the-year-ai-reinvents-drug-discovery/",
+      "publisher": "AI World Journal",
+      "date": "2026-01-01",
+      "type": "analysis",
+      "key_data": "Summary of 2025 milestones; 2026 as inflection year for AI clinical proof"
+    },
+    {
+      "title": "AI accelerates drug discovery from decades to months — Isomorphic Labs Drug Design Engine",
+      "url": "https://techstartups.com/2026/02/10/ai-accelerates-drug-discovery-from-decades-to-months-isomorphic-labs-drug-design-engine-pushes-beyond-nobel-level-science/",
+      "publisher": "Tech Startups",
+      "date": "2026-02-10",
+      "type": "product",
+      "key_data": "Isomorphic's Drug Design Engine advances beyond AlphaFold — multimodal optimization across targets, off-targets, ADMET"
+    },
+    {
+      "title": "Leading AI-driven drug discovery platforms: 2025 landscape and global outlook",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118",
+      "publisher": "ScienceDirect / Drug Discovery Today",
+      "date": "2025-08-01",
+      "type": "academic",
+      "key_data": "Comprehensive 2025 landscape of 530+ AI drug discovery companies; platform comparison across discovery modalities"
+    }
+  ]
+}
