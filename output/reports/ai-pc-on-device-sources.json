@@ -1,0 +1,67 @@
+{
+  "trend": "AI PCs & On-Device AI",
+  "slug": "ai-pc-on-device",
+  "generated_at": "2026-04-09",
+  "sources": [
+    {
+      "claim": "AI Advanced PC penetration projected to climb 52% YoY to ~59% of global shipments in 2026, up from ~39% in 2025",
+      "publisher": "Counterpoint Research",
+      "url": "https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpass-half-of-global-shipments-in-2026",
+      "date": "2026"
+    },
+    {
+      "claim": "Global on-device AI market estimated at $33.21B in 2026, growing at 24.8% CAGR to $156.59B by 2033",
+      "publisher": "Coherent Market Insights",
+      "url": "https://www.coherentmarketinsights.com/industry-reports/on-device-ai-market",
+      "date": "2026"
+    },
+    {
+      "claim": "Global AI processor market at $73.01B in 2026, growing at 26.11% CAGR to $467.09B by 2034; market was ~$6.4B in 2020",
+      "publisher": "Precedence Research",
+      "url": "https://www.precedenceresearch.com/ai-processor-market",
+      "date": "2026"
+    },
+    {
+      "claim": "CES 2026: NPUs are now a requirement across all flagship PCs; Intel 18A breakthrough + AMD Ryzen AI Ultra launch mark pivotal transition",
+      "publisher": "Introl Blog / Newegg Insider",
+      "url": "https://www.newegg.com/insider/ai-pc-news-from-ces-2026-the-npu-race-goes-real-and-oems-build-around-local-ai/",
+      "date": "Jan 2026"
+    },
+    {
+      "claim": "Gartner forecasts 100% of commercial PC purchases will be AI PCs by end of 2026; 40% of software vendors to prioritize AI PC capabilities by 2026 vs. 2% in 2024",
+      "publisher": "Computerworld / Gartner",
+      "url": "https://www.computerworld.com/article/4047019/ai-pcs-to-surge-claiming-over-half-the-market-by-2026.html",
+      "date": "2025"
+    },
+    {
+      "claim": "EU AI Act compliance deadline August 2, 2026 creates dual obligations for high-risk AI systems; GDPR fines have passed €7.1B cumulative",
+      "publisher": "Privacy World / Pearl Cohen",
+      "url": "https://www.privacyworld.blog/2026/01/primer-on-2026-consumer-privacy-ai-and-cybersecurity-laws/",
+      "date": "Jan 2026"
+    },
+    {
+      "claim": "AI PC market share grew from 9% in 2022 to 31% in 2025 and projected 54.7% in 2026; multiple SLMs run locally vs. zero in 2023",
+      "publisher": "ElectroIQ / Counterpoint Research",
+      "url": "https://electroiq.com/stats/ai-pc-statistics/",
+      "date": "2025"
+    },
+    {
+      "claim": "45% of workers now regularly use AI at work; AI adoption jumped 13% — but confidence in using the tech fell 18% (WEF Jan 2026)",
+      "publisher": "World Economic Forum",
+      "url": "https://www.weforum.org/stories/2026/01/human-behaviour-workforce-adoption-value-derived-from-ai/",
+      "date": "Jan 2026"
+    },
+    {
+      "claim": "Microsoft Copilot+ PC standard launched May 2024 requiring 40+ TOPS NPU; Qualcomm Snapdragon X Elite leads initial Copilot+ partner lineup",
+      "publisher": "Microsoft / Qualcomm",
+      "url": "https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/",
+      "date": "May 2024"
+    },
+    {
+      "claim": "Samsung confirmed Android XR smart glasses and AI PCs launching H2 2026; Galaxy Glasses priced $600–$900, powered by Gemini AI + Android XR",
+      "publisher": "CNBC / Tom's Guide",
+      "url": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+      "date": "Mar 2026"
+    }
+  ]
+}
