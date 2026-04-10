@@ -1,0 +1,233 @@
+{
+  "trend_name": "AI Chip Wars",
+  "status": "surging",
+  "search_volume": "~100,000",
+  "category": "AI & Technology",
+  "growth_5y": "+36.6% CAGR",
+  "growth_1y": "+29%",
+  "growth_3m": "+66% YoY",
+  "trigger": "NVIDIA's Blackwell GPUs sold out through mid-2026 with a 3.6M-unit backlog and $500B booking pipeline; the $500B Stargate program became the largest private AI infrastructure commitment in history; Q1 2026 saw a record $297B in AI funding (80% of global VC); Trump reversed then reinstated China chip export controls within months — adding geopolitical urgency; NVIDIA's market cap hit $4.4T, the highest of any company ever.",
+  "timeline": [
+    {
+      "date": "2022-03",
+      "event": "NVIDIA announces Hopper (H100) architecture at GTC 2022, becoming the definitive AI training GPU and kicking off a two-year global supply crunch that establishes NVIDIA's monopoly-grade dominance."
+    },
+    {
+      "date": "2023-05",
+      "event": "NVIDIA becomes the first chip company to cross a $1T market cap, fueled by ChatGPT-era demand; 500,000 H100 GPUs ship in Q3 2023 alone, validating the commercial AI chip cycle at scale."
+    },
+    {
+      "date": "2024-03",
+      "event": "NVIDIA unveils Blackwell (B200/GB200) at GTC 2024; AMD ships MI300X to hyperscalers; the entire 2025 Blackwell production run is pre-sold before a single chip ships — establishing a 3.6M-unit backlog."
+    },
+    {
+      "date": "2024-10",
+      "event": "US Commerce Department's AI Diffusion Rule restricts H100/A100 exports to 120+ countries, igniting global fears over AI compute inequality and forcing allied nations to negotiate bilateral chip agreements."
+    },
+    {
+      "date": "2025-07",
+      "event": "Trump reverses China chip export ban; Blackwell GB200 NVL72 systems reach mass deployment; NVIDIA posts $51.2B in data center revenue in Q3 FY2026 alone — a +66% YoY surge confirming AI chip as the fastest-growing product category in semiconductor history."
+    },
+    {
+      "date": "2026-03",
+      "event": "US Congress passes the Chip Security Act on March 26, embedding GPS tracking into exported AI chips; NVIDIA confirms Vera Rubin architecture for H2 2026 on TSMC 3nm; Huawei's Ascend 910C delivers only ~4% of NVIDIA's compute throughput, confirming China's enduring gap."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The US–China AI chip war is the defining geopolitical tech conflict of 2026. Biden's AI Diffusion Rule (Oct 2024) restricted exports to 120+ countries; Trump reversed the China ban in July 2025, then recodified limited H200 exports in January 2026 — capped at ~1M units with a 25% revenue tariff. Congress passed the Chip Security Act on March 26, 2026, requiring GPS tracking in exported chips. Sovereign nations (UAE, Saudi Arabia, France, India) are spending billions to reduce US chip dependence and build domestic AI compute."
+    },
+    {
+      "factor": "Economic",
+      "impact": "NVIDIA's market cap reached $4.4T — the highest valuation in corporate history. The $500B Stargate program is the largest private AI infrastructure commitment ever. Q1 2026 AI funding hit $297B (80% of global VC), with OpenAI alone raising $122B. Data center capex grew 57% in 2025 and is projected to exceed $1T in 2026. Microsoft allocated $80B and Google $75B in annual AI infrastructure spending. NVIDIA's CEO forecasts AI compute expenditure will grow 300%+ within 3 years."
+    },
+    {
+      "factor": "Social",
+      "impact": "NVIDIA's near-monopoly concentrates AI power in a handful of frontier labs that can afford Blackwell GPU clusters, widening the AI access gap between wealthy companies and the rest. A severe shortage of engineers combining ML expertise and silicon optimization skills is constraining the entire ecosystem. The H100 black market — including chip smuggling via SE Asian intermediaries to China — reflects global desperation for compute access. The Super Micro Computer co-founder was arrested March 19, 2026 for conspiring to divert NVIDIA servers to China."
+    },
+    {
+      "factor": "Technological",
+      "impact": "NVIDIA's CUDA software ecosystem represents 10+ years of developer lock-in that AMD ROCm and Intel oneAPI have failed to dislodge. Blackwell's GB200 NVL72 delivers 30x inference throughput vs H100. However, hyperscaler custom silicon (Google TPU v5, Amazon Trainium2, Meta MTIA) is winning inference economics at cloud scale. NVIDIA's Vera Rubin (H2 2026) will use TSMC 3nm with HBM4 memory at 13 TB/s bandwidth — expected to further extend the performance gap."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "The IEA projects the AI industry will consume 10x the energy by 2026 vs 2023. A single H100 draws 700W; one GB200 NVL72 rack requires ~120kW. Full-year 2026 global data center capex exceeds $1T, requiring gigawatts of new grid capacity. The EU AI Act (fully applicable August 2, 2026) mandates energy transparency reporting for AI systems. Microsoft, Google, and Amazon are all investing in nuclear and renewable energy PPAs specifically to power AI infrastructure."
+    },
+    {
+      "factor": "Legal",
+      "impact": "The EU AI Act (fully applicable August 2, 2026) requires energy transparency for AI systems; violations carry fines up to €15M or 3% of global annual revenue. The US Chip Security Act (March 26, 2026) mandates GPS tracking in exported AI chips, reshaping global supply chains. US export controls codified January 15, 2026 permit limited H200/MI325X sales to China (~1M unit cap) with a 25% tariff. HIPAA-analogue data-center legislation is advancing in California and the EU for AI compute providers."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Train frontier AI models at hyperscale",
+      "solution": "Frontier labs (OpenAI, Anthropic, Google DeepMind, xAI) use NVIDIA Blackwell GB200 NVL72 clusters to train next-generation LLMs and multimodal models. This workload requires hundreds of millions in chip capex and is NVIDIA's core stronghold — 80–90% training market share vs all challengers combined."
+    },
+    {
+      "job": "Serve AI inference to millions of concurrent users at lowest cost",
+      "solution": "AWS Trainium2/Inferentia2, Google Cloud TPU v5, and AMD MI300X are capturing the inference market by offering 30–50% cost savings vs H100/H200. Critical for companies paying $1M+/month in GPU costs to serve ChatGPT-scale traffic; inference market share is already 25–40% non-NVIDIA."
+    },
+    {
+      "job": "Build sovereign national AI compute capacity",
+      "solution": "Governments in UAE, Saudi Arabia, France, India, and Japan purchase NVIDIA DGX Superpods and negotiate direct bilateral chip deals to build national AI supercomputing facilities — avoiding dependence on US hyperscalers while enabling domestic LLM development for defense and economic competitiveness."
+    },
+    {
+      "job": "Deploy AI on edge devices without cloud latency or privacy exposure",
+      "solution": "Apple's Neural Engine, NVIDIA DRIVE Thor for autonomous vehicles, and Qualcomm Snapdragon X Elite bring powerful inference on-device — enabling real-time AI in cars, phones, and wearables without transmitting sensitive data to cloud servers."
+    },
+    {
+      "job": "Accelerate scientific discovery in drug design, climate modeling, and quant finance",
+      "solution": "NVIDIA BioNeMo powers drug molecular simulation; Google TPUs run AlphaFold protein folding at scale; AMD MI300X clusters run real-time quant models at hedge funds. These vertical AI workloads are the fastest-growing inference segment, with 3–5x annual revenue growth in specialty domains."
+    }
+  ],
+  "market": [
+    {
+      "name": "NVIDIA",
+      "share": "~80%",
+      "loved": "$4.4T market cap; Blackwell sold out through mid-2026; CUDA ecosystem moat; 3.6M-unit backlog; $500B booking pipeline; Vera Rubin on TSMC 3nm for H2 2026",
+      "segment": "Training + premium inference"
+    },
+    {
+      "name": "Google (Cloud TPU)",
+      "share": "~13%",
+      "loved": "Most cost-efficient inference at cloud scale; powers Gemini internally; TPU v5 available on GCP; 58% of the custom cloud AI accelerator market",
+      "segment": "Cloud inference + internal training"
+    },
+    {
+      "name": "AMD (Instinct)",
+      "share": "~5-6%",
+      "loved": "MI300X beats H100 on memory capacity; MI350/MI355X adding FP4 precision; most viable merchant NVIDIA alternative; $5B+ MI300 revenue in 2024",
+      "segment": "Training alternative + inference"
+    },
+    {
+      "name": "Amazon (Trainium)",
+      "share": "~1-2%",
+      "loved": "Trainium2/Inferentia2 power 35% of AWS AI workloads; best cost-performance for AWS-native deployments; zero external vendor dependency",
+      "segment": "AWS cloud inference"
+    },
+    {
+      "name": "Huawei (Ascend)",
+      "share": "~2%",
+      "loved": "Dominant in China's domestic market post-export controls; Ascend 910C available at scale; only viable option for Chinese AI labs blocked from NVIDIA",
+      "segment": "China domestic AI"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Intel (Gaudi)",
+      "detail": "Intel is discontinuing its dedicated Gaudi AI accelerator line in 2026–2027, effectively conceding the AI chip market after repeated software readiness delays and failure to build a CUDA-competitive ecosystem. Intel will pivot to a next-gen GPU line but faces an uphill battle against entrenched NVIDIA and rising AMD."
+    },
+    {
+      "name": "Cerebras Systems",
+      "detail": "Cerebras builds Wafer-Scale Engine (WSE) chips — the world's largest processors — for extreme-throughput LLM training. The CS-3 processes 24 trillion parameters/second. Funded by G42 (Abu Dhabi), Cerebras filed for IPO in 2025 and targets the niche of very large training runs where its unique die-scale memory architecture outperforms GPU clusters."
+    },
+    {
+      "name": "Groq (LPU)",
+      "detail": "Groq's Language Processing Unit (LPU) delivers 500+ tokens/second on Llama 3 — roughly 10× faster than NVIDIA H100 for inference latency, at a fraction of the energy cost. GroqCloud provides API access; Groq targets the real-time inference niche where latency is the primary bottleneck, not raw throughput."
+    },
+    {
+      "name": "SambaNova Systems",
+      "detail": "SambaNova's Reconfigurable Dataflow Unit (RDU) targets enterprise AI inference with a vertically integrated hardware/software stack. Backed by Intel Capital and SoftBank; deployed at US national labs and financial institutions. Differentiates on energy efficiency and operational simplicity for steady-state inference workloads."
+    },
+    {
+      "name": "Tenstorrent",
+      "detail": "Founded by legendary chip architect Jim Keller (ex-AMD, Apple, Intel), Tenstorrent builds RISC-V-based AI processors targeting cost-sensitive deployment and an open-source software ecosystem. Backed by Hyundai and Samsung; shipping Wormhole and Blackhole chips in 2024–2026. Represents the open-hardware alternative to NVIDIA's closed CUDA monopoly."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: Hyperscale cloud providers (AWS, Google Cloud, Azure, Oracle) and frontier AI labs (OpenAI, Anthropic, xAI, Meta AI) competing intensely for Blackwell GPU allocation — signing multi-year supply agreements to guarantee access. Secondary: Enterprise IT and AI platform teams building on-premise inference clusters to escape cloud GPU rental costs. Tertiary: Sovereign governments (UAE, Saudi Arabia, France, India, Japan) allocating multi-billion-dollar budgets for national AI compute infrastructure.",
+    "where": "Hyperscale data centers in Northern Virginia, Texas, Ireland, and Singapore; sovereign AI facilities in UAE (G42/NVIDIA partnership) and Saudi Arabia (NEOM AI); edge deployment in Tesla Full Self-Driving chips (NVIDIA DRIVE Thor), Apple Neural Engine, and Qualcomm Snapdragon X Elite laptops.",
+    "why_now": "NVIDIA Blackwell sold out through mid-2026 ($500B pipeline, 3.6M-unit backlog) — GPU access became the primary competitive moat for AI companies. The $500B Stargate program cemented AI infrastructure as a US national priority. Q1 2026 saw a record $297B in AI venture funding (80% of global VC). Trump's reversals on China chip export controls — three policy shifts in 18 months — created regulatory volatility that forces supply chain diversification right now.",
+    "behavior": "Hyperscalers sign long-term GPU supply agreements to guarantee Blackwell allocation (Microsoft committed $80B in annual AI infrastructure). Enterprises choose between cloud GPU rental ($2–4/hr per H100), on-premise NVL72 racks (~$10M/unit), or consuming inference via API. Startups aggressively benchmark AMD MI300X and Google TPUs against NVIDIA to cut inference costs by 30–50%. Governments negotiate direct bilateral AI chip access deals to bypass hyperscaler intermediaries.",
+    "unmet": "Energy infrastructure bottleneck: a single NVL72 rack requires ~120kW; building gigawatt-scale AI data centers takes 3–5 years and strains local power grids beyond current capacity. TSMC concentration risk: over 90% of advanced AI chips are manufactured at one company in Taiwan — a geopolitical single point of failure. CUDA lock-in: migrating ML workloads from NVIDIA to AMD or custom silicon costs 6–18 months of engineering time. Inference cost ceiling: the $1–4/hr rental price for H100 cloud access remains prohibitive for consumer and SMB AI applications, suppressing the total addressable market."
+  },
+  "takeaways": [
+    "Run a multi-chip inference benchmark before your next GPU contract renewal: NVIDIA's 80%+ training dominance won't break soon, but inference is already diversifying fast. Google TPUs, AMD MI300X, and Amazon Trainium each offer 30–50% cost reductions vs H100 for steady-state inference workloads. Any company spending over $500K/year on cloud GPU inference should complete a competitive benchmark before signing the next contract.",
+    "The real bottleneck in 2026 is power, not chips: Blackwell's supply constraints will ease when Vera Rubin ships in H2 2026, but the power grid bottleneck won't resolve for years. Companies that negotiate Power Purchase Agreements (PPAs) with nuclear or renewable energy sources now will have a structural 20–30% data center cost advantage over laggards within 3 years. AI energy strategy is becoming a board-level competitive imperative.",
+    "Build a US export control compliance stack before end of 2026: Trump's January 2026 H200 export reversal introduced a 25% chip revenue tariff and new GPS tracking requirements under the Chip Security Act. Any company in the AI supply chain with China-facing revenues, APAC manufacturing, or US government contracts needs a formal Export Control Management System (ECMS) with automated country-of-origin screening and audit trails.",
+    "Sovereign AI is the fastest-growing government procurement category of the decade: UAE, Saudi Arabia, France, India, and Japan are committing tens of billions to national AI compute infrastructure while explicitly avoiding sole-source dependence on US hyperscalers. Cloud providers, hardware OEMs, and system integrators that establish sovereign AI partnerships in 2026 will capture decade-long government contracts with predictable, high-margin, and geopolitically durable revenue streams."
+  ],
+  "sources": [
+    {
+      "title": "Artificial Intelligence (AI) Chip Market Size to Hit USD 1,104.68 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+      "publisher": "Precedence Research"
+    },
+    {
+      "title": "NVIDIA GPU Market Share 2024–2026: 87% Peak, What Comes Next",
+      "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+      "publisher": "Silicon Analysts"
+    },
+    {
+      "title": "Nvidia's Blackwell Dynasty: B200 and GB200 Sold Out Through Mid-2026 as Backlog Hits 3.6 Million Units",
+      "url": "https://markets.financialcontent.com/wral/article/tokenring-2025-12-29-nvidias-blackwell-dynasty-b200-and-gb200-sold-out-through-mid-2026-as-backlog-hits-36-million-units",
+      "publisher": "Markets Financial Content"
+    },
+    {
+      "title": "The New AI Chip Export Policy to China: Strategically Incoherent and Unenforceable",
+      "url": "https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable",
+      "publisher": "Council on Foreign Relations"
+    },
+    {
+      "title": "The AI Chip War Just Fractured: What Nvidia's $4.4 Trillion Dominance Faces in 2026",
+      "url": "https://www.kavout.com/market-lens/the-ai-chip-war-just-fractured-what-nvidia-s-4-4-trillion-dominance-faces-in-2026",
+      "publisher": "Kavout"
+    },
+    {
+      "title": "The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy",
+      "url": "https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/",
+      "publisher": "Semiconductor Digest"
+    },
+    {
+      "title": "Data Center Capex Surges 57 Percent in 2025 as AI Deployments Accelerate",
+      "url": "https://www.delloro.com/news/data-center-capex-surges-57-percent-in-2025-as-ai-deployments-accelerate/",
+      "publisher": "Dell'Oro Group"
+    },
+    {
+      "title": "Administration Policies on Advanced AI Chips Codified, with Reverberations Across AI Ecosystem",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/administration-policies-on-advanced-ai-chips-codified",
+      "publisher": "Mayer Brown"
+    },
+    {
+      "title": "AI Accelerator Market Looks Set to Exceed $600 Billion by 2033",
+      "url": "https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/",
+      "publisher": "Bloomberg Intelligence"
+    },
+    {
+      "title": "China's AI Chip Deficit: Why Huawei Can't Catch Nvidia and US Export Controls Should Remain",
+      "url": "https://www.cfr.org/article/chinas-ai-chip-deficit-why-huawei-cant-catch-nvidia-and-us-export-controls-should-remain",
+      "publisher": "Council on Foreign Relations"
+    },
+    {
+      "title": "AI Chip Smuggling: The Limits of US Export Controls",
+      "url": "https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls",
+      "publisher": "Bloomsbury Intelligence and Security Institute"
+    },
+    {
+      "title": "Energy Efficiency Requirements Under the EU AI Act",
+      "url": "https://www.whitecase.com/insight-alert/energy-efficiency-requirements-under-eu-ai-act",
+      "publisher": "White & Case"
+    },
+    {
+      "title": "10 Best AI Chip Makers in 2026: NVIDIA Dominates AI Chip Race as Market Surges Toward $500 Billion",
+      "url": "https://www.ibtimes.com.au/10-best-ai-chip-makers-2026-nvidia-dominates-ai-chip-race-market-surges-toward-500-billion-1866051",
+      "publisher": "International Business Times Australia"
+    },
+    {
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "publisher": "Crunchbase News"
+    },
+    {
+      "title": "The AI Chip Market Explosion: Key Stats on Nvidia, AMD, and Intel's AI Dominance",
+      "url": "https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance",
+      "publisher": "PatentPC"
+    },
+    {
+      "title": "Artificial Intelligence (AI) Chips Market Size | CAGR of 36.6%",
+      "url": "https://www.businessresearchinsights.com/market-reports/artificial-intelligence-ai-chips-market-105026",
+      "publisher": "Business Research Insights"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "trend": "AI Chip Wars",
+  "slug": "ai-chip-wars",
+  "research_date": "2026-04-10",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Artificial Intelligence (AI) Chip Market Size to Hit USD 1,104.68 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/artificial-intelligence-chip-market",
+      "publisher": "Precedence Research",
+      "date": "2026",
+      "claims_supported": [
+        "AI chip market size: $71.25B (2024), $94.44B (2025), $121.73B (2026 est.)",
+        "growth_1y: +29% (2025→2026 calculation)",
+        "27.88% CAGR from 2026 to 2035",
+        "Long-range projection $1,104.68B by 2035"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artificial Intelligence (AI) Chips Market Size | CAGR of 36.6%",
+      "url": "https://www.businessresearchinsights.com/market-reports/artificial-intelligence-ai-chips-market-105026",
+      "publisher": "Business Research Insights",
+      "date": "2026",
+      "claims_supported": [
+        "growth_5y: CAGR of 36.6% cited as market growth rate for AI chips (2026–2030 window)",
+        "Corroborates rapid market expansion consistent with surging status"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA GPU Market Share 2024–2026: 87% Peak, What Comes Next",
+      "url": "https://siliconanalysts.com/analysis/nvidia-ai-accelerator-market-share-2024-2026",
+      "publisher": "Silicon Analysts",
+      "date": "2026",
+      "claims_supported": [
+        "NVIDIA ~80% AI accelerator market share (declining from ~87% peak)",
+        "AMD: ~5–8% market share",
+        "Google TPUs: ~13.1% of total market in 2025",
+        "Google controls 58% of custom cloud AI accelerator market",
+        "Hyperscaler custom ASICs targeting 10–15% by 2026",
+        "Market player share percentages for NVIDIA, AMD, Google (TPU), Amazon (Trainium)"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Nvidia's Blackwell Dynasty: B200 and GB200 Sold Out Through Mid-2026 as Backlog Hits 3.6 Million Units",
+      "url": "https://markets.financialcontent.com/wral/article/tokenring-2025-12-29-nvidias-blackwell-dynasty-b200-and-gb200-sold-out-through-mid-2026-as-backlog-hits-36-million-units",
+      "publisher": "Markets Financial Content",
+      "date": "2025-12-29",
+      "claims_supported": [
+        "Blackwell B200 and GB200 sold out through mid-2026",
+        "3.6 million-unit backlog figure",
+        "$500B booking pipeline",
+        "Timeline event (2024-03): entire 2025 production pre-sold",
+        "trigger: Blackwell GPU sold out with $500B booking pipeline"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The New AI Chip Export Policy to China: Strategically Incoherent and Unenforceable",
+      "url": "https://www.cfr.org/articles/new-ai-chip-export-policy-china-strategically-incoherent-and-unenforceable",
+      "publisher": "Council on Foreign Relations",
+      "date": "2026",
+      "claims_supported": [
+        "Trump reversed China chip ban in July 2025 after just 3 months",
+        "January 15, 2026 regulation codifies H200/MI325X export to China (~1M unit cap)",
+        "25% revenue tariff on chip exports under Trump Proclamation January 14, 2026",
+        "Political PESTAL: US–China chip war description",
+        "Timeline event 2024-10: AI Diffusion Rule restricts exports to 120+ countries",
+        "Timeline event 2025-07: Trump reverses ban"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The AI Chip War Just Fractured: What Nvidia's $4.4 Trillion Dominance Faces in 2026",
+      "url": "https://www.kavout.com/market-lens/the-ai-chip-war-just-fractured-what-nvidia-s-4-4-trillion-dominance-faces-in-2026",
+      "publisher": "Kavout",
+      "date": "2026",
+      "claims_supported": [
+        "NVIDIA market cap $4.4 trillion (highest valuation of any company)",
+        "trigger: NVIDIA market cap hit $4.4T",
+        "Economic PESTAL: $4.4T NVIDIA market cap context",
+        "NVIDIA 80–85% AI accelerator market share corroboration"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The $7 Trillion AI Supercycle: From Chips to Data Centers to a New Compute Economy",
+      "url": "https://www.semiconductor-digest.com/the-7-trillion-ai-supercycle-from-chips-to-data-centers-to-a-new-compute-economy/",
+      "publisher": "Semiconductor Digest",
+      "date": "2026",
+      "claims_supported": [
+        "$500B Stargate program context",
+        "Full-year 2026 data center capex forecast to surpass $1T",
+        "Economic PESTAL: Stargate program as largest private AI infrastructure commitment",
+        "NVIDIA CEO 300%+ AI spending increase forecast"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Data Center Capex Surges 57 Percent in 2025 as AI Deployments Accelerate",
+      "url": "https://www.delloro.com/news/data-center-capex-surges-57-percent-in-2025-as-ai-deployments-accelerate/",
+      "publisher": "Dell'Oro Group",
+      "date": "2026",
+      "claims_supported": [
+        "Data center capex grew 57% in 2025 (Economic PESTAL)",
+        "Global AI capex growing 60% in 2025 to $360B and 33% in 2026 to $480B",
+        "Environmental PESTAL: scale of infrastructure buildout context"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Administration Policies on Advanced AI Chips Codified, with Reverberations Across AI Ecosystem",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/administration-policies-on-advanced-ai-chips-codified",
+      "publisher": "Mayer Brown",
+      "date": "2026-01",
+      "claims_supported": [
+        "BIS final rule effective January 15, 2026 codifying H200/MI325X export policy",
+        "~1M H200 unit cap to China plus ~1M H100s",
+        "Legal PESTAL: export control codification detail",
+        "Takeaway #3: US export control compliance stack recommendation"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "AI Accelerator Market Looks Set to Exceed $600 Billion by 2033",
+      "url": "https://www.bloomberg.com/company/press/ai-accelerator-market-looks-set-to-exceed-600-billion-by-2033-driven-by-hyperscale-spending-and-asic-adoption-according-to-bloomberg-intelligence/",
+      "publisher": "Bloomberg Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "AI accelerator market $116B in 2024 (cross-reference for market sizing)",
+        "Market projected to exceed $600B by 2033 at 16% CAGR",
+        "Hyperscaler custom ASIC adoption as key growth driver",
+        "Competitor context: custom silicon disruption"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "China's AI Chip Deficit: Why Huawei Can't Catch Nvidia and US Export Controls Should Remain",
+      "url": "https://www.cfr.org/article/chinas-ai-chip-deficit-why-huawei-cant-catch-nvidia-and-us-export-controls-should-remain",
+      "publisher": "Council on Foreign Relations",
+      "date": "2026",
+      "claims_supported": [
+        "Huawei would produce only ~5% of NVIDIA's aggregate AI computing power in 2025, falling to ~4% in 2026",
+        "Timeline event 2026-03: Huawei Ascend 910C delivers ~4% of NVIDIA compute throughput",
+        "Market player (Huawei Ascend): ~2% global market share context",
+        "SMIC stuck at 7nm due to equipment export controls"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "AI Chip Smuggling: The Limits of US Export Controls",
+      "url": "https://bisi.org.uk/reports/ai-chip-smuggling-the-limits-of-us-export-controls",
+      "publisher": "Bloomsbury Intelligence and Security Institute",
+      "date": "2026",
+      "claims_supported": [
+        "US Congress approved the Chip Security Act on March 26, 2026",
+        "Chip Security Act embeds tracking technology into chips",
+        "Super Micro Computer co-founder arrested March 19, 2026 for chip smuggling conspiracy",
+        "Legal PESTAL: Chip Security Act detail",
+        "Timeline event 2026-03: Chip Security Act passage",
+        "Social PESTAL: black market chip smuggling reality"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Energy Efficiency Requirements Under the EU AI Act",
+      "url": "https://www.whitecase.com/insight-alert/energy-efficiency-requirements-under-eu-ai-act",
+      "publisher": "White & Case",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act fully applicable August 2, 2026",
+        "Mandatory energy transparency reporting for AI systems",
+        "Fines up to €15M or 3% of global annual revenue",
+        "Legal PESTAL: EU AI Act energy compliance detail",
+        "Environmental PESTAL: EU data center energy requirements"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "10 Best AI Chip Makers in 2026: NVIDIA Dominates AI Chip Race as Market Surges Toward $500 Billion Milestone",
+      "url": "https://www.ibtimes.com.au/10-best-ai-chip-makers-2026-nvidia-dominates-ai-chip-race-market-surges-toward-500-billion-1866051",
+      "publisher": "International Business Times Australia",
+      "date": "2026",
+      "claims_supported": [
+        "Generative AI chips approaching $500B revenue in 2026",
+        "NVIDIA 80–85% AI accelerator market share",
+        "Competitor landscape: AMD, Google, Intel, Cerebras context",
+        "Market sizing corroboration"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "publisher": "Crunchbase News",
+      "date": "2026",
+      "claims_supported": [
+        "$297B total Q1 2026 AI funding (80% of global VC)",
+        "OpenAI raised $122B, Anthropic $30B, xAI $20B in Q1 2026",
+        "trigger: $297B Q1 2026 AI funding figure",
+        "Economic PESTAL: record funding intensifying chip demand"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "The AI Chip Market Explosion: Key Stats on Nvidia, AMD, and Intel's AI Dominance",
+      "url": "https://patentpc.com/blog/the-ai-chip-market-explosion-key-stats-on-nvidia-amd-and-intels-ai-dominance",
+      "publisher": "PatentPC",
+      "date": "2025",
+      "claims_supported": [
+        "NVIDIA shipped 500,000 H100s in Q3 2023 (timeline 2023-05)",
+        "NVIDIA crossed $1T market cap in May 2023",
+        "NVIDIA data center revenue trajectory context for growth_3m",
+        "AMD $5B+ MI300 revenue in 2024 (market player detail)"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "NVIDIA Q3 FY2026 Earnings: Blackwell Ramp to Boost Data Centre Sales",
+      "url": "https://www.ig.com/en/news-and-trade-ideas/NVIDIA-Q3-FY2026-earnings-preview-251111",
+      "publisher": "IG International",
+      "date": "2025-11",
+      "claims_supported": [
+        "growth_3m: +66% YoY (NVIDIA data center $51.2B in Q3 FY2026, +66% YoY)",
+        "NVIDIA total revenue $57B in Q3 FY2026",
+        "Timeline event 2025-07: NVIDIA posts $51.2B data center revenue in Q3 FY2026"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "US–China Chip Tensions Renew Focus on AI Controls as Washington Clears Conditional Nvidia Exports",
+      "url": "https://www.fintechweekly.com/magazine/articles/us-china-chip-controls-nvidia-h200-conditional-export-policy",
+      "publisher": "FinTech Weekly",
+      "date": "2026",
+      "claims_supported": [
+        "25% revenue tariff on chip exports to China (Trump Proclamation Jan 14, 2026)",
+        "H200 conditional export policy codification detail",
+        "Political PESTAL: export control policy reversal timeline",
+        "Takeaway #3: export control compliance context"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: '+36.6% CAGR'",
+      "note": "The 36.6% CAGR cited by Business Research Insights is for the 2026–2030 forecast window, not a backward-looking 2021–2026 figure. The actual 5-year CAGR from 2021 to 2026 is estimated higher (~40–50%) given the explosive ChatGPT-driven demand inflection in 2022–2023. A single authoritative source providing a precise 2021 market baseline was not available. The 36.6% figure is cited as the best available documented CAGR proxy."
+    },
+    {
+      "claim": "growth_3m: '+66% YoY' applied as 3-month momentum proxy",
+      "note": "The +66% YoY figure is NVIDIA's Q3 FY2026 (October 2025) data center segment growth year-over-year — not a sequential quarter-over-quarter figure. It is used as the most recent and authoritative short-term market momentum indicator. No single-quarter sequential growth figure for the overall AI chip market was available from a published source."
+    },
+    {
+      "claim": "search_volume: ~100,000/month",
+      "note": "The 100,000 monthly search volume for 'AI chips' and related terms is a directional estimate. No primary keyword tool (e.g., Keywords Everywhere, Ahrefs) was directly queried. The estimate is based on the compound interest around searches for NVIDIA (millions/month), 'AI chip' (likely 50K–150K), and 'AI chip wars' (lower volume but trending). The actual volume may be higher if NVIDIA-adjacent searches are included."
+    },
+    {
+      "claim": "Amazon Trainium market share '~1-2%'",
+      "note": "The '35% of AWS AI workloads' figure from public sources refers to Amazon's internal deployment mix, not global market share. The 1–2% global market share estimate for Amazon Trainium/Inferentia is derived by applying AWS's ~10% share of global AI compute to the 15% fraction of AWS workloads running on Trainium. This is a rough estimate; no analyst has published a standalone Trainium/Inferentia global market share figure."
+    },
+    {
+      "claim": "Huawei Ascend market share '~2%'",
+      "note": "Huawei's market share is limited to China's domestic AI chip market due to US export controls. The 2% global figure is estimated from Huawei's ~4% of NVIDIA's compute throughput (CFR) and NVIDIA's ~80% share. Huawei's domestic China market share is much higher (~30–40% of China AI chip market), but the global figure remains small given China's reduced AI chip import access."
+    }
+  ]
+}
