@@ -1,0 +1,172 @@
+{
+  "trend": "AI Digital Twins",
+  "slug": "ai-digital-twins",
+  "research_date": "2026-04-11",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "Digital Twin Market Size And Share | Industry Report, 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/digital-twin-market",
+      "publisher": "Grand View Research",
+      "data_used": "Market size $35.82B in 2025, $49.47B in 2026; 31.1% CAGR to $328.51B by 2033",
+      "verified": true
+    },
+    {
+      "id": "s2",
+      "title": "Digital Twin Market Size, Share & Growth Report [2026-2034]",
+      "url": "https://www.fortunebusinessinsights.com/digital-twin-market-106246",
+      "publisher": "Fortune Business Insights",
+      "data_used": "Market size projections 2026-2034; growth trajectory",
+      "verified": true
+    },
+    {
+      "id": "s3",
+      "title": "AI digital twin startup Simile raises $100M in funding",
+      "url": "https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/",
+      "publisher": "SiliconANGLE",
+      "data_used": "Simile $100M Series A; Index Ventures lead; Fei-Fei Li and Andrej Karpathy as backers; February 12, 2026",
+      "verified": true
+    },
+    {
+      "id": "s4",
+      "title": "Simile Raises $100M to Replace Focus Groups With AI Digital Twins (2026)",
+      "url": "https://ai2.work/startups/simile-raises-100m-to-replace-focus-groups-with-ai-digital-twins-2026/",
+      "publisher": "AI 2 Work",
+      "data_used": "Simile use case: replacing $5K-$20K focus groups; CVS Health as enterprise client; CEO Joon Sung Park background; Generative Agents paper (2023 Best Paper ACM UIST)",
+      "verified": true
+    },
+    {
+      "id": "s5",
+      "title": "AI Startup Simile Secures Funding to Help Companies Anticipate Customer Choices",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-12/ai-startup-nabs-100-million-to-help-firms-predict-human-behavior",
+      "publisher": "Bloomberg",
+      "data_used": "Simile funding details; enterprise behavioral twin use cases; February 2026",
+      "verified": true
+    },
+    {
+      "id": "s6",
+      "title": "Simile AI: The $100M Bet on Synthetic Humanity",
+      "url": "https://www.ctol.digital/news/simile-ai-100m-series-a-synthetic-humanity/",
+      "publisher": "CTOL Digital Solutions",
+      "data_used": "Simile technical architecture; human behavioral twin applications; Bain Capital Ventures as co-investor",
+      "verified": true
+    },
+    {
+      "id": "s7",
+      "title": "Digital Twins Transition to Intelligent, AI-Driven Systems in 2026",
+      "url": "https://www.rtinsights.com/digital-twins-in-2026-from-digital-replicas-to-intelligent-ai-driven-systems/",
+      "publisher": "RTInsights",
+      "data_used": "State of digital twin technology in 2026; AI augmentation; convergence with generative AI",
+      "verified": true
+    },
+    {
+      "id": "s8",
+      "title": "Digital twin tech landscape for manufacturing 2026",
+      "url": "https://www.patsnap.com/resources/blog/articles/digital-twin-tech-landscape-for-manufacturing-2026/",
+      "publisher": "PatSnap",
+      "data_used": "70%+ adoption rate in aerospace, automotive, electronics, energy; 30-50% in food/beverage/pharma",
+      "verified": true
+    },
+    {
+      "id": "s9",
+      "title": "Top Digital Twin Startups by Fundraising (2026)",
+      "url": "https://newmarketpitch.com/blogs/news/digital-twin-top-startups-fundraising",
+      "publisher": "New Market Pitch",
+      "data_used": "Average round size doubled from $27M to $56M; construction ($415M) and energy ($452M) most funded verticals; 781 digital twin startups identified",
+      "verified": true
+    },
+    {
+      "id": "s10",
+      "title": "Digital Twin Market Size, Share & Growth",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/digital-twin-market-225269522.html",
+      "publisher": "MarketsandMarkets",
+      "data_used": "Market size and key players; fragmented market with top 10 players at 6% revenue share in 2024",
+      "verified": true
+    },
+    {
+      "id": "s11",
+      "title": "Digital Twin Market Trends, Investment Opportunities, and Growth Analysis Through 2032 Featuring Siemens, GE Digital, IBM, PTC, ANSYS, Dassault Systèmes",
+      "url": "https://www.openpr.com/news/4284656/digital-twin-market-trends-investment-opportunities",
+      "publisher": "OpenPR / Market Research",
+      "data_used": "Siemens AG led global sales in 2024 with 1% market share; key competitor analysis",
+      "verified": true
+    },
+    {
+      "id": "s12",
+      "title": "Digital Twins Under EU Law: A Unified Compliance Framework Across Smart Cities, Industry, Transportation, and Energy Systems",
+      "url": "https://www.mdpi.com/2079-9292/14/24/4881",
+      "publisher": "MDPI Electronics",
+      "data_used": "Six EU laws governing digital twins: GDPR, Data Governance Act, Data Act, AI Act, NIS2, Cyber Resilience Act",
+      "verified": true
+    },
+    {
+      "id": "s13",
+      "title": "Digital twin for personalized medicine development",
+      "url": "https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1583466/full",
+      "publisher": "Frontiers in Digital Health",
+      "data_used": "Healthcare digital twin use cases: disease progression simulation, personalized treatment, drug response modeling",
+      "verified": true
+    },
+    {
+      "id": "s14",
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "publisher": "Crunchbase News",
+      "data_used": "$300B global VC Q1 2026; 33% of funding to AI startups; economic context",
+      "verified": true
+    },
+    {
+      "id": "s15",
+      "title": "NVIDIA Announces Omniverse Real-Time Physics Digital Twins With Industry Software Leaders",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-omniverse-real-time-physics-digital-twins-with-industry-software-leaders",
+      "publisher": "NVIDIA Newsroom",
+      "data_used": "NVIDIA Omniverse as digital twin platform; industry software partner integrations; physics-accurate simulation",
+      "verified": true
+    },
+    {
+      "id": "s16",
+      "title": "Digital Twin Market Outlook 2026–2030: Simulation Technologies and Industry Adoption",
+      "url": "https://natlawreview.com/press-releases/digital-twin-market-outlook-2026-2030-simulation-technologies-and-industry",
+      "publisher": "National Law Review",
+      "data_used": "Digital twin market at $49.2B in 2026; 35.95% CAGR to $228.46B by 2031",
+      "verified": true
+    },
+    {
+      "id": "s17",
+      "title": "Digital twin for healthcare systems",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10513171/",
+      "publisher": "PubMed Central / NIH",
+      "data_used": "Healthcare digital twin applications: hospital capacity optimization, surgical simulation, predictive patient monitoring",
+      "verified": true
+    },
+    {
+      "id": "s18",
+      "title": "Digital Twin Market Size, Share, Trends & Growth Report, 2032",
+      "url": "https://www.persistencemarketresearch.com/market-research/digital-twin-market.asp",
+      "publisher": "Persistence Market Research",
+      "data_used": "Historical market data 2017-2020; $2.26B in 2017; $10B in 2020; 38.2% CAGR projection",
+      "verified": true
+    },
+    {
+      "id": "s19",
+      "title": "Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models",
+      "url": "https://arxiv.org/html/2601.01321",
+      "publisher": "arXiv (2026)",
+      "data_used": "LLM integration into digital twins; reasoning capabilities; transition from static mirrors to predictive AI systems",
+      "verified": true
+    },
+    {
+      "id": "s20",
+      "title": "Samsung Electronics Announces Strategy To Transition Global Manufacturing Into 'AI-Driven Factories' by 2030",
+      "url": "https://news.samsung.com/global/samsung-electronics-announces-strategy-to-transition-global-manufacturing-into-ai-driven-factories-by-2030",
+      "publisher": "Samsung Newsroom",
+      "data_used": "Industrial digital twin adoption at enterprise scale; AI factory strategy context",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "20-40% energy reduction from smart building digital twins — this range is cited across multiple industry case studies but no single peer-reviewed meta-analysis was located",
+    "PTC ThingWorx and Dassault Systèmes specific market share percentages — major sources describe market as 'highly fragmented' with no single player above 2%; precise share data is behind paywalls",
+    "Search volume ~110,000/month — based on keyword research estimates for 'digital twin' and related terms; precise figure would require SEMrush/Ahrefs verification"
+  ]
+}
