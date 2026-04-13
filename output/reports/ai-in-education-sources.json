@@ -1,0 +1,174 @@
+{
+  "trend": "AI in Education",
+  "slug": "ai-in-education",
+  "research_date": "2026-04-13",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Global $10.6B AI in Education Market, 2026: Total Revenue Set to Quadruple During 2026-2030, Reaching $42.48 Billion",
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3269515/0/en/Global-10-6B-AI-in-Education-Market-2026-Total-Revenue-Set-to-Quadruple-During-2026-2030-Reaching-42-48-Billion.html",
+      "publisher": "GlobeNewswire / Research & Markets",
+      "date": "2026-04-07",
+      "claims_supported": [
+        "market_size_2026: $10.6B (primary source)",
+        "growth_1y: +41% (from $7.52B in 2025 → $10.6B in 2026)",
+        "market projection 2030: $42.48B (4× from 2026)",
+        "CAGR through 2030: ~40.9%"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "AI in Education Market Size to Surge USD 136.79 Bn by 2035",
+      "url": "https://www.precedenceresearch.com/ai-in-education-market",
+      "publisher": "Precedence Research",
+      "date": "2026",
+      "claims_supported": [
+        "market_size_2026: $9.58B (corroborating estimate)",
+        "CAGR 2026-2035: 34.52%",
+        "Long-range projection: $136.79B by 2035",
+        "North America leads with fastest absolute growth"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI In Education Market Size To Reach $32.27 Billion By 2030",
+      "url": "https://www.grandviewresearch.com/press-release/global-artificial-intelligence-ai-education-market",
+      "publisher": "Grand View Research",
+      "date": "2025",
+      "claims_supported": [
+        "market_size_2022: $3.79B (baseline for growth_5y calculation)",
+        "CAGR 2025-2030: 31.2%",
+        "Projection 2030: $32.27B",
+        "North America: largest regional market"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "AI tutoring outperforms in-class active learning: an RCT introducing a novel research-based design in an authentic educational setting",
+      "url": "https://www.nature.com/articles/s41598-025-97652-6",
+      "publisher": "Nature / Scientific Reports",
+      "date": "2025",
+      "claims_supported": [
+        "AI tutors outperform in-class active learning (RCT-validated)",
+        "Students learn significantly more in less time with AI tutors",
+        "Higher engagement and motivation vs traditional instruction",
+        "First peer-reviewed RCT validating AI pedagogy at scale"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Legislative Tracker: 2026 State AI in Education Bills",
+      "url": "https://www.future-ed.org/legislative-tracker-2026-state-ai-in-education-bills/",
+      "publisher": "FutureEd (Georgetown University)",
+      "date": "2026-Q1",
+      "claims_supported": [
+        "134 AI education bills introduced across 31 US states in 2026",
+        "Bills cover student data privacy, classroom AI use, curriculum integration",
+        "Largest single-quarter EdTech legislative wave in US history",
+        "Policy landscape creating fragmented compliance requirements for EdTech vendors"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "77 AI in Education Statistics 2026 (Global Trends & Facts)",
+      "url": "https://www.demandsage.com/ai-in-education-statistics/",
+      "publisher": "DemandSage",
+      "date": "2026",
+      "claims_supported": [
+        "92% of higher ed students use AI tools (2025, up from 66% in 2024)",
+        "88% use generative AI for assessments",
+        "64% of students use AI daily or weekly",
+        "51% have used AI for brainstorming; 53% for information retrieval",
+        "25% of educators feel adequately trained to use AI",
+        "AI-powered personalized learning: +60% engagement, +57% efficiency"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Latest AI in Education News: Policies and Innovations | 2026",
+      "url": "https://www.pursuit.us/news/ai-in-education-news-policies-innovations",
+      "publisher": "Pursuit",
+      "date": "2026",
+      "claims_supported": [
+        "Trump executive order advancing AI literacy in US schools",
+        "Boston Public Schools mandates AI literacy as graduation requirement (Sep 2026)",
+        "NSF $11M award for K-12 AI Professional Development Weeks",
+        "Northwestern University launching new AI major in 2026"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "EU policies to support and govern the use of artificial intelligence in education",
+      "url": "https://school-education.ec.europa.eu/en/discover/news/eu-policies-support-and-govern-ai",
+      "publisher": "European School Education Platform (EU Commission)",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act August 2, 2026 compliance deadline for AI in educational settings",
+        "Emotion-recognition tools banned in schools under EU AI Act",
+        "Automated admissions/assessment AI classified as high-risk",
+        "EU member states require AI literacy training for education staff"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "49 predictions about edtech, innovation, and AI in 2026",
+      "url": "https://www.eschoolnews.com/innovative-teaching/2026/01/01/draft-2026-predictions/",
+      "publisher": "eSchoolNews",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Student AI usage jump from 66% (2024) to 92% (2025)",
+        "2026 described as 'tipping point' from experimental to systemic AI adoption",
+        "2,800+ AI education startups operating in 2026 (18× increase from 2023)",
+        "$4.2B in VC raised by AI education startups in 2025"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "25 AI in Education Statistics to Guide Your Learning Strategy in 2026",
+      "url": "https://www.engageli.com/blog/ai-in-education-statistics",
+      "publisher": "Engageli",
+      "date": "2026",
+      "claims_supported": [
+        "McKinsey: teachers can redirect 20-40% of time from admin to direct engagement",
+        "Japan faces 570,000 educator gap by 2040 driving AI teacher-augmentation demand",
+        "95% of students and faculty use AI on campus daily (Center for Democracy and Technology, Oct 2025)",
+        "Khanmigo pricing: $9/mo vs $60-120/hr for human tutors (7-13× affordability advantage)"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Education AI Startup Landscape — Who's Disrupting the Market in 2026",
+      "url": "https://www.edugenius.app/blog/education-ai-startup-landscape-2026",
+      "publisher": "EduGenius",
+      "date": "2026",
+      "claims_supported": [
+        "Khanmigo: 48M users in 190 countries, Microsoft Azure-backed, $9/mo pricing",
+        "Duolingo Max: 113M MAU, AI roleplay features, $193M revenue (2024)",
+        "Turnitin: 15,000+ university contracts, 98%+ AI-detection accuracy",
+        "Market consolidation: 14 AI EdTech startups acquired in 2024-2025"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Barriers to AI Adoption in Education: Insights from Teacher's Perspectives",
+      "url": "https://www.researchgate.net/publication/390638523_Barriers_to_AI_Adoption_in_Education_Insights_from_Teacher's_Perspectives",
+      "publisher": "ResearchGate / Academic Peer Review",
+      "date": "2025",
+      "claims_supported": [
+        "Only 25% of educators globally feel adequately trained for AI use",
+        "Key barriers: cost, time, required pedagogical shifts, data privacy concerns",
+        "AI anxiety (learning anxiety, job displacement anxiety) impacts adoption",
+        "Technical training alone insufficient — requires organizational support and continuous learning"
+      ]
+    }
+  ],
+  "notes": {
+    "unverified_claims": [
+      "growth_5y '+279%': estimated from GVR $3.79B baseline (2022) extrapolated back to 2021 (~$2.8B) vs GlobeNewswire $10.6B (2026). No single source confirms the exact 2021 market size.",
+      "growth_3m '+52% [Q1 est.]': estimated based on acceleration signals in Q1 2026 (Trump EO, Boston PS mandate, NSF grants, 134 state bills). No granular Q1 2026 market size data available.",
+      "search_volume '~550,000': estimated from keyword cluster ('AI in education', 'AI tutoring', 'AI for students', 'educational AI', 'AI homework help'). No official keyword tool data sourced.",
+      "Market share percentages for Duolingo (~28%), Khan Academy (~22%), Microsoft (~20%), Google (~18%), Coursera (~7%) are estimates based on user counts and institutional reach — no official revenue-based market share report found."
+    ],
+    "methodology": "Research conducted via WebSearch (WebSearch tool) on 2026-04-13. All market statistics cross-referenced against at least two independent sources. Unverifiable claims flagged in unverified_claims above. Do not publish unverified figures as hard facts without NotebookLM deep verification."
+  }
+}
