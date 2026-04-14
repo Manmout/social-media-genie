@@ -1,0 +1,146 @@
+{
+  "slug": "ai-agents-healthcare",
+  "trend_name": "AI Agents in Healthcare",
+  "research_date": "2026-04-14",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Agents in Healthcare Market Size & Growth Forecast to 2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-agents-in-healthcare-market-231362627.html",
+      "publisher": "MarketsandMarkets",
+      "claim": "AI Agents in Healthcare market valued at $0.76B in 2024, $1.11B in 2025, projected to grow at 44.1% CAGR through 2030 to reach $6.92B.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI In Healthcare Market Size To Reach $505.59Bn By 2033",
+      "url": "https://www.grandviewresearch.com/press-release/global-artificial-intelligence-healthcare-market",
+      "publisher": "Grand View Research",
+      "claim": "Broader AI in healthcare market was $36.67B in 2025, growing at 38.90% CAGR to reach $505.59B by 2033. 2021 market was ~$11B.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Agentic AI in Healthcare Market to Grow at 45.6% CAGR till 2035",
+      "url": "https://www.towardshealthcare.com/insights/agentic-ai-in-healthcare-market-sizing",
+      "publisher": "Towards Healthcare",
+      "claim": "Agentic AI in Healthcare market valued at $0.79B in 2025, growing to $1.14B in 2026, projected to reach $33.66B by 2035 at 45.6% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Abridge Secures $300M Series E Led by a16z to Pioneer a New Paradigm of Care Intelligence",
+      "url": "https://www.abridge.com/blog/series-e",
+      "publisher": "Abridge (company blog)",
+      "claim": "Abridge raised $300M Series E led by Andreessen Horowitz and Khosla Ventures, reaching $5.3B valuation. Company to support 50M+ medical conversations in 2025, serving 55 specialties in 28 languages across 150+ health systems.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Abridge raises $300 million, pushing health AI deal-making to new heights",
+      "url": "https://www.statnews.com/2025/06/24/ai-clinical-documentation-ambient-scribe-abridge-raises-300-million/",
+      "publisher": "STAT News",
+      "claim": "Abridge hit $117M in contracted annual recurring revenue as of Q1 2025. Ambient scribes as a category generated $600M in ARR in 2025, representing a 2.4x year-over-year increase.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Hippocratic AI lands $126M series C to expand patient-facing AI agents",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-ma",
+      "publisher": "Fierce Healthcare",
+      "claim": "Hippocratic AI secured $126M Series C, boosting valuation to $3.5B. Company has signed partnerships with 50+ large health systems, payers, and pharma clients, building 1,000 use cases for patient-facing healthcare AI agents.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "US Digital Health Funding Q1 2026: AI, Mega-Rounds, and Market Dominance",
+      "url": "https://www.galengrowth.com/the-american-powerplay-u-s-digital-health-funding-in-q1-2026/",
+      "publisher": "Galen Growth",
+      "claim": "Q1 2026 saw $5.34B in digital health funding across 105 deals, with AI startups capturing 60% of all rounds — up from 37% in 2024. The U.S. captured 76% of global digital health funding.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "How AI Agents and Tech Will Transform Health Care in 2026",
+      "url": "https://www.bcg.com/publications/2026/how-ai-agents-will-transform-health-care",
+      "publisher": "Boston Consulting Group (BCG)",
+      "claim": "BCG documents healthcare AI agent use cases and projects 2026 as the year of enterprise-scale deployment, with autonomous agents moving from pilots to operational infrastructure.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Ambient AI Tool Adoption in US Hospitals and Associated Factors",
+      "url": "https://www.ajmc.com/view/ambient-ai-tool-adoption-in-us-hospitals-and-associated-factors",
+      "publisher": "American Journal of Managed Care (AJMC)",
+      "claim": "Ambient AI tools were adopted by nearly two-thirds of US hospitals on Epic EHR systems in 2025, with higher adoption at larger, not-for-profit hospitals with higher workloads.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Top healthcare AI trends in 2026",
+      "url": "https://www.healthcaredive.com/news/top-healthcare-ai-artificial-intelligence-trends-2026/809493/",
+      "publisher": "Healthcare Dive",
+      "claim": "Healthcare Dive documents the 2026 top trends including ambient AI, AI agents, and the shift from experimentation to enterprise-scale execution.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Healthcare AI Regulation 2026: New Compliance Requirements Every Provider Must Know",
+      "url": "https://www.jimersonfirm.com/blog/2026/02/healthcare-ai-regulation-2025-new-compliance-requirements-every-provider-must-know/",
+      "publisher": "Jimerson Birr Law",
+      "claim": "Documents 2026 compliance requirements including FDA QMSR update aligning with ISO 13485:2016, state disclosure laws (Texas TRAIGA), and HIPAA BAA requirements for AI vendors. Over 250 healthcare AI bills introduced in 34+ states by mid-2025.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Introducing Amazon Connect Health: Agentic AI for healthcare, built for the people who deliver it",
+      "url": "https://aws.amazon.com/blogs/industries/introducing-amazon-connect-health-agentic-ai-for-healthcare-built-for-the-people-who-deliver-it/",
+      "publisher": "Amazon Web Services",
+      "claim": "AWS launched Amazon Connect Health in Q1 2026 — purpose-built agentic AI for healthcare call centers and care coordination, with HIPAA-compliant architecture.",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI Agent Trends in Healthcare & Life Sciences 2026",
+      "url": "https://cloud.google.com/resources/content/ai-agent-trends-healthcare-life-sciences-2026",
+      "publisher": "Google Cloud",
+      "claim": "Google Cloud documents healthcare AI agent trends including MedLM/Gemini Health partnerships with HCA Healthcare and Highmark Health.",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Ambient AI in Healthcare 2025: From Commoditization to Transformation",
+      "url": "https://www.deepscribe.ai/resources/ambient-ai-in-healthcare-2025-from-commoditization-to-transformation",
+      "publisher": "DeepScribe",
+      "claim": "Specialty-specific ambient AI achieves higher note accuracy in dermatology, psychiatry, and orthopedics than general-purpose models trained primarily on primary care data.",
+      "verified": true,
+      "note": "Source is a competitor company blog — treat as directionally accurate but commercially motivated"
+    },
+    {
+      "id": 15,
+      "title": "Healthcare AI in 2026: Market Growth, Use Cases, and Outlook",
+      "url": "https://www.blott.com/reports/ai-use-cases-in-healthcare",
+      "publisher": "Blott",
+      "claim": "AI in healthcare market projected to reach $50–56B in 2026, up from $36.67B in 2025.",
+      "verified": true
+    },
+    {
+      "id": 16,
+      "title": "AI in Healthcare: Investment Trends, Opportunities & Market Growth 2026",
+      "url": "https://qubit.capital/blog/ai-healthcare-investment-trends",
+      "publisher": "Qubit Capital",
+      "claim": "54% of digital health investment in 2025 went to AI-enabled companies, up from 37% in 2024. Healthcare AI startups claimed 6 of 11 AI unicorns created in Q1 2025.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Microsoft Nuance DAX Copilot holds ~35% of enterprise ambient AI deployments",
+      "note": "No public market share breakdown available; this is an internal estimate based on reported 500+ health system deployments vs. total U.S. hospital count. [unverified]"
+    },
+    {
+      "claim": "Projected 50,000+ physician deficit by 2030",
+      "note": "Widely cited figure; sourced from AAMC 2024 physician shortage report, but specific future projections carry model uncertainty. [partially verified]"
+    }
+  ]
+}
