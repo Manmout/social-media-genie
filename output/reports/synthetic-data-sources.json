@@ -1,0 +1,111 @@
+{
+  "trend": "Synthetic Data",
+  "slug": "synthetic-data",
+  "retrieved": "2026-04-15",
+  "sources": [
+    {
+      "title": "Nvidia reportedly acquires synthetic data startup Gretel",
+      "url": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/",
+      "publisher": "TechCrunch",
+      "date": "2025-03-19",
+      "type": "acquisition",
+      "key_data": "Nvidia acquires Gretel.ai; ~80 employees folded into Nvidia; Gretel valued at $320M+ at time of acquisition; tech integrated into Nvidia generative AI developer platform"
+    },
+    {
+      "title": "Nvidia reportedly acquires Gretel for $320M to strengthen AI training tools",
+      "url": "https://siliconangle.com/2025/03/19/nvidia-reportedly-acquires-gretel-320m-strengthen-ai-training-tools/",
+      "publisher": "SiliconANGLE",
+      "date": "2025-03-19",
+      "type": "acquisition",
+      "key_data": "Nine-figure deal exceeding $320M valuation; Gretel's synthetic data tech to power Nvidia's generative AI services for developers"
+    },
+    {
+      "title": "By 2024, 60% of the data used for AI and analytics projects will be synthetically generated",
+      "url": "https://blogs.gartner.com/andrew_white/2021/07/24/by-2024-60-of-the-data-used-for-the-development-of-ai-and-analytics-projects-will-be-synthetically-generated/",
+      "publisher": "Gartner (Andrew White)",
+      "date": "2021-07-24",
+      "type": "market_research",
+      "key_data": "Landmark prediction: synthetic data adoption to surge from 1% (2021) to 60% (2024) of AI/analytics project data; prediction subsequently confirmed as accurate by Gartner in 2024 reporting"
+    },
+    {
+      "title": "Gartner Announces Top Predictions for Data and Analytics in 2026",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-03-11-gartner-announces-top-predictions-for-data-and-analytics-in-2026",
+      "publisher": "Gartner",
+      "date": "2026-03-11",
+      "type": "market_research",
+      "key_data": "Synthetic data named a top 2026 data & analytics trend; enterprise adoption acceleration confirmed across healthcare, BFSI, and automotive sectors"
+    },
+    {
+      "title": "Synthetic Data Market Size, Share, Trends & Research Report 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/synthetic-data-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026-01-01",
+      "type": "market_research",
+      "key_data": "Market size: $510M (2025) → $710M (2026) → $3.67B (2031); 38.96% CAGR 2026–2031; North America 38% market share"
+    },
+    {
+      "title": "Synthetic Data Generation Market Forecast Analysis 2034",
+      "url": "https://www.fortunebusinessinsights.com/synthetic-data-generation-market-108433",
+      "publisher": "Fortune Business Insights",
+      "date": "2025-06-01",
+      "type": "market_research",
+      "key_data": "Market: $603.61M (2025) → $791.34M (2026) → $6,905.32M (2034); 31.10% CAGR; healthcare segment leads at 16% global share in 2026"
+    },
+    {
+      "title": "Synthetic Data Generation Market Analysis (61.1% CAGR 2024–2029)",
+      "url": "https://www.technavio.com/report/synthetic-data-generation-market-analysis",
+      "publisher": "Technavio",
+      "date": "2025-09-01",
+      "type": "market_research",
+      "key_data": "Highest-growth forecast: 61.1% CAGR 2024–2029; $4.39B incremental growth expected by 2029; North America dominant region"
+    },
+    {
+      "title": "California's AB 2013 Requires Generative AI Data Disclosure by January 1, 2026",
+      "url": "https://www.crowell.com/en/insights/client-alerts/californias-ab-2013-requires-generative-ai-data-disclosure-by-january-1-2026",
+      "publisher": "Crowell & Moring LLP",
+      "date": "2025-06-15",
+      "type": "regulatory",
+      "key_data": "AB 2013 effective January 1, 2026; requires public disclosure of training data types including synthetic data; applies to all generative AI developers targeting California users"
+    },
+    {
+      "title": "xAI's Challenge to California's AI Training Data Transparency Law (AB2013)",
+      "url": "https://law-ai.org/xais-challenge-to-californias-ai-training-data-transparency-law-ab2013/",
+      "publisher": "Institute for Law & AI",
+      "date": "2025-10-01",
+      "type": "legal",
+      "key_data": "xAI filed federal lawsuit seeking to block AB2013; argues compelled disclosure of trade secrets (5th Amendment) and forced speech (1st Amendment); landmark challenge to AI training transparency law"
+    },
+    {
+      "title": "AI training data is running low — but we have a solution",
+      "url": "https://www.weforum.org/stories/2025/12/data-ai-training-synthetic/",
+      "publisher": "World Economic Forum",
+      "date": "2025-12-01",
+      "type": "analysis",
+      "key_data": "Epoch AI projects quality public text fully exhausted 2026–2032; synthetic data positioned as structural solution to frontier AI training data scarcity; growing adoption across all AI sectors"
+    },
+    {
+      "title": "Gretel AI raises $50M for privacy-preserving synthetic data platform",
+      "url": "https://techcrunch.com/2021/10/07/gretel-ai-raises-50m-for-a-platform-that-lets-engineers-build-and-use-synthetic-data-sets-to-ensure-the-privacy-of-their-actual-data/",
+      "publisher": "TechCrunch",
+      "date": "2021-10-07",
+      "type": "funding",
+      "key_data": "$50M Series B (Anthos Capital, GV); first major funding in pure-play synthetic data; 10,000+ developer signups within weeks; timeline milestone for category establishment"
+    },
+    {
+      "title": "Synthetic Data Startups Pick Up More Real Cash",
+      "url": "https://news.crunchbase.com/ai-robotics/synthetic-data-vc-funding-datagen-gretel-nvidia-amazon/",
+      "publisher": "Crunchbase News",
+      "date": "2022-04-01",
+      "type": "funding",
+      "key_data": "Datagen raised $72M (largest synthetic data funding round at time); Gretel backed by NVIDIA, Amazon; overview of VC funding acceleration in synthetic data category"
+    },
+    {
+      "title": "Examining synthetic data: The promise, risks and realities",
+      "url": "https://www.ibm.com/think/insights/ai-synthetic-data",
+      "publisher": "IBM",
+      "date": "2025-06-01",
+      "type": "analysis",
+      "key_data": "Model collapse risk documented: recursive AI training on synthetic data can lose grounding to real-world distributions; IBM framework for human-in-the-loop synthetic data validation; re-identification risk rates of 5–15% in poorly generated tabular datasets"
+    }
+  ]
+}
