@@ -1,0 +1,132 @@
+{
+  "trend": "Synthetic Data Generation",
+  "slug": "synthetic-data-generation",
+  "research_date": "2026-04-16",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Synthetic Data Generation Market Forecast Analysis 2034",
+      "url": "https://www.fortunebusinessinsights.com/synthetic-data-generation-market-108433",
+      "publisher": "Fortune Business Insights",
+      "claim": "Global synthetic data generation market valued at $791.34M in 2026, growing to $6,905M by 2034 at CAGR of 31.10%",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "NVIDIA Reportedly Acquires Synthetic Data Startup Gretel",
+      "url": "https://techcrunch.com/2025/03/19/nvidia-reportedly-acquires-synthetic-data-startup-gretel/",
+      "publisher": "TechCrunch",
+      "claim": "NVIDIA acquired Gretel in March 2025 for a price exceeding Gretel's $320M valuation; team of ~80 folded into NVIDIA cloud AI developer services",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Gartner Identifies Top Trends Shaping the Future of Data Science and Machine Learning",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2023-08-01-gartner-identifies-top-trends-shaping-future-of-data-science-and-machine-learning",
+      "publisher": "Gartner",
+      "claim": "By 2024, Gartner predicts 60% of data for AI will be synthetic to simulate reality and de-risk AI, up from 1% in 2021",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Most AI Training Data Could Be Synthetic By Next Year — Gartner",
+      "url": "https://www.techmonitor.ai/digital-economy/ai-and-automation/ai-synthetic-data-edge-computing-gartner",
+      "publisher": "Tech Monitor",
+      "claim": "Gartner forecast that most AI training data will shift to synthetic; confirms 60% prediction and trajectory toward majority synthetic by 2026",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Synthetic Data Market Size, Share, Trends & Research Report 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/synthetic-data-market",
+      "publisher": "Mordor Intelligence",
+      "claim": "Synthetic data market growing at 38.96% CAGR over 2026–2031, projected to reach $3.67B by 2031",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Synthetic Data Generation Market to Reach $7.22 Bn by 2033",
+      "url": "https://www.kingsresearch.com/press-release/synthetic-data-generation-market",
+      "publisher": "Kings Research",
+      "claim": "Global synthetic data market projected to grow from $0.77B in 2026 to $7.22B by 2033 at CAGR of 37.65%",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Top 20+ Synthetic Data Use Cases",
+      "url": "https://research.aimultiple.com/synthetic-data-use-cases/",
+      "publisher": "AI Multiple",
+      "claim": "Waymo simulates 10M+ driving miles daily; Gartner: 84% of organizations use text-based synthetic data; fraud cases <0.1% of transactions require synthetic augmentation",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Lack of AI-Ready Data Puts AI Projects at Risk — Gartner 2025",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-02-26-lack-of-ai-ready-data-puts-ai-projects-at-risk",
+      "publisher": "Gartner",
+      "claim": "Gartner 2025: 75% of businesses will use generative AI to create synthetic customer data by 2026; 60% of data leaders will face critical failures managing synthetic data by 2027",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Synthetic Data Startups Pick Up More Real Cash — DHS Contracts",
+      "url": "https://news.crunchbase.com/ai-robotics/synthetic-data-vc-funding-datagen-gretel-nvidia-amazon/",
+      "publisher": "Crunchbase News",
+      "claim": "US DHS awarded contracts to Betterdata, DataCebo, Mostly AI, and Rockfish Data to develop synthetic data capabilities in 2024",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "New Privacy, Data Protection and AI Laws in 2026",
+      "url": "https://www.pearlcohen.com/new-privacy-data-protection-and-ai-laws-in-2026/",
+      "publisher": "Pearl Cohen",
+      "claim": "EU AI Act transparency rules effective August 2026; GDPR penalties up to €20M or 4% global revenue; EU AI Act penalties up to €35M or 7% global revenue for prohibited practices",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Building Scalable Synthetic Data Generation Pipelines for Physical AI with Databricks and NVIDIA Omniverse",
+      "url": "https://www.databricks.com/blog/building-scalable-synthetic-data-generation-pipelines-perception-ai-databricks-and-nvidia",
+      "publisher": "Databricks",
+      "claim": "NVIDIA Omniverse + Databricks partnership for physical AI synthetic data generation in manufacturing, healthcare, and robotics",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Synthetic Data Generation for Analytics Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226296/synthetic-data-generation-analytics-market-report",
+      "publisher": "Research and Markets",
+      "claim": "Synthetic data generation for analytics market will grow from $2.23B in 2025 to $2.98B in 2026 at CAGR of 33.8%",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Synthetic Data Explosion: How 2026 Reduces Data Costs by 70%",
+      "url": "https://cogentinfo.com/resources/synthetic-data-explosion-how-2026-reduces-data-costs-by-70",
+      "publisher": "Cogent",
+      "claim": "Synthetic data can reduce enterprise data acquisition and preparation costs by up to 70% — a key economic driver of adoption",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Top 6 Synthetic Data Startups Making Waves in 2026",
+      "url": "https://www.cpomagazine.com/digital/top-6-synthetic-data-startups-making-waves-in-2026/",
+      "publisher": "CPO Magazine",
+      "claim": "Overview of leading synthetic data startups: Mostly AI, Tonic.ai, Synthesis AI, YData, and others with funding and market positioning",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "Synthetic Data Startups to Watch 2026 — 42 Companies",
+      "url": "https://www.seedtable.com/best-synthetic-data-startups",
+      "publisher": "Seed Table",
+      "claim": "42 active synthetic data startups identified; Synthesis AI reported 410.6% revenue growth; Datagen raised $72M — largest funding round in the space",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Exact market share percentages for NVIDIA/Gretel, Scale AI, and Tonic.ai are estimated; no single independent source provides a unified market share breakdown for the synthetic data generation sector.",
+    "Synthesis AI's '410.6% growth' figure is as reported in secondary sources; primary source (Synthesis AI annual report) was not directly accessed.",
+    "Scale AI's ~18% market share estimate is based on its position in the broader AI training data market, not a synthetic-data-specific measurement."
+  ]
+}
