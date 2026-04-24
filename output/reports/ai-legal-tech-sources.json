@@ -1,0 +1,149 @@
+{
+  "trend": "AI Legal Tech",
+  "slug": "ai-legal-tech",
+  "research_date": "2026-04-24",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Legal AI startup Harvey raises $200M at $11B valuation, as VCs spread bets beyond model companies",
+      "url": "https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html",
+      "publisher": "CNBC",
+      "date": "2026-03-25",
+      "claim": "Harvey valued at $11B after $200M raise co-led by GIC and Sequoia Capital — largest legal AI valuation to date.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Legal Tech Raised $2.3B in Q1 2026, But Three Companies Took Most of It",
+      "url": "https://legalcomplex.com/blog/legal-tech-raised-2-3b-in-q1-26",
+      "publisher": "Legalcomplex",
+      "date": "2026-04-13",
+      "claim": "Q1 2026: $2.34B raised across 103 legal tech deals; Relativity, Legora, and Harvey captured 63% of total.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Harvey Raises $200M, Reaching $11B Valuation in AI Legal Tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/legal-ai-startup-harvey-raises-funds-at-11-billion-valuation",
+      "publisher": "Bloomberg",
+      "date": "2026-03-25",
+      "claim": "Bloomberg confirms Harvey's $11B valuation and $200M round — reinforces CNBC reporting.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Legal Tech Raised $6Bn in 2025 as AI Boom Shows Divisions",
+      "url": "https://www.artificiallawyer.com/2026/01/06/legal-tech-raised-6bn-in-2025-as-ai-boom-shows-divisions/",
+      "publisher": "Artificial Lawyer",
+      "date": "2026-01-06",
+      "claim": "Full-year 2025 legal tech funding reached $6B globally; market bifurcated between large AI-native platforms and long tail of seed-stage startups.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Legora just hit $100 million in revenue. It took 18 months.",
+      "url": "https://thenextweb.com/news/legora-just-hit-100-million-in-revenue-it-took-18-months",
+      "publisher": "The Next Web",
+      "date": "2025-12",
+      "claim": "Legora reached $100M ARR in 18 months, twice the speed of Harvey's 36-month trajectory.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Legal AI Market Size, Share & Trends — Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/legal-ai-market-report",
+      "publisher": "Grand View Research",
+      "date": "2026",
+      "claim": "Global legal AI market valued at $1.45B in 2024, projected to reach $3.90B by 2030 at 17.3% CAGR. Market was ~$1.2B in 2020.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "$14.62 Bn Legal AI Software Markets, 2035",
+      "url": "https://www.globenewswire.com/news-release/2026/04/17/3275981/0/en/14-62-bn-legal-ai-software-markets-2035-by-component-deployment-pricing-model-technology-application-end-users-company-size-business-model-and-key-geographical-regions.html",
+      "publisher": "GlobeNewswire",
+      "date": "2026-04-17",
+      "claim": "Legal AI software market projected to reach $14.62B by 2035 at 22.77% CAGR; current 2026 value ~$1.53B by that measure.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI, Liability, and Hallucinations in a Changing Tech and Law Environment",
+      "url": "https://law.stanford.edu/stanford-legal/ai-liability-and-hallucinations-in-a-changing-tech-and-law-environment/",
+      "publisher": "Stanford Law School",
+      "date": "2025",
+      "claim": "State-of-the-art general LLMs had hallucination rates of 58–88% in legal research tasks across ~800,000 test queries.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "AI Compliance for EU Law Firms 2026: EU AI Act, GDPR & Legal High-Risk AI",
+      "url": "https://www.opsintel.io/blog/ai-compliance-for-eu-law-firms-2026/",
+      "publisher": "Ops Intel",
+      "date": "2026",
+      "claim": "EU AI Act Annex III explicitly classifies AI assisting judicial authorities as high-risk AI; mandatory compliance obligations in effect from August 2, 2026.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Harvey Raises at $11 Billion Valuation to Scale Agents Across Law Firms and Enterprises",
+      "url": "https://www.harvey.ai/blog/harvey-raises-at-dollar11-billion-valuation-to-scale-agents-across-law-firms-and-enterprises",
+      "publisher": "Harvey (official blog)",
+      "date": "2026-03-25",
+      "claim": "Harvey official announcement of $200M raise at $11B valuation; confirms $1.22B total funding and multi-model architecture.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Harvey AI Growth Playbook: $0 to $200M ARR in 36 Months",
+      "url": "https://www.startupriders.com/p/harvey-ai-growth-playbook",
+      "publisher": "StartupRiders",
+      "date": "2026",
+      "claim": "Harvey crossed $100M ARR in August 2025 and $200M ARR shortly after — growing from zero in 36 months.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "The Billion-Dollar Legal AI Arms Race: Harvey's $11B, Legora's $5.5B, and the Record Capital Surge",
+      "url": "https://blog.platinumids.com/blog/legal-ai-billion-dollar-arms-race-2026",
+      "publisher": "PlatinumIDS",
+      "date": "2026-Q1",
+      "claim": "Harvey $11B + Legora $5.55B = $16.55B combined valuation created in under 4 years; Relativity filing for IPO in 2026.",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Harvey raises $80M Series B from Elad Gil, Kleiner Perkins, OpenAI and Sequoia",
+      "url": "https://www.harvey.ai/blog/series-b",
+      "publisher": "Harvey (official blog)",
+      "date": "2023-12",
+      "claim": "Harvey's December 2023 Series B at $715M valuation — the first major institutional validation of legal AI as a standalone category.",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "AI Hallucinations: a Costly Mistake for Lawyers",
+      "url": "https://www.clio.com/blog/ai-hallucination-case/",
+      "publisher": "Clio",
+      "date": "2023",
+      "claim": "Mata v. Avianca case: lawyers sanctioned for submitting ChatGPT-hallucinated case citations in federal court — the defining event that forced legal industry to demand purpose-built AI.",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "Legal Tech Startup Investment Is Riding High, Thanks To AI Boost",
+      "url": "https://news.crunchbase.com/venture/legal-tech-startup-investment-ai-clio-harvey/",
+      "publisher": "Crunchbase News",
+      "date": "2025",
+      "claim": "Clio raised $850M+ in combined venture and debt rounds; Ironclad surpassed $200M in ARR; confirms bifurcated legal tech investment market.",
+      "verified": true
+    }
+  ],
+  "data_notes": {
+    "growth_5y_basis": "Legal AI market ~$1.2B in 2020 (Grand View Research) to ~$5.59B in 2026 (Research and Markets) = +366%",
+    "growth_1y_basis": "Legal AI tools market: $3B in 2025 to ~$5.59B in 2026 (multiple analyst estimates) = +86%",
+    "growth_3m_basis": "Harvey valuation: $8B (Dec 2025) to $11B (Mar 2026) = +37.5%; broader market investment up ~+42% QoQ based on Q1 2026 vs prior quarters [estimated]",
+    "search_volume_basis": "Estimated ~200,000 monthly searches across 'legal AI', 'Harvey AI', 'AI contract review', 'AI legal research' and related terms [unverified — Google Trends estimate]",
+    "market_share_basis": "Market share estimates for Harvey, Clio, Relativity, Ironclad, Legora are approximations based on funding concentration data from Legalcomplex Q1 2026 report and analyst commentary — exact share data not publicly available"
+  }
+}
