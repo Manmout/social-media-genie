@@ -1,0 +1,194 @@
+{
+  "trend": "AI Health Wearables",
+  "slug": "ai-health-wearables",
+  "research_date": "2026-04-30",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Grand View Research",
+      "title": "Wearable AI Market Size And Share | Industry Report, 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/wearable-ai-market-report",
+      "claims_supported": [
+        "Global wearable AI market estimated at USD 43.64 billion in 2025",
+        "Market projected to reach USD 310.56 billion by 2033",
+        "CAGR of 27.83% from 2026 to 2033",
+        "2024 market size: USD 39.7 billion"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "CNBC",
+      "title": "Oura reaches $11 billion valuation with new $900 million fundraise",
+      "url": "https://www.cnbc.com/2025/10/14/oura-ringmaker-valuation-fundraise.html",
+      "claims_supported": [
+        "Oura raises $900M Series E led by Fidelity",
+        "Valuation reached $11 billion — more than double December 2024 valuation of $5.2B",
+        "Oura became Europe's first health-tracking decacorn"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "TechCrunch",
+      "title": "Smart ring maker Oura raises $900M from Fidelity",
+      "url": "https://techcrunch.com/2025/10/14/smart-ring-maker-oura-raises-900m-from-fidelity/",
+      "claims_supported": [
+        "Oura's $900M Series E, October 2025",
+        "ICONIQ, Whale Rock, Atreides as co-investors",
+        "Oura revenue doubled to $500M in 2024, targeting $1B in 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Counterpoint Research",
+      "title": "Global Smart Glasses Shipments Soared 110% YoY in H1 2025, With Meta Capturing Over 70% Share",
+      "url": "https://counterpointresearch.com/en/insights/post-insight-research-briefs-blogs-global-smart-glasses-shipments-soared-110-yoy-in-h1-2025-with-meta-capturing-over-70-share",
+      "claims_supported": [
+        "Global smart glasses shipments +110% YoY in H1 2025",
+        "Meta captured over 70% (73%) of smart glasses market share in H1 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "STAT News",
+      "title": "FDA announces sweeping changes to oversight of wearables, AI-enabled devices",
+      "url": "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/",
+      "claims_supported": [
+        "FDA published guidance January 6, 2026 reducing oversight of AI-enabled software and wearables",
+        "Non-medical-grade wearables providing general health information can proceed without full premarket review",
+        "Trump administration deregulation direction for digital health products"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Business Wire / Smart Analytics Global (SAG)",
+      "title": "AI Smart Glasses to Quadruple Revenue in 2026 as Apple and Samsung Prepare to Enter the Market",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/AI-Smart-Glasses-to-Quadruple-Revenue-in-2026-as-Apple-and-Samsung-Prepare-to-Enter-the-Market-Says-Smart-Analytics-Global-SAG",
+      "claims_supported": [
+        "AI smart glasses revenue projected to grow from $1.2B (2025) to $5.6B (2026) — a 4x increase",
+        "Units projected to rise from 6 million (2025) to 20 million (2026)",
+        "Apple and Samsung entering the AI smart glasses market in 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Counterpoint Research",
+      "title": "CES 2026 Wearables Market Overview: From One-device Solutions to Specialization",
+      "url": "https://counterpointresearch.com/en/insights/ces-2026-wearables-market-overview",
+      "claims_supported": [
+        "Smart rings took center stage at CES 2026",
+        "Market shifting from single-device solutions to specialized form factors",
+        "Smart glasses, rings, and watches launched as most advanced health and wellness devices"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Cybernews",
+      "title": "Smart rings step into the spotlight at CES 2026",
+      "url": "https://cybernews.com/health-tech/smart-rings-step-into-the-spotlight-at-ces-2026/",
+      "claims_supported": [
+        "Smart rings dominated CES 2026 floor",
+        "New devices with AI-integrated health features from multiple vendors",
+        "Shift toward discreet, always-on wearable health monitoring"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Telehealth.org / FDA",
+      "title": "FDA Limits Oversight of AI Health Software and Wearables",
+      "url": "https://telehealth.org/news/fda-clarifies-oversight-of-ai-health-software-and-wearables-limiting-regulation-of-low-risk-devices/",
+      "claims_supported": [
+        "FDA guidance exempts low-risk AI wearables from premarket oversight",
+        "Medical-grade devices claiming clinical accuracy still require 510(k) clearance",
+        "January 2026 regulatory shift"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Fierce Healthcare",
+      "title": "Oura raises $900M series E as smart ring sales catapult company's growth",
+      "url": "https://www.fiercehealthcare.com/health-tech/oura-raises-900m-series-e-oura-ring-sales-catapult",
+      "claims_supported": [
+        "Oura 2024 revenue $500M (doubled YoY)",
+        "Revenue targeting $1B in 2025",
+        "Enterprise wellness pivot: 200+ organizations including US military",
+        "Clinical expansion: Quest Diagnostics Health Panels partnership"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Women in AI / Frontiers in Digital Health",
+      "title": "Tracking the Body, Tracking the Law: How the U.S., EU, and APAC Govern Wearable AI",
+      "url": "https://www.womeninai.co/post/tracking-the-body-tracking-the-law-how-the-u-s-eu-and-apac-govern-wearable-ai",
+      "claims_supported": [
+        "EU AI Act places biometric/health AI in high-risk category",
+        "GDPR treats health/biometric data as special category requiring explicit consent",
+        "EU Data Act (binding Sept 2025) grants users rights over wearable-generated data",
+        "European Health Data Space Regulation in force March 26, 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "LinkedIn / Counterpoint Research",
+      "title": "Meta Dominates Smart Glasses Market with 73% Share in Q1 2026",
+      "url": "https://www.linkedin.com/posts/counterpoint-technology-market-research_smart-glasses-rayban-activity-7361196068224577536-O4ot",
+      "claims_supported": [
+        "Meta's smart glasses market share rose to 82% as of Q1 2026 (Counterpoint)",
+        "Ray-Ban Meta Smart Glasses driving strong demand"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "publisher": "Grand View Research (Press Release)",
+      "title": "Wearable AI Market Size To Reach $310.56Bn By 2033",
+      "url": "https://www.grandviewresearch.com/press-release/global-wearable-ai-market",
+      "claims_supported": [
+        "Healthcare segment expected to grow fastest from 2026 to 2033",
+        "Smartwatch segment holds largest share (40%+)",
+        "AI-enabled medical device market: $13.7B in 2024 → $255B by 2033"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "publisher": "IDC",
+      "title": "Wearable Devices Market — Vendor Insights",
+      "url": "https://www.idc.com/promo/wearablevendor/",
+      "claims_supported": [
+        "Global wearable shipments grew 5.4% in 2024 to 534.6 million units",
+        "Apple holds 23% of smartwatch market; Huawei second at 17%",
+        "Apple and Samsung command 45% of smartwatch revenue combined"
+      ],
+      "verified": true
+    },
+    {
+      "id": 15,
+      "publisher": "Fox News / Cult of Mac",
+      "title": "PreEvnt's isaac breath glucose monitor debuts at CES 2026",
+      "url": "https://www.foxnews.com/tech/breakthrough-device-promises-detect-glucose-without-needles",
+      "claims_supported": [
+        "PreEvnt's breath-based glucose monitor entered human clinical trials in 2025",
+        "Debuted at CES 2026 as potential path to non-invasive glucose monitoring",
+        "FDA has not cleared any smartwatch or smart ring for non-invasive glucose monitoring"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Search volume estimate of ~90,000/mo is an aggregate estimate across related terms ('AI wearables', 'smart health wearables', 'smart ring health') — not from a single verified keyword tool result",
+    "The $322B annual global cost of burnout figure attributed to WHO 2024 requires direct WHO report verification before publication",
+    "The $6T annual global cost of workplace injuries figure is a commonly cited estimate — verify against ILO or NSC report for publication"
+  ],
+  "notes": "All market size figures sourced from third-party research firms (Grand View Research, IDC, Counterpoint) which use varying market definitions. Growth rates represent projected CAGR, not confirmed historical year-over-year figures. The 'growth_3m' field uses H1 2025 smart wearable shipment data (+110% YoY per Counterpoint) as the most recent high-frequency acceleration signal available — actual 3-month period data not available from public sources."
+}
