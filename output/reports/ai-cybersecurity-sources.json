@@ -1,0 +1,91 @@
+{
+  "trend": "AI-Powered Cybersecurity",
+  "slug": "ai-cybersecurity",
+  "retrieved": "2026-05-01",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune Business Insights",
+      "url": "https://www.fortunebusinessinsights.com/artificial-intelligence-in-cybersecurity-market-113125",
+      "claim": "Global AI in cybersecurity market valued at $34.09B in 2025, growing to $44.24B in 2026 and $213.17B by 2034 at 21.71% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Open PR / Mordor Intelligence",
+      "url": "https://www.openpr.com/news/4471828/ai-cybersecurity-market-is-going-to-boom-crowdstrike",
+      "claim": "AI cybersecurity market $30.92B in 2025, reaching $86.34B by 2030 at 22.8% CAGR; CrowdStrike, Palo Alto key players",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "AI Business Magazine",
+      "url": "https://www.aibmag.com/ai-start-ups-innovation-and-venture-trends/ai-cybersecurity-investment-sector-trends/",
+      "claim": "Global AI cybersecurity investment reached $202.3B by Q3 2025 — a 75% year-on-year increase",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Tech Insider",
+      "url": "https://tech-insider.org/cybersecurity-ma-consolidation-2026/",
+      "claim": "38 cybersecurity M&A deals in March 2026 alone; total Q1 2026 deal value reached $47B driven by platform consolidation",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Advisori / Regulatory Review 2026",
+      "url": "https://www.advisori.de/blog/regulatory-year-review-2026-dora-nis2-ai-act",
+      "claim": "DORA in force Jan 2025, NIS2 transposition Oct 2024, EU AI Act high-risk enforcement Aug 2026; only 28% of firms report meaningful compliance progress",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Security Boulevard",
+      "url": "https://securityboulevard.com/2026/02/ai-empowered-cybersecurity-key-events-and-emerging-trends-in-2025/",
+      "claim": "2025 marked the year AI crossed the cybersecurity Rubicon; autonomous AI-driven cyberattack disclosed by Anthropic in September 2025; leading platforms reducing MTTR to under 4 minutes",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Palo Alto Networks / HBR Sponsor Content",
+      "url": "https://hbr.org/sponsored/2025/12/6-cybersecurity-predictions-for-the-ai-economy-in-2026",
+      "claim": "Autonomous SOC platforms resolving 90%+ of tier-1 and tier-2 alerts; agentic AI defense is the defining 2026 trend",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Markets and Markets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/artificial-intelligence-ai-cyber-security-market-220634996.html",
+      "claim": "Microsoft 25.8% endpoint security share, CrowdStrike 18.1%, Palo Alto Networks 9.7%, SentinelOne ~4%; Microsoft cybersecurity revenue $37B",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "TECHi / CrowdStrike Analysis",
+      "url": "https://www.techi.com/crowdstrike-stock/",
+      "claim": "CrowdStrike FY2026 revenue $4.81B (+22% YoY); ARR $5.25B; net new ARR crossed $1B milestone",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "ISMS Online / EU Compliance Landscape",
+      "url": "https://www.isms.online/nis-2/vs/dora-vs-eu-ai-act-vs-cra/",
+      "claim": "DORA, NIS2, and EU AI Act share 60-70% requirements; a single AI security incident can trigger simultaneous reporting under all three frameworks",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: 90K/mo for 'AI cybersecurity' cluster",
+      "note": "Estimated based on enterprise category size; no direct Ahrefs/SEMrush source available"
+    },
+    {
+      "claim": "growth_5y: +242% (2020 ~$10B → 2025 $34.09B)",
+      "note": "2020 baseline is interpolated from multiple market reports; exact 2020 figure not directly cited — treat as directional"
+    },
+    {
+      "claim": "Environmental impact — AI security infrastructure energy consumption quantification",
+      "note": "No specific kWh or CO2 figure found; qualitative claim only"
+    }
+  ]
+}

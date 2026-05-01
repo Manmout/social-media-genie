@@ -1,0 +1,161 @@
+{
+  "trend_name": "AI-Powered Cybersecurity",
+  "status": "surging",
+  "search_volume": "90K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+242%",
+  "growth_1y": "+30%",
+  "growth_3m": "+75%",
+  "trigger": "Sep 2025: first autonomous AI-driven cyberattack reported; EU AI Act high-risk enforcement arrives Aug 2026; cybersecurity M&A hits $47B in Q1 2026 alone — the AI arms race in security is no longer theoretical.",
+  "timeline": [
+    {
+      "date": "2020",
+      "event": "COVID-19 triggers a 'cyber pandemic' — remote-work attack surface explodes. GPT-3 shows AI can generate convincing phishing copy at scale."
+    },
+    {
+      "date": "2021",
+      "event": "Average weekly cyberattacks reach 818 per organization (Check Point Research). Ransomware hits Colonial Pipeline, JBS Foods — critical infrastructure becomes prime target."
+    },
+    {
+      "date": "2022–2023",
+      "event": "Cybersecurity budgets grow 17% YoY. CrowdStrike, SentinelOne embed LLMs into threat detection. Darktrace IPOs at $1.7B, signaling institutional confidence in AI defense."
+    },
+    {
+      "date": "Aug 2024",
+      "event": "EU AI Act approved — world's first comprehensive AI regulatory framework classifying many AI security tools as 'high-risk'. Thoma Bravo begins $5.3B Darktrace acquisition."
+    },
+    {
+      "date": "Jan 2025",
+      "event": "EU DORA (Digital Operational Resilience Act) comes into force, requiring financial institutions to prove AI and ICT resilience. OpenAI signs $200M contract with US Department of Defense for cyber defense."
+    },
+    {
+      "date": "Sep 2025",
+      "event": "Anthropic discloses the world's first confirmed autonomous AI-driven cyberattack. AI cybersecurity investment reaches $202.3B by Q3 — up 75% YoY. Cybersecurity M&A hits $47B in Q1 2026, 38 deals in March alone."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "US–EU regulatory divergence: the Trump AI Action Plan removes barriers for American AI defense innovation, while the EU enforces DORA, NIS2, and the AI Act simultaneously. OpenAI's $200M DoD contract signals government AI defense is now strategic priority."
+    },
+    {
+      "factor": "Economic",
+      "impact": "AI cybersecurity investment surged to $202.3B by Q3 2025 (+75% YoY). The global market reaches $44.24B in 2026, targeting $213B by 2034. Cybersecurity M&A totaled $47B in Q1 2026 as enterprises consolidate platforms and eliminate point solutions."
+    },
+    {
+      "factor": "Social",
+      "impact": "4.8 million unfilled cybersecurity positions globally (early 2026). Ransomware attacks on hospitals, schools, and utilities erode public trust. Autonomous AI SOC platforms are no longer optional — they are operationally critical for understaffed security teams."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Autonomous SOC platforms now resolve 90%+ of tier-1 and tier-2 alerts, reducing mean-time-to-respond from hours to under 4 minutes. LLMs enable highly personalized spear-phishing at industrial scale. Agentic AI defenders now operate continuously with no human-in-the-loop."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI security infrastructure requires massive GPU compute — adding to data center energy consumption. The power demands of running 24/7 AI threat detection engines create sustainability pressure on vendors and enterprises alike. [unverified quantification]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "DORA (Jan 2025), NIS2 (Oct 2024 transposition), and EU AI Act (Aug 2026 high-risk enforcement) create overlapping compliance obligations. A single AI security incident can trigger simultaneous reporting under all three frameworks. Only 28% of European firms report meaningful compliance progress."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Automate SOC tier-1/2 alert triage to close the 4.8M security talent gap",
+      "solution": "Autonomous AI SOC platforms (CrowdStrike Charlotte AI, SentinelOne Purple AI, Darktrace/Respond) that resolve 90%+ of routine alerts without human intervention, reducing MTTR from hours to <4 minutes."
+    },
+    {
+      "job": "Defend against AI-generated phishing and deepfake social engineering at scale",
+      "solution": "LLM-native email and communication security that detects syntactically correct but semantically anomalous AI-authored content — going beyond signature-based filters toward behavioral and semantic analysis."
+    },
+    {
+      "job": "Prove regulatory compliance under DORA, NIS2, and EU AI Act simultaneously",
+      "solution": "Compliance-aware AI security dashboards that map incidents to specific regulatory reporting obligations in real time, automating the evidence trail for auditors across all three EU frameworks."
+    },
+    {
+      "job": "Monitor AI model integrity and supply-chain attacks in production ML systems",
+      "solution": "MLSecOps platforms that detect model poisoning, adversarial prompt injection, and training data tampering — an emerging category as AI systems become critical business infrastructure."
+    },
+    {
+      "job": "Enable board-level cybersecurity risk visibility without requiring technical expertise",
+      "solution": "AI-powered risk quantification tools (CRQ) that translate technical threat signals into business-impact language and financial exposure estimates for C-suite and board reporting."
+    }
+  ],
+  "market": [
+    {
+      "name": "Microsoft Security",
+      "share": "25.8%",
+      "loved": "Deep OS integration, Copilot for Security, $37B revenue making it larger than CrowdStrike + Palo Alto + Zscaler combined",
+      "segment": "Endpoint & Identity"
+    },
+    {
+      "name": "CrowdStrike",
+      "share": "18.1%",
+      "loved": "Falcon platform + Charlotte AI; $4.81B FY2026 revenue (+22% YoY); $5.25B ARR crossing $1B net new ARR for first time",
+      "segment": "Endpoint Detection & Response"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "share": "9.7%",
+      "loved": "Cortex XSIAM autonomous SOC platform; Prisma Cloud; aggressive platformization strategy eating point-solution competitors",
+      "segment": "Network & Cloud Security"
+    },
+    {
+      "name": "SentinelOne",
+      "share": "4%",
+      "loved": "Purple AI; +43% YoY revenue growth; fastest-growing pure-play AI security vendor at scale",
+      "segment": "AI-Native EDR"
+    },
+    {
+      "name": "Darktrace",
+      "share": "~2%",
+      "loved": "Self-Learning AI (unsupervised ML); autonomous response; $5.3B Thoma Bravo acquisition (Aug 2025) accelerating product investment",
+      "segment": "Network Detection & Response"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Microsoft Security",
+      "detail": "$37B cybersecurity business. Microsoft Copilot for Security uses GPT-4 to analyze incidents. Defender XDR integrates identity, endpoint, cloud, email. Dominant in enterprises already on Microsoft 365."
+    },
+    {
+      "name": "CrowdStrike Falcon",
+      "detail": "Charlotte AI provides natural-language threat hunting. Falcon platform covers endpoint, cloud, identity, data. $5.25B ARR. Recovered market confidence after 2024 outage incident — now growing 22% YoY."
+    },
+    {
+      "name": "Palo Alto Networks Cortex",
+      "detail": "XSIAM autonomous SOC platform processes 1.5 petabytes of security data daily. Strata network security + Prisma cloud form a platform play. Acquisition of IBM's QRadar assets in 2024 accelerated AI data integration."
+    },
+    {
+      "name": "SentinelOne Purple AI",
+      "detail": "AI analyst that autonomously investigates, hunts, and responds to threats. +43% revenue growth YoY. Positioned as the 'AI-native' alternative to legacy SIEM/XDR incumbents. Strong in mid-market."
+    },
+    {
+      "name": "Darktrace / Respond",
+      "detail": "Autonomous AI that responds to threats in real time without pre-defined rules — self-learning models detect novel attack patterns. $5.3B Thoma Bravo acquisition funds accelerated R&D. Strong in UK/Europe."
+    }
+  ],
+  "canvas": {
+    "who": "CISOs and security operations leaders at mid-to-large enterprises; financial institutions under DORA compliance pressure; healthcare systems facing HIPAA + ransomware; understaffed IT teams at mid-market companies (500–5,000 employees) that cannot hire enough analysts",
+    "where": "US (Microsoft/CrowdStrike core market), Europe (DORA/NIS2 compliance urgency), Asia Pacific (fastest-growing at 31% CAGR); predominantly cloud-delivered SaaS platforms replacing on-premise SIEM deployments",
+    "why_now": "The world's first autonomous AI cyberattack (Sep 2025) proved AI-vs-AI is the new reality. DORA enforcement (Jan 2025) creates immediate compliance risk for 22,000+ EU financial entities. The 4.8M talent gap makes human-only defense mathematically impossible. Platform M&A ($47B Q1 2026) signals the industry is consolidating fast — laggards will be locked into fragmented stacks.",
+    "behavior": "Enterprises are consolidating from 20-50 point security tools to 3-5 integrated AI platforms. Security teams increasingly approve autonomous response actions rather than manually executing them. Boards are demanding quantified risk exposure in business terms. Procurement cycles are shortening as breach costs make inaction more expensive than tooling.",
+    "unmet": "Explainable AI for compliance audits — regulators demand traceable decisions that black-box models cannot provide. Accurate false-positive rates — autonomous SOC tools still surface enough noise to cause analyst fatigue. Cross-platform threat intelligence sharing — siloed vendor ecosystems mean attackers move faster than defenders can coordinate. Cost transparency — AI security platforms have opaque consumption-based pricing that enterprises cannot budget accurately."
+  },
+  "takeaways": [
+    "SOC automation is the enterprise must-buy for 2026 — any vendor that can demonstrate 90%+ autonomous alert resolution will command premium pricing. Target the CISO who is 6 analysts short and has been for 18 months.",
+    "DORA compliance is the biggest European revenue opportunity in cybersecurity right now — 22,000+ financial entities need AI tooling to meet mandates they are already behind on. Position AI-native tools as compliance accelerators, not just security tools.",
+    "AI-vs-AI is no longer a 2030 scenario — autonomous attackers are active today. Security content, training, and tooling that addresses AI-generated threats (deepfake calls, LLM phishing, autonomous intrusion) will outgrow traditional categories by 3x over the next 24 months.",
+    "Platform consolidation is a forcing function — $47B of M&A in one quarter means point solutions are dying. Build integrations and ecosystem plays, not standalone tools. The winning position in 2027 is being the data layer that every AI security platform pulls from."
+  ],
+  "sources": [
+    "https://www.fortunebusinessinsights.com/artificial-intelligence-in-cybersecurity-market-113125",
+    "https://www.openpr.com/news/4471828/ai-cybersecurity-market-is-going-to-boom-crowdstrike",
+    "https://www.aibmag.com/ai-start-ups-innovation-and-venture-trends/ai-cybersecurity-investment-sector-trends/",
+    "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/",
+    "https://tech-insider.org/cybersecurity-ma-consolidation-2026/",
+    "https://www.advisori.de/blog/regulatory-year-review-2026-dora-nis2-ai-act",
+    "https://securityboulevard.com/2026/02/ai-empowered-cybersecurity-key-events-and-emerging-trends-in-2025/",
+    "https://www.paloaltonetworks.com/blog/2025/11/2026-predictions-for-autonomous-ai/"
+  ]
+}
