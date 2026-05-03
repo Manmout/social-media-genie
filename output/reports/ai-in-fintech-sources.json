@@ -1,0 +1,207 @@
+{
+  "trend": "AI in Fintech",
+  "slug": "ai-in-fintech",
+  "research_date": "2026-05-03",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Fintech Market Size, Report & Industry Trends 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-in-fintech-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "Market valued at USD 30 billion in 2025",
+        "Market grows to USD 36.61 billion in 2026",
+        "22.04% CAGR through 2031 to USD 99.09 billion",
+        "growth_1y: +22% (2025 to 2026)",
+        "Market size figures used throughout trend data"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artificial Intelligence in Fintech Market Size & Share, 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-in-fintech-market-report",
+      "publisher": "Grand View Research",
+      "date": "2026",
+      "claims_supported": [
+        "Market valued at USD 9.45 billion in 2021 (growth_5y baseline)",
+        "16.5% CAGR from 2022 to 2030",
+        "growth_5y: +288% calculation basis (2021 $9.45B to 2026 $36.61B)",
+        "Long-range market projection context"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "JPMorgan's $20 Billion Tech Bet Could Shrink FinTech's Innovation Edge",
+      "url": "https://www.pymnts.com/news/banking/2026/jpmorgans-20-billion-tech-bet-could-shrink-fintechs-innovation-edge/",
+      "publisher": "PYMNTS",
+      "date": "2026",
+      "claims_supported": [
+        "JPMorgan technology budget approaching $20 billion in 2026",
+        "AI expected to generate $2.5B in annual value for JPMorgan",
+        "2,000 dedicated AI staff at JPMorgan",
+        "40,000 JPMorgan developers using AI coding tools",
+        "AI scans $10 trillion in daily transactions",
+        "Timeline event 2026-01: JPMorgan AI systems scale detail",
+        "Trigger context: JPMorgan $20B tech bet"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Wells Fargo, Citi and Goldman Lead in AI Venture Investment",
+      "url": "https://www.americanbanker.com/news/wells-fargo-citi-and-goldman-lead-in-ai-venture-investment",
+      "publisher": "American Banker",
+      "date": "2026",
+      "claims_supported": [
+        "AI-specific bank investments grew at 21% CAGR (vs 8% general tech VC) from 2023–2025",
+        "Wells Fargo: 81 AI venture deals since 2019",
+        "Citi: 77 AI venture deals",
+        "Goldman Sachs: 70 AI venture deals",
+        "growth_3m: +21% CAGR proxy",
+        "Economic PESTAL: AI bank investment growth rate"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "OpenAI Partners with Customers Bank in Push to Automate Finance",
+      "url": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
+      "publisher": "CNBC",
+      "date": "2026-04-27",
+      "claims_supported": [
+        "Customers Bank CEO used AI clone at earnings call then signed OpenAI deal",
+        "Agentic AI expanding into banking executive functions",
+        "Evidence of mainstream bank AI adoption acceleration in April 2026",
+        "Trigger and timeline context: banking AI going mainstream"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Banking Enters the Agentic Era — WEF Finance News",
+      "url": "https://www.weforum.org/stories/2026/02/banking-enters-the-agentic-era-and-other-finance-news-to-know/",
+      "publisher": "World Economic Forum",
+      "date": "2026-02",
+      "claims_supported": [
+        "Goldman Sachs deploying autonomous agents for trade accounting and client onboarding",
+        "Goldman Sachs using Anthropic Claude model for digital co-workers",
+        "Lloyds, BNY Mellon committing to agentic AI in Q1 2026",
+        "Wells Fargo bank-wide agentic AI via Google Cloud",
+        "Timeline event 2026-03: Goldman Sachs agentic AI deployment",
+        "Trigger: Goldman Sachs digital co-workers context",
+        "Technological PESTAL: agentic AI replacing dashboards"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Q1 2026 Shatters Venture Funding Records As AI Boom Pushes Startup Investment To $300B",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "publisher": "Crunchbase News",
+      "date": "2026",
+      "claims_supported": [
+        "Global venture investment reached $300B in Q1 2026",
+        "Up more than 150% quarter-over-quarter and year-over-year",
+        "All-time high per Crunchbase data",
+        "H1 2025 AI fintech VC hit $7.2B, nearly matching all of 2024",
+        "Timeline event 2025-09: H1 2025 AI fintech VC context",
+        "Economic PESTAL: record funding intensifying fintech AI deployment"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Agentic AI and More to Reshape Fintech in 2026",
+      "url": "https://techinformed.com/agentic-ai-and-more-to-reshape-fintech-in-2026/",
+      "publisher": "TechInformed",
+      "date": "2026",
+      "claims_supported": [
+        "Fintechs laying groundwork for agentic AI that can plan, reason, and take multi-step actions",
+        "Shift from traditional automation to agentic workflows",
+        "57% of consumers expect fintech apps to use AI",
+        "Social PESTAL: consumer expectations context",
+        "Technological PESTAL: agentic AI capabilities description"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "EU AI Act 2026 Updates: Compliance Requirements and Business Risks",
+      "url": "https://www.legalnodes.com/article/eu-ai-act-2026-updates-compliance-requirements-and-business-risks",
+      "publisher": "LegalNodes",
+      "date": "2026",
+      "claims_supported": [
+        "High-risk AI requirements fully enforced August 2, 2026",
+        "Penalties: €35M or 7% global revenue for prohibited AI",
+        "Penalties: €15M or 3% for non-compliant high-risk AI",
+        "Credit scoring and fraud detection classified as high-risk AI",
+        "Mandatory audit trails, bias testing, human oversight for high-risk AI",
+        "Legal PESTAL: EU AI Act detail",
+        "Trigger: EU AI Act enforcement deadline",
+        "Takeaway #1: explainability compliance urgency"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Q1 2026 Financial Services Review: The Headlines That Defined the Quarter",
+      "url": "https://www.fintechtris.com/blog/q1-2026-financial-services-review-the-headlines-that-defined-the-quarter",
+      "publisher": "FinTechtris",
+      "date": "2026",
+      "claims_supported": [
+        "Goldman Sachs, Lloyds, BNY Mellon committing to agentic AI deployment in Q1 2026",
+        "Mastercard Virtual C-Suite launch in late March 2026",
+        "Virtual CFO as first module drawing on 175B annual transaction insights",
+        "Timeline event 2026-03: Mastercard Virtual CFO and agentic finance milestones",
+        "Trigger: Mastercard Virtual CFO March 2026 launch"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "SimCorp Launches Agentic AI Ecosystem for Investors",
+      "url": "https://fintech.global/2026/04/27/simcorp-launches-agentic-ai-ecosystem-for-investors/",
+      "publisher": "Fintech Global",
+      "date": "2026-04-27",
+      "claims_supported": [
+        "SimCorp agentic AI ecosystem for institutional investors launched April 2026",
+        "Institutional finance sector moving to agentic AI architectures",
+        "Timeline and trigger: agentic finance era officially beginning context",
+        "Competitor context: enterprise AI finance platform expansion"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The 7 Banking and Fintech Trends That Will Define 2026",
+      "url": "https://bernardmarr.com/the-7-banking-and-fintech-trends-that-will-define-2026/",
+      "publisher": "Bernard Marr",
+      "date": "2026",
+      "claims_supported": [
+        "42% of US financial firms plan to increase AI investment by 50% or more",
+        "Robo-advisory market projected to manage $4.6T in assets by 2027",
+        "Banks report 20–35% cost reductions in automated functions",
+        "Economic PESTAL: banking cost reduction via AI",
+        "Jobs JTBD: robo-advisory scale context"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~90,000/month",
+      "note": "The 90,000 monthly search volume estimate for 'AI fintech', 'AI in banking', 'AI financial services', and related terms is a directional estimate. No primary keyword tool (Keywords Everywhere, Ahrefs) was directly queried. The estimate aggregates 'fintech' (~250K/mo), 'AI fintech' (likely 40–60K), and 'AI banking' (likely 30–50K). Actual volume may vary significantly depending on scope and geography."
+    },
+    {
+      "claim": "growth_3m: '+21% CAGR' used as short-term proxy",
+      "note": "The +21% figure is the CAGR of AI-specific bank venture investments from 2023–2025 (American Banker), not a quarterly sequential growth figure. It is used as the best available published indicator of near-term AI fintech momentum. No single Q-over-Q market revenue figure for AI in fintech was available from a published source for Q1 2026."
+    },
+    {
+      "claim": "Goldman Sachs deploying 'Anthropic Claude-powered agents'",
+      "note": "The WEF source references Goldman Sachs developing autonomous agents 'powered by Anthropic's Claude model' for trade accounting and client onboarding. This claim originates from a WEF summary article, not a primary Goldman Sachs press release. The Goldman-Anthropic AI partnership is reported widely but Goldman has not formally confirmed the specific Claude deployment in a press release as of research date."
+    },
+    {
+      "claim": "Market share percentages for Stripe (~18%), Palantir AIP (~14%), Ramp (~9%), Upstart (~7%), Zest AI (~5%)",
+      "note": "No analyst report publicly segments the $36.61B AI in fintech market by individual vendor market share at this granularity. These percentages are estimations derived from company valuations, customer counts, and revenue disclosures relative to the total market. They should be treated as directional indicators of relative market position, not audited figures. Stripe and Palantir are likely the two largest vendors; exact ordering of smaller players is uncertain."
+    },
+    {
+      "claim": "CFPB expanding Adverse Action Notice requirements for AI credit denials",
+      "note": "The CFPB has been pursuing rulemaking in this area but a final rule as of research date (May 2026) was not confirmed. This reflects the regulatory direction based on CFPB guidance documents and proposed rulemaking, not a finalized regulation. The 2026 timeline is directional."
+    },
+    {
+      "claim": "Only 9% of traditional banks have enough ML engineers to build proprietary models",
+      "note": "This figure is referenced in fintech industry analysis as a common benchmark for AI talent gaps in banking, but the primary research source was not identified during this research session. It is consistent with broader AI talent shortage data from McKinsey and Deloitte surveys. Treat as [unverified estimate]."
+    }
+  ]
+}
