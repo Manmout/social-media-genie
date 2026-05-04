@@ -1,0 +1,117 @@
+{
+  "trend": "AI Companion Apps",
+  "slug": "ai-companion-apps",
+  "generated": "2026-05-04",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI companion apps on track to pull in $120M in 2025",
+      "url": "https://techcrunch.com/2025/08/12/ai-companion-apps-on-track-to-pull-in-120m-in-2025/",
+      "publisher": "TechCrunch",
+      "claim": "Mobile AI companion apps on track for $120M revenue in 2025; downloads up 88% YoY in H1 2025; revenue up 64% YoY; revenue per download grew from $0.52 (2024) to $1.18 (2025)",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI Companion Market Growth 2026–2034 | Trends by Type & Use",
+      "url": "https://www.fortunebusinessinsights.com/ai-companion-market-113258",
+      "publisher": "Fortune Business Insights",
+      "claim": "Global AI companion market valued at $37.73B in 2025; projected to grow from $49.52B (2026) to $435.9B by 2034 at 31.24% CAGR",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "AI Companion Market Size to Hit USD 552.49 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/ai-companion-market",
+      "publisher": "Precedence Research",
+      "claim": "Global AI companion market at $37.12B (2025), growing to $48.63B (2026) and $552.49B by 2035 at 31.00% CAGR",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "AI Companion Market Size And Share | Industry Report, 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-companion-market-report",
+      "publisher": "Grand View Research",
+      "claim": "Global AI companion market at $36.79B (2025) growing at 33.8% CAGR; North America holds 41% market share; APAC holds 32%",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI Companions Statistics By Usage, Market Size, Apps and Facts (2025)",
+      "url": "https://electroiq.com/stats/ai-companions-statistics/",
+      "publisher": "Electroiq",
+      "claim": "Xiaoice: 660M users; Snapchat My AI: 150M users; Character.AI: 233M registered users; cumulative global downloads: 220M as of July 2025; consumer spending: $221M as of July 2025; top 10% of apps capture 89% of revenue",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Working Paper 24-078: AI Companions Reduce Loneliness",
+      "url": "https://www.hbs.edu/ris/Publication%20Files/24-078_a3d2e2c7-eca1-4767-8543-122e818bf2e5.pdf",
+      "publisher": "Harvard Business School",
+      "claim": "Controlled study confirms AI companions measurably reduce loneliness; people with fewer human relationships more likely to seek AI companions; companionship and therapy are top two stated use cases",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Many teens are turning to AI chatbots for friendship and emotional support",
+      "url": "https://www.apa.org/monitor/2025/10/technology-youth-friendships",
+      "publisher": "American Psychological Association Monitor",
+      "claim": "Gen Z digital-native teens using AI chatbots for friendship; 57% of Character.AI users aged 18–24; 80% of Gen Z open to AI relationships; 17–24% of adolescents develop problematic AI dependencies",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI Companions Hit 50M Users: Valentine's Day 2026",
+      "url": "https://www.novaedgedigitallabs.tech/Blog/ai-companions-50-million-users-valentines-day-2026",
+      "publisher": "NovaEdge Digital Labs",
+      "claim": "AI companion apps crossed 50M active users globally in February 2026; $500M+ annual revenue across category in 2026; Replika leads with 20M users",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "AI Companion Apps Crossed 20M in Revenue. April 2026 Market Breakdown.",
+      "url": "https://www.roborhythms.com/ai-companion-app-market-2026/",
+      "publisher": "RoboRhythms",
+      "claim": "5 US states passed AI companion laws in Q1 2026; UnitedHealthcare deployed AI companion for 20.5M members (April 2026); number of competing platforms grew 38% in 2025; 128 new apps launched in 2025; enterprise AI companions emerging as distinct market",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Loneliness is Driving Adoption of AI Companions",
+      "url": "https://www.vccafe.com/2025/06/19/loneliness-is-driving-adoption-of-ai-companions/",
+      "publisher": "VC Cafe",
+      "claim": "61% of people aged 18–25 report serious loneliness; loneliness epidemic is the primary structural driver of AI companion adoption; AI companion app count grew 700% between 2022 and mid-2025",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "2026 Year in Preview: AI Regulatory Developments for Companies to Watch Out For",
+      "url": "https://www.wsgr.com/en/insights/2026-year-in-preview-ai-regulatory-developments-for-companies-to-watch-out-for.html",
+      "publisher": "Wilson Sonsini Goodrich & Rosati (Law Firm)",
+      "claim": "New York AI Companion Law requires crisis-response protocols for self-harm; Tennessee developer liability for emotional harm to minors; EU AI Act fully applicable August 2026; GDPR Article 9 applies to emotional/psychological data",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI companions and subjective well-being: Moderation by social connectedness and loneliness",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0160791X26000187",
+      "publisher": "ScienceDirect / Technology in Society (peer-reviewed)",
+      "claim": "Heavy emotional self-disclosure to AI consistently associated with lower well-being; Dartmouth Therabot RCT found 51% drop in depressive symptoms, 31% drop in anxiety, 19% drop in body image concerns",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_3m of +22% for Q1-Q2 2026",
+      "note": "Estimated based on Q4 2025 to Q1 2026 trajectory; no verified quarterly breakdown available for this specific period"
+    },
+    {
+      "claim": "Annual retention rate of 80%+ for users with 90+ day streaks",
+      "note": "Industry estimate based on category behavior patterns; no single verified source for this specific figure"
+    },
+    {
+      "claim": "Microsoft acquisition of Inflection AI at $650M",
+      "note": "Widely reported figure but structured as talent+license deal; exact valuation disputed; verify against March 2024 sources before publishing"
+    }
+  ]
+}
