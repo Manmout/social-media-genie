@@ -1,0 +1,152 @@
+{
+  "trend": "Enterprise AI Customer Experience Agents",
+  "slug": "enterprise-ai-cx-agents",
+  "research_date": "2026-05-06",
+  "sources": [
+    {
+      "id": 1,
+      "claim": "Sierra raised $950M at a $15.8B post-money valuation led by Tiger Global and GV",
+      "publisher": "TechCrunch",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "date": "2026-05-04",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "claim": "Sierra passed $150M ARR in eight quarters with 40%+ of the Fortune 50 as customers",
+      "publisher": "Tech Startups",
+      "title": "Bret Taylor's AI startup Sierra raises $950M at $15.8B valuation as demand for AI agents surges",
+      "url": "https://techstartups.com/2026/05/04/bret-taylors-ai-startup-sierra-raises-950m-at-15-8b-valuation-as-demand-for-ai-agents-surges/",
+      "date": "2026-05-04",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "claim": "AI customer service market reached $15.12B in 2026, growing at 25.8% CAGR toward $117.87B by 2034",
+      "publisher": "Fortune Business Insights",
+      "title": "AI For Customer Service Market Size | Global Industry Forecast",
+      "url": "https://www.fortunebusinessinsights.com/ai-for-customer-service-market-109522",
+      "date": "2026-01-01",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "claim": "Grand View Research confirms AI customer service market at $13B+ in 2024 with 25%+ CAGR",
+      "publisher": "Grand View Research",
+      "title": "AI For Customer Service Market Size | Industry Report, 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-customer-service-market-report",
+      "date": "2026-01-01",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "claim": "Salesforce Agentforce ARR surpassed $500M in Q3 FY26, up 330% YoY — fastest-growing Salesforce product ever",
+      "publisher": "SQ Magazine",
+      "title": "Salesforce Statistics 2026: Revenue, Market Share & Agentforce Growth",
+      "url": "https://sqmagazine.co.uk/salesforce-statistics/",
+      "date": "2026-04-01",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "claim": "Salesforce Agentforce and Data 360 reached ~$1.4B ARR by Q3 FY26, up 114% YoY",
+      "publisher": "Fortune",
+      "title": "AI's next act: how Salesforce is turning efficiency gains into revenue",
+      "url": "https://fortune.com/2026/04/18/salesforce-agentforce-ai-efficiency-revenue-growth/",
+      "date": "2026-04-18",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "claim": "Median enterprise tier-1 deflection sits at 41.2%; top quartile achieves 58.7%; 70% of interactions handled without human by end of 2026",
+      "publisher": "Builts AI",
+      "title": "AI Customer Service in 2026: What Works (55-70% Deflection)",
+      "url": "https://builts.ai/blog/ai-customer-service-trends-2026/",
+      "date": "2026-03-01",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "claim": "Voice AI handles 19% of inbound contact-center volume in 2026, up from 6% in 2024; 68% of consumers prefer AI for simple queries",
+      "publisher": "Digital Applied",
+      "title": "Customer Service AI Agent Statistics 2026: 120+ Data",
+      "url": "https://www.digitalapplied.com/blog/customer-service-ai-agent-statistics-2026-data",
+      "date": "2026-02-01",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "claim": "Intercom Fin resolution rates climbed from 41% to 66% across customer base; 20%+ of customers see 80%+ resolution rates; $0.99/resolution pricing",
+      "publisher": "Zowie",
+      "title": "Most Accurate AI Customer Service Agents in 2026: Top 10 Compared",
+      "url": "https://getzowie.com/blog/most-accurate-ai-customer-service-agents-2026",
+      "date": "2026-03-01",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "claim": "EU AI Act reclassifies customer emotion recognition AI as high-risk in August 2026; requires conformity assessment and third-party review",
+      "publisher": "CX Today",
+      "title": "EU AI Act Deadline: Customer Emotion AI Becomes High-Risk in August 2026",
+      "url": "https://www.cxtoday.com/contact-center/customer-emotion-ai-august-2026-compliance-cliff/",
+      "date": "2026-04-01",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "claim": "Sierra founding story, early enterprise clients (WeightWatchers, Sonos, SiriusXM), $285M raised in first year at $4.5B valuation",
+      "publisher": "Contrary Research",
+      "title": "Report: Sierra Business Breakdown & Founding Story",
+      "url": "https://research.contrary.com/company/sierra",
+      "date": "2025-12-01",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "claim": "Sierra crossed $100M ARR in 21 months (November 2025), among fastest enterprise SaaS companies to that milestone",
+      "publisher": "TechBuzz AI",
+      "title": "Sierra hits $100M ARR in 21 months, proving AI agents work",
+      "url": "https://www.techbuzz.ai/articles/sierra-hits-100m-arr-in-21-months-proving-ai-agents-work",
+      "date": "2025-11-01",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "claim": "Colorado AI Act effective June 30, 2026; employers using AI in decisions are 'Deployers' with high-risk system obligations",
+      "publisher": "Gunderson Dettmer",
+      "title": "2026 AI Laws Update: Key Regulations and Practical Guidance",
+      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+      "date": "2026-01-01",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "claim": "26% of new CX-AI deployments chose CX-suite-native; 22% chose specialist AI agent vendors; 18% chose contact-center-embedded options",
+      "publisher": "CMSWire",
+      "title": "Sierra AI's $10B Valuation Marks a Turning Point for Conversational AI",
+      "url": "https://www.cmswire.com/customer-experience/sierra-ais-10b-valuation-marks-a-turning-point-for-conversational-ai/",
+      "date": "2026-04-06",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "claim": "Conversational AI market was ~$6.8B in 2021, reaching $11.58B in 2024 — 5Y market growth baseline",
+      "publisher": "Grand View Research",
+      "title": "Conversational AI Market Size, Share | Industry Report, 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/conversational-ai-market-report",
+      "date": "2025-01-01",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_3m +38% — estimated from Salesforce Agentforce quarterly growth trajectory in Q4 FY26; no single-quarter market-wide figure publicly available",
+      "status": "extrapolated"
+    },
+    {
+      "claim": "Market share percentages (Salesforce 26%, Zendesk 18%, Intercom 14%, Sierra 12%, Kore.ai 8%) — based on deployment mix data from CX analyst reports, not audited revenue share figures",
+      "status": "estimated"
+    }
+  ]
+}
