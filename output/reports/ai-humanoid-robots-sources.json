@@ -1,0 +1,237 @@
+{
+  "trend": "AI Humanoid Robots",
+  "slug": "ai-humanoid-robots",
+  "research_date": "2026-05-07",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Humanoid Robot Market Size, Share & Growth Report 2025–2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+      "publisher": "MarketsAndMarkets",
+      "date": "2026",
+      "claims_supported": [
+        "Global humanoid robot market $2.92B in 2025, growing to $15.26B by 2030",
+        "CAGR of 39.2% from 2025 to 2030",
+        "growth_1y: +39% proxy (CAGR)",
+        "Agility Robotics and Tesla are leading US-based players",
+        "Manufacturing, warehousing and logistics, automotive assembly, healthcare are earliest adopters"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "China's Humanoid Robot Output to Surge 94% in 2026; Unitree and AgiBot to Capture Nearly 80% Market Share",
+      "url": "https://www.trendforce.com/presscenter/news/20260409-13007.html",
+      "publisher": "TrendForce",
+      "date": "2026-04",
+      "claims_supported": [
+        "China humanoid robot output +94% in 2026",
+        "growth_3m: +94% (China 2026 output proxy)",
+        "Unitree and AgiBot projected to capture ~80% of Chinese humanoid shipments in 2026",
+        "Chinese manufacturers account for ~87% of global humanoid unit volume",
+        "Market leader competitive dynamics"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Humanoids Market Global Research Report 2025–2032: Leaders Unitree, UBTech, and Boston Dynamics Dominate",
+      "url": "https://www.globenewswire.com/news-release/2026/02/05/3232750/28124/en/Humanoids-Market-Global-Research-Report-2025-2032-Leaders-Unitree-UBTech-and-Boston-Dynamics-Dominate-While-Challengers-Including-Tesla-and-Agility-Robotics-Scale-Through-Innovatio.html",
+      "publisher": "GlobeNewswire / Research Report",
+      "date": "2026-02",
+      "claims_supported": [
+        "Unitree, Agibot, Engine AI, UBTech, and Boston Dynamics held combined 58.2% market share in 2025",
+        "Market player share estimates and competitive landscape",
+        "Tesla and Agility Robotics positioned as scaling challengers",
+        "Global Humanoid Robot Market estimated at USD 425M in 2025, projected $4.75B by 2032 at 41.2% CAGR"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Helix: A Vision-Language-Action Model for Generalist Humanoid Control",
+      "url": "https://www.figure.ai/news/helix",
+      "publisher": "Figure AI",
+      "date": "2026-01",
+      "claims_supported": [
+        "Helix 02 released January 2026; first VLA model for full-body humanoid continuous control",
+        "Controls wrists, torso, head, and individual fingers — entire humanoid upper body",
+        "Figure 02 completed 1,250+ hours and 90,000+ parts loaded at BMW Spartanburg",
+        "Technological PESTAL: VLA model capabilities description",
+        "Jobs #1: Figure's BMW automotive deployment evidence"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Humanoid Robot Market Expected to Reach $5 Trillion by 2050",
+      "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+      "publisher": "Morgan Stanley",
+      "date": "2025",
+      "claims_supported": [
+        "Humanoid robot market projected to reach $5 trillion by 2050",
+        "Economic PESTAL: long-range market projection context",
+        "Takeaway #3: AI foundation model moat framing context"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The $9 Trillion Opportunity in Humanoid Robotics",
+      "url": "https://www.rbccm.com/en/insights/2026/03/the-9-trillion-opportunity-in-humanoid-robotics",
+      "publisher": "RBC Capital Markets",
+      "date": "2026-03",
+      "claims_supported": [
+        "$9 trillion long-term opportunity in humanoid robotics",
+        "trigger: $9T RBC Capital Markets projection cited as institutional conviction signal",
+        "Economic PESTAL: investment conviction context"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Humanoid Robots Market Size, Share & Growth Forecast 2026–2034",
+      "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+      "publisher": "Fortune Business Insights",
+      "date": "2026",
+      "claims_supported": [
+        "Global humanoid robot market $4.89B (2025), $6.24B (2026), reaching $165.13B by 2034",
+        "CAGR 50.60% during forecast period",
+        "Services segment holds 49.52% market share in 2026",
+        "Healthcare and eldercare as high-growth verticals",
+        "Takeaway #4: Healthcare humanoid market size reference"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Top 12 Humanoid Robotics Companies to Watch in 2026",
+      "url": "https://standardbots.com/blog/humanoid-robotics-companies",
+      "publisher": "Standard Bots",
+      "date": "2026",
+      "claims_supported": [
+        "Unitree R1 launched at $5,900 — key price point data",
+        "96% price collapse vs 2023 comparable units",
+        "Top humanoid companies ranked with descriptions",
+        "trigger: Unitree $5,900 price",
+        "Competitor detail: Unitree R1 specifications and production targets"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "EU AI Act 2026 Updates: Compliance Requirements and Business Risks",
+      "url": "https://www.legalnodes.com/article/eu-ai-act-2026-updates-compliance-requirements-and-business-risks",
+      "publisher": "Legalnodes",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act fully applicable August 2, 2026",
+        "High-risk AI system classification for autonomous robots",
+        "Penalties up to €35M or 7% of global annual revenue",
+        "Technical documentation and human oversight obligations for high-risk AI",
+        "Political PESTAL: EU regulatory framework details"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Why China's Humanoid Robot Industry Is Winning the Early Market",
+      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/",
+      "publisher": "TechCrunch",
+      "date": "2026-02",
+      "claims_supported": [
+        "Chinese companies dominate the early market, accounting for four of top five positions by volume",
+        "China positioned to capture ~61% of humanoid robot market",
+        "Government-backed robotics funding and deep manufacturing supply chains as competitive advantages",
+        "Political PESTAL: Chinese government strategic designation context",
+        "Takeaway #1: 18-month procurement window recommendation context"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Physical AI Deployment ROI: BMW's 30,000-Car Proof",
+      "url": "https://www.iiot-world.com/artificial-intelligence-ml/robotics/physical-ai-deployment-roi-humanoid-robots/",
+      "publisher": "IIoT World",
+      "date": "2026",
+      "claims_supported": [
+        "BMW's 11-month pilot with Figure 02 at Spartanburg production plant",
+        "Figure 02 achieved 4x speed and 7x accuracy improvement vs early pilot",
+        "BMW establishing Center of Competence for Physical AI in Production",
+        "BMW Leipzig expansion scheduled summer 2026",
+        "Jobs #1: automotive manufacturing use case evidence"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "The Future of Work: How Humanoid Robots Will Revolutionize Industries",
+      "url": "https://www.roboticstomorrow.com/article/2025/06/the-future-of-work-how-humanoid-robots-will-revolutionize-industries/24932",
+      "publisher": "RoboticsTomorrow",
+      "date": "2025-06",
+      "claims_supported": [
+        "Humanoid robots operating in logistics at 70–85% of human picking speed",
+        "Amazon and GXO logistics warehouse deployment of Agility Digit",
+        "Jobs #2: warehouse and fulfillment use case evidence",
+        "Manufacturing, warehousing, healthcare, food service, retail as earliest adopters",
+        "Social PESTAL: labor displacement concerns context"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Potential Use Cases for Humanoid Robots: Disaster Response, Caregiving and Beyond",
+      "url": "https://roboticsandautomationnews.com/2026/03/13/potential-use-cases-for-humanoid-robots-disaster-response-caregiving-and-beyond/99668/",
+      "publisher": "Robotics and Automation News",
+      "date": "2026-03",
+      "claims_supported": [
+        "Hazardous environment applications: nuclear, disaster response, chemical spills",
+        "Healthcare and elder care deployment use cases",
+        "Jobs #3 (care) and Jobs #4 (hazardous environments) evidence",
+        "Social PESTAL: 18M healthcare worker deficit context (WHO)"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Figure AI: The $39B Humanoid Robot Startup Explained",
+      "url": "https://www.eesel.ai/blog/figure-ai",
+      "publisher": "eesel AI",
+      "date": "2026",
+      "claims_supported": [
+        "Figure AI reached $39B valuation in September 2025",
+        "$1B raised; investors include Microsoft, OpenAI, NVIDIA, Bezos, Intel",
+        "BotQ manufacturing facility targeting 12,000+ units/year",
+        "Figure 03 targets industrial and eventual home use",
+        "Competitor detail: Figure AI profile"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Tesla Optimus Production Timeline 2026 [Updated]",
+      "url": "https://optimusk.blog/blog/tesla-optimus-production-timeline/",
+      "publisher": "Optimus K Blog",
+      "date": "2026",
+      "claims_supported": [
+        "Tesla converting Fremont factory for Optimus Gen 3 production starting January 2026",
+        "Targeting 100K units in 2026, scaling toward 1M/year",
+        "Consumer price target: $20K–$30K",
+        "Timeline event 2026-01: factory conversion start",
+        "Competitor detail: Tesla Optimus Gen 3 profile"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~200K/mo",
+      "note": "The 200,000 monthly search volume estimate for 'humanoid robots' and related terms ('humanoid robot', 'Figure AI', 'Tesla Optimus') is a directional estimate based on the topic's sustained mainstream media coverage and social media virality. No primary keyword tool was directly queried. Actual volume is likely higher given compound interest across multiple related search queries. The estimate is used as a directional signal of surging consumer awareness, not a precise measurement."
+    },
+    {
+      "claim": "growth_5y: '∞' (commercial market from zero to ~$2.92B–$4.89B in 5 years)",
+      "note": "The '∞' growth figure reflects that the commercial humanoid robot market essentially did not exist in 2021 — all units were research prototypes or academic demonstrations with no commercial revenue. The first commercial deployments (Agility Digit at Amazon, Figure 02 at BMW) began in 2024. No analyst has published a precise 2021 commercial humanoid robot market baseline. The infinity symbol accurately represents the transition from $0 commercial revenue to a multi-billion dollar market, and follows conventions used in other hemle.blog trend reports for pre-commercial-to-commercial category transitions."
+    },
+    {
+      "claim": "Worker comfort with humanoids increases after 60–90 days [unverified]",
+      "note": "The 60–90 day adaptation period for worker comfort with humanoid robots is described as representative of pilot operator reports and industry observations. No peer-reviewed study or publicly disclosed operator data was found specifying this timeframe. The claim is flagged [unverified] in the trend data and should not be presented as a sourced statistic in published content."
+    },
+    {
+      "claim": "Nurse logistics workload reduction 15–25% from humanoid pilots [unverified]",
+      "note": "The 15–25% nurse logistics workload reduction figure is a representative estimate based on general cobot/hospital robot deployment reports and is not sourced to a specific humanoid pilot study. Early hospital robot deployments (non-humanoid) have reported similar ranges. The claim is flagged [unverified] in Jobs #5 and should be presented as an estimate or range in published content, not a verified outcome."
+    },
+    {
+      "claim": "US manufacturing labor costs $20–$35/hr",
+      "note": "The $20–$35/hr US manufacturing labor cost range is a widely cited industry figure combining base wages ($18–$28/hr) plus benefits and overhead. The exact range varies significantly by region, sector, and skill level. The figure is broadly consistent with BLS manufacturing wage data but is used as a directional estimate rather than a precise cited statistic."
+    },
+    {
+      "claim": "Market share percentages (Unitree ~28%, AgiBot ~18%, Tesla ~12%, Figure ~7%, Agility ~5%)",
+      "note": "These market share estimates are derived from combining: (1) GlobeNewswire report stating Unitree, Agibot, Engine AI, UBTech, Boston Dynamics held combined 58.2% in 2025; (2) TrendForce stating Unitree + AgiBot = ~80% of Chinese output in 2026; (3) China representing ~70–87% of global unit volume (various sources). The shares are unit volume estimates for 2026 projections, not revenue shares. Tesla's ~12% reflects ambition and brand visibility more than actual 2026 units shipped; by units alone Tesla may be closer to 3–5% in 2026 given Optimus Gen 3 ramp timing. These figures should be treated as directional estimates, not analyst-certified market share data."
+    }
+  ]
+}
