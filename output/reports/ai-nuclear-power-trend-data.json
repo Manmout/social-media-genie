@@ -1,0 +1,168 @@
+{
+  "trend_name": "Nuclear Power for AI Data Centers",
+  "slug": "ai-nuclear-power",
+  "status": "surging",
+  "search_volume": "90K+/mo [unverified]",
+  "category": "AI & Technology",
+  "growth_5y": "∞",
+  "growth_1y": "+200% [unverified]",
+  "growth_3m": "+55% [unverified]",
+  "trigger": "Big Tech signed 10GW+ of new US nuclear capacity in 2025 alone. X-energy raised $1.4B (Amazon-led). DOE awarded $800M to TVA and Holtec in Dec 2025. Fortune reported in April 2026 that data centers now account for 50% of all new US electricity demand — nuclear is the only 24/7 carbon-free baseload answer.",
+  "timeline": [
+    {
+      "date": "2024-03",
+      "event": "Amazon acquires Susquehanna nuclear campus from Talen Energy for $650M — first direct tech-company co-located nuclear power purchase"
+    },
+    {
+      "date": "2024-10",
+      "event": "Google signs world's first corporate SMR purchase agreement with Kairos Power: 500MW across 6-7 molten salt reactors by 2030"
+    },
+    {
+      "date": "2025-02",
+      "event": "X-energy raises $700M Series C-1 with Amazon as lead investor; Xe-100 pebble-bed reactor selected for Dow Chemical Gulf Coast demo plant"
+    },
+    {
+      "date": "2025-06",
+      "event": "AWS and Talen Energy sign 17-year, 1.92GW Power Purchase Agreement; AWS commits $20B in Pennsylvania nuclear infrastructure"
+    },
+    {
+      "date": "2025-11",
+      "event": "X-energy raises $700M Series D; Meta partners with TerraPower for up to 8 Natrium plants; Oklo and Switch sign MPA for up to 12GW of Aurora microreactors"
+    },
+    {
+      "date": "2026-01",
+      "event": "Meta partners with Oklo for 1.2GW AI campus in Pike County, Ohio (16 Aurora reactors); DOE awards $800M to TVA and Holtec for first commercial SMR deployments in Tennessee and Michigan"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Trump EOs directed NRC to streamline SMR approvals; however FY2026 budget cuts DOE Office of Nuclear Energy by 21% and Advanced Reactor Demonstration Program by 51%. Congress separately debates procurement restrictions on reactor components from adversary nations."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Global AI infrastructure spend reaches $480B in 2026 (UBS). Data centers account for 50% of all new US electricity demand (Fortune, April 2026). SMR market valued at $6.97B in 2026, projected to reach $12.24B by 2033 (Research Nester). Big Tech has committed $20B+ in US nuclear infrastructure."
+    },
+    {
+      "factor": "Social",
+      "impact": "Public opposition to data center expansion is rising — Maine enacted a statewide data center moratorium in 2026; 16 data centers worth $64B were blocked or delayed in 2025. AI energy consumption has become the top public flashpoint against the tech industry."
+    },
+    {
+      "factor": "Technological",
+      "impact": "NuScale VOYGR is the only SMR design with full NRC Design Certification. NuScale US 460 (462MW) received Standard Design Approval in May 2025, two months ahead of schedule. Kairos (molten salt), X-energy (pebble bed), TerraPower (sodium-cooled), and Oklo (fast fission) represent four competing SMR technology paths. IEA projects AI power use to triple by 2030."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Data center electricity use projected to approach 1,050 TWh by 2026 (equivalent to Japan's entire national consumption). Nuclear provides carbon-free 24/7 baseload power unlike wind/solar; it is the only technology that matches data center continuous load profiles without massive battery storage."
+    },
+    {
+      "factor": "Legal",
+      "impact": "NRC construction permit licensing decisions expected for first two commercial SMRs in 2026. Colorado AI Act (Jun 2026) and state-level data center moratoriums create patchwork regulatory risk. Federal nuclear waste disposal liability remains unresolved. IAEA and EU AI Act add international compliance layers for nuclear-powered AI infrastructure."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Secure 24/7 carbon-free power for AI GPU clusters without intermittency risk",
+      "solution": "Long-term nuclear PPAs (15-20 years) give hyperscalers firm baseload power guarantees that solar/wind cannot. AWS, Google, Microsoft, and Meta all signed deals in 2024-2025 locking in nuclear capacity through the 2030s."
+    },
+    {
+      "job": "Decarbonize data center carbon footprint under mounting ESG and regulatory pressure",
+      "solution": "Nuclear electricity is carbon-free and dispatchable, satisfying ESG mandates without the curtailment, storage, or intermittency issues of renewables. Google's Kairos deal specifically structured as carbon-free energy credits."
+    },
+    {
+      "job": "Accelerate nuclear reactor deployment, bypassing traditional utility timelines",
+      "solution": "Big Tech capital ($1.4B to X-energy, $650M+ to Talen/Amazon, $500M+ to Kairos/Google) has shortened the SMR investment cycle by decades, funding construction that DOE grants alone could not finance."
+    },
+    {
+      "job": "Build co-located AI data centers adjacent to reactors to eliminate transmission costs",
+      "solution": "Oracle is designing a data center campus powered directly by 3 on-site SMRs. Meta's Oklo Ohio campus co-locates 16 Aurora reactors next to AI infrastructure, eliminating grid transmission fees and interconnection queue delays."
+    },
+    {
+      "job": "Staff the next-generation nuclear workforce as AI transforms reactor operations",
+      "solution": "Nuclear industry workforce must grow from 100,000 today to 375,000 by 2050 (Stimson Center). DOE and academic programs are building cybersecurity, AI integration, and advanced reactor operation pipelines to meet the demand."
+    }
+  ],
+  "market": [
+    {
+      "name": "X-energy",
+      "share": "22% [unverified]",
+      "loved": "Amazon as anchor investor; $1.4B raised in 2025 alone; Xe-100 pebble-bed design chosen for Dow Chemical demo; UK Centrica deal (up to 12 Xe-100 reactors)",
+      "segment": "Industrial + Cloud"
+    },
+    {
+      "name": "Kairos Power",
+      "share": "18% [unverified]",
+      "loved": "Google 500MW SMR deal by 2030; fluoride high-temperature reactor (FHR); Hermes test reactor built in Tennessee 2024; fastest US advanced reactor to reach construction stage",
+      "segment": "Cloud / Hyperscale"
+    },
+    {
+      "name": "TerraPower",
+      "share": "15% [unverified]",
+      "loved": "Bill Gates-backed; Natrium sodium-cooled reactor with molten salt thermal storage (unique grid stability); Meta up-to-8-plants deal; DOE-funded Wyoming demo plant under construction",
+      "segment": "Utility + Hyperscale"
+    },
+    {
+      "name": "Oklo",
+      "share": "12% [unverified]",
+      "loved": "Publicly traded (NYSE: OKLO); Meta 1.2GW Ohio campus deal; Switch 12GW master power agreement; Aurora fast fission microreactor; claims fastest construction timeline (18 months vs 7+ years for large plants)",
+      "segment": "Micro-grid + Cloud"
+    },
+    {
+      "name": "NuScale Power",
+      "share": "10% [unverified]",
+      "loved": "Only company with full NRC Design Certification (VOYGR); US 460 received Standard Design Approval May 2025; publicly traded (NYSE: SMR); pivoting to direct tech/industrial customer model after Utah project cancellation",
+      "segment": "Utility"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "X-energy",
+      "detail": "US SMR developer backed by Amazon; Xe-100 high-temperature gas-cooled pebble bed reactor; $700M Series C-1 (Feb 2025) + $700M Series D (Nov 2025) = $1.4B raised in 2025; partnerships with Amazon, Dow Chemical (Gulf Coast demo), and Centrica UK (up to 12 reactors). Front-runner for AI hyperscale nuclear supply."
+    },
+    {
+      "name": "Kairos Power",
+      "detail": "Google's primary nuclear partner; 500MW fluoride salt-cooled high-temperature reactor (FHR) deal by 2030 across 6-7 units; built Hermes low-power test reactor in Oak Ridge, TN in 2024 — fastest US advanced reactor to reach construction since Three Mile Island. First commercial units targeted 2030."
+    },
+    {
+      "name": "TerraPower",
+      "detail": "Bill Gates-backed; Natrium sodium-cooled fast reactor with integrated molten salt thermal energy storage provides unique grid balancing capability. Meta deal for up to 8 Natrium plants. NVIDIA investment arm (NVentures) also backed TerraPower. DOE-funded Kemmerer, Wyoming demonstration plant under construction."
+    },
+    {
+      "name": "Oklo",
+      "detail": "Publicly traded (NYSE: OKLO); Aurora fast fission microreactor (15-75MW per unit). Meta partnership for 1.2GW Pike County Ohio campus (16 reactors, first online by 2030). Switch master power agreement for up to 12GW. Claims 18-month construction timeline. CEO Jacob DeWitte previously served on Trump energy advisory board."
+    },
+    {
+      "name": "NuScale Power",
+      "detail": "Publicly traded (NYSE: SMR). Only company with full NRC Design Certification (VOYGR SMR). NuScale US 460 (462MW) received Standard Design Approval May 2025, two months ahead of schedule. Original 2023 Utah UAMPS project cancelled due to 55% cost overruns. Pivoting from utility customers to direct industrial and tech buyers."
+    }
+  ],
+  "canvas": {
+    "who": "Hyperscale cloud providers (Microsoft, AWS, Google, Meta) securing 24/7 power for GPU-dense AI data centers; nuclear SMR startups seeking Big Tech as anchor customers; DOE officials managing the AI-grid nexus; grid operators overwhelmed by exponential data center load; energy investors seeking 15-20 year contracted PPAs",
+    "where": "US data center hubs: Pennsylvania (Susquehanna), Ohio (Meta-Oklo Pike County), Wyoming (TerraPower Kemmerer), Tennessee (Kairos Hermes), Washington state (Amazon SMR project); UK (X-energy Centrica); Eastern Europe for EU AI expansion",
+    "why_now": "Three simultaneous constraints converged in 2024-2025: AI model training requires 24/7 power that solar/wind cannot reliably provide; data centers now account for 50% of all new US electricity demand (Fortune, April 2026); tech companies cannot expand AI infrastructure without securing long-term power guarantees unavailable from overstretched utilities",
+    "behavior": "Tech buyers sign 15-20 year nuclear PPAs directly with SMR developers, bypassing traditional utility procurement; some co-locate data centers next to reactors to eliminate transmission costs; Big Tech has become the primary private-sector capital source for next-generation nuclear development, replacing government grants as the main funding mechanism",
+    "unmet": "SMRs won't come online until 2028-2030 at earliest — a 4-8 year gap between commitment and delivery; grid interconnection queue delays add years; local government opposition and data center moratoriums (Maine, Virginia) threaten expansion plans; NRC licensing remains slow despite EOs; nuclear workforce pipeline critically understaffed (100K today vs 375K needed by 2050); nuclear waste policy unresolved"
+  },
+  "takeaways": [
+    "The 'AI Energy Crisis' is the defining infrastructure story of 2026 — content mapping Big Tech nuclear deals to specific grid constraints will resonate with enterprise CIOs and energy investors who haven't connected these dots yet",
+    "Track the SMR developer race closely: X-energy (Amazon), Kairos (Google), TerraPower (Meta/NVIDIA), and Oklo (Meta/Switch) each have distinct technologies — their relative progress will determine which AI cloud provider wins the decade-long power advantage",
+    "The 4-8 year SMR deployment gap creates near-term arbitrage: companies bridging the power shortfall today (natural gas peakers, nuclear plant restarts like Three Mile Island) have massive revenue opportunity before SMRs come online in 2028-2030",
+    "Watch state-level data center opposition (Maine moratorium, 16 blocked projects totaling $64B) — this regulatory counter-trend could force AI companies to build in energy-friendly jurisdictions like Texas, Wyoming, and Ohio, reshaping the US data center geography"
+  ],
+  "sources": [
+    "https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/",
+    "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions",
+    "https://spectrum.ieee.org/nuclear-powered-data-center",
+    "https://www.openpr.com/news/4459312/small-modular-reactor-market-set-to-reach-us-12-24-billion",
+    "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+    "https://introl.com/blog/nuclear-power-ai-data-centers-microsoft-google-amazon-2025",
+    "https://enkiai.com/nuclear/microsoft-constellation-ai-data-centers/",
+    "https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments",
+    "https://cleanenergyforum.yale.edu/2026/04/26/an-analysis-of-small-modular-reactors-smrs-for-commercial-electricity-generation-in-the",
+    "https://www.stimson.org/2026/securing-the-future-building-the-us-nuclear-security-workforce-pipeline/",
+    "https://www.deloitte.com/us/en/insights/industry/power-and-utilities/nuclear-energy-powering-data-centers.html",
+    "https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid",
+    "https://www.iaea.org/bulletin/data-centres-artificial-intelligence-and-cryptocurrencies-eye-advanced-nuclear-to-meet-growing-power-needs",
+    "https://www.shumaker.com/insight/nuclear-powered-artificial-intelligence-ai-small-modular-reactors-as-an-emerging-power-source-for-ai-data-centers/"
+  ]
+}

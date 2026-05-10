@@ -1,0 +1,119 @@
+{
+  "slug": "ai-nuclear-power",
+  "trend_name": "Nuclear Power for AI Data Centers",
+  "generated_date": "2026-05-10",
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/",
+      "title": "Data centers now account for half of all new U.S. electricity use, just as Americans start to sour on AI",
+      "publisher": "Fortune",
+      "date": "2026-04-20",
+      "used_for": "Trigger, PESTAL Economic & Social: data centers = 50% of all new US electricity demand; rising public opposition to AI energy use"
+    },
+    {
+      "id": 2,
+      "url": "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions",
+      "title": "Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions",
+      "publisher": "International Energy Agency (IEA)",
+      "date": "2026",
+      "used_for": "PESTAL Environmental: data center electricity heading to 1,050 TWh by 2026; AI power use to triple by 2030"
+    },
+    {
+      "id": 3,
+      "url": "https://spectrum.ieee.org/nuclear-powered-data-center",
+      "title": "Big Tech Embraces Nuclear Power to Fuel AI and Data Centers",
+      "publisher": "IEEE Spectrum",
+      "date": "2025-2026",
+      "used_for": "Overview of Microsoft, Amazon, Google, Meta nuclear deals; PESTAL Technological"
+    },
+    {
+      "id": 4,
+      "url": "https://www.openpr.com/news/4459312/small-modular-reactor-market-set-to-reach-us-12-24-billion",
+      "title": "Small Modular Reactor Market Set to Reach US$ 12.24 Billion by 2033",
+      "publisher": "OpenPR / Research Nester",
+      "date": "2026",
+      "used_for": "Market size: SMR market at $6.97B in 2026; projection to $12.24B by 2033 at 8.65% CAGR"
+    },
+    {
+      "id": 5,
+      "url": "https://www.grandviewresearch.com/industry-analysis/small-modular-reactor-market-report",
+      "title": "Small Modular Reactor Market Size | Industry Report, 2033",
+      "publisher": "Grand View Research",
+      "date": "2025",
+      "used_for": "SMR market size $6.54B in 2025, $6.75B in 2026; CAGR 6.8% from 2026-2033; historical market baseline"
+    },
+    {
+      "id": 6,
+      "url": "https://introl.com/blog/nuclear-power-ai-data-centers-microsoft-google-amazon-2025",
+      "title": "Nuclear Power for AI: Inside the Data Center Energy Deals",
+      "publisher": "Introl",
+      "date": "2025-2026",
+      "used_for": "Timeline milestones: Amazon Susquehanna $650M, Google Kairos 500MW, AWS 1.92GW PPA with Talen"
+    },
+    {
+      "id": 7,
+      "url": "https://enkiai.com/nuclear/microsoft-constellation-ai-data-centers/",
+      "title": "Microsoft Nuclear 2026 — 1,920 MW Amazon PPA",
+      "publisher": "EnkiAI",
+      "date": "2026",
+      "used_for": "Microsoft Three Mile Island restart PPA; Amazon 1.92GW Constellation PPA details"
+    },
+    {
+      "id": 8,
+      "url": "https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments",
+      "title": "SMR Data Centers Tracker: Nuclear-Powered Projects 2026",
+      "publisher": "iRecruit",
+      "date": "2026",
+      "used_for": "Comprehensive tracker of all active SMR data center projects and deals in 2026"
+    },
+    {
+      "id": 9,
+      "url": "https://cleanenergyforum.yale.edu/2026/04/26/an-analysis-of-small-modular-reactors-smrs-for-commercial-electricity-generation-in-the",
+      "title": "An Analysis of Small Modular Reactors (SMRs) for Commercial Electricity Generation in the United States",
+      "publisher": "Yale Clean Energy Forum",
+      "date": "2026-04-26",
+      "used_for": "PESTAL Legal/Technological: NRC licensing milestones 2026; NuScale US 460 Standard Design Approval; SMR technology landscape"
+    },
+    {
+      "id": 10,
+      "url": "https://www.stimson.org/2026/securing-the-future-building-the-us-nuclear-security-workforce-pipeline/",
+      "title": "Securing the Future: Building the US Nuclear Security Workforce Pipeline",
+      "publisher": "Stimson Center",
+      "date": "2026",
+      "used_for": "Jobs to Be Done: nuclear workforce 100K today → 375K needed by 2050 (275% increase); cybersecurity and AI integration requirements"
+    },
+    {
+      "id": 11,
+      "url": "https://www.deloitte.com/us/en/insights/industry/power-and-utilities/nuclear-energy-powering-data-centers.html",
+      "title": "Nuclear Energy's Role in Powering Data Center Growth",
+      "publisher": "Deloitte",
+      "date": "2025-2026",
+      "used_for": "PESTAL Economic: Deloitte analysis of nuclear as data center power solution; grid constraints and Big Tech investment rationale"
+    },
+    {
+      "id": 12,
+      "url": "https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid",
+      "title": "AI, Data Centers, and the U.S. Electric Grid: A Watershed Moment",
+      "publisher": "Harvard Kennedy School Belfer Center",
+      "date": "2025-2026",
+      "used_for": "PESTAL Technological/Economic: AI data center grid impact analysis; watershed moment framing"
+    },
+    {
+      "id": 13,
+      "url": "https://www.iaea.org/bulletin/data-centres-artificial-intelligence-and-cryptocurrencies-eye-advanced-nuclear-to-meet-growing-power-needs",
+      "title": "Data Centres, Artificial Intelligence and Cryptocurrencies Eye Advanced Nuclear to Meet Growing Power Needs",
+      "publisher": "International Atomic Energy Agency (IAEA)",
+      "date": "2025-2026",
+      "used_for": "PESTAL Legal/Environmental: IAEA perspective on global nuclear expansion for AI infrastructure"
+    },
+    {
+      "id": 14,
+      "url": "https://www.shumaker.com/insight/nuclear-powered-artificial-intelligence-ai-small-modular-reactors-as-an-emerging-power-source-for-ai-data-centers/",
+      "title": "Nuclear Powered AI: Small Modular Reactors as an Emerging Power Source for AI Data Centers",
+      "publisher": "Shumaker, Loop & Kendrick LLP",
+      "date": "2025-2026",
+      "used_for": "Legal analysis: regulatory landscape, NRC approval process, corporate nuclear PPA legal structures"
+    }
+  ]
+}
