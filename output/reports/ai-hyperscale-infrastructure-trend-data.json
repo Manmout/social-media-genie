@@ -1,0 +1,151 @@
+{
+  "trend_name": "AI Hyperscale Infrastructure",
+  "status": "surging",
+  "search_volume": "110K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+2,850%",
+  "growth_1y": "+36%",
+  "growth_3m": "+9%",
+  "trigger": "$500B Stargate project announcement (Jan 2025) + hyperscaler capex hitting $600B+ in 2026 (+36% YoY) transforms AI compute into the largest capital deployment since the internet buildout",
+  "timeline": [
+    {
+      "date": "Nov 2022",
+      "event": "ChatGPT launch creates overnight AI inference demand spike; Nvidia GPU backorders stretch to 9+ months, exposing critical compute infrastructure gap"
+    },
+    {
+      "date": "Jan 2023",
+      "event": "Microsoft commits $10B to OpenAI and signals hyperscale AI arms race; cloud providers fast-track GPU cluster buildouts across US and Europe"
+    },
+    {
+      "date": "Mar 2023",
+      "event": "Nvidia H100 GPU enters mass shipment at $40K+ per chip; AI accelerator supply crisis triggers data center redesign for 400W+ per-chip thermal density"
+    },
+    {
+      "date": "Jan 2025",
+      "event": "Stargate project formally announced by President Trump: $500B AI infrastructure JV by OpenAI, SoftBank, Oracle, and MGX — largest AI infrastructure commitment in history"
+    },
+    {
+      "date": "Jul 2025",
+      "event": "Oracle/OpenAI expand Stargate to 4.5 GW capacity ($300B+ partnership); Microsoft signs 2 GW nuclear deal with Constellation Energy — largest corporate nuclear contract ever"
+    },
+    {
+      "date": "Q1 2026",
+      "event": "Hyperscaler capex hits $600B+ (Amazon $200B, Google $175–185B, Microsoft $120B+, Meta $115–135B); data centers now consume half of all new U.S. electricity; UAE Stargate opens"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Stargate JV backed by Trump executive order as national AI sovereignty play; U.S.-China infrastructure competition drives domestic buildout subsidies; export controls on Nvidia H100/H200 restrict GPU supply to China, concentrating AI capacity in allied nations"
+    },
+    {
+      "factor": "Economic",
+      "impact": "Hyperscalers commit $600B+ capex in 2026 (+36% YoY); Goldman Sachs projects $7.6T cumulative AI CapEx 2026–2031; DRAM prices up 171% YoY; data center real estate creates $1.2T in new asset value by 2030; new PE/infra asset class emerging"
+    },
+    {
+      "factor": "Social",
+      "impact": "Communities in Ashburn VA, Phoenix AZ, and Iowa actively opposing new data center permits citing power grid strain, water depletion, and minimal local jobs; public opinion on AI souring (Fortune, Apr 2026); NIMBYism slowing permitting in key markets by 2–4 years"
+    },
+    {
+      "factor": "Technological",
+      "impact": "Direct-to-chip liquid cooling now industry standard; Nvidia GB200 NVLink racks require 130 kW/rack vs. 10 kW/rack for prior gen; custom AI ASICs (AWS Trainium 2, Google TPU v5) challenging Nvidia's 80%+ GPU share; power usage effectiveness (PUE) targets below 1.2"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Global data center electricity reaches 1,100 TWh in 2026 — equivalent to Japan's entire national consumption (IEA); US data centers now account for half of all new electricity demand; nuclear renaissance accelerates: Microsoft (2 GW Constellation), Amazon (960 MW Susquehanna), Google (SMR deals)"
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU Energy Efficiency Directive mandates data center reporting for facilities >500 kW; EU AI Act requires energy performance documentation by August 2026; data center permitting battles in Virginia, Texas, and Arizona triggering new zoning laws; water-rights litigation rising in Western U.S. drought zones"
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Power LLM training at scale",
+      "solution": "Hyperscale GPU clusters of 10K–100K H100/GB200 nodes co-located with dedicated power supply (nuclear, solar+storage) to sustain multi-week training runs without grid dependency"
+    },
+    {
+      "job": "Serve AI inference with low latency",
+      "solution": "Dense edge data centers and metro colocation hubs positioned near population centers to keep API response times under 100ms for real-time AI applications"
+    },
+    {
+      "job": "Reduce runaway energy costs",
+      "solution": "Liquid cooling retrofits, long-term nuclear and renewable PPAs, and custom ASIC (Trainium, TPU) deployment to cut per-token inference cost by 60–80% vs. commodity GPU clouds"
+    },
+    {
+      "job": "Enable sovereign AI without hyperscaler dependence",
+      "solution": "National and regional data centers (EU, Gulf states, Southeast Asia) built to keep training data and model weights inside jurisdiction — avoiding U.S. hyperscaler data sovereignty risks"
+    },
+    {
+      "job": "Secure AI hardware supply chain",
+      "solution": "On-shore chip fabrication (TSMC Arizona, Intel Ohio), hardware diversification across Nvidia/AMD/custom silicon, and strategic GPU stockpiling to hedge against export control disruptions"
+    }
+  ],
+  "market": [
+    {
+      "name": "Amazon AWS",
+      "share": "32%",
+      "loved": "Trainium 2",
+      "segment": "Cloud IaaS leader; $200B capex 2026; acquired 960 MW nuclear plant; Trainium 2 custom AI chips"
+    },
+    {
+      "name": "Microsoft Azure",
+      "share": "29%",
+      "loved": "Stargate / OpenAI",
+      "segment": "Stargate JV anchor; $120B+ capex FY2026; 2 GW nuclear deal; 53K+ Azure AI enterprise customers"
+    },
+    {
+      "name": "Google Cloud",
+      "share": "11%",
+      "loved": "TPU v5",
+      "segment": "$175–185B capex 2026; TPU v5 custom silicon; Isomorphic Labs drug discovery workloads"
+    },
+    {
+      "name": "Nvidia",
+      "share": "~80% GPU",
+      "loved": "GB200",
+      "segment": "80%+ AI accelerator market share; H100/H200/GB200 power virtually all major training runs; $100B+ revenue FY2026"
+    },
+    {
+      "name": "Equinix",
+      "share": "~18% colo",
+      "loved": "xScale AI",
+      "segment": "World's largest colocation; 260+ data centers in 71 markets; xScale high-density campuses for GPU workloads"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Nvidia",
+      "detail": "Dominant AI accelerator supplier with ~80% market share; H100/H200/GB200 are the de facto standard for LLM training; FY2026 revenue exceeds $100B; faces competitive pressure from AWS Trainium 2, Google TPU v5, and AMD MI300X"
+    },
+    {
+      "name": "CoreWeave",
+      "detail": "Leading independent AI cloud built entirely for GPU-intensive workloads; raised $11.9B in March 2026 IPO; Nvidia-backed; operates dedicated H100/GB200 clusters for AI labs and enterprises unable to secure hyperscaler capacity"
+    },
+    {
+      "name": "Oracle Cloud Infrastructure",
+      "detail": "Stargate JV partner; Abilene TX campus already delivering NVIDIA GB200 racks; 4.5 GW capacity agreement with OpenAI ($300B+ over 5 years); repositioning as the AI training cloud for frontier labs"
+    },
+    {
+      "name": "Equinix",
+      "detail": "Global colocation leader; expanding xScale AI campuses for hyperscale density (30 kW+ racks); anchors $72B U.S. colocation market; serves as neutral interconnection fabric connecting hyperscalers, telcos, and enterprises"
+    },
+    {
+      "name": "Digital Realty",
+      "detail": "Second-largest colocation operator; 300+ data centers across 50 metros; launching AI-optimized PlatformDigital campuses; deep hyperscaler partnerships driving wholesale capacity pre-commitments 2–3 years forward"
+    }
+  ],
+  "canvas": {
+    "who": "CTOs and infrastructure leads at AI companies, hyperscalers, and large enterprises deploying LLMs at scale; PE and infrastructure funds seeking hard-asset AI exposure; sovereign wealth funds building national AI compute capacity",
+    "where": "Hyperscale campuses in power-abundant corridors (Abilene TX, Ashburn VA, Phoenix AZ, Iowa); nuclear-adjacent sites (Pennsylvania Susquehanna, Illinois Byron); emerging international hubs (UAE, Saudi Arabia, Patagonia Argentina)",
+    "why_now": "Explosive LLM inference demand meets $600B+ committed capex, a nuclear renaissance unlocking new power supply, and GPU density jumps (GB200 at 130 kW/rack) that obsolete 90% of existing data center stock — creating a once-in-a-decade infrastructure replacement cycle",
+    "behavior": "Hyperscalers pre-leasing all available capacity 2–3 years forward; AI-native companies (CoreWeave, Lambda Labs) building private GPU clouds; enterprises shifting from 'buy cloud credits' to 'own the rack'; utilities signing 20-year nuclear PPAs to guarantee AI-grade power",
+    "unmet": "Permitting timelines of 2–4 years are catastrophically mismatched to AI demand cycles of 12–18 months; power grid interconnection queues delay projects by 2–3 years; cooling water rights in Western drought zones create existential site-selection risk; no standardized framework for sovereign AI infrastructure outside the Big 3 hyperscalers"
+  },
+  "takeaways": [
+    "Infrastructure is the new oil: $600B hyperscaler capex in 2026 represents the largest capital deployment cycle since the internet buildout — the highest-conviction investment play is in power, cooling, and networking picks-and-shovels, not the AI apps themselves",
+    "Nuclear is the decade's defining power trade: Microsoft, Amazon, and Google are all locking in nuclear PPAs right now — operators and investors should map the nuclear supply chain (uranium, SMR manufacturers, plant operators) as the long-duration AI energy solution",
+    "Build for inference, not training: Training clusters dominate 2026 headlines, but inference will represent 75% of compute demand by 2030 — low-latency edge infrastructure positioned near user populations is the next trillion-dollar whitespace",
+    "Permitting speed is the new moat: In a market where demand outstrips supply by years, operators who master the 2–4 year permitting process (zoning, water rights, grid interconnection) will extract outsized returns — site-selection expertise and political relationships are the true competitive advantage"
+  ]
+}

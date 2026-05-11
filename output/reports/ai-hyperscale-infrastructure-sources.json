@@ -1,0 +1,104 @@
+{
+  "trend": "AI Hyperscale Infrastructure",
+  "slug": "ai-hyperscale-infrastructure",
+  "generated": "2026-05-11",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "GlobeNewsWire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/08/3291149/28124/en/AI-Data-Center-Market-to-Hit-USD-2-02-Trillion-by-2032-Rising-from-USD-471-6-Billion-in-2026-Analysis-of-Market-Dynamics-Opportunities-and-Key-Players.html",
+      "claim": "AI Data Center market $471.6B in 2026, growing to $2.02T by 2032",
+      "date": "2026-05-08",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Futurum Group",
+      "url": "https://futurumgroup.com/insights/ai-capex-2026-the-690b-infrastructure-sprint/",
+      "claim": "Hyperscaler capex 2026 exceeds $600B — a 36% increase over 2025; Amazon $200B, Google $175–185B, Microsoft $120B+, Meta $115–135B",
+      "date": "2026",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Goldman Sachs",
+      "url": "https://www.goldmansachs.com/insights/articles/why-ai-companies-may-invest-more-than-500-billion-in-2026",
+      "claim": "$765B baseline annual AI CapEx in 2026, growing to $1.6T by 2031; $7.6T cumulative 2026–2031",
+      "date": "2026",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "OpenAI (Stargate announcement)",
+      "url": "https://openai.com/index/announcing-the-stargate-project/",
+      "claim": "Stargate LLC: $500B AI infrastructure JV (OpenAI, SoftBank, Oracle, MGX) announced Jan 21, 2025",
+      "date": "2025-01-21",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "OpenAI (Oracle partnership)",
+      "url": "https://openai.com/index/stargate-advances-with-partnership-with-oracle/",
+      "claim": "Oracle/OpenAI expand Stargate to 4.5 GW capacity; $300B+ partnership over 5 years (Jul 2025)",
+      "date": "2025-07",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "IEA — Energy and AI report",
+      "url": "https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai",
+      "claim": "Global data center electricity to exceed 1,000 TWh by 2026, driven by AI applications",
+      "date": "2025",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Goldman Sachs — Nuclear energy for AI",
+      "url": "https://www.goldmansachs.com/insights/articles/is-nuclear-energy-the-answer-to-ai-data-centers-power-consumption",
+      "claim": "Microsoft signs 2 GW nuclear commitment with Constellation Energy — largest corporate nuclear agreement in history",
+      "date": "2025",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Fortune — Data centers electricity",
+      "url": "https://fortune.com/2026/04/20/us-data-center-electricity-demand-public-opinion/",
+      "claim": "Data centers now account for half of all new U.S. electricity use; public opinion on AI souring",
+      "date": "2026-04-20",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "GlobeNewsWire — U.S. Colocation market",
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3284530/0/en/united-states-data-center-colocation-databook-report-2026-72-37-bn-market-led-by-equinix-and-digital-realty-as-qts-iron-mountain-and-ai-developers-accelerate-capacity-expansion-for.html",
+      "claim": "U.S. data center colocation market $46.84B in 2026, growing to $72.37B by 2030; led by Equinix and Digital Realty",
+      "date": "2026-04-30",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "JLL — 2026 Global Data Center Outlook",
+      "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+      "claim": "Global data center sector growing at 14% CAGR; 100 GW new capacity coming; $1.2T real estate asset value creation",
+      "date": "2026",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Data Center Knowledge — World 2026",
+      "url": "https://www.datacenterknowledge.com/build-design/data-center-world-2026-ai-pushes-infrastructure-to-new-limits",
+      "claim": "Direct-to-chip liquid cooling is now industry standard; GB200 NVLink racks require 130 kW/rack",
+      "date": "2026",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Crunchbase — Q1 2026 Venture Funding",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "claim": "Q1 2026 shatters venture funding records; $242B to AI — 80% of total global VC; OpenAI $122B, Anthropic $30B, xAI $20B, Waymo $16B",
+      "date": "2026",
+      "verified": true
+    }
+  ],
+  "notes": "Market size figures vary by research firm scope. $471.6B (GlobeNewsWire) represents broadest AI data center infrastructure definition. Hyperscaler capex ($600B+) is capex spend, distinct from market size. Search volume estimate of 110K+/mo for combined 'AI infrastructure' + 'AI data center' queries is [unverified] — based on trend trajectory and category comparison."
+}
