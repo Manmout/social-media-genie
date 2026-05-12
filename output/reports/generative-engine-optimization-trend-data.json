@@ -1,0 +1,151 @@
+{
+  "trend_name": "Generative Engine Optimization (GEO)",
+  "status": "surging",
+  "search_volume": "~80,000/mo [estimated]",
+  "category": "AI & Technology",
+  "growth_5y": "+50.5% CAGR",
+  "growth_1y": "+46%",
+  "growth_3m": "+357% YoY",
+  "trigger": "Google AI Overviews now reach 2 billion monthly users and appear in 25% of all searches — slashing organic CTR by 61% and sending Fortune 500 CMO GEO adoption from 18% (2024) to 67% (2026); Perplexity hit $500M ARR (up 335% YoY) in April 2026 proving AI search is mainstream; Gartner predicts traditional search volume drops 25% by 2026; and the DOJ antitrust ruling bars Google from exclusive search deals — triggering an industry-wide scramble to optimize for AI citations, not just blue links.",
+  "timeline": [
+    {
+      "date": "2023-11",
+      "event": "Princeton, Georgia Tech, Allen Institute for AI, and IIT Delhi researchers publish the first academic paper formalizing 'Generative Engine Optimization' (GEO), later presented at ACM SIGKDD 2024 — coining the term that would define the next era of search marketing."
+    },
+    {
+      "date": "2024-05",
+      "event": "Google launches AI Overviews at Google I/O to all US users; AI Overviews appear in 13% of searches within months and reduce organic CTR by an estimated 18%, triggering immediate industry alarm about the end of traditional SEO."
+    },
+    {
+      "date": "2024-12",
+      "event": "Perplexity raises $500M at $9B valuation; Gartner publishes prediction of a 25% traditional search volume decline by 2026; Fortune 500 CMO GEO adoption stands at 18%, signaling early enterprise recognition of the shift."
+    },
+    {
+      "date": "2025-06",
+      "event": "AI platform referral visits grow 357% YoY (Similarweb); Semrush, BrightEdge, and Conductor all launch dedicated GEO tracking modules as legacy SEO platforms race to add AI citation monitoring to their suites."
+    },
+    {
+      "date": "2025-08",
+      "event": "Perplexity launches Comet Plus — a $42.5M publisher revenue-sharing program (80/20 split) with TIME, Fortune, and Los Angeles Times — introducing a citation economy to compensate publishers for AI search traffic losses."
+    },
+    {
+      "date": "2026-04",
+      "event": "Perplexity hits $500M ARR (up 335% YoY, valuation $22.6B); Google AI Overviews cover 25% of all searches; DOJ antitrust remedies bar Google from exclusive search deals; Fortune 500 CMO GEO adoption reaches 67%."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "DOJ antitrust ruling (April 2026) bars Google from exclusive default-search contracts and mandates index data-sharing with qualified rivals, structurally opening the AI search market to Perplexity, Gemini, and ChatGPT Search for the first time."
+    },
+    {
+      "factor": "Economic",
+      "impact": "GEO services market reaches $1.48B in 2026 (40.6% CAGR projected to $17.1B by 2034); Perplexity at $500M ARR; the broader $80B+ SEO industry faces structural disruption as AI answers replace 60% of traditional click-through traffic."
+    },
+    {
+      "factor": "Social",
+      "impact": "60% of searches now end without a click; consumers increasingly expect instant AI-generated answers over website visits; publishers and content creators face existential organic traffic decline demanding new audience-building strategies."
+    },
+    {
+      "factor": "Technological",
+      "impact": "LLMs weight authoritative, structured, and frequently-cited content; Reddit (46.4%) and YouTube (31.8%) dominate AI citation sources; multimodal and on-device AI search expanding AI query volumes beyond text-only interfaces."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI search inference carries a meaningfully higher energy cost per query than traditional keyword search; scaling to billions of daily AI queries raises data center energy footprint concerns not present in the classic 10-blue-links era."
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU Commission formally investigates Google's use of publisher content to train and ground AI Overviews; news publishers pursuing copyright litigation over AI-generated summaries; emerging AI-crawl opt-out frameworks force creators to choose between visibility and content rights."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Get my brand cited in AI answers, not just ranked in search results",
+      "solution": "GEO content strategy: structured data markup, E-E-A-T authority signals, expert-authored long-form content optimized for citation; brands cited in AI Overviews see 35% higher CTR than non-cited results."
+    },
+    {
+      "job": "Track where my brand appears across ChatGPT, Perplexity, AI Overviews, and Gemini",
+      "solution": "AI visibility platforms — Semrush AI Visibility Toolkit, BrightEdge Generative Parser, Conductor AI Search Performance — providing cross-platform citation monitoring and competitive brand intelligence."
+    },
+    {
+      "job": "Recover organic traffic lost to zero-click AI summaries",
+      "solution": "Build direct audience channels (email, community, newsletter) as traffic insurance; optimize for AI citation to gain the 35% CTR premium; focus on high-intent transactional queries where AI summaries are weaker."
+    },
+    {
+      "job": "Understand which content formats AI search engines prefer and cite",
+      "solution": "GEO analytics revealing citation patterns: Reddit (46.4%), YouTube (31.8%), and industry news publications (34%) dominate AI citations — distribute content across these platforms as primary GEO channels."
+    },
+    {
+      "job": "Future-proof SEO investment as AI replaces the blue-link paradigm",
+      "solution": "Shift from keyword density to citation-worthy authority content; implement schema markup and structured data; build multi-platform presence on Reddit, YouTube, and LinkedIn — platforms LLMs weight heavily in training data."
+    }
+  ],
+  "market": [
+    {
+      "name": "Google (AI Overviews)",
+      "share": "~80%",
+      "loved": "Ecosystem integration",
+      "segment": "General search"
+    },
+    {
+      "name": "ChatGPT Search (OpenAI)",
+      "share": "68%",
+      "loved": "Conversational depth",
+      "segment": "AI chatbot search"
+    },
+    {
+      "name": "Google Gemini",
+      "share": "18.2%",
+      "loved": "Google ecosystem fit",
+      "segment": "AI chatbot search"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "share": "13.2%",
+      "loved": "M365 enterprise fit",
+      "segment": "Enterprise AI search"
+    },
+    {
+      "name": "Perplexity AI",
+      "share": "Fast-growing",
+      "loved": "Cited-source accuracy",
+      "segment": "AI-native search"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Semrush AI Visibility Toolkit",
+      "detail": "Legacy SEO market leader pivoting to GEO with AI Overview tracking and cross-platform citation analytics; largest existing SEO customer base makes it the default first GEO tool for most enterprise teams."
+    },
+    {
+      "name": "BrightEdge Generative Parser",
+      "detail": "First major enterprise SEO platform to launch a dedicated AI Overview parser; strong Fortune 500 adoption; positioned as the GEO-to-SEO bridge for Google-dependent organizations facing traffic loss."
+    },
+    {
+      "name": "Conductor AI Search Performance",
+      "detail": "Multi-platform AI citation tracking across ChatGPT, Perplexity, Google AIO, and Claude; integrates AI citation data with traditional search performance metrics for unified brand visibility reporting."
+    },
+    {
+      "name": "Ahrefs Brand Radar",
+      "detail": "Citation tracking expanding into Reddit, TikTok, and YouTube descriptions — the human-first platforms LLMs weight heavily in training data; favored by content teams mapping AI citation influence across social channels."
+    },
+    {
+      "name": "Perplexity Publisher Program (Comet Plus)",
+      "detail": "$42.5M revenue-sharing pool; 80/20 split for publisher partners; launched with TIME, Fortune, LA Times — repositioning Perplexity as the primary revenue model alternative to SEO for publishers."
+    }
+  ],
+  "canvas": {
+    "who": "CMOs and digital marketers at Fortune 500 companies (adoption jumped 18%→67% in 2 years); SEO agencies re-skilling from keyword to citation-first strategies; publishers and content creators losing organic traffic; e-commerce and SaaS brands dependent on search-driven inbound acquisition.",
+    "where": "Enterprise marketing teams, SEO agencies, content studios, media publishers, e-commerce brands, and any business where search-driven organic traffic is a primary customer acquisition channel.",
+    "why_now": "Google AI Overviews reduced organic CTR by 61% — the traffic loss is measurable and real now. Perplexity $500M ARR proves AI search is mainstream, not experimental. Gartner's 25% search volume decline prediction is arriving on schedule in 2026. The DOJ ruling reshapes the search monopoly landscape, making diversification urgent.",
+    "behavior": "Pivoting from keyword-first content to citation-worthy authority content; adopting AI visibility tracking dashboards; building newsletter and community audiences as organic traffic insurance; experimenting with schema markup and structured data for LLM readability; investing in Reddit, YouTube, and LinkedIn presence as primary GEO distribution channels.",
+    "unmet": "Real-time AI citation monitoring across all major platforms in one dashboard; reliable ROI measurement for GEO investment; actionable GEO playbooks for SMBs without dedicated SEO teams; clear, vendor-neutral standards for AI-crawl opt-out without sacrificing search visibility."
+  },
+  "takeaways": [
+    "Audit your AI citation footprint immediately: Deploy BrightEdge, Conductor, or Semrush's AI Toolkit to discover if your brand appears in ChatGPT, Perplexity, and Google AI Overviews — brands cited in AI Overviews see 35% higher CTR, making citation measurement the single highest-ROI GEO action available today.",
+    "Restructure content for citation authority, not click volume: AI engines favor authoritative, structured, frequently-cited content — prioritize expert long-form pieces with clear structure, schema markup, and deliberate presence on Reddit (46.4% AI citation share) and YouTube (31.8%) where LLMs draw most heavily.",
+    "Build your owned audience before the traffic cliff lands: Publishers and brands dependent solely on Google organic search are in structural decline — invest now in email lists, community platforms, and direct subscriber relationships as the algorithm-proof distribution layer GEO alone cannot replace.",
+    "Watch the DOJ data-sharing remedy for first-mover advantage: Google's court-ordered index sharing with rivals could dramatically accelerate Perplexity and ChatGPT Search by 2027 — early GEO optimization across alternative AI engines compounds while 90% of brands still optimize exclusively for Google."
+  ]
+}
