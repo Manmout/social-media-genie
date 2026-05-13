@@ -1,0 +1,213 @@
+{
+  "trend_name": "AI Video Generation",
+  "status": "surging",
+  "search_volume": "~500,000",
+  "category": "Creator Economy",
+  "growth_5y": "+1,800%",
+  "growth_1y": "+47%",
+  "growth_3m": "+108% ARR",
+  "trigger": "OpenAI shut down Sora on March 24, 2026, after it burned $15M/day for just $2.1M in lifetime revenue — clearing the market for Runway ($315M raised at $5.3B valuation), Kling AI ($500M ARR in 19 months), and Google Veo 3. The consolidation event proved that AI video is real but only sustainable at disciplined unit economics.",
+  "timeline": [
+    {
+      "date": "2022-09",
+      "event": "Meta releases Make-A-Video and Google releases Imagen Video as research previews — the first neural text-to-video systems capable of coherent motion, launching a global race to commercialize the technology."
+    },
+    {
+      "date": "2023-03",
+      "event": "Runway launches Gen-2, the first publicly available commercial text-to-video model, bringing AI video to independent creators and establishing Runway as the category-defining professional platform."
+    },
+    {
+      "date": "2024-02",
+      "event": "OpenAI reveals Sora in a viral press moment — generating 60-second photorealistic videos from text, shocking filmmakers and triggering a wave of $2B+ in investment bets on AI video generation across 2024."
+    },
+    {
+      "date": "2024-06",
+      "event": "Kling AI launches globally via Kuaishou, offering 2-minute videos at competitive quality for $8/month — becoming the fastest-growing AI video platform and hitting $240M annualized revenue by December 2025, 19 months post-launch."
+    },
+    {
+      "date": "2025-09",
+      "event": "Google Veo 2 integrates into YouTube Shorts and Vertex AI, giving 2.5 billion YouTube users access to AI-generated B-roll; Runway Gen-3 Alpha ships to 3M professional users, cutting average video production costs from $4,500 to $400 per finished minute."
+    },
+    {
+      "date": "2026-03",
+      "event": "OpenAI shuts down Sora on March 24 — peak of 1M users collapsed to 500K, burning $15M/day for $2.1M in lifetime revenue; Disney's $1B partnership dies with it. Kling hits $500M ARR and eyes a $20B valuation. Market consolidates around Runway, Kling, Veo 3, and Pika."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Sen. Marsha Blackburn unveiled a sweeping AI legislation framework in March 2026 incorporating the 'No Fakes Act,' which would give individuals the right to control their digital likeness, supported by SAG-AFTRA, studios, and Google. The TAKE IT DOWN Act, signed in 2026, criminalizes non-consensual deepfakes with up to 2 years imprisonment and mandates 48-hour platform removal. As of April 2026, 46 U.S. states have enacted legislation targeting AI-generated media, creating a patchwork of compliance requirements for video platforms."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The AI video generator software market reached $1.81B in 2026 (Fortune Business Insights), growing at a 46% CAGR to $21.61B by 2034. Runway raised $315M at a $5.3B valuation in February 2026. Kling AI hit $500M annualized revenue run rate in Q1 2026. AI video ad spend reached $9.1B globally in 2026 — 12% of all digital video advertising. U.S. digital video ad spend surpassed $80B in 2026 (IAB), with two-thirds of buyers already testing or planning AI-generated video campaigns. AI tools cut production costs by 91%: from $4,500 to ~$400 per finished minute."
+    },
+    {
+      "factor": "Social",
+      "impact": "Over 124 million people used AI video platforms monthly in January 2026. 73% of Fortune 500 companies now use AI video tools in their content workflows. Synthesia alone serves 60,000+ businesses including 90% of Fortune 100 for training video at scale. Content creators using AI produce 11× more videos per month without adding headcount. However, cultural resistance persists: SAG-AFTRA negotiated AI likeness protections in 2023 contracts, and ongoing disputes with studios over AI-generated background characters remain unresolved as of May 2026."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Google Veo 3.1 became the first commercially deployed model with native audio generation, Ingredients-to-Video reference consistency, and 4K output — scoring highest in MovieGenBench for visual quality and prompt adherence in early 2026. Kling 3.0 and Runway Gen-4.5 offer multi-shot composition and start/end frame control. On-device generation is emerging with Apple Intelligence (iPhone 17 rumored) and Qualcomm AI Studio targeting sub-10-second clip generation with no cloud round-trip. Sora's shutdown proved compute cost is the category-defining constraint: generating high-quality video costs 50–200× more compute than text generation per token equivalent."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Sora's reported $15M/day compute burn before shutdown illustrates the energy intensity of video generation. A single 10-second 1080p AI video clip consumes an estimated 0.3–1.2 kWh depending on model and resolution — 200–800× the energy of generating an equivalent text response. The shift to vertical, short-form AI video (under 15 seconds for social platforms) partially mitigates compute cost, as does on-device generation, which TSMC's 3nm processes in Apple and Qualcomm chips enable with ~80% lower energy than cloud generation for short clips."
+    },
+    {
+      "factor": "Legal",
+      "impact": "The EU AI Act, fully applicable August 2, 2026, requires AI-generated video content to be labeled in machine-readable format and detectable as synthetic — non-compliance carries fines of up to €15M or 3% of global revenue. ByteDance's Seedance 2.0 triggered an MPA lawsuit in February 2026 after generating a viral Tom Cruise deepfake, alleging unauthorized use of copyrighted Hollywood films in training data. No U.S. federal copyright law currently addresses AI training data, but multiple suits (Stability AI, Midjourney, Getty Images) are in federal court and are expected to set precedent for video generation by 2027. Content provenance standards (C2PA) are being integrated into Runway, Adobe Firefly Video, and Google Veo as de facto industry compliance."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Marketing team producing dozens of personalized video ads at scale without a production crew or budget",
+      "solution": "Platforms like Runway, Kling, and Pika reduce the cost of a 60-second marketing video from $13 days and $4,500/minute to 27 minutes and $400/minute — enabling SMBs and agencies to produce 11× more video content per month. AI ad spend hit $9.1B in 2026 as brands moved from testing to production-scale deployment."
+    },
+    {
+      "job": "Solo content creator publishing professional-quality short-form video without on-camera appearance or production skills",
+      "solution": "Faceless video channels built on tools like HeyGen (avatar narration), Runway (scene generation), and ElevenLabs (voiceover) allow solo operators to publish daily video content for YouTube, TikTok, and Instagram Reels — with top channels earning $10K–$100K/month on automated faceless content by 2026."
+    },
+    {
+      "job": "Enterprise L&D team creating multilingual employee training videos across 30+ languages without re-filming",
+      "solution": "Synthesia serves 60,000+ businesses — including 90% of Fortune 100 — generating AI avatar training videos with one-click translation and lip-sync into 140+ languages, replacing expensive studio shoots and reducing per-video cost from $10K to under $100 for localized training content."
+    },
+    {
+      "job": "News organization and documentary filmmaker sourcing high-quality B-roll for reports without stock footage licensing fees",
+      "solution": "Google Veo 3, integrated into YouTube and Vertex AI, lets media teams generate contextually relevant B-roll footage from text descriptions — matching licensed stock at a fraction of the cost, with C2PA content provenance watermarking to comply with editorial sourcing standards."
+    },
+    {
+      "job": "Independent filmmaker or game studio visualizing storyboards and pre-visualization sequences before committing production budget",
+      "solution": "Runway Gen-4.5 and Kling 3.0 enable directors to generate cinematic pre-vis sequences from script descriptions or reference images — cutting pre-production visualization costs by 90% and accelerating pitch-deck creation for studios and streaming platforms. Used by Sundance-selected filmmakers and indie game studios in 2026."
+    }
+  ],
+  "market": [
+    {
+      "name": "Kling AI (Kuaishou)",
+      "share": "~27% by ARR",
+      "loved": "$500M ARR; 22M+ users; 168M clips generated since June 2024; Kling 3.0 supports multi-shot composition; $240M ARR in 19 months post-launch — fastest ramp in AI video history; eyeing $20B valuation with Tencent-led round",
+      "segment": "Consumer + creator + enterprise"
+    },
+    {
+      "name": "Runway",
+      "share": "~15% by ARR",
+      "loved": "$315M Series E (Feb 2026) at $5.3B valuation; Gen-4.5 targets professional filmmakers; 3M+ professional users; Gen-3 Alpha used by major studios and agencies; $75–100M ARR with higher ARPU than consumer peers",
+      "segment": "Professional / enterprise filmmaking"
+    },
+    {
+      "name": "Google Veo 3",
+      "share": "[unverified — Google internal]",
+      "loved": "Highest benchmark quality (MovieGenBench #1); native audio generation; integrated into YouTube Shorts (2.5B users) and Vertex AI; Ingredients-to-Video consistency; 4K output; Gucci and Levi's using for ad production",
+      "segment": "Enterprise + platform integration"
+    },
+    {
+      "name": "Pika Labs",
+      "share": "[unverified]",
+      "loved": "$1.5B+ valuation (2024 round); creator-first UI with Pikaswaps and Pikaffects; strong social media adoption; Pika 2.1 Turbo for fast social-format clips; 3–10 second clips with lip sync",
+      "segment": "Creator / social media"
+    },
+    {
+      "name": "Luma AI (Dream Machine / Ray3)",
+      "share": "[unverified]",
+      "loved": "Ray3 introduces HDR/EXR export, visual keyframes, draft mode; smoothest motion physics in its class per benchmark tests; $90/month Pro plan with 400 generations; strong physics-aware realism",
+      "segment": "Creative professionals / prosumer"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "ByteDance (Seedance 2.0)",
+      "detail": "ByteDance's Seedance 2.0 went viral in February 2026 after generating a realistic Tom Cruise vs. Brad Pitt deepfake, triggering an MPA lawsuit alleging massive copyright infringement in training data. Despite the controversy — or because of it — Seedance attracted millions of trial users, highlighting ByteDance's distribution advantage through TikTok's 1.5B global users. A copyright settlement or US regulatory block (TikTok precedent) remains a key 2026 risk."
+    },
+    {
+      "name": "Synthesia",
+      "detail": "Synthesia focuses exclusively on AI avatar video for enterprise training and communications — a narrower but defensible niche. Serves 60,000+ businesses including 90%+ of Fortune 100. One-click translation into 140+ languages with realistic lip-sync makes it the dominant B2B player. Not directly competing on cinematic quality, but capturing the largest share of enterprise video budget currently spent on professional shoots."
+    },
+    {
+      "name": "HeyGen",
+      "detail": "HeyGen specializes in AI avatar creation and video translation — converting any video into 40+ languages with voice cloning and lip sync in under 5 minutes. Grew to $35M ARR in 2024 before tripling in 2025. Distinct use case from scene generation tools: HeyGen owns the 'talking head' video format used by educators, marketers, and B2B SaaS companies for product demos and onboarding."
+    },
+    {
+      "name": "Adobe Firefly Video",
+      "detail": "Adobe's Firefly Video generation is embedded directly in Premiere Pro and After Effects — the standard professional video editing suite used by 8M+ professional editors. Firefly's key differentiator is its 'commercially safe' training data (licensed, not scraped), which is critical for enterprise legal compliance. C2PA content credentials are built-in. Slower to ship than pure-play competitors but has unmatched distribution through Adobe's creative cloud at $60/month."
+    },
+    {
+      "name": "Apple / On-Device Models",
+      "detail": "Apple Intelligence's video capabilities in iOS 19 (expected WWDC 2026) will bring on-device AI video generation to 1B+ iPhone users — requiring no subscription and generating clips without cloud transmission. If Apple ships 10–30 second clip generation on-device for iPhone 17, it will commoditize the short-form end of the market and force cloud-based competitors to differentiate on quality, length, and creative control. The threat is not 2026 but 2027."
+    }
+  ],
+  "canvas": {
+    "who": "Three distinct buyer personas drive the 2026 market: (1) Solo creator economy operators — YouTube and TikTok creators aged 22–35 using faceless AI video to build passive-income channels without on-camera presence; (2) Marketing and brand teams at mid-market and enterprise companies replacing expensive production shoots with AI-generated ad content; (3) Professional filmmakers and post-production teams using AI video for pre-visualization, B-roll, and VFX concept work. The creator segment drives volume (124M MAU); the enterprise segment drives revenue (Runway's higher ARPU despite fewer users than Kling).",
+    "where": "Discovery is dominated by viral social content — TikTok 'AI video tutorial' videos routinely hit 5M+ views. Direct trial begins on Runway, Kling, and Pika free tiers. Enterprise conversion happens via Vertex AI (Google Veo), Adobe Creative Cloud (Firefly Video), and Synthesia direct sales. YouTube is now both a distribution platform AND a generation platform through Veo 3 integration, creating a closed creator loop that no competitor can replicate.",
+    "why_now": "Three forces converged in Q1 2026: (1) Sora's collapse removed the illusion that OpenAI would win the category — clearing the field for specialized players with better unit economics; (2) Output quality crossed the 'good enough for ads' threshold — AI-generated ads are now indistinguishable from live-action in 30-second formats per IAB testing; (3) Enterprise budgets unlocked — 73% of Fortune 500 now have approved AI video spend, up from 18% in 2024. The trial-to-paid conversion window is closing as free tiers tighten.",
+    "behavior": "Users iterate rapidly on short clips (5–15 seconds) rather than attempting long-form generation — driven by the practical quality ceiling at >60 seconds where coherence degrades. Professionals use AI for the first draft (generation) then bring into traditional NLEs (Premiere, DaVinci) for finishing. Consumer creators build 'clip assembly' workflows: generate 10–15 short AI clips, cut together with voiceover and music, publish as 3–8 minute YouTube content. The shift from video as a manual craft to video as a prompt-driven output is happening faster among SMBs (zero legacy workflow) than large studios (union contracts, established pipelines).",
+    "unmet": "Consistent character identity across multiple generated clips remains the hardest unsolved problem — generating the same protagonist in shot 1 and shot 7 without model fine-tuning is impossible for most platforms in 2026. Physical realism breaks down in complex interactions (hands holding objects, realistic crowds, water physics). Long-form coherence beyond 60 seconds is absent in all commercial tools. And the rights ambiguity around training data means enterprise legal teams still require human-filmed footage for high-stakes brand advertising despite AI's 91% cost advantage."
+  },
+  "takeaways": [
+    "Do not build your own foundational video model — Sora's $15M/day compute burn proved that training-to-inference economics at video quality are brutal for anyone without Google or Meta's infrastructure. Instead, build vertical applications and workflows on top of Kling, Runway, or Veo APIs: legal video automation, real estate virtual staging, medical simulation, or multilingual training content. The platform layer is established; the application layer is wide open and capital-efficient.",
+    "The content provenance race is a regulatory compliance opportunity, not a burden. The EU AI Act mandates machine-readable labeling of AI-generated video by August 2, 2026 — and 46 U.S. states have AI content laws. Developers and platforms that integrate C2PA credentials, watermarking, and provenance metadata into their pipelines now will win enterprise contracts that legally conservative buyers (financial services, healthcare, media) currently cannot award to non-compliant vendors.",
+    "The 'consistent character' gap is the most commercially valuable unsolved problem in AI video. Every major platform fails at generating the same character reliably across clips without per-user fine-tuning. The startup that cracks persistent protagonist identity — whether through LoRA fine-tuning pipelines, reference image injection, or novel architecture — will unlock the long-form storytelling and serialized content market currently locked behind this technical barrier.",
+    "Sora's shutdown sent the strongest possible signal: AI video generation at consumer price points is only viable when distribution is already owned. Google Veo survives inside YouTube; Synthesia survives in enterprise contracts. Pure-play consumer B2C video platforms without a defensible user acquisition moat will face the same economics as Sora by 2027. Build with a distribution moat first — creator community, enterprise contract pipeline, or platform API lock-in — and treat generation quality as table stakes."
+  ],
+  "sources": [
+    {
+      "title": "AI Video Generator Market Size, Share, Growth Report 2034",
+      "url": "https://www.fortunebusinessinsights.com/ai-video-generator-market-110060",
+      "publisher": "Fortune Business Insights"
+    },
+    {
+      "title": "AI Video Generator Market Size, Share | Industry Report 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-video-generator-market-report",
+      "publisher": "Grand View Research"
+    },
+    {
+      "title": "AI Video Startup Runway Raises $315M at $5.3B Valuation",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "OpenAI Is Shutting Down Its Sora Video App Just Months After Launch",
+      "url": "https://www.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down",
+      "publisher": "CNN Business"
+    },
+    {
+      "title": "Why OpenAI Really Shut Down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "Kuaishou Confirms Seeking External Funding for Kling AI Video Unit",
+      "url": "https://winbuzzer.com/2026/05/13/kuaishou-confirms-seeking-external-funding-kling-ai-video-un-xcxwbn/",
+      "publisher": "WinBuzzer"
+    },
+    {
+      "title": "Kling AI, Runway, Vidu: The AI Video Generators Set to Replace OpenAI's Sora",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/kling-ai-runway-vidu-the-ai-video-generators-set-to-replace-openai-s-sora",
+      "publisher": "Bloomberg"
+    },
+    {
+      "title": "U.S. Digital Video Ad Spend to Surpass $80B in 2026",
+      "url": "https://www.iab.com/news/u-s-digital-video-ad-spend-to-surpass-80b-in-2026/",
+      "publisher": "IAB"
+    },
+    {
+      "title": "ByteDance Seedance 2.0 AI Video Generator Sparks Hollywood Copyright Controversy",
+      "url": "https://deadline.com/2026/02/seedance-deepfakes-hollywood-studios-copyright-1236718068/",
+      "publisher": "Deadline"
+    },
+    {
+      "title": "GOP Senator Unveils Draft of Sweeping AI Legislation Targeting Copyright and Deepfakes",
+      "url": "https://deadline.com/2026/03/ai-legislation-copyright-hollywood-trump-1236759660/",
+      "publisher": "Deadline"
+    },
+    {
+      "title": "AI Video Generation Statistics 2026: Market Growth, Adoption Rates & Cost Savings",
+      "url": "https://autofaceless.ai/blog/ai-video-generation-statistics-2026",
+      "publisher": "AutoFaceless"
+    },
+    {
+      "title": "AI Video Market After Sora: Runway, Kling, and Veo",
+      "url": "https://www.digitalapplied.com/blog/ai-video-market-after-sora-runway-kling-veo-2026",
+      "publisher": "Digital Applied"
+    }
+  ]
+}

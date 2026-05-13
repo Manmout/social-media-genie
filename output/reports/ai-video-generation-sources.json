@@ -1,0 +1,134 @@
+{
+  "trend": "AI Video Generation",
+  "slug": "ai-video-generation",
+  "research_date": "2026-05-13",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Video Generator Market Size, Share, Growth Report 2034",
+      "url": "https://www.fortunebusinessinsights.com/ai-video-generator-market-110060",
+      "publisher": "Fortune Business Insights",
+      "claim": "Global AI video generator software market valued at $1.23B in 2025, growing to $1.81B in 2026 and $21.61B by 2034 at a 46.0% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI Video Generator Market Size, Share | Industry Report 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-video-generator-market-report",
+      "publisher": "Grand View Research",
+      "claim": "AI video generator market estimated at $788.5M in 2025, reaching $946.4M in 2026, CAGR 20.3% through 2033",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "AI Video Startup Runway Raises $315M at $5.3B Valuation, Eyes More Capable World Models",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "publisher": "TechCrunch",
+      "claim": "Runway closed $315M Series E led by General Atlantic at $5.3B post-money valuation, February 10, 2026",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "OpenAI Is Shutting Down Its Sora Video App Just Months After Launch",
+      "url": "https://www.cnn.com/2026/03/24/tech/openai-sora-video-app-shutting-down",
+      "publisher": "CNN Business",
+      "claim": "OpenAI announced Sora shutdown on March 24, 2026; web and app discontinued April 26, 2026",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Why OpenAI Really Shut Down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "publisher": "TechCrunch",
+      "claim": "Sora burned ~$1M/day in compute while peak user count collapsed from 1M to fewer than 500,000; $2.1M lifetime revenue; Disney's $1B partnership died with the shutdown",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Kuaishou Confirms Seeking External Funding for Kling AI Video Unit",
+      "url": "https://winbuzzer.com/2026/05/13/kuaishou-confirms-seeking-external-funding-kling-ai-video-un-xcxwbn/",
+      "publisher": "WinBuzzer",
+      "claim": "Kling AI reportedly at ~$500M annualized revenue run rate in Q1 2026, with Tencent-led round discussed at $20B valuation",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Kling AI, Runway, Vidu: The AI Video Generators Set to Replace OpenAI's Sora",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/kling-ai-runway-vidu-the-ai-video-generators-set-to-replace-openai-s-sora",
+      "publisher": "Bloomberg",
+      "claim": "Post-Sora market consolidation: Kling weekly active users jumped 4% to 2.6M average following Sora shutdown",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "U.S. Digital Video Ad Spend to Surpass $80B in 2026",
+      "url": "https://www.iab.com/news/u-s-digital-video-ad-spend-to-surpass-80b-in-2026/",
+      "publisher": "IAB (Interactive Advertising Bureau)",
+      "claim": "U.S. digital video ad spend to exceed $80B in 2026, growing 11% YoY; 66% of buyers testing or planning agentic AI for video campaigns",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "MPA Calls on TikTok Owner ByteDance to Curb New AI Model That Created Tom Cruise Deepfake",
+      "url": "https://deadline.com/2026/02/seedance-deepfakes-hollywood-studios-copyright-1236718068/",
+      "publisher": "Deadline",
+      "claim": "MPA filed complaint against ByteDance's Seedance 2.0 after viral Tom Cruise/Brad Pitt deepfake; alleged unauthorized training on Hollywood copyrighted films",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "GOP Senator Unveils Draft of Sweeping AI Legislation",
+      "url": "https://deadline.com/2026/03/ai-legislation-copyright-hollywood-trump-1236759660/",
+      "publisher": "Deadline",
+      "claim": "Sen. Blackburn's AI legislation framework includes No Fakes Act (digital likeness rights), deepfake watermarking requirements, NIST content provenance standards — March 2026",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "AI Video Generation Statistics 2026: Market Growth, Adoption Rates & Cost Savings",
+      "url": "https://autofaceless.ai/blog/ai-video-generation-statistics-2026",
+      "publisher": "AutoFaceless",
+      "claim": "73% of Fortune 500 companies use AI video tools; AI cut production cost from $4,500 to ~$400/minute (91% reduction); agencies produce 11x more content per month with AI",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI Video Market After Sora: Runway, Kling, and Veo",
+      "url": "https://www.digitalapplied.com/blog/ai-video-market-after-sora-runway-kling-veo-2026",
+      "publisher": "Digital Applied",
+      "claim": "Runway, Kling, Veo, and Pika compete for $2.4B opportunity; 124M monthly active users across AI video platforms in January 2026",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Kling AI Review 2026: Features, Pricing & Is It Worth It?",
+      "url": "https://max-productive.ai/ai-tools/kling-ai/",
+      "publisher": "Max Productive",
+      "claim": "Kling AI launched June 2024 by Kuaishou; 22M+ users; 168M video clips generated; $240M ARR by December 2025 — 19 months post-launch",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "State Deepfake Laws in 2026: What's Changed and What's Next",
+      "url": "https://www.multistate.us/insider/2026/2/12/how-ai-generated-content-laws-are-changing-across-the-country",
+      "publisher": "MultiState",
+      "claim": "As of April 2026, 46 U.S. states have enacted legislation directly targeting AI-generated media and deepfakes",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "AI Video Market Share, Size, Growth, CAGR at 36.20%",
+      "url": "https://market.us/report/ai-video-market/",
+      "publisher": "Market.us",
+      "claim": "AI video market growing at 36.20% CAGR in 2026; AI video ad spend projected at $9.1B globally in 2026 — approximately 12% of all digital video advertising",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Runway estimated annual revenue of $75M-$100M ARR — multiple sources cite different figures ($75M, $100M, $300M); treated as [unverified] in market share estimates",
+    "Pika Labs valuation — widely cited as $1.5B from 2024 fundraise but no 2026 update found",
+    "Apple on-device video generation in iOS 19 — based on analyst reports, not confirmed by Apple",
+    "Sora compute cost of $15M/day — some sources cite $1M/day, others $15M/day; higher figure used as reported in Sora Shutdown Guide (kaopiz.com); treat as [estimated]"
+  ],
+  "notes": "Growth rates: growth_5y (+1,800%) estimated from near-zero commercial market in 2021 to $1.81B in 2026 per Fortune Business Insights — no single source covers full 5-year span. growth_1y (+47%) sourced from Fortune Business Insights ($1.23B → $1.81B). growth_3m (+108% ARR) sourced from Kling AI ARR growth from $240M (Dec 2025) to ~$500M (Q1 2026) as the most-cited recent growth data point."
+}
