@@ -1,0 +1,171 @@
+{
+  "trend": "AI Reasoning Models",
+  "slug": "ai-reasoning-models",
+  "compiled": "2026-05-14",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Zylos Research",
+      "url": "https://zylos.ai/research/2026-01-24-ai-reasoning-models",
+      "title": "AI Reasoning Models 2026: From OpenAI o3 to DeepSeek-R1 and the Test-Time Compute Revolution",
+      "claims": [
+        "Reasoning models trained via reinforcement learning to 'think' before responding, spending additional compute at inference time",
+        "o3 released April 2025 (GA); priced at $2/$8 per M tokens after June 2025 price cut",
+        "As of February 2026, o3 is the strongest reasoning model with ARC-AGI score of 96.7%"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "KPMG Private Enterprise",
+      "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/global-vc-investment-surges-to-record-330-9-billion-dollar-in-q1-26.html",
+      "title": "Global VC investment surges to record $330.9 billion in Q1'26 on back of AI megadeals",
+      "claims": [
+        "Global venture capital investment more than doubled from Q4'25 to record $330.9B in Q1'26",
+        "AI captured 80% of total global venture funding in Q1 2026 ($242B)",
+        "Four of the five largest venture rounds ever recorded closed in Q1 2026 (OpenAI $122B, Anthropic $30B, xAI $20B, Waymo $16B)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "arXiv (DeepSeek-AI)",
+      "url": "https://arxiv.org/pdf/2501.12948",
+      "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+      "claims": [
+        "DeepSeek-R1 released January 20, 2025 with Apache-2.0 open weights",
+        "Achieves performance comparable to OpenAI o1 on reasoning benchmarks",
+        "Distilled variants (7B–70B) make frontier reasoning accessible at low cost"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-inference-market-189921964.html",
+      "title": "AI Inference Market Size, Share & Growth, 2025 To 2030",
+      "claims": [
+        "Inference-optimized chip market to exceed $50B in 2026",
+        "Inference workloads will account for roughly two-thirds of all AI compute in 2026 (up from one-third in 2023)",
+        "Market growth driven by test-time compute, generative AI, and reasoning workloads"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "IEEE ComSoc Technology Blog",
+      "url": "https://techblog.comsoc.org/2026/01/27/chinas-open-source-ai-models-to-capture-a-larger-share-of-2026-global-ai-market/",
+      "title": "China's open source AI models to capture a larger share of 2026 global AI market",
+      "claims": [
+        "DeepSeek and Qwen grew from combined 1% of global AI market share (Jan 2025) to roughly 15% (Jan 2026)",
+        "Described as 'the fastest adoption curve in AI history'",
+        "OpenAI retains 40% global share; DeepSeek now at 6%, Qwen at 9%"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "ComplianceHub.Wiki",
+      "url": "https://compliancehub.wiki/legal-ai-hallucination-reckoning-2026/",
+      "title": "The 2026 Legal AI Reckoning: A Case-by-Case Breakdown of Every Major Hallucination Incident",
+      "claims": [
+        "Multiple AI hallucination incidents in US courts during 2026",
+        "Federal courts now mandate disclosure of AI use in legal filings",
+        "Hallucinated citations led to disciplinary proceedings and malpractice exposure"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Meta Intelligence",
+      "url": "https://www.meta-intelligence.tech/en/insight-reasoning-models",
+      "title": "DeepSeek R1 vs OpenAI o3 vs Gemini 3: Reasoning Model Benchmarks 2026",
+      "claims": [
+        "Anthropic commands 40% of enterprise LLM spending, ahead of OpenAI (27%) and Google (21%)",
+        "85% of Anthropic revenue comes from business customers",
+        "Gemini 3.1 Pro tops GPQA Diamond reasoning benchmark at 94.3%",
+        "Claude Sonnet 4.6 leads GDPval-AA Elo benchmark with 1,633 points"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Foundation Capital",
+      "url": "https://foundationcapital.com/ideas/where-ai-is-headed-in-2026",
+      "title": "Where AI is Headed in 2026",
+      "claims": [
+        "The market has shifted primary expenditure from model training to large-scale deployment — 'Inference Economics'",
+        "Inference workloads account for two-thirds of all compute in 2026",
+        "Post-training scaling and test-time scaling suggest world needs significantly more data centers"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "National Law Review",
+      "url": "https://natlawreview.com/article/85-predictions-ai-and-law-2026",
+      "title": "85 Predictions for AI and the Law in 2026",
+      "claims": [
+        "Over 35 state bar associations have issued guidance requiring attorneys to verify AI-generated content",
+        "Multiple federal courts now mandate disclosure of AI use in filings",
+        "Regulators will start requiring provable transparency and audit trails for AI tools"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Vention Teams",
+      "url": "https://ventionteams.com/solutions/ai/report",
+      "title": "State of AI 2026 — AI Market Size, Investment, and Industry Data",
+      "claims": [
+        "Total global AI spending expected to exceed $2.02T in 2026 (+36% annual increase)",
+        "78% enterprise adoption of AI by 2026",
+        "67% of enterprises now deploy open-weight models in production (up from 23% in 2024)",
+        "Open source AI market has grown 340% year-over-year in 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Andrew Hansen (Enterprise AI)",
+      "url": "https://www.andrewhansen.au/ai-reasoning-models-in-2026-how-o1-like-advances-are-reshaping-enterprise-problem-solving/",
+      "title": "AI Reasoning Models in 2026: How o1-Like Advances Are Reshaping Enterprise Problem-Solving",
+      "claims": [
+        "Enterprises deploying AI for code generation report 40% developer productivity improvements",
+        "Reasoning models handle multi-file, multi-step coding tasks beyond autocomplete limitations",
+        "IDC Taiwan: enterprise investment in reasoning models to grow 300%+ in 2026 vs 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "DeepSeek-R1 AI Wiki",
+      "url": "https://aiwiki.ai/wiki/deepseek_r1",
+      "title": "DeepSeek-R1 — AI Wiki",
+      "claims": [
+        "DeepSeek-R1 released January 20, 2025 — open weights, Apache license",
+        "DeepSeek-R1-0528 update released May 28, 2025 with improved reasoning depth and benchmark performance",
+        "Made strong reasoning performance available via open model weights, web access, and API access"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: 90K+/mo — estimated from awareness data and query trend analysis; no direct verified keyword tool data available",
+      "status": "estimated"
+    },
+    {
+      "claim": "growth_3m: +87% — estimated proxy based on Anthropic ARR trajectory (Q3 2025 ~$10B → Q1 2026 ~$19B); enterprise reasoning model investment surge in Q1 2026",
+      "status": "estimated"
+    },
+    {
+      "claim": "Meta market share: 4% — estimated; Meta recently launched new model after $14B Alexandr Wang deal; exact reasoning model share unconfirmed",
+      "status": "estimated"
+    },
+    {
+      "claim": "xAI Grok 4.2 benchmark claims vs Gemini on MMMU and MATH — per aggregated benchmark sites; pending independent replication",
+      "status": "estimated"
+    }
+  ]
+}

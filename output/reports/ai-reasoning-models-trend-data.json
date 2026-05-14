@@ -1,0 +1,203 @@
+{
+  "trend_name": "AI Reasoning Models",
+  "status": "surging",
+  "search_volume": "90K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "∞",
+  "growth_1y": "+300%",
+  "growth_3m": "+87%",
+  "trigger": "DeepSeek-R1's viral open-source release on January 20, 2025 proved frontier-level reasoning at 1/20th the cost of closed models, sparking an industry-wide arms race. Every major AI lab now ships a dedicated 'thinking' model. Enterprise reasoning model investment is forecast to grow 300%+ in 2026 vs 2025 (IDC Taiwan). The category effectively did not exist before September 2024 — hence infinite 5-year growth.",
+  "timeline": [
+    {
+      "date": "Sep 2024",
+      "event": "OpenAI launches o1 — the first commercial reasoning model trained with reinforcement learning chain-of-thought; achieves PhD-level scores on GPQA benchmarks and becomes the fastest-adopted OpenAI product in history"
+    },
+    {
+      "date": "Nov 2024",
+      "event": "DeepSeek-R1-Lite preview drops; first credible open-source challenger demonstrates that frontier reasoning is reproducible outside US hyperscalers"
+    },
+    {
+      "date": "Jan 2025",
+      "event": "DeepSeek-R1 goes fully open (Apache-2.0 weights, Jan 20); app reaches #1 US App Store in 24 hours; NVIDIA stock falls 17% in one day; resets global pricing expectations for reasoning inference"
+    },
+    {
+      "date": "Apr 2025",
+      "event": "OpenAI releases o3 (GA) + o4-mini; o3 scores 96.7% on ARC-AGI benchmark — near-human general reasoning; o3 price drops to $2/$8 per M tokens after June 2025 cuts"
+    },
+    {
+      "date": "Aug 2025",
+      "event": "DeepSeek V3.1 merges reasoning into its base model via a 'thinking mode' toggle — reasoning-as-a-feature becomes table stakes; Anthropic and Google follow within weeks with extended-thinking toggles on all frontier models"
+    },
+    {
+      "date": "Q1 2026",
+      "event": "Global inference-optimized chip market hits $50B+; Anthropic reaches ~$19B ARR; OpenAI surpasses $25B ARR; 67% of enterprises now deploy open-weight models in production (up from 23% in 2024); reasoning-native software stacks emerge as a distinct product category"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act GPAI provisions (Aug 2025) require frontier model providers to document training data, conduct adversarial testing, and publish capability evaluations — directly targeting reasoning models. US AI Executive Orders push for safety benchmarks on high-capability systems. China's DeepSeek success triggers US national-security debate over open-weight reasoning model export controls."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Global AI spending tops $2.02T in 2026 (+36% YoY). VC poured a record $330.9B into AI in Q1 2026 alone (KPMG). Inference chip market surges to $50B+ in 2026 as reasoning workloads replace training-time compute as the primary cost driver. OpenAI and Anthropic are collectively valued at over $1 trillion."
+    },
+    {
+      "factor": "Social",
+      "impact": "78% of enterprises have adopted AI (2026). Growing public anxiety over reasoning models displacing knowledge workers in legal, finance, medicine, and journalism. 35+ US state bar associations have issued guidance requiring attorneys to verify AI-generated reasoning outputs before submitting to courts. Trust gap: humans demand 'show your work' from AI before acting on its conclusions."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Test-time compute (spending more inference compute to 'think longer') replaced training-time scaling as the primary lever for capability gains. Distillation lets 7B–14B models achieve 80–95% of frontier performance at 5–10% the cost. Multimodal reasoning (text + vision + code in a single chain-of-thought) is becoming standard. o3 hit 96.7% on ARC-AGI — a benchmark once considered AGI-hard."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Inference workloads now account for roughly two-thirds of all AI compute (up from one-third in 2023). Extended-thinking runs consume 10–100x more tokens — and energy — than single-pass responses. AI data center capex is on course to reach $1T by 2028. Efficiency pressure is pushing labs toward smaller distilled models and speculative decoding to reduce per-token energy cost."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Multiple US federal courts now mandate disclosure of AI use in filings. Hallucinated legal citations have triggered disciplinary proceedings and malpractice suits, creating a 2026 'legal AI reckoning'. EU AI Act classifies reasoning models used in HR, credit, legal, and medical decisions as high-risk — requiring explainability and audit trails. Liability frameworks are still catching up to model autonomy."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Complex multi-file code generation",
+      "solution": "Reasoning models (o3, Claude Sonnet 4.6) plan architecture across an entire codebase before writing a single line — eliminating the 'one-file-at-a-time' limitation of standard LLMs. Enterprises report 40% developer productivity gains."
+    },
+    {
+      "job": "Legal document analysis and contract review",
+      "solution": "Step-by-step reasoning lets the model flag clause conflicts, map regulatory exposure, and produce an auditable logic chain that legal teams can verify — unlike opaque LLM outputs that courts and bar associations now distrust."
+    },
+    {
+      "job": "Scientific hypothesis generation and literature synthesis",
+      "solution": "Reasoning models parse contradictory study results, generate ranked hypotheses, and design follow-up experiments. Pharmaceutical and materials-science teams deploy o3/Gemini Thinking to cut literature review time from weeks to hours."
+    },
+    {
+      "job": "Multi-variable financial modeling and scenario analysis",
+      "solution": "CFOs use reasoning models to stress-test earnings projections across 20+ macro variables with full calculation traces — enabling audit-ready AI-assisted forecasting that passes regulatory review."
+    },
+    {
+      "job": "Enterprise compliance and decision support",
+      "solution": "Reasoning chains that cite policy documents, flag exceptions, and produce written rationale satisfy internal audit and regulator requirements. Companies in healthcare, finance, and government now mandate 'explainable-by-default' AI outputs."
+    }
+  ],
+  "market": [
+    {
+      "name": "OpenAI",
+      "share": "51.8%",
+      "loved": "68%",
+      "segment": "Consumer + Enterprise (o3, o4-mini, GPT-5.2)"
+    },
+    {
+      "name": "Anthropic",
+      "share": "40%",
+      "loved": "85%",
+      "segment": "Enterprise-first (Claude Sonnet 4.6, Opus 4.7)"
+    },
+    {
+      "name": "Google DeepMind",
+      "share": "21%",
+      "loved": "72%",
+      "segment": "Consumer + Cloud (Gemini 3.1 Pro Thinking)"
+    },
+    {
+      "name": "DeepSeek",
+      "share": "6%",
+      "loved": "88%",
+      "segment": "Open-source / Cost-efficiency (R1, V3.1)"
+    },
+    {
+      "name": "Meta AI",
+      "share": "4%",
+      "loved": "61%",
+      "segment": "Open-weight (Llama Reasoning, post-$14B Wang deal)"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "OpenAI o3 / o4-mini",
+      "detail": "Market leader; o3 priced at $2/$8 per M tokens (input/output) after June 2025 price cut; ARC-AGI score 96.7% (Feb 2026); powers ChatGPT's Advanced Reasoning mode with 68% consumer market share; also sold via Azure OpenAI for enterprise. OpenAI surpassed $25B ARR in 2026."
+    },
+    {
+      "name": "Anthropic Claude Sonnet 4.6",
+      "detail": "Enterprise reasoning leader: 40% of enterprise LLM spending and $19B ARR in 2026. Tops GDPval-AA Elo benchmark with 1,633 points. Extended Thinking mode available on all Claude 4.x models. 85% of revenue from business customers. Strong in coding, legal analysis, and long-context document reasoning."
+    },
+    {
+      "name": "Google Gemini 3.1 Pro (Thinking)",
+      "detail": "Tops GPQA Diamond reasoning benchmark at 94.3%; integrates natively into Google Workspace, Google Cloud Vertex AI, and Android XR. Consumer share grew from 13.9% to 23.9% (Oct 2025–Feb 2026). Multimodal reasoning (text + vision + audio) is a key differentiator vs text-only reasoning models."
+    },
+    {
+      "name": "DeepSeek R1 / V3.1",
+      "detail": "Open-source shock: Apache-2.0 license, $0.14/M tokens input — roughly 1/20th the cost of GPT-5. Grew from 1% to 6% global AI market share in 12 months — 'fastest adoption curve in AI history'. V3.1 merges reasoning into base model via thinking toggle; 90–95% of R1 performance at chat speed. Used by 67% of enterprises deploying open-weight models."
+    },
+    {
+      "name": "xAI Grok 4.2",
+      "detail": "Real-time web access differentiates Grok from all other reasoning models; deep integration with X (Twitter) gives it unique social-signal data. Built on Elon Musk's $20B xAI funding round (Q1 2026). Competing for enterprise share but still a distant 5th in developer SDK usage. Benchmarks competing with Gemini on MMMU and MATH."
+    }
+  ],
+  "canvas": {
+    "who": "B2B-first: enterprise developers, data scientists, CTOs, legal ops teams, financial analysts, and research scientists at companies spending $100K+ on AI tooling. Secondary: indie developers and researchers using cost-efficient open-weight variants (DeepSeek, Llama). Predominantly 28–55, North America + Europe + China.",
+    "where": "API-first (OpenAI API, Anthropic API, Google AI Studio, Fireworks.ai for open models); embedded via IDE plugins (GitHub Copilot, Cursor), enterprise SaaS (Salesforce Einstein, Notion AI, Harvey AI for legal), and cloud platforms (Azure, GCP, AWS Bedrock). Consumer entry via ChatGPT Advanced Reasoning and Gemini Ultra tabs.",
+    "why_now": "Training-time scaling hit diminishing returns by mid-2024. Test-time compute unlocked a new capability ceiling — letting models get smarter by thinking longer rather than being bigger. DeepSeek's open-source release democratized access and destroyed the 'you need a hyperscaler' assumption. Enterprise pressure to automate knowledge work reached an inflection point: the models are finally good enough to trust in production.",
+    "behavior": "Prompting for step-by-step reasoning chains ('think before you answer'); toggling extended-thinking modes for hard problems while using fast inference for routine tasks; comparing outputs across providers before committing; building provider-agnostic orchestration layers (LangChain, LlamaIndex); fine-tuning small distilled reasoning models for domain-specific tasks at lower cost.",
+    "unmet": "Explainability for regulated industries: chains are often too long to audit manually. Consistent factual grounding: reasoning ≠ retrieval, models still hallucinate cited sources. Real-time knowledge: thinking models have training cutoffs and can't browse by default. Cost at scale: extended-thinking runs cost 10–100x more tokens than standard calls. On-premise deployment for sensitive data remains difficult for most frontier models."
+  },
+  "takeaways": [
+    "Build reasoning-native products, not chat wrappers — design workflows that expect multi-step thinking (plan → execute → verify) rather than bolting a reasoning model onto a single-turn chatbot UI. The first movers in legal tech, fintech, and devtools who go reasoning-native will own the B2B layer.",
+    "Distilled models are the cost-efficiency play for 2026 — fine-tuned DeepSeek or Llama derivatives achieve 80–95% of frontier capability at 5–10% the token cost. Audit every use case: reserve o3/Claude Opus for genuinely hard reasoning; use distilled 7B–14B models for classification, summarization, and routing.",
+    "'Show your work' is now a compliance requirement — enterprise buyers in legal, finance, and healthcare are mandating auditable reasoning chains and source citations before signing AI contracts. Products that surface the thinking trace and pin it to verified sources will win regulated-industry deals that pure black-box models cannot.",
+    "Invest in provider-agnostic orchestration now — the gap between OpenAI, Anthropic, Google, and DeepSeek on price-performance is closing fast. Companies that architect around a single provider today will face expensive migrations in 12–18 months. Build on LiteLLM, Bedrock, or custom routing layers that let you swap models as the market evolves."
+  ],
+  "sources": [
+    {
+      "publisher": "Zylos Research",
+      "url": "https://zylos.ai/research/2026-01-24-ai-reasoning-models",
+      "claim": "AI Reasoning Models 2026: From OpenAI o3 to DeepSeek-R1 and the Test-Time Compute Revolution"
+    },
+    {
+      "publisher": "KPMG",
+      "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/global-vc-investment-surges-to-record-330-9-billion-dollar-in-q1-26.html",
+      "claim": "Global VC investment surges to record $330.9B in Q1 2026, 80% going to AI"
+    },
+    {
+      "publisher": "arXiv",
+      "url": "https://arxiv.org/pdf/2501.12948",
+      "claim": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (technical paper)"
+    },
+    {
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-inference-market-189921964.html",
+      "claim": "AI Inference Market: inference-optimized chip market to exceed $50B in 2026"
+    },
+    {
+      "publisher": "IEEE ComSoc Tech Blog",
+      "url": "https://techblog.comsoc.org/2026/01/27/chinas-open-source-ai-models-to-capture-a-larger-share-of-2026-global-ai-market/",
+      "claim": "DeepSeek and Qwen grew from combined 1% to 15% global AI market share in 12 months"
+    },
+    {
+      "publisher": "ComplianceHub.Wiki",
+      "url": "https://compliancehub.wiki/legal-ai-hallucination-reckoning-2026/",
+      "claim": "2026 Legal AI Reckoning: major hallucination incidents and court-mandated AI disclosure rules"
+    },
+    {
+      "publisher": "Meta Intelligence",
+      "url": "https://www.meta-intelligence.tech/en/insight-reasoning-models",
+      "claim": "DeepSeek R1 vs OpenAI o3 vs Gemini 3: Benchmarks 2026 — Anthropic holds 40% enterprise LLM spend"
+    },
+    {
+      "publisher": "Foundation Capital",
+      "url": "https://foundationcapital.com/ideas/where-ai-is-headed-in-2026",
+      "claim": "Inference workloads account for two-thirds of all AI compute by 2026; inference chip market to exceed $50B"
+    },
+    {
+      "publisher": "National Law Review",
+      "url": "https://natlawreview.com/article/85-predictions-ai-and-law-2026",
+      "claim": "85 AI law predictions for 2026 — 35+ state bars issued AI disclosure guidance for attorneys"
+    },
+    {
+      "publisher": "Vention Teams",
+      "url": "https://ventionteams.com/solutions/ai/report",
+      "claim": "State of AI 2026: $2.02T global AI spending; 78% enterprise adoption; 67% using open-weight models in production"
+    }
+  ]
+}
