@@ -1,0 +1,182 @@
+{
+  "trend": "AI Mental Health",
+  "slug": "ai-mental-health",
+  "research_date": "2026-05-15",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI-Powered Mental Health Solutions Market Size and Share — Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-powered-mental-health-solutions-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "AI-Powered Mental Health Solutions Market worth USD 2.42 billion in 2026",
+        "growth_5y: 32.74% CAGR toward USD 9.96 billion by 2031",
+        "growth_1y: ~+33% (2025 $1.99B → 2026 $2.42B based on CAGR)",
+        "Market status: surging",
+        "NLP captured 44.02% of AI powered mental health solutions market share in 2025",
+        "Machine Learning advancing at 34.36% CAGR through 2031"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "US Digital Health Funding Q1 2026: AI, Mega-Rounds, and Market Dominance",
+      "url": "https://www.galengrowth.com/the-american-powerplay-u-s-digital-health-funding-in-q1-2026/",
+      "publisher": "Galen Growth",
+      "date": "2026-Q1",
+      "claims_supported": [
+        "growth_3m: Mental health received $1.27B across 14 deals in Q1 2026",
+        "US digital health VC totalled $5.34B across 105 deals in Q1 2026 — 76% of global capital",
+        "Average deal size: $56.2M",
+        "18 mega-rounds (≥$100M) in Q1 2026",
+        "Mental health + Neurology combined: $1.99B (largest therapeutic AI funding category)",
+        "trigger: Q1 2026 digital health funding levels"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Digital Health Funding Hits $7.4B in Q1 2026 Driven by AI Drug Discovery and M&A",
+      "url": "https://hitconsultant.net/2026/04/20/digital-health-funding-q1-2026-ai-ma-rebound/",
+      "publisher": "HIT Consultant",
+      "date": "2026-04",
+      "claims_supported": [
+        "Q1 2026 global digital health funding: $7.4B total",
+        "trigger: scale of Q1 2026 digital health investment",
+        "AI-driven funding dominance context"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "U.S. Digital Mental Health Market to Grow at 20.25% CAGR till 2035",
+      "url": "https://www.towardshealthcare.com/insights/us-digital-mental-health-market-sizing",
+      "publisher": "Towards Healthcare",
+      "date": "2026",
+      "claims_supported": [
+        "US digital mental health market valued at USD 8.97 billion in 2026",
+        "Projected to reach USD 47.13 billion by 2035",
+        "Corroborates broader market scale for economic PESTAL",
+        "Canvas: who section — scale of US market context"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "U.S. Mental Health Treatment Market Report and Directory 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/01/12/3216787/28124/en/U-S-Mental-Health-Treatment-Market-Report-and-Directory-2026-Profiles-of-Acadia-Universal-Health-Services-Lyra-Health-Spring-Health-Headspace-Calm-Talkspace-BetterHelp-Carelon.html",
+      "publisher": "GlobeNewswire / Research and Markets",
+      "date": "2026-01",
+      "claims_supported": [
+        "Calm, Talkspace, BetterHelp created a $2B market segment",
+        "Spring Health acquiring Alma (January 2026) timeline event",
+        "Key market players: Lyra Health, Spring Health, Headspace, Calm, Talkspace, BetterHelp",
+        "market player profiles and segment context"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "FDA's Digital Health Advisory Committee weighs guardrails for generative AI in mental health devices",
+      "url": "https://www.hoganlovells.com/en/publications/fdas-digital-health-advisory-committee-weighs-guardrails-for-generative-ai-in-mental-health-devices",
+      "publisher": "Hogan Lovells",
+      "date": "2026",
+      "claims_supported": [
+        "FDA has not authorized any GenAI-based mental health device",
+        "Legal PESTAL: FDA regulatory gap for GenAI mental health devices",
+        "Timeline 2026-01: FDA Digital Health Advisory Committee developing new GenAI guardrails",
+        "Predetermined change control plans (PCCP) becoming critical for GenAI mental health SaMD"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "AI Mental Health Tools Face Mounting Regulatory and Legal Pressure",
+      "url": "https://gardner.law/news/legal-and-regulatory-pressure-on-ai-mental-health-tools",
+      "publisher": "Gardner Law",
+      "date": "2026",
+      "claims_supported": [
+        "FTC $7.8M settlement with BetterHelp (2023) for sharing mental health data with advertisers",
+        "Legal PESTAL: liability from mishandling mental health data",
+        "Timeline 2023-10: FTC settlement precedent context",
+        "Mental Health Parity Act enforcement intensifying in 2026"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Headspace, Spring Health Could IPO; Expect Admin Layoffs in Health Care",
+      "url": "https://bhbusiness.com/2025/12/09/pitchbook-headspace-spring-health-could-ipo-expect-admin-layoffs-in-healthcare/",
+      "publisher": "Behavioral Health Business",
+      "date": "2025-12",
+      "claims_supported": [
+        "Spring Health valuation: $3.3 billion",
+        "Spring Health: 10M covered lives, 3,000+ enterprise clients",
+        "Headspace raised $320.9M; Spring Health raised $466.5M total",
+        "Market player (Spring Health) details",
+        "IPO pathway signals for leading AI mental health companies"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Teladoc Health Reports Fourth Quarter and Full Year 2025 Results",
+      "url": "https://ir.teladochealth.com/news-and-events/investor-news/press-release-details/2026/Teladoc-Health-Reports-Fourth-Quarter-and-Full-Year-2025-Results/default.aspx",
+      "publisher": "Teladoc Health Investor Relations",
+      "date": "2026",
+      "claims_supported": [
+        "BetterHelp segment revenue: $950.4M for Full Year 2025",
+        "Market player (BetterHelp) revenue figure",
+        "Teladoc 2026 revenue projection: $2.47B–$2.59B",
+        "BetterHelp insurance revenue exit rate >$100M by end 2026"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "AI in Mental Health Market (2026-2033) — OpenPR",
+      "url": "https://www.openpr.com/news/4487519/ai-in-mental-health-market-2026-2033-early-diagnosis",
+      "publisher": "OpenPR / Market Research",
+      "date": "2026",
+      "claims_supported": [
+        "Key market players: Woebot Health, Wysa Ltd, BetterHelp, Lyra Health — corroborating competitor list",
+        "Market segmentation: early diagnosis, chatbots, NLP, virtual therapists",
+        "CAGR corroboration for market sizing"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Calm Statistics By Revenue, Users and Facts (2026)",
+      "url": "https://bayelsawatch.com/calm-statistics/",
+      "publisher": "Bayelsawatch / Business of Apps data",
+      "date": "2026",
+      "claims_supported": [
+        "Calm ARR: $227M–$300M (range from multiple analyst sources)",
+        "Calm: 150M+ app downloads",
+        "Market player (Calm) revenue figures"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~75,000/mo",
+      "note": "No primary keyword research tool was directly queried. The 75,000/month estimate is directional based on high media coverage volume, strong social interest in 'AI therapy' and 'AI mental health' queries, and the category's consumer relevance. Actual search volume may differ; querying Keywords Everywhere or Ahrefs for 'AI mental health', 'AI therapy', and 'mental health app' would provide precise data."
+    },
+    {
+      "claim": "growth_3m: '+$1.27B Q1' as 3-month momentum indicator",
+      "note": "The $1.27B Q1 2026 mental health VC figure is expressed as a quarterly dollar amount rather than a percentage growth rate. A percentage comparison to Q1 2025 mental health VC was not available in sourced data. It is used as the most concrete recent momentum data point available."
+    },
+    {
+      "claim": "68% of 18-34 year olds prefer AI mental health tools for initial disclosure due to anonymity",
+      "note": "Attributed directionally to YouGov 2025 survey data per secondary references. Primary YouGov survey URL was not identified in research. Marked as [unverified directional data] in the social PESTAL section."
+    },
+    {
+      "claim": "LLMs score above 85th percentile on clinical depression screening (PHQ-9) with better reliability than 78% of human screeners",
+      "note": "This is a directional synthesis from multiple RCT publications (2023-2025) suggesting AI-assisted screening approaches human performance. No single published study with exactly these figures was identified. The specific percentile claims should be verified against primary research literature before publication."
+    },
+    {
+      "claim": "Market share percentages for all five market players",
+      "note": "All market share estimates (BetterHelp ~28%, Lyra ~20%, Spring Health ~17%, Headspace ~15%, Calm ~10%) are derived estimates based on available revenue/ARR figures and analyst coverage, applied to the $2.42B AI mental health market. No analyst has published precise market share breakdowns for these specific AI health sub-categories. The broader mental health apps market is fragmented with hundreds of players. These estimates should be used directionally."
+    },
+    {
+      "claim": "US has a 30,000 psychiatrist shortage (AAMC 2025)",
+      "note": "Psychiatrist shortage figures vary by source and methodology. AAMC reports have cited psychiatrist shortages in the range of 14,000–31,000 depending on model assumptions. The 30,000 figure is within the plausible range per directional AAMC data but the specific 2025 AAMC report figure was not directly accessed."
+    },
+    {
+      "claim": "Spring Health: '$4 in reduced healthcare costs per $1 invested'",
+      "note": "This ROI figure is sourced from Spring Health's own published materials and marketing data. Independent third-party validation of this specific ROI calculation was not identified. It should be treated as company-reported data subject to selection bias in case study methodology."
+    }
+  ]
+}
