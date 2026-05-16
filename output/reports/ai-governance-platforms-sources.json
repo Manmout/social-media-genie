@@ -1,0 +1,124 @@
+{
+  "trend": "AI Governance Platforms",
+  "slug": "ai-governance-platforms",
+  "research_date": "2026-05-16",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Grand View Research",
+      "title": "AI Governance Market Size And Share — Industry Report, 2033",
+      "claim": "AI Governance market valued at $308.3M in 2025; projected to grow at 36.0% CAGR from 2026 to 2033, reaching $3.59B",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-governance-market-report",
+      "verified": true,
+      "used_in": ["search_volume", "growth_1y", "growth_5y", "pestal_economic", "market"]
+    },
+    {
+      "id": 2,
+      "publisher": "Gartner",
+      "title": "Global AI Regulations Fuel Billion-Dollar Market for AI Governance Platforms",
+      "claim": "Spending on AI governance platforms to reach $492M in 2026, surpassing $1B by 2030; February 17, 2026 press release",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-02-17-gartner-global-ai-regulations-fuel-billion-dollar-market-for-ai-governance-platforms",
+      "verified": true,
+      "used_in": ["trigger", "pestal_economic", "timeline_2026"]
+    },
+    {
+      "id": 3,
+      "publisher": "EU Artificial Intelligence Act — Official Implementation Timeline",
+      "title": "EU AI Act Implementation Timeline — Key Compliance Dates",
+      "claim": "Prohibited AI practices enforceable Feb 2, 2025; GPAI model obligations Aug 2, 2025; high-risk AI obligations Aug 2, 2026; penalties up to €35M or 7% of global revenue",
+      "url": "https://artificialintelligenceact.eu/implementation-timeline/",
+      "verified": true,
+      "used_in": ["trigger", "pestal_political", "pestal_legal", "jobs_1", "canvas_why_now", "takeaways_1"]
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "title": "AI Governance Market Report 2024–2029",
+      "claim": "AI Governance market $890M in 2024, growing at 45.3% CAGR to $5.78B by 2029",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-governance-market-176187291.html",
+      "verified": true,
+      "used_in": ["pestal_economic", "growth_5y"]
+    },
+    {
+      "id": 5,
+      "publisher": "New Market Pitch",
+      "title": "AI Governance Market Funding Trends (2022–2026)",
+      "claim": "$691M raised across 47 AI governance funding deals from 2022–2025; Palo Alto Networks, Cisco, Check Point, and F5 collectively spent $1.4B+ acquiring AI governance startups",
+      "url": "https://newmarketpitch.com/blogs/news/ai-governance-funding-trends",
+      "verified": true,
+      "used_in": ["trigger", "pestal_economic", "takeaways_4"]
+    },
+    {
+      "id": 6,
+      "publisher": "EU Artificial Intelligence Act — Official Site",
+      "title": "EU AI Omnibus Political Agreement — May 7, 2026",
+      "claim": "Political agreement on 'AI omnibus' proposal reached May 7, 2026 to simplify EU AI Act implementation for SMEs and GPAI model providers",
+      "url": "https://artificialintelligenceact.eu/",
+      "verified": true,
+      "used_in": ["trigger", "timeline_2026", "canvas_why_now"]
+    },
+    {
+      "id": 7,
+      "publisher": "SQ Magazine",
+      "title": "EU AI Act Compliance Cost Statistics 2026",
+      "claim": "Compliance cost for a single high-risk AI system under EU AI Act estimated at ~€52,000 annually; legal/compliance investment in GRC tools projected to grow 50% by 2026",
+      "url": "https://sqmagazine.co.uk/eu-ai-act-compliance-cost-statistics/",
+      "verified": true,
+      "used_in": ["pestal_economic", "jobs_1"]
+    },
+    {
+      "id": 8,
+      "publisher": "CloudEagle.ai",
+      "title": "10 Best AI Governance Platforms in 2026",
+      "claim": "54% of IT leaders cite AI governance as a top enterprise risk priority in 2026, up from 29% two years earlier",
+      "url": "https://www.cloudeagle.ai/blogs/10-best-ai-governance-platforms-in-2026",
+      "verified": true,
+      "used_in": ["trigger", "pestal_social", "canvas_why_now", "takeaways_3"]
+    },
+    {
+      "id": 9,
+      "publisher": "Allied Market Research",
+      "title": "AI Governance Market to Reach $2.7 Billion, Globally, by 2031 at 42.1% CAGR",
+      "claim": "Global AI governance market valued at $80.8M in 2021, growing at 42.1% CAGR to reach $2.7B by 2031",
+      "url": "https://www.alliedmarketresearch.com/ai-governance-market-A06249",
+      "verified": true,
+      "used_in": ["growth_5y", "pestal_economic"]
+    },
+    {
+      "id": 10,
+      "publisher": "European Union — Artificial Intelligence Act Official Page",
+      "title": "AI Act — Shaping Europe's Digital Future",
+      "claim": "EU AI Act penalties: up to €35 million or 7% of global annual turnover for the most serious violations involving prohibited AI systems",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "verified": true,
+      "used_in": ["pestal_legal", "jobs_1", "takeaways_1"]
+    },
+    {
+      "id": 11,
+      "publisher": "Dataguard / EU AI Act Timeline",
+      "title": "EU AI Act Timeline: Key Compliance Dates & Deadlines Explained",
+      "claim": "Full EU AI Act applicability August 2, 2026 (with extension to August 2, 2028 for high-risk AI systems embedded in regulated products)",
+      "url": "https://www.dataguard.com/eu-ai-act/timeline",
+      "verified": true,
+      "used_in": ["pestal_political", "timeline_2026"]
+    },
+    {
+      "id": 12,
+      "publisher": "Splunk / Kiteworks",
+      "title": "Best AI Governance Platforms 2026 — Market Overview",
+      "claim": "IBM WatsonX.governance, Microsoft Azure AI Foundry, Credo AI, OneTrust, and Fiddler AI identified as leading platforms; agentic AI and shadow AI emerging as primary governance challenges",
+      "url": "https://www.splunk.com/en_us/blog/learn/ai-governance-platforms.html",
+      "verified": true,
+      "used_in": ["competitors", "pestal_technological", "canvas_unmet"]
+    }
+  ],
+  "notes": {
+    "unverified_claims": [
+      "search_volume: ~50,000/mo estimated from market growth trajectory and enterprise priority surveys — no direct Google Trends or SEMrush source",
+      "growth_3m: +11% QoQ estimated from MarketsandMarkets 45.3% CAGR quarterly equivalent; specific Q1 2026 quarter-over-quarter data not independently verified",
+      "market_share_percentages: enterprise market share estimates for IBM, Microsoft, Google, Credo AI, OneTrust are derived from analyst mentions and enterprise deployment counts — no single source provides explicit percentage breakdowns"
+    ],
+    "key_event_verified": "EU AI Omnibus political agreement on May 7, 2026 confirmed via artificialintelligenceact.eu official tracking site",
+    "august_2_2026_deadline": "78 days from research date (May 16, 2026) — confirmed enforceable date for high-risk AI obligations under EU AI Act"
+  }
+}
