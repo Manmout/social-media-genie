@@ -1,0 +1,166 @@
+{
+  "trend": "AI Coding Assistants",
+  "slug": "ai-coding-assistants",
+  "research_date": "2026-05-17",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "TechCrunch",
+      "title": "Sources: Cursor in talks to raise $2B at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "date": "2026-04-17",
+      "claims_supported": [
+        "Cursor in talks to raise $2B at $50B pre-money valuation",
+        "Round led by Andreessen Horowitz and Thrive Capital with Nvidia as strategic co-investor",
+        "Cursor hit $2B ARR in February 2026",
+        "Cursor forecasts $6B ARR by end of 2026",
+        "70% of Fortune 1000 companies in Cursor's customer base"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "CNBC",
+      "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
+      "url": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+      "date": "2026-04-19",
+      "claims_supported": [
+        "Cursor $2B funding round at $50B valuation confirmed",
+        "Battery Ventures as potential new investor",
+        "Cursor's fastest B2B SaaS scaling on record"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "Uvik Software / Stack Overflow Developer Survey 2025",
+      "title": "AI Coding Assistant Stats 2026: 84% Adoption, 29% Trust",
+      "url": "https://uvik.net/blog/ai-coding-assistant-statistics/",
+      "date": "2026-01-15",
+      "claims_supported": [
+        "84% of developers use or plan to use AI coding tools",
+        "Only 29% trust AI coding output — down from 40% in 2024",
+        "51% of professionals use AI coding tools daily",
+        "Burnout risk dropped 17% for AI coding tool users",
+        "70% of engineers use 2-4 AI coding tools simultaneously"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "New Market Pitch",
+      "title": "AI Coding Market Funding Trends (2022-2026)",
+      "url": "https://newmarketpitch.com/blogs/news/ai-code-assistant-funding-trends",
+      "date": "2026-03-01",
+      "claims_supported": [
+        "AI coding market raised $9.4B in equity funding between 2022 and 2025",
+        "Growing from $22.25M in deals in 2022 to $7.4B annual investment by 2025"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "Future Market Insights",
+      "title": "AI Code Assistant Market | Global Market Analysis Report - 2035",
+      "url": "https://www.futuremarketinsights.com/reports/ai-code-assistant-market",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "AI code assistant market valued at $5.5B in 2024",
+        "Projected to reach $47.3B by 2034 at a 24% CAGR"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "Fortune",
+      "title": "OpenAI's $3 billion deal with AI coding startup Windsurf collapses, as Google swoops in for licensing deal",
+      "url": "https://fortune.com/2025/07/11/the-exclusivity-on-openais-3-billion-acquisition-for-coding-startup-windsfurf-has-expired/",
+      "date": "2025-07-11",
+      "claims_supported": [
+        "OpenAI's $3B Windsurf acquisition exclusivity expired and deal collapsed",
+        "Google secured a separate technology licensing deal for Windsurf's underlying models",
+        "Cognition AI subsequently acquired Windsurf for approximately $250M",
+        "$82M ARR at acquisition with enterprise revenue doubling QoQ"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "IdeaPlan.io",
+      "title": "AI Coding Assistant Market Share 2026: Cursor, Copilot, Claude",
+      "url": "https://www.ideaplan.io/blog/ai-coding-assistant-market-share-2026",
+      "date": "2026-03-01",
+      "claims_supported": [
+        "AI coding assistant market hit $12.8B in 2026",
+        "GitHub Copilot holds ~37% market share with 4.7M paid subscribers",
+        "90% Fortune 100 adoption for GitHub Copilot",
+        "Cursor leads on revenue among category-native AI dev tools",
+        "Claude Code ranked #1 for developer satisfaction (JetBrains April 2026)"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "GetPanto.ai",
+      "title": "AI Coding Statistics — Adoption, Productivity & Market Metrics",
+      "url": "https://www.getpanto.ai/blog/ai-coding-assistant-statistics",
+      "date": "2026-02-01",
+      "claims_supported": [
+        "AI-assisted developers complete 21% more tasks than non-AI counterparts",
+        "AI-assisted developers create 98% more pull requests per person",
+        "GitHub Copilot saves users an estimated 55% of time on specific coding tasks",
+        "Developers spend 25-35% of their day in AI-assisted coding loops"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "Stack Overflow Blog",
+      "title": "Mind the gap: Closing the AI trust gap for developers",
+      "url": "https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/",
+      "date": "2026-02-18",
+      "claims_supported": [
+        "Usage and trust are moving in opposite directions among developers",
+        "Trust in AI coding output dropped from 40% (2024) to 29% (2025)",
+        "Developer adoption remains at 84% despite the trust decline"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "Carlton Fields / Bloomberg Law",
+      "title": "AI Makes Securing Copyright Protection for Software Code Tricky",
+      "url": "https://www.carltonfields.com/insights/publications/2026/ai-makes-securing-copyright-protection-for-software-code-tricky-bloomberg-law",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "US Copyright Office will not register works produced by AI without human creative input",
+        "EU AI Act requires GPAI model providers to publish training data summaries",
+        "EU AI Act training data enforcement begins August 2026 with fines up to 3% global revenue",
+        "AI-generated code may carry embedded open-source license obligations (GPL contamination)"
+      ]
+    },
+    {
+      "id": 11,
+      "publisher": "Antigravity Lab",
+      "title": "Windsurf Acquisition and the 2026 AI IDE Market Shakeup — What Developers Need to Know About the Agent-First Era",
+      "url": "https://antigravitylab.net/en/articles/ai-tools/ai-ide-market-windsurf-acquisition-2026",
+      "date": "2026-02-01",
+      "claims_supported": [
+        "Windsurf ranked #1 in LogRocket AI Dev Tool Power Rankings February 2026",
+        "Post-acquisition analysis of Cognition AI + Windsurf combined offering",
+        "Agent-first IDE paradigm replacing plugin-based autocomplete model"
+      ]
+    },
+    {
+      "id": 12,
+      "publisher": "The Next Web",
+      "title": "Cursor in talks to raise $2B at $50B valuation after hitting $2B ARR in three years",
+      "url": "https://thenextweb.com/news/cursor-anysphere-2-billion-funding-50-billion-valuation-ai-coding",
+      "date": "2026-04-17",
+      "claims_supported": [
+        "Cursor hit $100M ARR (January 2025), $500M ARR (June 2025), $1B ARR (November 2025), $2B ARR (February 2026)",
+        "Fastest B2B SaaS progression from $1M to $1B ARR in history",
+        "1M+ paying customers",
+        "Nearly 70% of Fortune 1000 in customer base"
+      ]
+    }
+  ],
+  "verification_notes": [
+    "Market size ($12.8B in 2026) sourced from IdeaPlan.io market report — methodology not independently verified; Future Market Insights estimates $5.5B in 2024 suggesting higher 2026 figure is plausible given 24% CAGR but may include adjacent developer tooling segments",
+    "growth_5y and growth_3m figures marked as (est.) — 5Y baseline ($200M–500M in 2021) is approximate as the category barely existed; 3M estimate based on Cursor as leading indicator, not full-market measurement",
+    "Market share percentages (GitHub 37%, Cursor 25%, Amazon Q 12%, Tabnine 8%, JetBrains 7%) are analyst estimates with significant methodology variation across sources — treat as directional, not precise",
+    "Windsurf acquisition price ($250M by Cognition AI) based on Fortune/TechCrunch reporting — final terms not publicly confirmed as of research date",
+    "EU AI Act enforcement date (August 2026) for GPAI training data transparency requirements — verified via multiple legal sources (Carlton Fields, JDSupra)"
+  ]
+}
