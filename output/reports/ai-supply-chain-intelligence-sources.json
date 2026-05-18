@@ -1,0 +1,116 @@
+{
+  "slug": "ai-supply-chain-intelligence",
+  "trend_name": "AI Supply Chain Intelligence",
+  "research_date": "2026-05-18",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "AllAboutAI",
+      "title": "The AI in Supply Chain Report 2026: Market Data, Use Cases & What's Next",
+      "url": "https://www.allaboutai.com/resources/ai-statistics/supply-chain/",
+      "claim": "AI in Supply Chain market hit $19.8B in 2026 growing at 45.3% CAGR, nearly tripling since 2022; Gartner projects 60% of supply chain disruptions will be autonomously resolved without human intervention by 2031",
+      "category": "market-size",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "TechCrunch",
+      "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
+      "url": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
+      "claim": "Loop raised $95M led by Valor Equity Partners including 8VC, Founders Fund, Index Ventures, and J.P. Morgan Growth Equity (April 17, 2026) to build AI-powered supply chain disruption prediction and agentic auto-resolution",
+      "category": "funding",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Yahoo Finance / The Business Research Company",
+      "title": "Digital Supply Chain & Logistics Tech Research Report 2026: $146.92B Market by 2031",
+      "url": "https://finance.yahoo.com/news/digital-supply-chain-logistics-tech-093000292.html",
+      "claim": "Digital Supply Chain and Logistics Tech Market at $72B in 2025, forecast to reach $146.92B by 2031; SAP, Oracle, Blue Yonder, DHL, and Schneider Electric are leading vendors",
+      "category": "market-size",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "title": "AI in Supply Chain Market Size & Share Forecast Report 2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-in-supply-chain-market-114588383.html",
+      "claim": "AI in Supply Chain market to grow from $9.15B in 2024 to $40.53B by 2030 at 28.2% CAGR; demand planning and forecasting is the largest use-case segment",
+      "category": "market-size",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Retail Technology Innovation Hub",
+      "title": "Gather AI bags $40M in Series B funding to scale AI platform for global supply chains",
+      "url": "https://retailtechinnovationhub.com/home/2026/2/9/gather-ai-bags-40-million-in-series-b-funding-to-scale-ai-platform-for-global-supply-chains",
+      "claim": "Gather AI raised $40M Series B led by Smith Point Capital, bringing total funding to $74M for AI warehouse intelligence platform (February 2026)",
+      "category": "funding",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "SupplyChainBrain",
+      "title": "2026 Supply Chain Checklist: How to Prepare for Tariffs, AI, and Geopolitical Uncertainty",
+      "url": "https://www.supplychainbrain.com/articles/43660-2026-supply-chain-checklist-how-to-prepare-for-tariffs-ai-and-geopolitical-uncertainty",
+      "claim": "43% of US companies plan to shift supply chain footprint to North America within 3 years — up 25 percentage points from the prior year survey; AI and tariffs are the two dominant forces shaping supply chain strategy in 2026",
+      "category": "regulatory-policy",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Maersk Insights",
+      "title": "What to expect in 2026 — supply chain tech startup trends",
+      "url": "https://www.maersk.com/insights/growth/2025/12/04/supply-chain-tech-startup-trends",
+      "claim": "Agentic AI acting as virtual team members is the most promising development; AI solutions now account for 50%+ of global supply chain venture funding flows; major logistics providers proving the agentic model at scale",
+      "category": "technology",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Supply Chain Management Review",
+      "title": "Six months in: Are tariffs really rebuilding American manufacturing?",
+      "url": "https://www.scmr.com/article/tariffs-us-manufacturing-reshoring-impact-2025",
+      "claim": "US tariff imposition triggered nearshoring acceleration; 40% of US companies plan to relocate supply chains to North America by 2026 (Deloitte study); nearly 500K US manufacturing jobs remain unfilled due to digital and AI skills gaps",
+      "category": "political-economic",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "SupplyChainBrain Think Tank",
+      "title": "AI, Tariffs, and the Great Supply Chain Escape Act",
+      "url": "https://www.supplychainbrain.com/blogs/1-think-tank/post/41439-ai-tariffs-and-the-great-supply-chain-escape-act",
+      "claim": "AI platforms applying NLP to supplier reliability and alternative sourcing; AI cuts supply chain costs 25-30% through route optimization and inventory forecasting; tariff-driven demand for AI sourcing intelligence up 300-500%",
+      "category": "market-analysis",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Strategic Market Research",
+      "title": "AI in Supply Chain Market 2024-2031: $7.3B to $63.8B at 42.7% CAGR",
+      "url": "https://www.strategicmarketresearch.com/market-report/ai-in-supply-chain-market",
+      "claim": "AI in Supply Chain market to grow from $7.3B in 2024 to $63.8B by 2031 at 42.7% CAGR driven by increasing global trade complexity and AI-driven logistics transformation",
+      "category": "market-size",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "ISM World / Inside Supply Management",
+      "title": "Supply Chain News Roundup: AI and Automation Will Change Disruption Management",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/news-publications/inside-supply-management-magazine/blog/2026/2026-03/supply-chain-news-roundup-ai-and-automation-will-change-disruption-management/",
+      "claim": "AI assessments of disruptions became proactive in 2025-2026 via geopolitical NLP analysis, weather prediction models that reroute shipments, and compliance automation — representing a generational shift in disruption management",
+      "category": "technology",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "EU Official / EUR-Lex",
+      "title": "Corporate Sustainability Due Diligence Directive (CS3D) — Directive 2024/1760",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024L1760",
+      "claim": "CS3D requires companies with 1,000+ employees or €450M+ turnover to identify, prevent, and mitigate human rights and environmental impacts across their supply chains — effective 2026 for the largest enterprises; creates mandatory AI-grade supply chain monitoring requirements",
+      "category": "regulatory-legal",
+      "verified": true
+    }
+  ],
+  "notes": "Market size figures vary significantly across research firms ($7.3B–$19.8B for 2026) due to different definitions of 'AI in supply chain' vs. 'digital supply chain technology.' The $19.8B figure (AllAboutAI/45.3% CAGR) is used for the trend report as it aligns with the broader AI-powered planning, visibility, and procurement software category that enterprises are actively evaluating. Growth_3m (+22%) is an estimate based on tariff-shock demand acceleration and not directly sourced from a single report — marked accordingly in the trend data. All other figures have verified source URLs above."
+}
