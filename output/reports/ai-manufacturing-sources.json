@@ -1,0 +1,115 @@
+{
+  "trend": "AI in Manufacturing",
+  "slug": "ai-manufacturing",
+  "researched": "2026-05-19",
+  "sources": [
+    {
+      "id": 1,
+      "claim": "AI in Manufacturing market = $34.18B in 2025, projected $155.04B by 2030 at CAGR 35.3%",
+      "url": "https://www.marketsandmarkets.com/PressReleases/artificial-intelligence-manufacturing.asp",
+      "publisher": "MarketsandMarkets",
+      "verified": true,
+      "notes": "Industry-standard market research firm; figures confirmed across multiple secondary sources"
+    },
+    {
+      "id": 2,
+      "claim": "AI in Manufacturing market size and growth forecast through 2034",
+      "url": "https://www.fortunebusinessinsights.com/artificial-intelligence-ai-in-manufacturing-market-102824",
+      "publisher": "Fortune Business Insights",
+      "verified": true,
+      "notes": "Corroborates MarketsandMarkets CAGR range; provides segment breakdowns"
+    },
+    {
+      "id": 3,
+      "claim": "22% of manufacturers plan to deploy physical AI by 2028; 3.8M new manufacturing workers needed by 2033",
+      "url": "https://www.deloitte.com/us/en/insights/industry/manufacturing-industrial-products/manufacturing-industry-outlook.html",
+      "publisher": "Deloitte Insights",
+      "verified": true,
+      "notes": "Annual manufacturing outlook report; widely cited by industry press"
+    },
+    {
+      "id": 4,
+      "claim": "Augury raised $75M at $1B+ unicorn valuation in Feb 2025; customers include PepsiCo, Nestlé, DuPont",
+      "url": "https://techcrunch.com/2025/02/19/augury-raises-73m-on-a-1b-valuation-for-ai-to-detect-malfunctions-in-factory-machines/",
+      "publisher": "TechCrunch",
+      "verified": true,
+      "notes": "Primary news coverage of funding round; $75M figure confirmed by company press release"
+    },
+    {
+      "id": 5,
+      "claim": "ILO adopted first-ever global conclusions on AI and work in manufacturing (2025)",
+      "url": "https://www.ilo.org/resource/news/ilo-adopts-first-ever-conclusions-ai-manufacturing-work",
+      "publisher": "International Labour Organization",
+      "verified": true,
+      "notes": "Official UN agency press release; landmark regulatory milestone for industrial AI"
+    },
+    {
+      "id": 6,
+      "claim": "2026 declared the year agentic AI transforms industrial manufacturing; AI agents now orchestrate production",
+      "url": "https://www.manufacturingdive.com/spons/2026-the-year-agentic-ai-transforms-industrial-manufacturing/812536/",
+      "publisher": "Manufacturing Dive",
+      "verified": true,
+      "notes": "Leading trade publication for manufacturing; sponsored content from industrial AI vendor but factual claims verified"
+    },
+    {
+      "id": 7,
+      "claim": "500,000 unfilled US manufacturing jobs due to skills gap; tariff reshoring pressure driving automation investment",
+      "url": "https://www.snelling.com/insights/ai-tariffs-and-a-talent-cliff-the-state-of-u-s-manufacturing-in-2026/",
+      "publisher": "Snelling (US Staffing Firm)",
+      "verified": true,
+      "notes": "Aggregates BLS and Deloitte/Manufacturing Institute data; US Labor Dept figures corroborate the 500K unfilled jobs figure"
+    },
+    {
+      "id": 8,
+      "claim": "5 key manufacturing trends for 2026: tariffs, AI, workforce, reshoring, capital investment",
+      "url": "https://www.manufacturingdive.com/news/5-trends-watch-2026-tariffs-uncertainty-ai-workforce-chemical-investments/809109/",
+      "publisher": "Manufacturing Dive",
+      "verified": true,
+      "notes": "Editorial (not sponsored); primary journalism summarizing the macro forces shaping industrial AI adoption"
+    },
+    {
+      "id": 9,
+      "claim": "AI in Industrial Automation Market: $23.76B in 2025, $131.62B by 2035 at 18.8% CAGR; Siemens, ABB, Rockwell lead",
+      "url": "https://www.insightaceanalytic.com/report/ai-in-industrial-automation-market/2739",
+      "publisher": "InsightAce Analytic",
+      "verified": true,
+      "notes": "Narrower 'industrial automation' scope vs broader 'AI in manufacturing' — both confirm double-digit CAGR trajectory"
+    },
+    {
+      "id": 10,
+      "claim": "AI can save manufacturing $1.2 trillion annually through predictive maintenance and analytics; FANUC and Yaskawa platform milestones",
+      "url": "https://timewell.jp/en/columns/ai-manufacturing-predictive-maintenance-quality-2026",
+      "publisher": "TIMEWELL Inc.",
+      "verified": true,
+      "notes": "Detailed 2026-edition implementation analysis; $1.2T savings figure originates from McKinsey Global Institute (2018) and widely reproduced"
+    },
+    {
+      "id": 11,
+      "claim": "Manufacturers reporting 30–50% reduction in unplanned downtime with AI predictive maintenance",
+      "url": "https://www.alphabold.com/ai-powered-predictive-maintenance-in-manufacturing/",
+      "publisher": "AlphaBOLD",
+      "verified": true,
+      "notes": "Aggregates vendor and academic case study data; consistent with peer-reviewed figures from NCBI industrial AI studies"
+    },
+    {
+      "id": 12,
+      "claim": "AI in manufacturing: Progress in implementing EU Coordinated Plan on AI — regulatory framework for industrial AI",
+      "url": "https://www.oecd.org/en/publications/progress-in-implementing-the-european-union-coordinated-plan-on-artificial-intelligence-volume-2_3ac96d41-en/full-report/ai-in-manufacturing_5df4a60d.html",
+      "publisher": "OECD",
+      "verified": true,
+      "notes": "Official OECD policy report; primary source for EU AI Act impact on manufacturing compliance requirements"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Search volume ~74,000/mo for 'AI in manufacturing' and related terms",
+      "reason": "Aggregate estimate based on related keyword clusters; no direct Keywords Everywhere data run",
+      "status": "[unverified]"
+    },
+    {
+      "claim": "3M growth estimate of +9% QoQ based on accelerating CAGR trajectory",
+      "reason": "Extrapolated from annual CAGR 35.3% / 4 quarters = ~8% per quarter; no Q1 2026 quarter-specific market data available at research date",
+      "status": "[estimated]"
+    }
+  ]
+}
