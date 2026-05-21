@@ -1,0 +1,210 @@
+{
+  "trend": "Ambient Computing",
+  "slug": "ambient-computing",
+  "research_date": "2026-05-21",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Ambient Computing Market Poised for Rapid Growth, Expected to Reach USD 438 Billion by 2033",
+      "url": "https://www.globenewswire.com/news-release/2026/01/20/3221891/0/en/Ambient-Computing-Market-Poised-for-Rapid-Growth-Expected-to-Reach-USD-438-Billion-by-2033-says-Coherent-Market-Insights.html",
+      "publisher": "Coherent Market Insights via GlobeNewswire",
+      "date": "2026-01-20",
+      "claims_supported": [
+        "Ambient computing market projected to reach $438B by 2033",
+        "26.3% CAGR for ambient computing market",
+        "Market valued at $67.59B in 2025, $85.35B in 2026",
+        "growth_1y: +26% ($67.59B to $85.35B)",
+        "North America leads with 38.8% market share"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ambient Computing Global Market Analysis Report 2026: $215+ Bn Opportunities",
+      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298686/28124/en/Ambient-Computing-Global-Market-Analysis-Report-2026-215-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "publisher": "GlobeNewswire",
+      "date": "2026-05-20",
+      "claims_supported": [
+        "Major market analysis report published May 20, 2026 (trigger event)",
+        "$215B projected by 2030 at 26% CAGR",
+        "Covers 2020-2025 baseline + 2025-2030 forecast",
+        "Competitive landscape: Amazon, Apple, Alphabet, Microsoft, Samsung as dominant players"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Ambient Computing Market Report, Trends, Forecast 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/ambient-computing-market-report",
+      "publisher": "The Business Research Company",
+      "date": "2026",
+      "claims_supported": [
+        "Market size $85.35B in 2026 corroboration",
+        "IoT segment projected to dominate at ~42% share in 2026",
+        "Consumer segment held 33.14% share in 2025",
+        "26.3% CAGR corroboration"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "FDA Announces Sweeping Changes to Oversight of Wearables, AI-Enabled Devices",
+      "url": "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/",
+      "publisher": "STAT News",
+      "date": "2026-01-06",
+      "claims_supported": [
+        "FDA released two updated guidance documents on January 6, 2026",
+        "Non-medical-grade wearables exempt from FDA premarket review",
+        "Wellness-purpose devices for heart rate, blood pressure, blood glucose deregulated",
+        "Timeline event 2026-01: FDA sweeping deregulation guidance",
+        "Political and Legal PESTAL: FDA deregulation detail"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Smart Home Platforms Market Size 2025 to 2034",
+      "url": "https://www.precedenceresearch.com/smart-home-platforms-market",
+      "publisher": "Precedence Research",
+      "date": "2026",
+      "claims_supported": [
+        "Google Home: 30% global smart home platform market share",
+        "Amazon Alexa: 25% global market share (34% US penetration)",
+        "Apple HomeKit: 20% global market share (18% US households)",
+        "Samsung SmartThings: 15% global market share",
+        "Home Assistant: 10% global market share",
+        "Smart home market $133.3B in 2026, growing to $850B by 2040",
+        "Market player share percentages for all five ambient platform leaders"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Ambient Intelligence Market Size to Reach USD 265.65 Billion by 2035, Driven by AI, IoT, and Smart Environment Adoption",
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3268931/0/en/Ambient-Intelligence-Market-Size-to-Reach-USD-265-65-Billion-by-2035-Driven-by-AI-IoT-and-Smart-Environment-Adoption-Report-by-SNS-Insider.html",
+      "publisher": "SNS Insider via GlobeNewswire",
+      "date": "2026-04-07",
+      "claims_supported": [
+        "Ambient intelligence market reaching $265.65B by 2035",
+        "AI and IoT as primary growth drivers",
+        "Smart environment adoption accelerating in 2026",
+        "Technological PESTAL: edge AI and IoT convergence drivers"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Consumer Trends in 2026: Safety, Security and the Wearables Comeback",
+      "url": "https://www.robeco.com/en-int/insights/2026/02/consumer-trends-in-2026-safety-security-and-the-wearables-comeback",
+      "publisher": "Robeco Global",
+      "date": "2026-02",
+      "claims_supported": [
+        "Wearables comeback as a key 2026 consumer trend",
+        "Safety and security driving ambient adoption",
+        "Consumer segment behavioral shift toward ambient monitoring"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "FDA Loosens the Reins: New AI and Wearables Guidance",
+      "url": "https://www.mcdermottlaw.com/insights/fda-loosens-the-reins-new-ai-and-wearables-guidance/",
+      "publisher": "McDermott Will & Emery",
+      "date": "2026",
+      "claims_supported": [
+        "Two guidance documents allowing more technologies without FDA premarket review",
+        "Align with agency effort to promote widespread AI-enabled product usage",
+        "Legal PESTAL: FDA guidance detail and scope",
+        "QMSR quality management updates aligning US oversight with ISO 13485:2016"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Privacy, Ethics, Transparency, and Accountability in AI Systems for Wearable Devices",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12209263/",
+      "publisher": "NCBI / PubMed Central",
+      "date": "2026",
+      "claims_supported": [
+        "Critical ethical concerns: data privacy, algorithmic bias, informed consent, opacity of automated decision-making",
+        "Framework aligning with GDPR, UK Data Protection Act, EU AI Act",
+        "Explainable AI and consent-aware data processing as requirements",
+        "Legal PESTAL: regulatory framework for ambient wearable AI",
+        "Social PESTAL: privacy anxiety as adoption barrier"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Edge AI Hardware Market Forecast: Consumer Grade AI Hardware Demand in Ambient Computing",
+      "url": "https://www.openpr.com/news/4478618/edge-ai-hardware-market-forecast-consumer-grade-ai-hardware",
+      "publisher": "OpenPR",
+      "date": "2026",
+      "claims_supported": [
+        "Edge AI Hardware Market worth $30.74B in 2026",
+        "High-efficiency NPU acceleration enabling milliwatt-power ambient inference",
+        "Open-source edge-optimized model families (Gemma 3) reducing cloud API reliance",
+        "Technological PESTAL: three convergence vectors for ambient intelligence",
+        "Ambient computing and smart device ecosystem demand drivers"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Wearable Technology Statistics By Market And Trends (2026)",
+      "url": "https://bayelsawatch.com/wearable-technology-statistics/",
+      "publisher": "Bayelsa Watch",
+      "date": "2026",
+      "claims_supported": [
+        "64% of wearable users track steps/workouts",
+        "52% monitor heart rate data",
+        "45% track sleep patterns",
+        "38% use wearables for notifications",
+        "Social PESTAL: mainstream wearable behavior adoption rates",
+        "Canvas 'who': health-optimizer cohort behavioral data"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Agentic AI, Digital Twins, and Intelligent Wearables Reshape Security Operations in 2026",
+      "url": "https://dig.watch/updates/agentic-ai-digital-twins-and-intelligent-wearables-reshape-security-operations-in-2026",
+      "publisher": "Digital Watch Observatory",
+      "date": "2026",
+      "claims_supported": [
+        "Intelligent wearables as a reshaping force in 2026",
+        "Convergence of agentic AI with ambient computing platforms",
+        "Enterprise security ambient use cases"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Smart Home Statistics 2026: Smart Device Usage, Spending",
+      "url": "https://sqmagazine.co.uk/smart-home-statistics/",
+      "publisher": "SQ Magazine",
+      "date": "2026",
+      "claims_supported": [
+        "Over 50% of smart home users use voice commands to control devices",
+        "300 million smart speakers in use worldwide",
+        "60% of developed-nation households ambient-connected by 2026",
+        "Canvas 'behavior': voice command adoption data",
+        "Trigger: 60% household penetration figure"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: '+222%'",
+      "note": "The 5-year backward growth figure is derived by extrapolating from the 2026 market size ($85.35B, per Coherent Market Insights) using the documented 26.3% CAGR backward 5 years: $85.35B / (1.263)^5 ≈ $26.5B in 2021. Growth = ($85.35B - $26.5B) / $26.5B ≈ 222%. No single source explicitly states the 2021 ambient computing market baseline. The extrapolation methodology is conservative; actual 2021 market was smaller if growth accelerated in 2022+ post-ChatGPT, which would imply higher 5Y growth."
+    },
+    {
+      "claim": "growth_3m: '+26% YoY' as proxy",
+      "note": "No quarterly (sequential Q-over-Q) growth figure was available for the ambient computing market as a whole. The +26% figure represents the documented annual growth rate (2025→2026) and is used as the best available proxy for recent 3-month momentum. The actual Q1 2026 vs Q1 2025 growth rate was not published by any source at the time of research (May 21, 2026)."
+    },
+    {
+      "claim": "search_volume: '~60,000/mo [est.]'",
+      "note": "No primary keyword research tool (Keywords Everywhere, Ahrefs, SEMrush) was directly queried. The 60,000/month estimate is based on the compound search interest for 'ambient computing' (moderate), 'smart home AI' (high), 'ambient intelligence' (moderate), and related ambient device searches. Actual figure may be significantly higher when aggregating all related ambient computing keyword variants."
+    },
+    {
+      "claim": "52% of global transactions via ambient sensors by end of 2026",
+      "note": "This figure appeared in multiple ambient computing overview articles but the primary source (likely a payments research firm) was not directly accessible to verify. Treat as directional indicator rather than confirmed statistic. The claim refers to next-generation ambient payment methods using biometrics and ambient sensors handling 52% of global e-commerce and in-store transactions."
+    },
+    {
+      "claim": "Home Assistant: 10% market share",
+      "note": "The 10% figure appears in smart home platform market share breakdowns attributing the remaining share after Google (30%), Amazon (25%), Apple (20%), and Samsung (15%) to open-source/other platforms. Home Assistant is the dominant open-source player in this residual segment. The specific 10% attribution to Home Assistant alone is an estimate; the 10% may include other smaller platforms."
+    },
+    {
+      "claim": "Three class action lawsuits against ambient retail analytics vendors in Q1 2026",
+      "note": "Referenced in legal analysis of ambient computing regulatory risk but the specific number (three) and the identity of the defendants were not confirmed in directly accessible primary sources at time of research. The general trend of rising class action risk for ambient data collection without explicit consent is well-documented across CCPA and BIPA (Illinois Biometric Information Privacy Act) litigation records."
+    }
+  ]
+}
