@@ -1,0 +1,162 @@
+{
+  "trend": "AI Personal Finance & Robo-Advisors 2.0",
+  "slug": "ai-personal-finance",
+  "compiled": "2026-05-22",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune",
+      "title": "Should you trust AI to manage your money? The finance industry is betting you will",
+      "url": "https://fortune.com/2026/03/26/ai-personal-finance-investing-services-robinhood-advisors/",
+      "date": "2026-03-26",
+      "claims": [
+        "Robinhood Strategies has 250,000 subscribers paying on average $250/yr",
+        "33% of consumers across all age groups are using ChatGPT/Claude for investment guidance",
+        "Fidelity Freya enables natural-language financial planning ('I'm 34, just had a baby, $80K 401k...')"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Grand View Research",
+      "title": "Robo Advisory Market Size & Share | Industry Report, 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/robo-advisory-market-report",
+      "date": "2025",
+      "claims": [
+        "Robo advisory services market expected to reach USD 14.29 billion in 2025",
+        "CAGR of 30.80% from 2025 to 2030",
+        "Market projected to reach $54.73 billion by 2030"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Mordor Intelligence",
+      "title": "Robo-advisory Services Market Size & Share Analysis",
+      "url": "https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market",
+      "date": "2025",
+      "claims": [
+        "Robo advisory market projected to reach USD 14.29 billion in 2025",
+        "Growing at a CAGR of 30.80% from 2025 to 2030"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "AI Magicx",
+      "title": "AI Robo-Advisors vs Human Financial Advisors: The $3.2 Trillion Market That Will Transform Personal Wealth by 2033",
+      "url": "https://www.aimagicx.com/blog/ai-robo-advisors-vs-human-financial-advisors-2026-update",
+      "date": "2026",
+      "claims": [
+        "Robo-advisors managed approximately $1.4 trillion AUM at end of 2025",
+        "Industry projections place AUM at $3.2 trillion by 2033",
+        "LLM-powered advisors handle far more complex scenarios than questionnaire-based predecessors"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "InvestingInTheWeb",
+      "title": "The largest Robo-Advisors by AUM in 2026",
+      "url": "https://investingintheweb.com/brokers/the-largest-robo-advisors-by-aum/",
+      "date": "2026",
+      "claims": [
+        "Vanguard Digital Advisor: $311B AUM (29% market share)",
+        "Schwab Intelligent Portfolios: ~24% market share",
+        "Betterment: $45.9B AUM",
+        "Wealthfront: $42.9B AUM ($41.7B discretionary)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "FINRA",
+      "title": "GenAI: Continuing and Emerging Trends — 2026 Annual Regulatory Oversight Report",
+      "url": "https://www.finra.org/rules-guidance/guidance/reports/2026-finra-annual-regulatory-oversight-report/gen-ai",
+      "date": "2026",
+      "claims": [
+        "FINRA introduced a dedicated AI governance section in its 2026 Oversight Report",
+        "Covers governance, recordkeeping, supervision, and autonomous agent risks",
+        "Firms expected to treat AI tools as high-risk vendors with documented due diligence"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Fortune Business Insights",
+      "title": "Robo Advisory Market Size, Share, Trends | Growth Report, 2034",
+      "url": "https://www.fortunebusinessinsights.com/robo-advisory-market-109986",
+      "date": "2025",
+      "claims": [
+        "Robo Advisory Market projected to grow from USD 14.08 billion in 2026 to USD 102.03 billion by 2034",
+        "CAGR of 28.10% during the forecast period",
+        "Hybrid robo-advisors segment to account for 56.53% of total market share in 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Redress Compliance",
+      "title": "History of Robo-Advisors and Automated Investing",
+      "url": "https://redresscompliance.com/the-history-of-robo-advisors-and-automated-investing/",
+      "date": "2025",
+      "claims": [
+        "Betterment and Wealthfront both launched in 2008 as first robo-advisors",
+        "From 2008 to 2015, 131 additional robo-advisor firms were launched",
+        "Robo-advisors managed $870 billion in assets in 2022"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Ncontracts",
+      "title": "AI Compliance for Firms and RIAs in 2026",
+      "url": "https://www.ncontracts.com/nsight-blog/investment-advisers-artificial-intelligence",
+      "date": "2026",
+      "claims": [
+        "40% of investment adviser firms have implemented AI tools internally",
+        "44% of those firms have no formal testing or validation of AI outputs",
+        "SEC's 2026 Examination Priorities identified 'Emerging Financial Technology' as key risk"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Sidley Austin LLP",
+      "title": "Artificial Intelligence: U.S. Securities and Commodities Guidelines for Responsible Use",
+      "url": "https://www.sidley.com/en/insights/newsupdates/2025/02/artificial-intelligence-us-financial-regulator-guidelines-for-responsible-use",
+      "date": "2025-02",
+      "claims": [
+        "SEC applies the Investment Advisers Act of 1940 to AI use — no AI-specific rules yet",
+        "SEC took action against firms for 'AI washing' under the Marketing Rule",
+        "EU DORA now requires AI operational resilience assessments for European financial services"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Wealthmanagement.com",
+      "title": "SEC Sets 2026 Exam Focus on AI Rules and Compliance",
+      "url": "https://www.wealthmanagement.com/regulation-compliance/sec-2026-examination-priorities-what-financial-services-firms-need-to-know",
+      "date": "2026",
+      "claims": [
+        "SEC's 2026 examination priorities explicitly target AI and emerging financial technology",
+        "Firms must document AI governance, testing, and vendor oversight to pass examination"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Debevoise & Plimpton LLP",
+      "title": "FINRA's 2026 Regulatory Oversight Report: Continued Focus on Generative AI and Emerging Agent-Based Risks",
+      "url": "https://www.debevoise.com/insights/publications/2025/12/finras-2026-regulatory-oversight-report-continued",
+      "date": "2025-12",
+      "claims": [
+        "FINRA's 2026 report includes dedicated section on generative AI for the first time",
+        "Report addresses agentic AI and autonomous decision-making in financial advice"
+      ],
+      "verified": true
+    }
+  ],
+  "notes": "All market size figures vary between research publishers (Fortune Business Insights, Grand View Research, Mordor Intelligence) due to different scope definitions (robo-advisory software market vs. AUM-based sizing). growth_5y estimate (+320%) based on robo-advisory market revenue from ~$4B in 2021 to ~$16.79B in 2026 — treat as directional. growth_1y (+31%) uses CAGR from Grand View Research. growth_3m (+8%) is a quarterly approximation [unverified] — use with caution in any published report."
+}
