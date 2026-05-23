@@ -1,0 +1,122 @@
+{
+  "slug": "ai-workflow-automation",
+  "trend_name": "AI Workflow Automation",
+  "research_date": "2026-05-23",
+  "sources": [
+    {
+      "id": 1,
+      "title": "n8n raises $180M Series C at $2.5B valuation — User Count & Growth Statistics",
+      "url": "https://flowlyn.com/blog/n8n-user-count-statistics-growth",
+      "publisher": "Flowlyn",
+      "claim": "n8n raised $180M Series C led by Accel in October 2025 at $2.5B valuation (up from $300M in June 2025 — an 8x jump in four months). Company has surpassed 230,000 active users globally and reached $40M in annual revenue. Backers include Nvidia, Accel, and Redpoint.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Workflow Automation Market Size, Share & Analysis, 2026–2033",
+      "url": "https://www.coherentmarketinsights.com/market-insight/workflow-automation-market-5607",
+      "publisher": "Coherent Market Insights",
+      "claim": "Global workflow automation market valued at ~$23.89B in 2026, growing at 16.6% CAGR through 2033. Broader estimates from competing analysts place the 2026 market at $26B growing to $71B by 2031 at 23.68% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Zapier Revenue & Market Share 2026 — $310M",
+      "url": "https://geo.sig.ai/brands/zapier",
+      "publisher": "SIG AI / Geo",
+      "claim": "Zapier achieved $310M in annual revenue in 2026, serving 1.8M+ businesses. Zapier connects 7,000+ apps and is the market leader by user count. Company bootstrapped to $1B valuation and has not raised significant outside capital.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Gartner Predicts 80% of Low-Code Users Will Be Non-IT (2026)",
+      "url": "https://virtualassistantva.com/news/low-code-no-code-platforms-80-percent-non-it-users-2026-business-automation",
+      "publisher": "Virtual Assistant VA (citing Gartner forecast)",
+      "claim": "Gartner projects that by 2026, 80% of low-code automation users will be non-IT professionals, and citizen developers will outnumber professional developers 4:1 in enterprises that have formally adopted no-code platforms.",
+      "verified": true,
+      "note": "Original Gartner report behind paywall; multiple secondary citations corroborate the 80% non-IT figure"
+    },
+    {
+      "id": 5,
+      "title": "AI Automation Statistics 2026 — ROI, Adoption, Cost Reduction",
+      "url": "https://adai.news/resources/statistics/ai-automation-statistics-2026",
+      "publisher": "AdAI News",
+      "claim": "Businesses using AI automation report average 35% reduction in operational costs. Average ROI of 250% within 18 months. 72% of large enterprises and 38% of SMBs have adopted some form of AI automation as of 2026.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "The Best AI Workflow Tool in 2026: Make vs. Zapier vs. n8n",
+      "url": "https://firstmovers.ai/ai-workflow-tool/",
+      "publisher": "First Movers AI",
+      "claim": "Workflow automation market is valued at $26 billion in 2026 and projected to reach $71 billion by 2031 at 23.68% CAGR. n8n 2.0 introduced native LangChain integration and 70+ AI nodes in January 2026. All three platforms offer native connections to OpenAI, Anthropic, and Google Gemini.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "AI Automation in 2026: Why n8n, Make, and Zapier Are No Longer Just Workflow Tools",
+      "url": "https://www.braiviq.com/blog/ai-automation-trends-2026-n8n-make-zapier-business",
+      "publisher": "Braiviq",
+      "claim": "n8n 2.0 (January 2026) introduced native LangChain integration, 70+ AI nodes, and persistent agent memory. Each platform has undergone transformation from workflow tool to agentic AI orchestration layer. Defines the category shift from trigger-action automation to stateful agent workflows.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "How AI Will Redefine Compliance, Risk and Governance in 2026",
+      "url": "https://www.governance-intelligence.com/regulatory-compliance/how-ai-will-redefine-compliance-risk-and-governance-2026",
+      "publisher": "Governance Intelligence",
+      "claim": "EU AI Act in force August 2026 classifies certain automated decision-making as high-risk. Colorado AI Act effective June 2026. Compliance investment in governance, risk, and compliance AI tools projected to increase 50% by 2026. 40% demand growth for AI risk governance consulting services.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "ROI of AI Automation for SMBs with Real Numbers (2026)",
+      "url": "https://blog.innovate247.ai/roi-ai-automation-smb-real-numbers/",
+      "publisher": "Innovate247",
+      "claim": "For most SMB automation projects, payback periods are 2 to 6 months. Lead qualification and customer support tend to pay back fastest. Sector-specific agents deliver average 500% ROI vs. horizontal AI deployments.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "n8n Revenue, Valuation & Funding — Sacra Research",
+      "url": "https://sacra.com/c/n8n/",
+      "publisher": "Sacra",
+      "claim": "n8n has raised $253M total across 4 rounds. Series C in October 2025: $180M led by Accel at $2.5B valuation. $40M ARR. 3,000+ enterprise clients including Vodafone, Delivery Hero, and Microsoft.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "65+ No-Code Statistics 2026: Market Size, Growth & Adoption Data",
+      "url": "https://kissflow.com/no-code/no-code-statistics-2026/",
+      "publisher": "Kissflow",
+      "claim": "Global no-code and low-code market projected at $52B in 2026. 84% of organizations are already using these tools. 75% of large enterprises will employ at least 4 low-code tools by 2026.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "The Silent Revolution of Workflow Automation: How n8n Broke the Market",
+      "url": "https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep",
+      "publisher": "DEV Community",
+      "claim": "n8n surpassed 163,000 GitHub stars (growing to 230,000+ active users), overtaking many commercial tools on engagement metrics. Founded October 2019 by Jan Oberhauser in Berlin as open-source alternative to Zapier. Self-hostable, fair-code license.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Make.com market share of ~20% by active users",
+      "note": "Make.com (Celonis) does not publish active user counts publicly. Estimate is directional based on relative community size, template library scale, and comparison to Zapier/n8n publicly available figures. [unverified]"
+    },
+    {
+      "claim": "Workato valued at $5.7B",
+      "note": "Last public valuation round was from 2021 at $5.7B. No subsequent public raise has been disclosed. Current valuation may differ materially. [partially verified — 2021 figure only]"
+    },
+    {
+      "claim": "Workflow automation 3M growth of +18%",
+      "note": "No direct quarterly search volume or revenue data available for Q1 2026. Estimate is extrapolated from n8n 2.0 January 2026 launch momentum, Zapier AI Agents GA, and broader AI automation venture funding acceleration in Q1 2026. [unverified]"
+    },
+    {
+      "claim": "Search volume ~150,000/mo for AI workflow automation cluster",
+      "note": "Estimate based on aggregate keyword cluster: 'workflow automation', 'n8n', 'Zapier AI', 'AI automation', 'no code automation'. Individual keywords verified via multiple SEO sources; combined cluster estimate is directional. [unverified — use as order-of-magnitude]"
+    }
+  ]
+}
