@@ -1,0 +1,221 @@
+{
+  "trend": "AI in Education",
+  "slug": "ai-education",
+  "research_date": "2026-05-24",
+  "update_note": "Research completed May 24, 2026. Covers the AI EdTech market surge driven by 84% US high school student adoption, Khanmigo's district expansion, MagicSchool AI's 6M educator milestone, and the $4.2B VC wave into AI education in 2025.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Education Market Size to Surge USD 136.79 Bn by 2035",
+      "url": "https://www.precedenceresearch.com/ai-in-education-market",
+      "publisher": "Precedence Research",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Global AI in education market calculated at $9.58 billion in 2026",
+        "Projected to reach $136.79 billion by 2035 at 34.52% CAGR",
+        "US AI in education market $2.01 billion in 2025, projected $39.83 billion by 2035"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI In Education Market Size & Share | Industry Report, 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-education-market-report",
+      "publisher": "Grand View Research",
+      "date": "2025-01-01",
+      "claims_supported": [
+        "Market size, CAGR, and segment breakdown for AI in education",
+        "Independent corroboration of market growth trajectory"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "EdTech & AI in Education Statistics 2026: 40+ Verified Data Points",
+      "url": "https://tutorbase.com/statistics/edtech-ai",
+      "publisher": "TutorBase (citing Gallup/Walton Family Foundation, 2025 survey)",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "60% of K-12 teachers reported using an AI tool for work during 2024-25 school year",
+        "84% of high school students are now using generative AI",
+        "Microsoft investment of $4B+ in AI education"
+      ],
+      "verified": true,
+      "note": "Gallup/Walton Family Foundation survey is the primary source for the 60%/84% adoption figures. TutorBase cites this survey — the original Gallup report should be obtained for any claims requiring direct citation."
+    },
+    {
+      "id": 4,
+      "title": "AI in Education Startup Funding 2025-2026",
+      "url": "https://newmarketpitch.com/blogs/news/ai-education-funding-analysis",
+      "publisher": "New Market Pitch",
+      "date": "2026-03-01",
+      "claims_supported": [
+        "AI-focused education companies raised $4.2 billion in VC during 2025",
+        "EdTech AI funding represented 62% of all EdTech funding in 2025",
+        "21 disclosed deals raised $183.6M in May 2025–April 2026 window"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Top AI in Education Startups by Fundraising (2026)",
+      "url": "https://newmarketpitch.com/blogs/news/ai-education-top-startups-fundraising",
+      "publisher": "New Market Pitch",
+      "date": "2026-02-01",
+      "claims_supported": [
+        "Top EdTech AI fundraising rounds 2025-2026",
+        "Language learning sub-vertical raised $400M+ collectively"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "AI in Education Market Size to Surpass USD 136.79 Billion by 2035 Amid Rapid EdTech Expansion",
+      "url": "https://finance.yahoo.com/news/ai-education-market-size-surpass-095500912.html",
+      "publisher": "Yahoo Finance (Precedence Research press release)",
+      "date": "2026-01-15",
+      "claims_supported": [
+        "Market size $9.58B in 2026 confirmed via independent press release",
+        "34.52% CAGR projection through 2035"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Khanmigo Review 2026: Khan Academy's AI Tutor — Features, Milestones, Impact",
+      "url": "https://www.myengineeringbuddy.com/blog/khanmigo-reviews-alternatives-pricing-offerings/",
+      "publisher": "MyEngineeringBuddy",
+      "date": "2026-02-01",
+      "claims_supported": [
+        "Khanmigo serves 18M+ students globally",
+        "380+ US school district partners by 2025",
+        "Khan Academy expanding to 4.2 million more students in 10 new states",
+        "NBER 2026 study: students using Khanmigo showed 34% greater learning gains vs traditional tutoring"
+      ],
+      "verified": true,
+      "note": "The 34% learning gain figure cites an NBER 2026 study — treat as directionally accurate; independent NBER paper verification recommended for exact figures before publication"
+    },
+    {
+      "id": 8,
+      "title": "Timeline of AI in Education: Top Moments of 2023",
+      "url": "https://blog.khanacademy.org/khanmigo-top-ai-in-education-moments-of-2023-the-year-artificial-intelligence-dominated-education-news-kl/",
+      "publisher": "Khan Academy Official Blog",
+      "date": "2024-01-01",
+      "claims_supported": [
+        "Khanmigo launch with GPT-4 in 2023 with Socratic tutoring method",
+        "NYC ChatGPT ban in January 2023 and subsequent reversal",
+        "Khan Academy and OpenAI partnership announced 2023"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Should schools ban or integrate generative AI in the classroom?",
+      "url": "https://www.brookings.edu/articles/should-schools-ban-or-integrate-generative-ai-in-the-classroom/",
+      "publisher": "Brookings Institution",
+      "date": "2024-06-01",
+      "claims_supported": [
+        "NYC ban and reversal pattern described",
+        "Policy analysis of district AI integration approaches",
+        "Academic integrity implications of generative AI in schools"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI Guidance Issued by State Departments of Education",
+      "url": "https://ballotpedia.org/AI_guidance_issued_by_state_departments_of_education",
+      "publisher": "Ballotpedia",
+      "date": "2026-03-01",
+      "claims_supported": [
+        "Only 28 states had published K-12 AI guidance as of early 2026",
+        "Only 1 AI education bill enacted in 2025 (Mississippi)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "AI in the EdTech Industry Statistics: Market Data Report 2026",
+      "url": "https://gitnux.org/ai-in-the-edtech-industry-statistics/",
+      "publisher": "Gitnux",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Duolingo 113.1M daily active users as of early 2026",
+        "Duolingo FY2025 revenue approximately $750M",
+        "MagicSchool AI 6M+ educator users milestone"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI Personalized Education Tutoring Platforms Market Research Report 2034",
+      "url": "https://marketintelo.com/report/ai-personalized-education-tutoring-platforms-market",
+      "publisher": "Market Intelo",
+      "date": "2025-07-01",
+      "claims_supported": [
+        "AI personalized education tutoring platforms market valued at $15.2B in 2025",
+        "Projected CAGR of 13.0% from 2026 to 2034, reaching $47.8B",
+        "North America holds 36.8% of global market; Asia Pacific fastest growing at 15.6% CAGR"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "EdTech M&A in 2026: AI Tutors, Corporate Training and Buyer Trends",
+      "url": "https://www.feinternational.com/blog/edtech-ma",
+      "publisher": "FE International",
+      "date": "2026-02-01",
+      "claims_supported": [
+        "Enterprise AI training is the fastest-growing EdTech M&A segment in 2026",
+        "Corporate L&D market dynamics and AI training demand"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Latest AI in Education News: Policies and Innovations 2026",
+      "url": "https://www.pursuit.us/news/ai-in-education-news-policies-innovations",
+      "publisher": "Pursuit",
+      "date": "2026-05-01",
+      "claims_supported": [
+        "Current state of AI education policy in 2026",
+        "School district adoption patterns and emerging regulations"
+      ],
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "49 predictions about edtech, innovation, and AI in 2026",
+      "url": "https://www.eschoolnews.com/innovative-teaching/2026/01/01/draft-2026-predictions/",
+      "publisher": "eSchool News",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Industry expert predictions for AI EdTech in 2026",
+        "Teacher adoption trends and district integration patterns"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Search volume ~200,000/mo",
+      "note": "Estimated from market size, growth momentum, and 84% student adoption data. 'AI education', 'AI tutoring', 'AI teacher tools', and 'Khanmigo' are high-volume terms. Exact Keywords Everywhere data not obtained. [unverified — estimate]"
+    },
+    {
+      "claim": "growth_5y: +335%",
+      "note": "Calculated from estimated 2021 market size of ~$2.2B (backward projection from 34.52% CAGR) to 2026 market of $9.58B. Exact 2021 baseline varies by source. [derived estimate]"
+    },
+    {
+      "claim": "AI detection market worth $500M+",
+      "note": "Directional estimate based on Turnitin's market position and growth; exact AI integrity tech market sizing not obtained from a primary source. [unverified — estimate]"
+    },
+    {
+      "claim": "Chegg market cap fell 80%+",
+      "note": "Widely reported directional figure; specific peak-to-trough percentage requires direct verification from CHGG stock data. [directionally verified via multiple reports, exact % unverified]"
+    },
+    {
+      "claim": "Duolingo Roleplay pilot: 31% improvement in student language assessment scores over 12 weeks",
+      "note": "Cited from Duolingo for Schools Pro pilot programs. Requires direct Duolingo press release or research paper citation for publication. [partially verified]"
+    }
+  ]
+}
