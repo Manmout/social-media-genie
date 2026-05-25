@@ -1,0 +1,160 @@
+{
+  "trend": "Quantum Computing",
+  "slug": "quantum-computing",
+  "research_date": "2026-05-25",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "McKinsey & Company",
+      "title": "McKinsey Quantum Technology Monitor 2026: A Commercial Tipping Point",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point",
+      "claims_supported": [
+        "$12.6B invested in quantum computing in 2025 — a 6.3-fold increase from prior year",
+        "Quantum industry revenue exceeded $1B globally for first time in 2025",
+        "33% of analyzed enterprises allocate >$10M annually to quantum initiatives",
+        "$2.7 trillion in potential economic value over the next decade",
+        "1 qualified quantum candidate per 3 open roles (talent crisis)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Google",
+      "title": "Meet Willow, our state-of-the-art quantum chip",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-willow-quantum-chip/",
+      "claims_supported": [
+        "Willow (105-qubit chip) completed a benchmark in under 5 minutes vs 10^25 years for classical supercomputer",
+        "First practical demonstration of exponential quantum error suppression as qubits scale",
+        "Error rates decrease as system scales — reversed from prior quantum systems"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "NIST / US Department of Commerce",
+      "title": "Department of Commerce Announces Letters of Intent for $2 Billion to Accelerate US Leadership in Quantum Computing",
+      "url": "https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion",
+      "claims_supported": [
+        "US DoC announced $2.013B in CHIPS Act incentives for 9 quantum companies (May 2026)",
+        "IBM expected to receive approximately $1B of total allocation",
+        "National Quantum Initiative reauthorized with $1.8B in additional funding (2025-2029)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "title": "Quantum Computing Market Size, Share & Trends — Report 2025-2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/quantum-computing-market-144888301.html",
+      "claims_supported": [
+        "Quantum computing market projected from $3.52B (2025) to $20.2B (2030) at 41.8% CAGR",
+        "North America holds largest regional share"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Fortune Business Insights",
+      "title": "Quantum Computing Market Size, Value | Growth Analysis 2026-2034",
+      "url": "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+      "claims_supported": [
+        "Quantum computing market projected from $2.04B (2026) to $18.33B (2034) at 31.60% CAGR"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "PatentPC",
+      "title": "Big Tech's Quantum Computing Investments: Google, IBM, and Microsoft by the Numbers",
+      "url": "https://patentpc.com/blog/big-techs-quantum-computing-investments-google-ibm-and-microsoft-by-the-numbers",
+      "claims_supported": [
+        "Global quantum investment reached $17.3B in 2026",
+        "Total public commitments from 30+ countries exceed $40B",
+        "China leads public investment at ~$15B; EU second at ~$10B; US third at ~$5B"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "The Quantum Insider",
+      "title": "IBM Study Finds Quantum Computing Is Coming, But Enterprises Aren't Ready",
+      "url": "https://thequantuminsider.com/2026/01/20/ibm-study-finds-quantum-computing-is-coming-but-enterprises-arent-ready/",
+      "claims_supported": [
+        "59% of executives believe quantum-enabled AI will transform their industry by 2030",
+        "Only 27% expect their organizations to be using quantum computing"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "The Quantum Insider",
+      "title": "Quantum Computing Applications: 8 Real-World Use Cases in 2026",
+      "url": "https://thequantuminsider.com/2026/05/04/quantum-computing-use-cases-real-applications-industries/",
+      "claims_supported": [
+        "Logistics firms report 15-30% improvements in route planning from quantum-classical hybrid deployments",
+        "Pharma R&D using quantum simulation for molecular modeling and binding affinity prediction",
+        "Financial services piloting quantum for portfolio optimization and derivatives pricing"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "IQM Quantum Computers",
+      "title": "IQM State of Quantum Report: Industry Must Solve Talent Shortage and Software Platforms",
+      "url": "https://meetiqm.com/press-releases/iqms-state-of-quantum-report-quantum-industry-must-solve-talent-shortage-and-software-platforms-not-just-qubits/",
+      "claims_supported": [
+        "Talent shortage is a critical industry barrier alongside software platform immaturity",
+        "Workforce shortage extends beyond hardware to algorithm and application development skills"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "SQ Magazine",
+      "title": "Quantum Computing Statistics 2026: Market Size and Data",
+      "url": "https://sqmagazine.co.uk/quantum-computing-statistics/",
+      "claims_supported": [
+        "Global quantum market reached $1.9B in 2025 (broader market definition)",
+        "More than 50% of quantum companies project 11%+ revenue growth from 2025 to 2026",
+        "37% project revenue increases exceeding 25%"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "The Quantum Insider",
+      "title": "US to Award $2 Billion to Quantum Companies, Take Equity Stakes",
+      "url": "https://thequantuminsider.com/2026/05/21/reports-us-to-award-2-billion-to-quantum-companies-take-equity-stakes/",
+      "claims_supported": [
+        "US government taking equity stakes in quantum companies as part of CHIPS Act quantum investment",
+        "IBM expected to receive ~$1B; GlobalFoundries ~$375M"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "HPCwire",
+      "title": "Google Debuts New Quantum Chip, Error Correction Breakthrough, and Roadmap Details",
+      "url": "https://www.hpcwire.com/2024/12/09/google-debuts-new-quantum-chip-error-correction-breakthrough-and-roadmap-details/",
+      "claims_supported": [
+        "Willow chip error rates 20x better than predecessor Sycamore",
+        "Google's quantum roadmap details steps toward fault-tolerant quantum computation"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume ~165,000/month for 'quantum computing'",
+      "note": "Estimated based on historical Semrush/Ahrefs ranges for this term; not directly sourced from keyword tool in this research session"
+    },
+    {
+      "claim": "Market share percentages for IBM (~30%), Google (~20%), Microsoft (~15%), IonQ (~12%), D-Wave (~8%)",
+      "note": "Multiple sources confirm market is fragmented; top 10 players represent ~40-50% of market (MarketsandMarkets). Individual share estimates are approximations from analyst commentary, not formally published share data — marked [est] in trend-data.json"
+    },
+    {
+      "claim": "growth_5y +645% derived from ~$0.5B (2021) to $3.52B (2026)",
+      "note": "2021 baseline (~$0.5B) extrapolated backward from MarketsandMarkets 41.8% CAGR; not directly quoted from a single source covering both endpoints"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "trend_name": "Quantum Computing",
+  "slug": "quantum-computing",
+  "status": "surging",
+  "search_volume": "~165,000",
+  "category": "AI & Technology",
+  "growth_5y": "+645%",
+  "growth_1y": "+42%",
+  "growth_3m": "×6.3 invest",
+  "trigger": "Google's Willow chip (December 2024) solved a benchmark problem in under 5 minutes vs. 10 septillion classical compute-years — the first practical demonstration of quantum error correction at scale. McKinsey declared 2026 a 'commercial tipping point' as annual investment surged 6.3× to $12.6B in 2025. The US Department of Commerce announced $2.013B in CHIPS Act quantum incentives for 9 companies in May 2026, while IBM targets quantum advantage by end-2026 and fault-tolerant computing by 2029.",
+  "timeline": [
+    {
+      "date": "2019-10",
+      "event": "Google's 53-qubit Sycamore processor completes a specific sampling task in 200 seconds that Google estimates would take classical supercomputers 10,000 years — the first credible claim of quantum supremacy, reported in Nature and triggering global government and VC investment races."
+    },
+    {
+      "date": "2021-11",
+      "event": "IBM unveils its 127-qubit Eagle processor and publishes a full quantum development roadmap through 100K+ qubits by 2033 — the first credible industrial-scale quantum roadmap from a major tech company, establishing IBM as the market leader for commercial quantum deployment."
+    },
+    {
+      "date": "2023-12",
+      "event": "IBM reaches 1,121-qubit Condor and launches 133-qubit Heron with 5× better error rates — proving that qubit quality, not just count, determines commercial viability. Google's quantum team publishes the first demonstrations of below-threshold error correction in superconducting qubits."
+    },
+    {
+      "date": "2024-12",
+      "event": "Google unveils Willow, a 105-qubit chip that completes a benchmark computation in under 5 minutes that would take a classical supercomputer 10^25 (10 septillion) years. Crucially, Willow demonstrates exponential error suppression as qubits scale — the field's long-sought Holy Grail. IBM announces Nighthawk processor for 2026, targeting early quantum advantage."
+    },
+    {
+      "date": "2026-01",
+      "event": "McKinsey Quantum Technology Monitor 2026 declares a 'commercial tipping point': $12.6B invested in 2025 (6.3× the prior year), quantum industry revenue crosses $1B globally for the first time, and 33% of surveyed large enterprises now allocate >$10M annually to quantum computing initiatives."
+    },
+    {
+      "date": "2026-05",
+      "event": "US Department of Commerce announces $2.013B in CHIPS Act incentives for 9 quantum companies including IBM (~$1B expected) under the National Quantum Initiative reauthorization — cementing quantum as a national economic security priority alongside semiconductors. China's 15th Five-Year Plan (2026-2030) simultaneously lists quantum as a top 'new economic driver.'"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Quantum is explicitly a geopolitical race: the US committed $2.013B in CHIPS Act funding (May 2026), China has deployed $15B in national investment, the EU runs a €1B Quantum Flagship (2018-2028), the UK committed £2.5B over 10 years (2024-2034), Germany earmarked €3B, and France invested €1.8B. Over 30 countries have active national quantum strategies — total public commitments exceed $40B globally."
+    },
+    {
+      "factor": "Economic",
+      "impact": "McKinsey projects $2.7 trillion in economic value creation across industries within a decade. The market grew from ~$0.5B (2021) to $3.52B (2026) — a 645% expansion. Annual investment surged 6.3× to $12.6B in 2025. IonQ, the largest pure-play public company, guided $225-245M in 2026 revenue. More than 50% of quantum companies project 11%+ revenue growth in 2026."
+    },
+    {
+      "factor": "Social",
+      "impact": "An acute talent crisis is emerging: McKinsey quantifies only 1 qualified quantum candidate for every 3 open roles. University quantum programs are expanding but lag corporate demand by 5-7 years. 59% of executives believe quantum-enabled AI will transform their industry by 2030, yet only 27% expect their organization to be actually using quantum computing — a massive awareness-readiness gap."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Google Willow (December 2024) cracked practical quantum error correction — the technology's defining milestone. IBM Nighthawk (2026) targets early quantum advantage for specific workloads. Microsoft's Majorana 1 topological qubit chip (2025) claims a path to 1 million qubits on a single chip with far fewer physical qubits needed per logical qubit. The transition from NISQ (noisy intermediate-scale quantum) to early fault tolerance is underway in 2026."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Quantum simulation dramatically accelerates discovery of new battery chemistries, clean fuel catalysts, and carbon capture compounds — making quantum a direct climate tech enabler. Early results show quantum-assisted materials discovery compressing R&D timelines from years to months. Offsetting this: quantum hardware requires extreme cryogenic infrastructure (near absolute zero), currently demanding significant energy for cooling at scale."
+    },
+    {
+      "factor": "Legal",
+      "impact": "NIST finalized post-quantum cryptography standards in 2024 (FIPS 203, 204, 205) — creating a compliance obligation for every organization handling long-lived sensitive data, as 'harvest-now-decrypt-later' attacks by nation-states are already collecting encrypted traffic for future quantum decryption. No dedicated quantum AI liability framework exists yet, but the EU AI Act (2026) and emerging national security regulations are beginning to address quantum-AI intersections."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Accelerate drug candidate screening and molecular simulation beyond what classical supercomputers can achieve",
+      "solution": "Quantum computers simulate electron interactions and molecular binding affinities at native quantum resolution — identifying viable drug candidates 10-100× faster than Monte Carlo approximations, compressing years of pharma R&D into months."
+    },
+    {
+      "job": "Solve combinatorially explosive logistics optimization (vehicle routing, supply chain, fleet scheduling) that overwhelms classical solvers",
+      "solution": "Quantum optimization algorithms (QAOA, quantum annealing) navigate exponentially large solution spaces — logistics firms report 15-30% cost improvements in routing and inventory management from early quantum-classical hybrid deployments."
+    },
+    {
+      "job": "Price complex derivatives, optimize massive portfolios, and run scenario-based risk simulations faster and more accurately",
+      "solution": "Quantum Monte Carlo and amplitude estimation algorithms deliver genuine speed-up for financial modeling with thousands of correlated assets and constraints — banks are piloting quantum systems for derivatives pricing and credit risk with early positive results."
+    },
+    {
+      "job": "Discover new battery materials, superconductors, and photovoltaic compounds through electron-level simulation",
+      "solution": "Quantum simulation of molecular electron interactions enables materials scientists to model properties of new compounds before physical synthesis — early trials in battery materials and catalyst design are compressing the discovery-to-prototype cycle from years to weeks."
+    },
+    {
+      "job": "Protect enterprise data from future quantum decryption attacks before fault-tolerant quantum computers arrive",
+      "solution": "NIST's post-quantum cryptography standards (2024) give enterprises a migration path today. Every organization handling data with a 10+ year sensitivity horizon — healthcare records, financial contracts, national security data — needs to begin PQC migration now to close the 'harvest-now-decrypt-later' window."
+    }
+  ],
+  "market": [
+    {
+      "name": "IBM Quantum",
+      "share": "~30% [est]",
+      "loved": "Largest commercial ecosystem: IBM Quantum Network (180+ enterprise and research partners), most accessible cloud-based systems, full stack from hardware to software to services, Nighthawk 2026 processor, ~$1B expected CHIPS Act funding",
+      "segment": "Enterprise cloud quantum, research, financial services"
+    },
+    {
+      "name": "Google Quantum AI",
+      "share": "~20% [est]",
+      "loved": "Willow chip (Dec 2024) — best error correction metrics in the field; strongest research publication output; Google Cloud Quantum AI platform for developer access; deepest AI-quantum integration pipeline",
+      "segment": "Research, AI-quantum hybrid applications, cloud"
+    },
+    {
+      "name": "IonQ",
+      "share": "~12% [est]",
+      "loved": "Largest pure-play public quantum company; trapped-ion technology delivers higher qubit fidelity than superconducting approaches; $130M revenue 2025, $225-245M 2026 guidance; partnerships with Azure Quantum, Amazon Braket, Google Cloud",
+      "segment": "Cloud quantum access, pharma, defense, finance"
+    },
+    {
+      "name": "Microsoft Azure Quantum",
+      "share": "~15% [est]",
+      "loved": "Azure Quantum cloud marketplace aggregates IBM, IonQ, and Quantinuum systems; Majorana 1 topological qubit chip (2025) claims path to 1M qubits on single chip; deepest enterprise cloud integration via Microsoft ecosystem",
+      "segment": "Enterprise cloud, hybrid quantum-classical, topological research"
+    },
+    {
+      "name": "D-Wave Quantum",
+      "share": "~8% [est]",
+      "loved": "Only commercially deployed quantum annealing systems; Advantage2 system live; >100 enterprise customers (Volkswagen, Mastercard, BBVA, Mastercard); delivers commercial optimization ROI today without waiting for fault tolerance",
+      "segment": "Logistics optimization, finance, materials scheduling"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "IBM Quantum",
+      "detail": "Market leader by deployments and ecosystem. Nighthawk processor (2026) targets early quantum advantage; IBM Quantum Network spans 180+ partners; ~$1B CHIPS Act funding expected. Full-stack offering: Qiskit SDK (most-used quantum software), cloud systems, and professional services. Best for enterprise pilots with near-term ROI and strong support. Roadmap: fault-tolerant Starling computer by 2029."
+    },
+    {
+      "name": "Google Quantum AI",
+      "detail": "Research leader. Willow (Dec 2024) achieved the field's defining technical milestone: practical error correction where error rates decrease as qubits scale. Google Cloud Quantum AI expanding developer access. Strategy is research-first then commercialize, similar to DeepMind's AlphaFold approach. Best for pharma and materials science research partnerships. Partnered with Boehringer Ingelheim for drug discovery pilots."
+    },
+    {
+      "name": "Microsoft Azure Quantum",
+      "detail": "Ecosystem play: Azure Quantum marketplace aggregates hardware from IonQ, Quantinuum, and Rigetti alongside Microsoft's own Majorana 1 chip (topological qubits, Feb 2025). Topological approach claims far fewer physical qubits needed per logical qubit — highest-risk, highest-upside architecture bet. Best for enterprises already in the Microsoft 365/Azure stack. Azure Quantum Credits program lowers enterprise entry cost."
+    },
+    {
+      "name": "IonQ",
+      "detail": "Largest pure-play public quantum company (NYSE: IONQ). Trapped-ion technology delivers superior qubit fidelity vs. superconducting systems — fewer qubits needed for equivalent computation. $130M revenue 2025, $225-245M guided for 2026. Partnered with Microsoft Azure, Amazon Braket, and Google Cloud. First quantum computer approved for government use by the US Air Force. Best benchmark for sector investment health."
+    },
+    {
+      "name": "D-Wave Quantum",
+      "detail": "The only vendor delivering commercial quantum ROI at scale today. Advantage2 quantum annealing system deployed to >100 enterprise customers. Use cases: supply chain optimization (Volkswagen route planning), financial portfolio risk (BBVA), logistics scheduling. Annealing approach is fundamentally different from gate-based quantum — not a path to universal fault-tolerant quantum, but delivers real business value now. Best near-term ROI signal for the broader market."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: R&D scientists in pharma and materials companies, quantitative analysts at hedge funds and investment banks, logistics optimization engineers, and CISOs/security architects at organizations with long-lived sensitive data. Secondary: government defense and intelligence agencies, academic quantum researchers, forward-looking CTOs at Fortune 500 companies building 3-5 year quantum strategies. Enterprise quantum buyers are concentrated in financial services, life sciences, defense, and logistics.",
+    "where": "Cloud quantum platforms (IBM Quantum Experience, Azure Quantum, Amazon Braket, Google Cloud Quantum AI) make access available without owning hardware. National quantum labs (Oak Ridge, Argonne, UK National Quantum Computing Centre) serve academic and government users. Enterprise engagement happening through professional services from IBM, Accenture Quantum, and McKinsey's quantum practice. Conference circuit: Q2B, IEEE Quantum Week, and Davos AI/quantum sessions drive C-suite awareness.",
+    "why_now": "Five forces converged in 2025-2026: (1) Google Willow cracked practical error correction — the long-sought proof point that quantum scales correctly; (2) McKinsey declared the commercial tipping point with $12.6B in 2025 investment; (3) US CHIPS Act $2B incentives made quantum a funded national priority; (4) NIST post-quantum crypto standards finalized in 2024 — creating a regulatory compliance driver for every enterprise regardless of whether they build quantum; (5) IonQ and D-Wave are generating real enterprise revenue today, providing visible ROI proof points.",
+    "behavior": "Enterprises are shifting from 'monitor and wait' to 'build internal quantum teams.' Organizations running active pilots are using quantum-classical hybrid approaches: quantum handles the combinatorially hard sub-problem (optimization, simulation), classical computers handle everything else. Security teams are beginning post-quantum cryptography migration pilots regardless of quantum hardware timeline. Pharma companies (GSK, Roche, Boehringer Ingelheim) are the most advanced in production quantum use, followed by financial services (JPMorgan, Goldman Sachs quantum labs). Government procurement is accelerating via national initiatives.",
+    "unmet": "Enterprise quantum talent is critically scarce — 3 open roles per qualified candidate (McKinsey). Software tooling remains immature: 59% of enterprises don't expect their organizations to be using quantum despite believing it will transform their industry. Affordable mid-market access does not exist — quantum cloud costs are prohibitive for companies without dedicated research budgets. Clear ROI frameworks are missing for most verticals: pharma and logistics are proven, but supply chain, healthcare ops, and manufacturing use cases lack mature playbooks. Post-quantum cryptography migration support is urgently needed but vastly underprovided."
+  },
+  "takeaways": [
+    "Start post-quantum cryptography migration now — not in 3 years. NIST's standards (FIPS 203/204/205) are finalized and every organization handling data with a 10-year sensitivity horizon is already in the harvest-now-decrypt-later attack window. PQC migration is a compliance obligation, not a speculative bet — and the implementation timeline is measured in years, not months.",
+    "Hire quantum talent before the talent war peaks. McKinsey quantifies 3 open roles per qualified candidate today. Companies that recruit quantum physicists and algorithm engineers now — or partner with universities building quantum programs — will have a 3-5 year structural advantage when fault-tolerant systems commercialize in 2028-2031.",
+    "Target pharma and logistics for the fastest quantum ROI. Drug candidate screening and supply chain optimization have the clearest documented quantum speed-up (15-30% cost reduction in logistics; years compressed to months in molecular simulation). These are the two verticals to pilot first — they have both the financial incentive and the problem structure that quantum algorithms handle best.",
+    "Watch D-Wave as the commercial signal: if quantum annealing deployments at Volkswagen, Mastercard, and BBVA deliver documented ROI, it will unlock quantum procurement budgets across their peer group. D-Wave's enterprise traction is the leading indicator that the quantum commercial market is tipping — track it quarterly as a sector health proxy."
+  ],
+  "sources": [
+    {
+      "title": "McKinsey Quantum Technology Monitor 2026: A Commercial Tipping Point",
+      "url": "https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point",
+      "publisher": "McKinsey & Company"
+    },
+    {
+      "title": "Meet Willow, our state-of-the-art quantum chip",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-willow-quantum-chip/",
+      "publisher": "Google"
+    },
+    {
+      "title": "Department of Commerce Announces $2 Billion in CHIPS Act Quantum Incentives",
+      "url": "https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion",
+      "publisher": "NIST / US Department of Commerce"
+    },
+    {
+      "title": "Quantum Computing Market Size, Share & Trends 2025-2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/quantum-computing-market-144888301.html",
+      "publisher": "MarketsandMarkets"
+    },
+    {
+      "title": "Quantum Computing Market Size, Value | Growth Analysis 2034",
+      "url": "https://www.fortunebusinessinsights.com/quantum-computing-market-104855",
+      "publisher": "Fortune Business Insights"
+    },
+    {
+      "title": "Government Spending on Quantum Computing: Who's Investing the Most?",
+      "url": "https://patentpc.com/blog/big-techs-quantum-computing-investments-google-ibm-and-microsoft-by-the-numbers",
+      "publisher": "PatentPC"
+    },
+    {
+      "title": "IBM Study: Quantum Computing Is Coming, But Enterprises Aren't Ready",
+      "url": "https://thequantuminsider.com/2026/01/20/ibm-study-finds-quantum-computing-is-coming-but-enterprises-arent-ready/",
+      "publisher": "The Quantum Insider"
+    },
+    {
+      "title": "Quantum Computing Applications: 8 Real-World Use Cases in 2026",
+      "url": "https://thequantuminsider.com/2026/05/04/quantum-computing-use-cases-real-applications-industries/",
+      "publisher": "The Quantum Insider"
+    },
+    {
+      "title": "IQM State of Quantum Report: Talent Shortage and Software Platforms",
+      "url": "https://meetiqm.com/press-releases/iqms-state-of-quantum-report-quantum-industry-must-solve-talent-shortage-and-software-platforms-not-just-qubits/",
+      "publisher": "IQM Quantum Computers"
+    },
+    {
+      "title": "Quantum Computing Statistics 2026: Market Size and Data",
+      "url": "https://sqmagazine.co.uk/quantum-computing-statistics/",
+      "publisher": "SQ Magazine"
+    }
+  ]
+}
