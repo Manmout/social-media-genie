@@ -1,0 +1,132 @@
+{
+  "slug": "physical-ai-humanoid-robots",
+  "trend_name": "Physical AI & Humanoid Robots",
+  "research_date": "2026-05-26",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Physical AI and Humanoid Robots — Deloitte Tech Trends 2026",
+      "url": "https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends/2026/physical-ai-humanoid-robots.html",
+      "publisher": "Deloitte Insights",
+      "claim": "Pilots are turning into production reality, with the paradigm shifting from specialized machines to general-purpose Physical AI in 2026.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Humanoid Robot Market Size, Share & Trends 2025–2030 — 39.2% CAGR",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+      "publisher": "MarketsandMarkets",
+      "claim": "Global humanoid robot market valued at $2.92B in 2025, projected to reach $15.26B by 2030 at 39.2% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+      "publisher": "NVIDIA Newsroom",
+      "claim": "GR00T N1.6 VLA model released Jan 2026; 100+ robotics companies partnering with NVIDIA Isaac platform.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "From Prototypes to Production: Tesla Optimus Humanoid Robots Take Charge of the Factory Floor",
+      "url": "https://markets.financialcontent.com/stocks/article/tokenring-2026-1-16-from-prototypes-to-production-teslas-optimus-humanoid-robots-take-charge-of-the-factory-floor",
+      "publisher": "Financial Content",
+      "claim": "Tesla deployed 1,000+ Optimus units inside Gigafactory Texas in Jan 2026, performing battery cell sorting, logistics kitting, and parts assembly.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "China Releases First National Standard Framework for Humanoid Robots and Embodied AI",
+      "url": "https://technode.com/2026/02/28/china-releases-first-national-standard-framework-for-humanoid-robots-and-embodied-ai/",
+      "publisher": "TechNode",
+      "claim": "China published 'Humanoid Robot and Embodied Intelligence Standard System (2026 edition)' in February 2026, the world's first national-level humanoid governance framework.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Humanoid Robot Market Size 2026–2032 — 48.8% CAGR, reaching $69.74B by 2032",
+      "url": "https://www.coherentmarketinsights.com/industry-reports/humanoid-robot-market",
+      "publisher": "Coherent Market Insights",
+      "claim": "Global humanoid robot market valued at $4.32B in 2025, projected to reach $69.74B by 2032 at 48.8% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Physical AI Use Cases Being Adopted by Enterprises — BizTech Magazine May 2026",
+      "url": "https://biztechmagazine.com/article/2026/05/physical-ai-use-cases-being-adopted-enterprises-perfcon",
+      "publisher": "BizTech Magazine",
+      "claim": "Enterprise adoption of physical AI spanning manufacturing, logistics, healthcare, and construction as of May 2026.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Figure AI IPO 2026: $39B Valuation, Risks & Bull Case",
+      "url": "https://techmarketbriefs.com/pre-ipo/figure-ai/",
+      "publisher": "Tech Market Briefs",
+      "claim": "Figure AI IPO anticipated in 2026 at $39B+ valuation; 11 months continuous BMW factory deployment; BotQ facility tooled for 12,000 units/year.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Whose Leading the Way in Robotics, Humanoids & Physical AI in 2026",
+      "url": "https://www.raisesummit.com/post/robotics-humanoids-physical-ai-leaders",
+      "publisher": "RAISE Summit",
+      "claim": "Market leaders Unitree, Agibot, Engine AI, UBTech, Boston Dynamics hold combined 58.2% market share; Chinese manufacturers hold ~90% of global unit volume.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "How Physical AI Is Reshaping Robotics Today — and What Comes Next",
+      "url": "https://www.bcg.com/publications/2026/how-physical-ai-is-reshaping-robotics-today",
+      "publisher": "Boston Consulting Group (BCG)",
+      "claim": "Physical AI transitioning from specialized industrial robots to general-purpose platforms; BCG analysis of deployment trends across OEM partners.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Q1 2026 Shatters Venture Funding Records as AI Boom Pushes Startup Investment to $300B",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "publisher": "Crunchbase News",
+      "claim": "Q1 2026 global VC hit $300B total; AI received $242B (80% of total). Robotics funding surged 300% in Q4 2025.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "China Creates Digital ID for Humanoid Robots",
+      "url": "https://www.biometricupdate.com/202605/china-creates-digital-id-for-humanoid-robots",
+      "publisher": "Biometric Update",
+      "claim": "China implemented a digital ID system for humanoid robots in May 2026, enabling rapid fault diagnosis and liability determination.",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Humanoid Robots Market 2025–2032: Leaders Unitree, UBTech, and Boston Dynamics Dominate",
+      "url": "https://finance.yahoo.com/news/humanoids-market-global-research-report-105300175.html",
+      "publisher": "Yahoo Finance / Research Report",
+      "claim": "Unitree shipped 5,500+ humanoid robots in 2025, targeting 10,000–20,000 in 2026; Chinese manufacturers hold ~90% of global unit volume.",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Physical AI Market Size, Share & Growth — MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/physical-ai-market-240269196.html",
+      "publisher": "MarketsandMarkets",
+      "claim": "Physical AI industry projected to reach $15.24B by 2032 from $1.50B in 2026, growing at 47.2% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "CSET Physical AI Primer for Policymakers — February 2026",
+      "url": "https://cset.georgetown.edu/wp-content/uploads/CSET-Physical-AI.pdf",
+      "publisher": "Center for Security and Emerging Technology (Georgetown)",
+      "claim": "US considering executive order to support domestic robotics industry; Physical AI as national security consideration; US-China strategic competition framing.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Pew Research statistic: '65% of Americans support robots in dangerous manufacturing jobs' — cited in consumer sentiment context; exact Pew report not confirmed via search.",
+    "Humanoid robot market was valued at $307.6M in 2021 — figures vary significantly across research firms ($307M to $1.46B); use conservative estimate.",
+    "Goldman Sachs '50,000–100,000 unit' 2026 shipment projection — widely cited but original Goldman report behind paywall; attributed to multiple secondary sources."
+  ]
+}
