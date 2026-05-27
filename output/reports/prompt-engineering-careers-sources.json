@@ -1,0 +1,154 @@
+{
+  "trend": "Prompt Engineering Careers",
+  "slug": "prompt-engineering-careers",
+  "research_date": "2026-05-27",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune Business Insights",
+      "title": "Prompt Engineering Market Size, Industry Share | Forecast, 2026-2034",
+      "url": "https://www.fortunebusinessinsights.com/prompt-engineering-market-109382",
+      "claims_supported": [
+        "Global prompt engineering market valued at $505.43M in 2025",
+        "Market projected to grow from $673.6M in 2026 to $6,703.84M by 2034",
+        "CAGR of 33.27% during forecast period"
+      ],
+      "reliability": "high",
+      "notes": "Tier-1 market research firm. Used for primary market sizing."
+    },
+    {
+      "id": 2,
+      "publisher": "Grand View Research",
+      "title": "Prompt Engineering Market Size To Reach $2.06Bn By 2030",
+      "url": "https://www.grandviewresearch.com/press-release/global-prompt-engineering-market",
+      "claims_supported": [
+        "Prompt engineering market to reach $2.06B by 2030",
+        "CAGR of 32.8% from 2024 to 2030"
+      ],
+      "reliability": "high",
+      "notes": "Independent confirmation of 32-33% CAGR range from a second Tier-1 research firm."
+    },
+    {
+      "id": 3,
+      "publisher": "PwC",
+      "title": "2026 AI Business Predictions — Global AI Jobs Barometer",
+      "url": "https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html",
+      "claims_supported": [
+        "56% wage premium for AI skills in 2025, doubled from 25% the prior year",
+        "Analysis based on close to 1 billion job ads",
+        "AI skills now represent the largest single-year wage premium increase in tech history"
+      ],
+      "reliability": "high",
+      "notes": "PwC Global AI Jobs Barometer is the gold-standard wage premium study. Directly supports the 56% premium claim."
+    },
+    {
+      "id": 4,
+      "publisher": "PE Collective",
+      "title": "Is Prompt Engineering a Real Career in 2026? Job Demand and Salary Data",
+      "url": "https://pecollective.com/blog/is-prompt-engineering-a-real-career/",
+      "claims_supported": [
+        "Prompt engineering job demand grew +135.8% in 2025",
+        "Median salary $126,000/yr in 2026",
+        "Senior roles $170K-$220K at Big Tech",
+        "Frontier lab roles (Anthropic, OpenAI) exceed $300K total compensation"
+      ],
+      "reliability": "medium",
+      "notes": "Specialist career research site for prompt engineering. Salary data corroborated by Glassdoor, ZipRecruiter, and Coursera sources."
+    },
+    {
+      "id": 5,
+      "publisher": "MarkTechPost",
+      "title": "What is a Forward Deployed Engineer: The AI Role OpenAI, Anthropic, and Google Are Hiring in 2026",
+      "url": "https://www.marktechpost.com/2026/05/20/what-is-a-forward-deployed-engineer-the-ai-role-openai-anthropic-and-google-are-hiring-in-2026/",
+      "claims_supported": [
+        "Forward Deployed Engineers are the defining enterprise AI role in 2026",
+        "OpenAI formalized 'The Deployment Company' on May 11, 2026 with $4B+ raised",
+        "FDE roles require production prompt engineering, agent development, and evaluation frameworks"
+      ],
+      "reliability": "high",
+      "notes": "Published May 20, 2026 — highly current. Directly confirms the OpenAI Deployment Company trigger event."
+    },
+    {
+      "id": 6,
+      "publisher": "SQ Magazine",
+      "title": "Prompt Engineering Statistics 2026: Surprising Growth",
+      "url": "https://sqmagazine.co.uk/prompt-engineering-statistics/",
+      "claims_supported": [
+        "LinkedIn reported 250% increase in prompt engineering job postings year-over-year",
+        "72,000 prompt engineering positions globally by 2025",
+        "Market growing at 32.10% CAGR"
+      ],
+      "reliability": "medium",
+      "notes": "Aggregates LinkedIn, industry survey, and market research data. Cross-check LinkedIn stat against Coursera career guide."
+    },
+    {
+      "id": 7,
+      "publisher": "Braintrust",
+      "title": "Best Prompt Engineering Tools in 2026 (Reviewed)",
+      "url": "https://www.braintrust.dev/articles/best-prompt-engineering-tools-2026",
+      "claims_supported": [
+        "Braintrust is a top-ranked LLM evaluation and prompt engineering platform in 2026",
+        "$36M Series A raised",
+        "Used by enterprise teams at Stripe, Vercel, and comparable accounts"
+      ],
+      "reliability": "medium",
+      "notes": "Primary source on the prompt engineering tooling landscape. Braintrust is both publisher and subject — treat competitive claims about other platforms with caution."
+    },
+    {
+      "id": 8,
+      "publisher": "Coursera / Coursera Editorial Team",
+      "title": "Prompt Engineering Jobs: Your 2026 Career Guide",
+      "url": "https://www.coursera.org/articles/prompt-engineering-jobs",
+      "claims_supported": [
+        "Entry-level roles earn $90,000-$125,000 in 2026",
+        "Vanderbilt/Coursera Prompt Engineering Specialization cited as industry gold standard",
+        "Anthropic Academy interactive certification widely cited by employers"
+      ],
+      "reliability": "high",
+      "notes": "Coursera career guides are based on aggregated platform and employer data. Highly credible for salary ranges and certification value."
+    },
+    {
+      "id": 9,
+      "publisher": "DataCamp",
+      "title": "The Best Prompt Engineering Courses to Take in 2026",
+      "url": "https://www.datacamp.com/blog/best-prompt-engineering-courses",
+      "claims_supported": [
+        "DeepLearning.AI free short courses (1-2 hours) are the best free prompt engineering resources",
+        "Google Cloud Professional ML Engineer certification costs $200 exam fee",
+        "Portfolio work outperforms certifications for employer evaluation"
+      ],
+      "reliability": "high",
+      "notes": "DataCamp is a credible technical education publisher. Used for education landscape and certification analysis."
+    },
+    {
+      "id": 10,
+      "publisher": "Wikipedia / Academic Foundation",
+      "title": "Prompt Engineering",
+      "url": "https://en.wikipedia.org/wiki/Prompt_engineering",
+      "claims_supported": [
+        "Chain-of-thought prompting origin: Google Brain 2022 paper",
+        "ChatGPT November 30, 2022 launch as founding market trigger",
+        "58 distinct prompting techniques catalogued by 2024"
+      ],
+      "reliability": "medium",
+      "notes": "Used for historical timeline milestones only. Wikipedia sources are cross-checked against primary papers for key dates."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "87% of employees use AI tools in at least part of their work",
+      "source_note": "Attributed to Microsoft Work Trend Index 2025 — URL not directly retrieved, cited as [unverified]",
+      "risk": "low — directionally consistent with other workforce AI adoption surveys"
+    },
+    {
+      "claim": "Enterprise AI spending projected at $731B in 2026",
+      "source_note": "Attributed to IDC — figure cited widely but direct IDC report URL not retrieved in this research session",
+      "risk": "low — multiple secondary sources cite this IDC figure"
+    },
+    {
+      "claim": "68% of Fortune 500 companies have dedicated AI engineer headcount in 2026",
+      "source_note": "Cited in multiple career guides without a primary source link — [unverified]",
+      "risk": "medium — directionally plausible but exact percentage should be verified before use in published claims"
+    }
+  ]
+}
