@@ -1,0 +1,126 @@
+{
+  "trend": "AI in Real Estate (PropTech AI)",
+  "slug": "ai-proptech",
+  "research_date": "2026-05-28",
+  "sources": [
+    {
+      "id": 1,
+      "title": "PropTech AI Investment Surges 176% in 2026",
+      "url": "https://www.theaiconsultingnetwork.com/blog/proptech-ai-investment-surge-2026-cre-investors",
+      "publisher": "The AI Consulting Network",
+      "claim_supported": "PropTech AI VC investment surged 176% in January 2026 YoY; $16.7B full-year 2025 PropTech VC; growth_3m figure",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "PropTech Market Size, Share, and Trends 2026 to 2035",
+      "url": "https://www.precedenceresearch.com/proptech-market",
+      "publisher": "Precedence Research",
+      "claim_supported": "PropTech market $47.08B (2025), $54.66B (2026), 16.1% CAGR to 2035; growth_1y figure of +16%",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Zillow Group Leans Into AI as Revenue Climbs 18% in Flat Housing Market",
+      "url": "https://www.geekwire.com/2026/zillow-group-leans-into-ai-as-revenue-climbs-18-in-flat-housing-market/",
+      "publisher": "GeekWire",
+      "claim_supported": "Zillow Q1 2026 revenue $708M, +18% YoY, in a flat housing market; AI Zestimate 2.4% median error rate",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "These 4 Newest Proptech Unicorns Show AI's Increasing Role in Commercial Real Estate",
+      "url": "https://www.bisnow.com/national/news/proptech/the-4-newest-proptech-unicorns-show-ais-increasing-role-in-real-estate-133304",
+      "publisher": "Bisnow",
+      "claim_supported": "3 new PropTech unicorns since July 2025, all AI-native; Bedrock Robotics $1.75B valuation after $270M raise (Feb 2026)",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "PropTech Market Size Expected to Reach USD 165 Billion by 2035",
+      "url": "https://www.globenewswire.com/news-release/2026/05/18/3296328/0/en/PropTech-Market-Size-Expected-to-Reach-USD-165-Billion-by-2035-SNS-Insider.html",
+      "publisher": "SNS Insider via GlobeNewswire",
+      "claim_supported": "PropTech market $165B by 2035; market size corroboration for 2026 figures; published May 18, 2026",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Q3 2025 Open House: Opendoor 2.0 Charts Path to Profitability Through Software and AI",
+      "url": "https://investor.opendoor.com/news-releases/news-release-details/q3-2025-open-house-opendoor-20-charts-path-profitability-through/",
+      "publisher": "Opendoor Investor Relations",
+      "claim_supported": "Opendoor AI pricing engine; 65% US instant-offer market share; <10 minute underwriting; contribution margins 4-6% new book; path to 2026 profitability",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Zillow's CTO Says AI Is Reinventing Every Step of the Home Buying Process",
+      "url": "https://fortune.com/2026/02/18/zillow-cto-ai-reinventing-every-step-home-buying-process/",
+      "publisher": "Fortune",
+      "claim_supported": "Zillow CTO statements on AI strategy; AI features across property search, valuation, and agent matching",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "GAO Report: Property Technology for Homebuying — Products Present Benefits and Risks Amid Evolving Federal Oversight",
+      "url": "https://files.gao.gov/reports/GAO-25-107201/index.html",
+      "publisher": "US Government Accountability Office",
+      "claim_supported": "Federal risk assessment of AI homebuying tools; opacity in automated mortgage denials; regulatory landscape; AI discrimination risks in housing",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "California AI Executive Order: CRE Impact 2026",
+      "url": "https://www.theaiconsultingnetwork.com/blog/california-ai-executive-order-procurement-cre-investors-2026",
+      "publisher": "The AI Consulting Network",
+      "claim_supported": "California Governor Newsom EO N-5-26 (March 30, 2026) requiring AI bias audits; impact on tenant screening and AVM platforms",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "What Legal Issues Do AI Property Valuation and Real Estate Tools Raise?",
+      "url": "https://www.rock.law/legal-issues-ai-property-valuation-real-estate-appraisal-fair-housing/",
+      "publisher": "Rocklaw PLLC",
+      "claim_supported": "Fair Housing Act compliance requirements for AI tools; appraisal regulation; ECOA; HUD investigation scope for automated underwriting",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Opendoor 2.0: From the Brink of Delisting to the AI-Native Future of Real Estate",
+      "url": "https://www.financialcontent.com/article/finterra-2026-2-19-opendoor-20-from-the-brink-of-delisting-to-the-ai-native-future-of-real-estate",
+      "publisher": "FinancialContent",
+      "claim_supported": "Opendoor FY2025 revenue $4.371B; AI-native pricing intelligence engine; photos + agent notes + home visit records training data; 'Cash Plus' hybrid model",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "PropTech Investment Trends 2026: Key Opportunities and Funding Insights",
+      "url": "https://qubit.capital/blog/proptech-investment-landscape",
+      "publisher": "Qubit Capital",
+      "claim_supported": "92% of CRE companies now running AI pilots (up from 5% in 3 years); AI in PropTech market projected to $159.9B by 2033 at 22.8% CAGR; growth_5y derivation",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "2026 PropTech Predictions: Anyone Up for AI?",
+      "url": "https://commercialobserver.com/2025/12/2026-proptech-predictions-ai/",
+      "publisher": "Commercial Observer",
+      "claim_supported": "Industry outlook for AI PropTech in 2026; VC investor sentiment; CRE adoption drivers",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Compass Breaks Records, Rocket Closes Redfin Deal — BAM",
+      "url": "https://nowbam.com/compass-breaks-records-rocket-closes-redfin-deal-and-real-turns-a-profit-in-q2/",
+      "publisher": "BAM (brokerage analytics)",
+      "claim_supported": "Rocket closes Redfin acquisition; Compass $2.06B Q2 2025 revenue; 21% transaction growth; market structure data",
+      "verified": true
+    }
+  ],
+  "notes": {
+    "growth_5y_methodology": "Based on AI in PropTech growing from ~$13.6B (2021 estimate, back-calculated from $20.5B in 2023 at 22.8% CAGR) to ~$37.9B in 2026 (same CAGR projected forward), yielding +179%. Source: Qubit Capital / PropTech AI market projections.",
+    "growth_1y_methodology": "PropTech market $47.08B (2025) to $54.66B (2026) per Precedence Research = +16.1%.",
+    "growth_3m_methodology": "PropTech AI venture funding surged 176% YoY in January 2026 specifically (per The AI Consulting Network), used as the most recent near-term growth signal for the sector.",
+    "unverified_claims": "Lofty $100M ARR, 37% conversion improvement, and 70% YoY growth are from company-reported figures without independent audit. HouseCanary 120M property valuations and 65M Series C are from company materials. Virtual staging adoption growth of 400% in 2025 is an industry estimate without a single published source and should be treated as directional.",
+    "market_share_notes": "Market share figures represent segment-specific dominance, not a single unified market. Zillow ~25% is US residential portal traffic share; CoStar ~60% is commercial RE data market; Opendoor 65% is iBuying (instant-offer) segment; Rocket ~8% is US mortgage origination volume share; Compass ~4% is US residential brokerage transaction share."
+  }
+}
