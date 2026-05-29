@@ -1,0 +1,193 @@
+{
+  "trend_name": "AI-Native Search",
+  "status": "surging",
+  "search_volume": "110K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "∞",
+  "growth_1y": "+335%",
+  "growth_3m": "+38%",
+  "trigger": "Traditional search hit a quality wall — SEO spam and AI-generated link farms pushed users toward AI synthesis. LLMs crossed a reliability threshold in late 2022 that made conversational, citation-backed answers genuinely better than 10 blue links for informational queries. Three forces then converged: (1) LLM quality became good enough to trust on non-critical queries; (2) Google's DOJ remedies order (April 2026) stripped its exclusive distribution deals, removing the moat protecting the old model; (3) Perplexity grew ARR +335% YoY to $500M while ChatGPT Search hit 2B daily queries. Google's share of search-related activity fell from 89% in 2023 to 71% by Q4 2025. Gartner's 2024 prediction of a 25% traditional search volume drop by 2026 is materializing ahead of schedule.",
+  "timeline": [
+    {
+      "date": "Dec 2022",
+      "event": "Perplexity AI launches as the first dedicated AI answer engine with inline citations — handling millions of queries within weeks and establishing the citation-first architecture that all AI search players would later copy"
+    },
+    {
+      "date": "Feb 2023",
+      "event": "Microsoft integrates GPT-4 into Bing Chat, drawing 1M waitlist signups in 48 hours; Google's rushed Bard demo flub wipes $100B from Alphabet's market cap in one day, marking the first visible threat to Google's 25-year search dominance"
+    },
+    {
+      "date": "May 2023",
+      "event": "Google unveils Search Generative Experience (SGE) at I/O — AI-generated summaries appear above organic results for the first time in Google's history; publisher community erupts over zero-click traffic theft, beginning the monetization crisis for web content"
+    },
+    {
+      "date": "Oct 2024",
+      "event": "OpenAI integrates real-time web search into ChatGPT (SearchGPT, prototyped July 2024, rolls out to all tiers); ChatGPT grows from 400M to 800M weekly active users within 12 months, establishing a second viable AI search platform at consumer scale"
+    },
+    {
+      "date": "Apr 2025",
+      "event": "Perplexity surpasses 30M MAUs and 780M monthly queries (+340% YoY); its query growth outpaces Bing's total query volume; raises at an $18B valuation — first pure-play AI search company to achieve true scale without being owned by a hyperscaler"
+    },
+    {
+      "date": "Apr 2026",
+      "event": "DOJ remedies finalized against Google, banning exclusive search distribution deals; Perplexity hits $500M ARR at $20B valuation; AI search handles 17% of global digital queries; ChatGPT Search processes 2B queries/day — the post-Google era of search is structurally locked in"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The DOJ's April 2026 remedies order prohibits Google from paying Apple, Mozilla, and carriers for default search placement — the first structural change to the search market in 25 years. The EU Digital Markets Act designates Google Search as a gatekeeper, requiring data sharing with rivals. US AI Executive Order (Dec 2025) mandates transparency notices for AI-generated search summaries. A second wave of AI search antitrust scrutiny is building around OpenAI's distribution partnerships."
+    },
+    {
+      "factor": "Economic",
+      "impact": "AI search market valued at $16.3B in 2025, projected to reach $182B by 2035 at 27.3% CAGR (Precedence Research). Google's $175B search advertising business faces structural disruption as informational queries — 40–60% of total volume — migrate to AI. Perplexity's $20B valuation at 40x ARR signals winner-take-most investor conviction. Microsoft's Bing search ad revenue is on track for $19.5B in FY2026, accelerated by Copilot integration."
+    },
+    {
+      "factor": "Social",
+      "impact": "58% of Gen Z and millennial users now prefer AI-generated summaries over traditional link results. 58.5% of all Google searches already end in zero clicks; the figure jumps to 93% in Google's AI Mode. A 'citation paradox' defines user behavior: 65.9% say citations boost trust, yet only 27% click them often. Growing distrust of SEO-optimized spam is the primary behavioral driver pushing users toward AI synthesis — a sentiment shift, not a tech push."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Retrieval-Augmented Generation (RAG) fuses real-time web retrieval with LLM synthesis, solving the hallucination-vs-freshness tradeoff for known-fact queries. Multimodal search (image + video + text) is emerging on Gemini and ChatGPT. AI models now index and rerank results in milliseconds at sub-cent cost per query. Google's AI Overviews reach 2B monthly users across 200 countries in 40 languages — the largest AI product deployment in history."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI search queries consume roughly 10x the energy of a traditional keyword search (Google internal estimate). At ChatGPT's 2B daily query volume, the compute footprint rivals small nations' electricity grids. Pressure for energy-efficient inference is intensifying; edge-deployed on-device search agents are emerging as a power-efficient alternative. AI data center expansion for search infrastructure is a primary driver of global electricity demand growth projections through 2030."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Publishers including the NYT, AP, and Getty have filed copyright suits over training data used to generate AI search summaries. The DOJ (2026) required Google to allow publishers to opt out of AI Overviews without search ranking penalty. EU AI Act classifies AI systems influencing public information access as high-risk, requiring transparency notices. Unresolved liability for defamatory or false AI search summaries is the primary legal landmine for all AI search operators in 2026–2027."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Research synthesis across multiple sources",
+      "solution": "AI search engines (Perplexity, ChatGPT Search) synthesize 10–20 web sources into a single cited answer in seconds — eliminating the need to open multiple tabs, manually evaluate source credibility, and extract paragraphs. Students, analysts, and journalists report 4–8x faster research workflows compared to traditional search."
+    },
+    {
+      "job": "Conversational decision support for purchases",
+      "solution": "Shoppers ask 'What's the best laptop under $1,000 for video editing?' and receive ranked recommendations with evidence links — collapsing a 45-minute product research session into 90 seconds. Zero-click decision compression is accelerating purchase velocity and disrupting affiliate and comparison site traffic by 30–50%."
+    },
+    {
+      "job": "Real-time news and competitive intelligence monitoring",
+      "solution": "Perplexity's live news mode and ChatGPT Search's real-time indexing let users query breaking developments with citation trails, replacing fragmented RSS, Twitter, and aggregator monitoring. Enterprise clients use this for competitive intelligence, regulatory tracking, and M&A due diligence."
+    },
+    {
+      "job": "Enterprise knowledge retrieval from internal documents",
+      "solution": "AI-native search applied to proprietary corpora (SharePoint, Notion, Confluence, Slack) lets employees query company knowledge in natural language. Microsoft Copilot and Glean report 35–50% reduction in time employees spend searching for internal information, with the average knowledge worker losing 2.5 hours/day to search friction."
+    },
+    {
+      "job": "Technical and code documentation lookup",
+      "solution": "Developers query AI search for API docs, error messages, and implementation patterns — receiving synthesized answers from Stack Overflow, GitHub, and official docs simultaneously. Perplexity Pro and Phind identify developers and engineers as their highest-growth user segment in 2025–2026, driven by code search query volume."
+    }
+  ],
+  "market": [
+    {
+      "name": "ChatGPT Search",
+      "share": "60.7%",
+      "loved": "74%",
+      "segment": "Consumer + Enterprise (OpenAI, 900M WAU, 2B queries/day)"
+    },
+    {
+      "name": "Google AI Mode",
+      "share": "15.0%",
+      "loved": "62%",
+      "segment": "Embedded in traditional search (2B AI Overview users/mo)"
+    },
+    {
+      "name": "Microsoft Copilot",
+      "share": "13.2%",
+      "loved": "58%",
+      "segment": "Enterprise + consumer (Bing, Edge, Office 365)"
+    },
+    {
+      "name": "Perplexity AI",
+      "share": "5.8%",
+      "loved": "81%",
+      "segment": "Research prosumer ($500M ARR, 100M MAU)"
+    },
+    {
+      "name": "Claude.ai Search",
+      "share": "4.1%",
+      "loved": "79%",
+      "segment": "Enterprise-preferred (Anthropic, long-context research)"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "ChatGPT Search (OpenAI)",
+      "detail": "Market leader with 60.7% AI search share and 900M WAU processing 2B queries/day. SearchGPT integrated into all ChatGPT tiers as of Oct 2024. Powered by GPT-5.4 (March 2026). OpenAI at $25B+ ARR and $500B+ valuation. Strengths: brand dominance, plugin ecosystem, multimodal queries. Weakness: citation transparency lower than Perplexity; hallucination rate higher on niche topics outside top training data."
+    },
+    {
+      "name": "Google AI Overviews / AI Mode",
+      "detail": "Transitioning its 89% search market share into AI-native. AI Overviews reach 2B monthly users across 200 countries. AI Mode (launched Feb 2026) produces zero clicks 93% of the time. Facing DOJ remedies stripping exclusive distribution — the first structural challenge in Google's history. Revenue at risk: the $175B search ad business depends on users staying on Google's properties while consuming AI summaries."
+    },
+    {
+      "name": "Perplexity AI",
+      "detail": "The pure-play AI search leader — 100M MAU, $500M ARR (April 2026), $20B valuation (40x ARR). Citation-first RAG architecture is the core differentiator. Launched Computer agentic product Feb 2026. 340% YoY query growth to 780M monthly queries. Backed by Jeff Bezos, NVIDIA, SoftBank. Primary risk: commoditization as Google and OpenAI both offer free citation-backed search at massive scale."
+    },
+    {
+      "name": "Microsoft Copilot Search",
+      "detail": "13.2% AI search share. Integrated across Edge, Windows 11, and Office 365 — uniquely positioned for enterprise capture via existing seat licenses. Bing crossed 100M daily active users after AI integration. Microsoft search ad revenue tracked at $19.5B in FY2026. Deep enterprise integrations (Teams, SharePoint, Azure) create switching costs that ChatGPT and Perplexity cannot easily replicate."
+    },
+    {
+      "name": "Brave Leo / Kagi / You.com",
+      "detail": "Privacy-first AI search niche, growing 30–40% YoY. Brave Leo uses on-device inference with no user tracking. Kagi charges $10/mo subscription (no ads, no data harvesting) and crossed 500K paid users. You.com has $45M funding and targets B2B developer search. Combined, these represent the anti-surveillance AI search segment — potentially $2–5B addressable market as AI data harvesting concerns grow in regulated sectors."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: knowledge workers aged 25–44 — researchers, analysts, journalists, developers, and consultants performing 5+ searches daily. Secondary: Gen Z (18–24) who default to AI search over Google for information queries. Tertiary: enterprise legal, HR, and finance teams deploying AI-native internal knowledge retrieval. Skews toward higher education and urban; North America and Western Europe lead adoption, with APAC accelerating.",
+    "where": "Browser-first (ChatGPT.com, Perplexity.ai, Gemini.google.com), mobile apps (Perplexity iOS/Android, ChatGPT mobile), and embedded in daily tools (Edge Copilot sidebar, VS Code AI search, Slack AI). Enterprise deployments via Microsoft 365 Copilot and Glean for internal knowledge bases. Increasingly accessed via API by developers building search-augmented applications.",
+    "why_now": "Three forces converged in 2024–2026: (1) LLM quality crossed the threshold where synthesized answers are reliable enough for non-critical queries; (2) traditional search visibly degraded as SEO spam and AI-generated link farms flooded Google results, reducing user trust; (3) the DOJ's antitrust victory removed Google's exclusivity deals, opening distribution for rivals for the first time in 25 years. Users who experience AI search rarely revert — the 'aha moment' retention is extreme.",
+    "behavior": "Users compose full conversational questions instead of keyword strings; follow up with clarifying questions in the same session; consume AI-synthesized summaries without clicking cited sources (zero-click majority); run parallel AI + traditional search for high-stakes decisions; share AI-generated answer links instead of URLs. Power users pay $20–25/mo for Pro tiers with deeper research and extended context modes.",
+    "unmet": "Factual accuracy on niche or real-time topics remains unreliable — hallucinations spike significantly outside the most-searched topics. Zero-click behavior is destroying publisher ad revenue with no viable replacement monetization model yet. Personalization without privacy compromise is unsolved. Audio and video content is still poorly indexed by AI search. On-device private AI search (no data leaving the device) is nascent but high-demand in regulated industries."
+  },
+  "takeaways": [
+    "Shift content strategy from SEO to AEO (Answer Engine Optimization) immediately — being cited in AI-generated summaries is the new first-page Google ranking. AI referral traffic grew +357% YoY; the first movers building citation-worthy, structured, authoritative content will own AI search visibility while their SEO-first competitors see organic traffic collapse. Original proprietary statistics and research are now the highest-leverage content investment.",
+    "Enterprises should pilot AI-native internal search in 2026 — the average knowledge worker spends 2.5 hours/day searching for information. Microsoft Copilot, Glean, and Notion AI can recover 35–50% of that time. Start with a single high-friction knowledge base (legal docs, HR policies, or product specs), measure time-to-answer before expanding, and establish a governance policy for AI-generated answers before AI search surfaces outdated or sensitive internal data.",
+    "Publishers must negotiate AI licensing agreements before their leverage is gone — the NYT, AP, and Reddit have set precedents for paid content licensing deals with OpenAI and Google. Publishers with specialized, high-authority content in medical, legal, and financial verticals have the most leverage today. Waiting until traffic fully collapses means negotiating from desperation, not strength, and the window to set industry-wide norms is closing in 2026.",
+    "Build on AI search distribution, not against it — the correct strategic response to zero-click AI summaries is not to fight them but to become the source being cited. Brands that publish original data, proprietary research, and expert synthesis function as preferred reference material for AI engines. In AI search, being cited is the new backlink — original statistics and expert quotes now generate awareness, trust, and inbound lead flow directly from AI answer surfaces."
+  ],
+  "sources": [
+    {
+      "publisher": "The Information / Storyboard18",
+      "url": "https://www.storyboard18.com/digital/perplexity-ai-grows-revenue-5x-to-500-million-with-just-34-team-expansion-95107.htm",
+      "claim": "Perplexity AI grew revenue 5x to $500M ARR in April 2026 (+335% YoY), at $20B valuation — 34% team headcount growth"
+    },
+    {
+      "publisher": "Precedence Research",
+      "url": "https://www.precedenceresearch.com/ai-search-engine-market",
+      "claim": "AI search engine market size $16.3B in 2025; projected $182.17B by 2035 at 27.3% CAGR"
+    },
+    {
+      "publisher": "Gartner",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents",
+      "claim": "Gartner predicts traditional search engine volume will drop 25% by 2026 due to AI chatbots and virtual agents"
+    },
+    {
+      "publisher": "First Page Sage",
+      "url": "https://firstpagesage.com/reports/top-generative-ai-chatbots/",
+      "claim": "ChatGPT holds 60.7% AI search/chatbot share; Google Gemini 15.0%; Microsoft Copilot 13.2%; Perplexity 5.8%; Claude 4.1% — as of May 2026"
+    },
+    {
+      "publisher": "Tech-Insider (DOJ Remedies)",
+      "url": "https://tech-insider.org/google-antitrust-appeal-doj-search-monopoly-2026/",
+      "claim": "DOJ April 2026 remedies prohibit Google from exclusive search distribution contracts with Apple, Mozilla, carriers; orders Google to share search index with qualified rivals"
+    },
+    {
+      "publisher": "AI Labs Audit",
+      "url": "https://ailabsaudit.com/blog/en/ai-search-market-2026-key-figures-market-share-trends",
+      "claim": "1.13B AI referral visits with +357% YoY growth; Google search-related activity share fell from 89% (2023) to 71% (Q4 2025)"
+    },
+    {
+      "publisher": "ALM Corp",
+      "url": "https://almcorp.com/blog/ai-search-trends/",
+      "claim": "Google AI Overviews reach 2B monthly users across 200 countries in 40 languages; 93% zero-click rate in Google AI Mode; 58.5% of all Google searches end zero-click"
+    },
+    {
+      "publisher": "FatJoe / Sacra",
+      "url": "https://fatjoe.com/blog/perplexity-ai-stats/",
+      "claim": "Perplexity 100M+ MAUs, 780M monthly queries (+340% YoY to May 2025), $20B valuation, backed by Bezos, NVIDIA, SoftBank"
+    }
+  ]
+}

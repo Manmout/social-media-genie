@@ -1,0 +1,155 @@
+{
+  "trend": "AI-Native Search",
+  "slug": "ai-native-search",
+  "compiled": "2026-05-29",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Storyboard18 / The Information",
+      "url": "https://www.storyboard18.com/digital/perplexity-ai-grows-revenue-5x-to-500-million-with-just-34-team-expansion-95107.htm",
+      "title": "Perplexity AI grows revenue 5x to $500 million with just 34% team expansion",
+      "claims": [
+        "Perplexity reached $500M ARR in April 2026 — a 5x increase from $100M ARR in early 2025",
+        "+335% YoY revenue growth while headcount grew only 34%",
+        "Growth accelerated by February 2026 launch of Computer agentic product and usage-based pricing tier",
+        "Valued at $20B — approximately 40x ARR multiple"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Precedence Research",
+      "url": "https://www.precedenceresearch.com/ai-search-engine-market",
+      "title": "AI Search Engine Market Size to Hit USD 182.17 Billion by 2035",
+      "claims": [
+        "AI search engine market valued at $16.30B in 2025",
+        "Projected to reach $182.17B by 2035 at 27.3% CAGR (2026–2035)",
+        "North America holds the largest share driven by Google, Microsoft, OpenAI investments"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Gartner",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2024-02-19-gartner-predicts-search-engine-volume-will-drop-25-percent-by-2026-due-to-ai-chatbots-and-other-virtual-agents",
+      "title": "Gartner Predicts Search Engine Volume Will Drop 25% by 2026, Due to AI Chatbots and Other Virtual Agents",
+      "claims": [
+        "Traditional search engine volume to drop 25% by 2026 due to AI chatbots",
+        "Search marketing to lose market share to AI chatbots and other virtual agents",
+        "Published February 2024 — now corroborated by actual 2025–2026 data showing Google search-related share declining"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "First Page Sage",
+      "url": "https://firstpagesage.com/reports/top-generative-ai-chatbots/",
+      "title": "Top Generative AI Chatbots by Market Share — May 2026",
+      "claims": [
+        "ChatGPT holds 60.7% of AI chatbot/search market share as of May 2026",
+        "Google Gemini holds 15.0%; Microsoft Copilot 13.2%; Perplexity 5.8%; Claude 4.1%",
+        "ChatGPT experienced a 19+ percentage point decline from its earlier near-monopolistic position"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Tech-Insider (DOJ Reporting)",
+      "url": "https://tech-insider.org/google-antitrust-appeal-doj-search-monopoly-2026/",
+      "title": "Google's 90% Search Monopoly Faces DOJ Breakup [2026]",
+      "claims": [
+        "DOJ April 2026 remedies finalized: Google prohibited from exclusive search distribution contracts",
+        "Google must share search index and user-interaction data with qualified rivals",
+        "Remedies extend to Google GenAI products including Gemini app distribution",
+        "Court rejected immediate Chrome/Android divestiture proposals but ordered behavioral remedies"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "AI Labs Audit",
+      "url": "https://ailabsaudit.com/blog/en/ai-search-market-2026-key-figures-market-share-trends",
+      "title": "AI Search Market 2026: Key Figures and Market Share Stats",
+      "claims": [
+        "1.13 billion AI referral visits with +357% year-over-year growth",
+        "Google's share of search-related activity fell from 89% (2023) to 71% (Q4 2025)",
+        "AI platforms now taking 15–20% of informational query volume from traditional search"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "ALM Corp",
+      "url": "https://almcorp.com/blog/ai-search-trends/",
+      "title": "AI Search Trends 2025–2026: Data, Stats & Strategies for Marketers",
+      "claims": [
+        "Google AI Overviews reach 2 billion monthly users across 200 countries in 40 languages",
+        "93% zero-click rate in Google AI Mode queries",
+        "58.5% of all Google searches end in zero clicks",
+        "Google searches per user dropped nearly 20% year-on-year in 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "FatJoe",
+      "url": "https://fatjoe.com/blog/perplexity-ai-stats/",
+      "title": "Perplexity AI Stats May 2026: Uses, Users, Market Share, and More",
+      "claims": [
+        "Perplexity serves 100M+ monthly active users as of 2026",
+        "780 million monthly queries as of May 2025 (+340% year-over-year)",
+        "Perplexity backed by Jeff Bezos, NVIDIA, SoftBank, and IVP",
+        "$20B valuation; fastest-growing pure-play AI search company"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Presenc AI Research",
+      "url": "https://presenc.ai/research/history-of-ai-search",
+      "title": "History of AI Search: A Timeline from 2022 to 2026",
+      "claims": [
+        "Perplexity AI launched December 7, 2022 as the first answer engine with inline citations",
+        "Microsoft Bing Chat launched February 7, 2023 — 1 million waitlist signups in 48 hours",
+        "Google Bard demo error (Feb 6, 2023) wiped $100B from Alphabet's market cap",
+        "By January 2026, AI search reached 910 million monthly users across all platforms"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "All About AI",
+      "url": "https://www.allaboutai.com/resources/ai-statistics/ai-search-engines/",
+      "title": "AI Search Engines Report 2026: Market Trends, User Trust, and Platform Rankings",
+      "claims": [
+        "58% of Gen Z and millennial users prefer AI-generated summaries over traditional search results",
+        "65.9% of users say citations boost trust, yet only 27% click them often",
+        "48.8% of users do not verify sources if the AI answer sounds credible",
+        "ChatGPT Search processes 250–500M weekly queries per Similarweb 2026 report"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: 110K+/mo — estimated from aggregated keyword data for 'AI search engine', 'AI search', 'Perplexity AI', and related terms; no single verified keyword tool data available for the combined topic cluster",
+      "status": "estimated"
+    },
+    {
+      "claim": "growth_3m: +38% — estimated proxy based on Perplexity ARR trajectory ($200M Nov 2025 → $500M Apr 2026 = +150% in 5 months), weighted against slower-growing market participants; represents overall AI search market 3-month growth approximation",
+      "status": "estimated"
+    },
+    {
+      "claim": "Claude.ai Search market share: 4.1% — sourced from First Page Sage chatbot report (May 2026); includes Claude.ai general usage, not exclusively search-mode queries",
+      "status": "approximate"
+    },
+    {
+      "claim": "AI search queries consume 10x energy of keyword search — attributed to Google internal estimate; exact figure not publicly disclosed in a primary source",
+      "status": "estimated"
+    },
+    {
+      "claim": "Brave Leo / Kagi combined growing 30-40% YoY — directional estimate from industry coverage; no disclosed revenue or user figures from either company",
+      "status": "estimated"
+    }
+  ]
+}
