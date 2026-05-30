@@ -1,0 +1,110 @@
+{
+  "trend_name": "AI Retail Personalization",
+  "generated_date": "2026-05-30",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Straits Research",
+      "title": "Artificial Intelligence in Retail Market Size, Share & Growth Report 2033",
+      "url": "https://straitsresearch.com/report/artificial-intelligence-in-retail-market",
+      "claim": "Global AI in retail market valued at $18.4B in 2026, projected to reach $130.88B by 2033 at ~32.8% CAGR; North America holds 39.4% of global AI retail spend",
+      "verified": true,
+      "used_for": ["market_size", "growth_5y", "growth_1y", "market_players"]
+    },
+    {
+      "id": 2,
+      "publisher": "Adobe Digital Insights",
+      "title": "Generative AI-Powered Shopping Rises with Traffic to US Retail Sites",
+      "url": "https://business.adobe.com/blog/generative-ai-powered-shopping-rises-with-traffic-to-retail-sites",
+      "claim": "GenAI traffic to US retail sites surged +393% YoY in Q1 2026 (Jan–Mar); AI-referred visitors convert 42% better than non-AI traffic; holiday 2025 saw +693% YoY AI traffic",
+      "verified": true,
+      "used_for": ["growth_3m", "trigger", "timeline_may_2026", "takeaways"]
+    },
+    {
+      "id": 3,
+      "publisher": "Attentive",
+      "title": "2026 Personalization Trends: What 1,000+ Shoppers Expect From Brands",
+      "url": "https://www.attentive.com/blog/2026-personalization-trends",
+      "claim": "44% of Gen Z already use AI to shop; 90% of Gen Z AI shoppers report improved experience (2026); 68% of shoppers want brands to learn from their habits over time",
+      "verified": true,
+      "used_for": ["canvas_who", "canvas_why_now", "pestal_social", "jobs_jtbd5"]
+    },
+    {
+      "id": 4,
+      "publisher": "eMarketer",
+      "title": "Gen Z Shoppers Lead All Generations in Using AI for Purchases",
+      "url": "https://www.emarketer.com/content/gen-z-shoppers-lead-all-generations-using-ai-purchases",
+      "claim": "Gen Z leads all generations in AI shopping adoption; 58% of Millennials use or plan to use AI for shopping; consumer behavior data cross-referenced with capital one shopping research",
+      "verified": true,
+      "used_for": ["canvas_who", "pestal_social"]
+    },
+    {
+      "id": 5,
+      "publisher": "Precedence Research",
+      "title": "Applied AI in Retail and E-Commerce Market Size to Hit USD 376.48 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/applied-ai-in-retail-and-e-commerce-market",
+      "claim": "Applied AI in retail & e-commerce market reaches $72.42B in 2026, growing to $376.48B by 2035; AI spending in retail grew from $6.4B in 2021 to $18.4B+ in 2026",
+      "verified": true,
+      "used_for": ["growth_5y", "market_size_validation"]
+    },
+    {
+      "id": 6,
+      "publisher": "Secure Privacy / EU AI Act",
+      "title": "EU AI Act 2026 Compliance Requirements for Enterprises",
+      "url": "https://secureprivacy.ai/blog/eu-ai-act-2026-compliance",
+      "claim": "EU AI Act full enforcement August 2026; AI recommendation systems must disclose AI role; high-risk classification for systems processing sensitive behavioral data",
+      "verified": true,
+      "used_for": ["pestal_political", "pestal_legal", "competitors_coveo"]
+    },
+    {
+      "id": 7,
+      "publisher": "Shopify",
+      "title": "AI in Retail: 10 Use Cases and an Implementation Guide (2026)",
+      "url": "https://www.shopify.com/enterprise/blog/ai-in-retail",
+      "claim": "Shopify reports 15x order growth from AI search interfaces; AI personalization use cases, implementation benchmarks, and conversion data for retail",
+      "verified": true,
+      "used_for": ["timeline_dec2024", "market_shopify", "takeaways", "jobs_jtbd1"]
+    },
+    {
+      "id": 8,
+      "publisher": "Adobe Business",
+      "title": "AI Traffic Surge: Retail Sites Not Machine-Readable",
+      "url": "https://business.adobe.com/blog/ai-traffic-surge-retail-sites-not-machine-readable",
+      "claim": "AI shopping bots drive significant retail traffic; most retail sites lack structured data for AI readability; urgency for retailers to optimize for AI-native search surfaces",
+      "verified": true,
+      "used_for": ["takeaways", "canvas_where"]
+    },
+    {
+      "id": 9,
+      "publisher": "Envive AI",
+      "title": "63 AI Personalization in eCommerce Lift Statistics – 400% ROI (2026)",
+      "url": "https://www.envive.ai/post/ai-personalization-in-ecommerce-lift-statistics",
+      "claim": "Personalized recommendations drive 18–30% uplift in average order value; 24% higher click-through rates vs. static recommendations; 87% of retailers report revenue lift from AI",
+      "verified": true,
+      "used_for": ["jobs_jtbd1", "pestal_economic"]
+    },
+    {
+      "id": 10,
+      "publisher": "Mindit.io",
+      "title": "10 AI Use Cases for Retail with ROI Benchmarks (DACH 2026)",
+      "url": "https://mindit.io/ai-use-cases-retail-roi-benchmarks-dach-2026/",
+      "claim": "AI dynamic pricing delivers 3–6% gross margin improvement; AI inventory optimization reduces excess stock 15–30%; product recommendation implementation cost €30–80K with 8–12 week payback",
+      "verified": true,
+      "used_for": ["jobs_jtbd2", "jobs_jtbd4", "pestal_economic", "pestal_environmental"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Amazon's consumables auto-replenishment segment grew significantly in 2025",
+      "note": "General directional claim — exact % growth not confirmed by public Amazon filing; directional trend verified via multiple retail analyst sources"
+    },
+    {
+      "claim": "Zara recommendation engine boosted basket sizes by 14%",
+      "note": "Cited in multiple retail AI articles as a Zara use case; no primary Zara press release found confirming exact figure — treat as industry estimate"
+    },
+    {
+      "claim": "110K+/mo combined search volume for AI retail personalization terms",
+      "note": "Estimated from aggregating related search queries ('AI shopping assistant', 'personalized shopping AI', 'AI product recommendations'); not directly verified via Keywords Everywhere API"
+    }
+  ]
+}
