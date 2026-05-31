@@ -1,0 +1,142 @@
+{
+  "trend": "Small Language Models (SLMs)",
+  "slug": "small-language-models",
+  "research_date": "2026-05-31",
+  "sources": [
+    {
+      "id": 1,
+      "title": "The 2025 AI Index Report",
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "publisher": "Stanford HAI",
+      "claim": "Inference cost for GPT-3.5-level AI fell 280x — from $20/M tokens (Nov 2022) to $0.07/M tokens (Oct 2024, Gemini-1.5-Flash-8B)",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI costs drop 280-fold: Stanford 2025 AI Report",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-costs-drop-280-fold-but-harmful-incidents-rise-56-percent-in-last-year-stanford-2025-ai-report-highlights-china-us-competition",
+      "publisher": "Tom's Hardware",
+      "claim": "Confirms Stanford AI Index 2025 finding: $20 → $0.07 per million tokens in 18 months",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Small Language Models: Gartner's 3x Edge AI Prediction",
+      "url": "https://byteiota.com/small-language-models-gartners-3x-edge-ai-prediction/",
+      "publisher": "ByteIota (citing Gartner)",
+      "claim": "Gartner predicts organizations will use SLMs at least 3x more than general-purpose LLMs by 2027; 143.1M AI PC shipments projected for 2026",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Introducing Phi-4: Microsoft's Newest Small Language Model Specializing in Complex Reasoning",
+      "url": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090",
+      "publisher": "Microsoft Tech Community",
+      "claim": "Phi-4 (14B) released December 12, 2024; outperforms larger models on STEM/reasoning benchmarks; available on Azure AI Foundry",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Introducing Gemma 3: The Developer Guide",
+      "url": "https://developers.googleblog.com/en/introducing-gemma3/",
+      "publisher": "Google Developers Blog",
+      "claim": "Gemma 3 released March 12, 2025; available in 1B, 4B, 12B, 27B sizes; 140-language support; 4B model runs on 4.2GB RAM",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Introducing Apple's On-Device and Server Foundation Models",
+      "url": "https://machinelearning.apple.com/research/introducing-apple-foundation-models",
+      "publisher": "Apple Machine Learning Research",
+      "claim": "Apple's ~3B-parameter on-device Foundation Model powers Apple Intelligence; opened to third-party developers at WWDC 2025",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Apple Foundation Models Framework Unlocks New Intelligent App Experiences",
+      "url": "https://www.apple.com/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/",
+      "publisher": "Apple Newsroom",
+      "claim": "Foundation Models framework available September 2025; enables any iOS/macOS app to call on-device SLM with no cloud dependency",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "EU AI Act 2025 Review and 2026 Outlook",
+      "url": "https://www.aiactblog.nl/en/posts/eu-ai-act-2025-review-2026-outlook",
+      "publisher": "AI Act Blog",
+      "claim": "EU AI Act high-risk system requirements fully enforceable from August 2, 2026; GPAI providers must disclose energy consumption",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Energy Efficiency Requirements Under the EU AI Act",
+      "url": "https://www.whitecase.com/insight-alert/energy-efficiency-requirements-under-eu-ai-act",
+      "publisher": "White & Case LLP",
+      "claim": "GPAI model providers required to disclose energy consumption; EU planning standardization deliverables for AI energy reporting in 2026",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Enterprise Guide to Small Language Models and Edge AI 2026",
+      "url": "https://hyperion-consulting.io/en/insights/slm-small-language-models-enterprise-2026",
+      "publisher": "Hyperion Consulting",
+      "claim": "For 80% of production use cases a local SLM costs 95% less than cloud-based alternatives; 73% of organizations moving AI inference to edge",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "The Power of Small: Edge AI Predictions for 2026",
+      "url": "https://www.dell.com/en-us/blog/the-power-of-small-edge-ai-predictions-for-2026/",
+      "publisher": "Dell Technologies",
+      "claim": "Edge AI and SLMs identified as key enterprise technology shifts in 2026; on-device inference avoids cloud latency and cost",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Small Language Models and Edge AI: The 2026 Shift to Local Intelligence",
+      "url": "https://zylos.ai/research/2026-02-07-small-language-models-edge-ai",
+      "publisher": "Zylos Research",
+      "claim": "SLM edge deployment market projected to grow from $3.42B in 2025 to $12.85B by 2030 at 30.27% CAGR",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI Inference's 280x Slide: 18-Month Cost Optimization Explained",
+      "url": "https://www.aicerts.ai/news/ai-inferences-280x-slide-18-month-cost-optimization-explained/",
+      "publisher": "AI CERTs",
+      "claim": "Detailed breakdown of how SLM architecture improvements drove the 280x inference cost reduction from Nov 2022 to Oct 2024",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Key Edge AI Trends Transforming Enterprise Tech in 2026",
+      "url": "https://www.n-ix.com/edge-ai-trends/",
+      "publisher": "N-iX",
+      "claim": "73% of organizations actively moving AI inferencing to edge environments; privacy and latency as primary drivers",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "Gemma Releases Documentation",
+      "url": "https://ai.google.dev/gemma/docs/releases",
+      "publisher": "Google AI for Developers",
+      "claim": "Gemma 1 (Feb 2024), Gemma 2 (Jun 2024), Gemma 3 (Mar 2025), Gemma 4 (Apr 2026) — official release history",
+      "verified": true
+    },
+    {
+      "id": 16,
+      "title": "Best Small Language Models 2026: 12 SLMs Ranked for 8GB RAM",
+      "url": "https://localaimaster.com/blog/small-language-models-guide-2026",
+      "publisher": "Local AI Master",
+      "claim": "Phi-4 (14B) tops reasoning benchmarks; Gemma 3 4B runs on 4.2GB RAM; Mistral Small 4 reaches 685 tok/s throughput",
+      "verified": true
+    }
+  ],
+  "notes": [
+    "Market size estimates vary significantly across research firms due to different definitions of 'small language model'. Grand View Research ($7.76B in 2023 at 15.1% CAGR) uses the broadest definition. Zylos Research ($3.42B in 2025 at 30.27% CAGR) focuses on edge deployment specifically. Both are valid for different market framings.",
+    "growth_1y (+84%) derived from Gartner AI PC shipment proxy (77.8M in 2025 → 143.1M in 2026), as direct SLM deployment figures are not uniformly tracked.",
+    "growth_3m (+47%) is an estimated figure based on observed acceleration in H1 2026 model releases and enterprise adoption reports. No single authoritative quarterly market figure available.",
+    "growth_5y (+1,100%) is a rough market estimate reflecting market emergence from ~$0.5-1B in 2021 (pre-SLM era) to ~$12B+ in 2026 across sources. Treat as directional, not precise.",
+    "Apple Foundation Models deployment count (1B+ devices) is based on cumulative active iOS 18+/macOS Sequoia+ device base as of mid-2026, per Apple market data."
+  ]
+}
