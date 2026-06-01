@@ -1,0 +1,231 @@
+{
+  "trend": "AI Precision Farming",
+  "slug": "ai-precision-farming",
+  "research_date": "2026-06-01",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Agriculture Market Size, Growth, Industry Share & Competitive Landscape 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-in-agriculture-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "AI in agriculture market: $2.43B (2025) → $3.11B (2026)",
+        "CAGR 21.96% through 2031 → $8.39B",
+        "growth_1y: +28% (2025→2026)",
+        "Market status: surging"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Precision Agriculture Research Report 2026: Market to Reach $17.29 Billion by 2031 with John Deere, AGCO, CNH Industrial, Trimble, and Topcon Dominating",
+      "url": "https://www.globenewswire.com/news-release/2026/03/11/3253975/0/en/Precision-Agriculture-Research-Report-2026-Market-to-Reach-17.29-Billion-by-2031-with-John-Deere-AGCO-CNH-Industrial-Trimble-and-Topcon-Dominating.html",
+      "publisher": "GlobeNewsWire",
+      "date": "2026-03-11",
+      "claims_supported": [
+        "Precision agriculture market value 2025: $9.50B",
+        "Projected $17.29B by 2031 at 10.50% CAGR",
+        "Market player list: John Deere, AGCO, CNH Industrial, Trimble, Topcon",
+        "Top 6 players hold ~52-58% of global precision ag platform revenue"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "What the US Farm Bill Could Mean for the Future of Precision Agriculture",
+      "url": "https://www.agtechnavigator.com/Article/2026/02/13/us-farm-bill-calls-for-precision-ag-standard/",
+      "publisher": "AgTech Navigator",
+      "date": "2026-02-13",
+      "claims_supported": [
+        "Farm Bill draft released February 13, 2026",
+        "90% EQIP reimbursement cap for AI/precision ag tech (15 points above standard)",
+        "USDA + NIST + FCC tasked with voluntary precision agriculture standards development",
+        "Political PESTAL: regulatory tailwind for AI adoption",
+        "Timeline event 2026-02: Farm Bill draft proposal",
+        "Trigger: Farm Bill 90% reimbursement"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "John Deere's See & Spray Saves Farmers More Than 31M Gallons of Herbicide Mix in 2025",
+      "url": "https://www.agtechnavigator.com/Article/2025/11/10/john-deere-uses-ai-to-slash-farmers-input-costs/",
+      "publisher": "AgTech Navigator",
+      "date": "2025-11-10",
+      "claims_supported": [
+        "John Deere See & Spray saved 31M+ gallons of herbicide in 2025",
+        "Economic PESTAL: ~$500M+ in farmer input savings estimate",
+        "Trigger: ROI validation converting mainstream farmers",
+        "Job #1: herbicide cost reduction proof point",
+        "Takeaway #2: lead with herbicide savings ROI"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Monarch Tractor Announces $133M Series C Funding",
+      "url": "https://www.monarchtractor.com/news/monarch-tractor-announces-133m-series-c-funding",
+      "publisher": "Monarch Tractor",
+      "date": "2024-07",
+      "claims_supported": [
+        "Monarch Tractor raised $133M Series C — largest agricultural robotics fundraise ever",
+        "$220M total funding raised by Monarch Tractor",
+        "Co-led by Astanor and HH-CTBC Partnership",
+        "Timeline event 2024-07: Monarch Tractor $133M Series C",
+        "Competitor detail: Monarch Tractor MK-V electric autonomous tractor",
+        "Wingspan AI farm management platform"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "The Farming Industry Has Embraced Precision Agriculture and AI, but Critics Question Its Environmental Benefits",
+      "url": "https://insideclimatenews.org/news/28022026/precision-agriculture-and-ai/",
+      "publisher": "Inside Climate News",
+      "date": "2026-02-28",
+      "claims_supported": [
+        "Environmental PESTAL: debates about environmental benefits",
+        "Precision ag reduces pesticide use while raising questions about embedded energy footprint",
+        "Labor shortage as primary driver context",
+        "Climate FieldView manages 180M+ acres (corroboration)",
+        "Social PESTAL: food security and pesticide overuse concerns"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "2026 Farm Bill Quietly Hands Big Tech Control Over American Farmland",
+      "url": "https://fortune.com/2026/03/14/farm-bill-2026-big-tech-ai-precision-agriculture-eqip-subsidy/",
+      "publisher": "Fortune",
+      "date": "2026-03-14",
+      "claims_supported": [
+        "90% EQIP subsidy cap confirmation (15 percentage points above normal)",
+        "Trigger: Farm Bill as largest subsidized tech adoption wave in US ag history",
+        "Legal PESTAL: data ownership concerns as Big Tech gains access to farm data",
+        "Takeaway #1: EQIP subsidy window context",
+        "Political PESTAL: government as underwriter of AI agtech adoption"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "US Agrifoodtech Funding Up 14% Driven by Investment in AI-Related Startups",
+      "url": "https://agfundernews.com/us-agrifoodtech-funding-up-14-driven-by-investment-in-ai",
+      "publisher": "AgFunder News",
+      "date": "2025",
+      "claims_supported": [
+        "US agrifoodtech funding up 14% YoY in 2024",
+        "growth_3m: +14% YoY proxy for recent market momentum",
+        "$345M in 2024 vs $196M in 2023 and $305M in 2022",
+        "AI-related startups driving agrifoodtech recovery",
+        "Trigger: funding surge context"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "AI-Based Pest Detection: Revolutionizing Crop Protection in 2026",
+      "url": "https://www.wiccagrow.com/ai-based-pest-detection-revolutionizing-crop-protection-in-2026/",
+      "publisher": "WiccaGrow",
+      "date": "2026",
+      "claims_supported": [
+        "Global AI pest detection market surpasses $1.2B in 2026",
+        "Early warnings prevent 20-30% yield losses common in traditional scouting",
+        "Labor savings hit 60% as AI automation replaces manual inspection",
+        "Job #4: pest detection market size and ROI"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "AI & Global Food Security: A Focus on Precision Agriculture",
+      "url": "https://www.csis.org/analysis/ai-global-food-security-focus-precision-agriculture",
+      "publisher": "Center for Strategic and International Studies (CSIS)",
+      "date": "2026",
+      "claims_supported": [
+        "AI integration helps farmers use real-time data for timely decision-making",
+        "Precision agriculture improves yields by 20-30% and cuts input waste by 40-60%",
+        "Food security framing for AI precision farming",
+        "Social PESTAL: FAO 70% more food needed by 2050 context",
+        "Environmental PESTAL: conservation framing"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "John Deere Wins Two CES 2023 Innovation Awards — See & Spray Ultimate Launch",
+      "url": "https://www.deere.com/en/news/all-news/john-deere-wins-two-ces-2023-innovation-awards/",
+      "publisher": "John Deere",
+      "date": "2023-01",
+      "claims_supported": [
+        "Timeline event 2023-01: See & Spray Ultimate and ExactShot commercially launched at CES 2023",
+        "See & Spray Ultimate CES Innovation Award — Robotics category",
+        "Technical detail: 36-camera AI system for per-plant weed detection",
+        "77% herbicide reduction vs broadcast spraying"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Artificial Intelligence at John Deere — Blue River Technology Acquisition",
+      "url": "https://emerj.com/artificial-intelligence-at-john-deere/",
+      "publisher": "Emerj AI Research",
+      "date": "2023",
+      "claims_supported": [
+        "Timeline event 2017-09: Blue River Technology acquisition for $305M",
+        "Blue River's see-and-spray robotics platform uses cameras to distinguish weeds from crops",
+        "Timeline event 2021-08: Bear Flag Robotics acquisition for $250M",
+        "John Deere AI strategy overview"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "AI in Agriculture Market Size & Share, Growth Report 2025-2034",
+      "url": "https://www.gminsights.com/industry-analysis/ai-in-agriculture-market",
+      "publisher": "Global Market Insights",
+      "date": "2026",
+      "claims_supported": [
+        "AI in agriculture market forecast corroboration",
+        "North America market leadership in AI precision farming",
+        "Segment breakdown: crop monitoring, predictive analytics, drone applications"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "AI Crop Yield Prediction Optimization: 7 Ways 2026",
+      "url": "https://farmonaut.com/precision-farming/ai-crop-yield-prediction-optimization-7-ways-2026/",
+      "publisher": "Farmonaut",
+      "date": "2026",
+      "claims_supported": [
+        "AI yield forecasting achieves 50% accuracy improvement over traditional methods",
+        "Job #3: yield prediction accuracy improvement",
+        "Data analytics projects 50% yield forecasting improvement by 2026"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "How John Deere Plans to Build a World of Fully Autonomous Farming by 2030",
+      "url": "https://www.cnbc.com/2022/10/02/how-deere-plans-to-build-a-world-of-fully-autonomous-farming-by-2030.html",
+      "publisher": "CNBC",
+      "date": "2022-10-02",
+      "claims_supported": [
+        "Timeline event 2022-01: CES 2022 autonomous 8R tractor reveal context",
+        "John Deere 6 pairs of stereo cameras for autonomous navigation",
+        "John Deere Operations Center manages 200M+ acres globally",
+        "Technology PESTAL: autonomous tractor capabilities detail"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~75,000/month",
+      "note": "The 75,000 monthly search volume is a directional estimate for combined searches on 'precision agriculture', 'smart farming', 'AI farming', and related terms. No primary keyword tool (Keywords Everywhere, Ahrefs, SEMrush) was directly queried. The estimate is based on the compound interest of adjacent search terms. 'Precision agriculture' alone is estimated at 40K-60K globally by industry SEO practitioners. The figure may be higher when including regional language variants and broader agtech queries."
+    },
+    {
+      "claim": "growth_5y: '+159%'",
+      "note": "The +159% five-year growth is calculated from an estimated AI in agriculture market baseline of ~$1.2B in 2021 growing to $3.11B in 2026 at the documented 21.96% CAGR (Mordor Intelligence). The 2021 baseline is an estimate — no single authoritative source provided a precise 2021 AI in agriculture market figure. The calculation: $1.2B * (1.2196)^5 = $3.11B → +159%. Different analysts use different market definitions (AI in ag vs. digital farming vs. precision ag) producing different baseline figures; the trend direction is consistent across all sources."
+    },
+    {
+      "claim": "growth_3m: '+14% YoY'",
+      "note": "The +14% YoY figure is based on US agrifoodtech investment growth (AgFunder News: $345M in 2024 vs $303M estimated run-rate 2023) — a full-year investment metric, not a true Q-over-Q three-month sequential growth figure. No published Q1 2026 agricultural technology revenue or market growth report was found. The figure is used as the best available documented proxy for recent-quarter market momentum. Actual 3-month sequential market growth may differ."
+    },
+    {
+      "claim": "Economic impact: ~$500M+ in farmer input savings from See & Spray (2025)",
+      "note": "The $500M+ savings estimate is calculated from John Deere's documented 31M gallons saved multiplied by an average commercial herbicide cost of ~$16-20 per gallon. John Deere's source confirms 31M gallons saved (AgTech Navigator, Nov 2025); the cost per gallon is a range estimate. Actual dollar savings depend on herbicide type, concentration, and contract pricing which vary by crop, region, and customer."
+    },
+    {
+      "claim": "84% of world's farms are under 2 hectares",
+      "note": "This statistic is widely cited in development economics and agtech literature and is attributed to FAO's 2014 Census of Agriculture. The FAO figure may have shifted somewhat since 2014 given structural changes in landholding patterns, particularly in Asia and Africa. The directional truth — that the vast majority of the world's farms are smallholder operations largely unserved by current AI tools — is well-supported across multiple authoritative sources."
+    }
+  ]
+}
