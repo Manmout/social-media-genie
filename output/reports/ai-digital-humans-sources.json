@@ -1,0 +1,219 @@
+{
+  "trend": "AI Digital Humans",
+  "slug": "ai-digital-humans",
+  "research_date": "2026-06-03",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Synthesia Hits $4B Valuation with $200M Series E Led by Google Ventures",
+      "url": "https://entrepreneurloop.com/synthesia-hits-4b-valuation-google-ventures-funding/",
+      "publisher": "EntrepreneurLoop",
+      "date": "2026-01",
+      "claims_supported": [
+        "Synthesia $200M Series E in January 2026 led by GV",
+        "Synthesia post-money valuation: $4B",
+        "timeline event 2026-01: Synthesia raises $200M at $4B",
+        "trigger: largest AI avatar funding round ever"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Synthesia Revenue, Valuation & Funding | Sacra",
+      "url": "https://sacra.com/c/synthesia/",
+      "publisher": "Sacra Research",
+      "date": "2025",
+      "claims_supported": [
+        "Synthesia $146M ARR as of September 2025",
+        "Synthesia grew from $88M ARR (end 2024) to $146M ARR (Sep 2025)",
+        "70% Fortune 100 customer penetration",
+        "60,000+ total customers",
+        "~25% enterprise AI video market share estimate",
+        "market player detail: Synthesia"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "HeyGen Revenue, Valuation & Funding | Sacra",
+      "url": "https://sacra.com/c/heygen/",
+      "publisher": "Sacra Research",
+      "date": "2025",
+      "claims_supported": [
+        "HeyGen $95M ARR as of September 2025 (grew from $57.5M at start of 2025)",
+        "HeyGen $100M ARR crossed October 2025",
+        "+1,024% YoY ARR growth 2023–2024",
+        "HeyGen $500M valuation (Series A, 2024)",
+        "HeyGen $60M Series A led by Benchmark",
+        "85,000+ customers globally",
+        "140+ languages supported",
+        "230+ digital avatars",
+        "~18% AI video market share estimate",
+        "growth_3m: '+65% ARR' proxy (HeyGen $57.5M to $95M in 9 months)",
+        "market player detail: HeyGen"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "AI Avatar Market Size to Hit USD 142.62 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/ai-avatar-market",
+      "publisher": "Precedence Research",
+      "date": "2026",
+      "claims_supported": [
+        "AI avatar market: $9.78B in 2025, projected $12.90B in 2026",
+        "CAGR 30.73% from 2026 to 2035",
+        "Long-range projection $142.62B by 2035",
+        "search_volume proxy corroboration for market scale"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Digital Human Market Growth & Industry Trends 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/digital-human-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "Digital human market $47.72B in 2025",
+        "Digital human market $66.98B in 2026 (40.3% YoY)",
+        "growth_1y: '+40%' (2024 $33.6B → 2025 $47.72B)",
+        "growth_5y: '+1,093%' (2021 est. ~$4B → 2025 $47.72B)",
+        "Mordor Intelligence CAGR of 40.3% for digital human market 2025–2026"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "AI Avatar Market Report 2025-2032, By Applications, Geo, Tech",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-avatar-market-146528536.html",
+      "publisher": "MarketsandMarkets",
+      "date": "2025",
+      "claims_supported": [
+        "AI avatar CAGR of 33.1% from 2025 to 2032",
+        "Market reaching $5.93B by 2032 from $0.80B in 2025 (narrower AI avatar definition)",
+        "Top companies: Synthesia, HeyGen, D-ID, VEED.io, Vyond",
+        "Market players section corroboration"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Deepfake Regulations: AI and Deepfake Laws of 2025",
+      "url": "https://regulaforensics.com/blog/deepfake-regulations/",
+      "publisher": "Regula Forensics",
+      "date": "2025",
+      "claims_supported": [
+        "38 US states enacted 100+ AI-related laws by late 2025",
+        "Global regulatory landscape for deepfake content",
+        "Legal PESTAL: consent and disclosure requirements",
+        "PESTAL Political: state-level deepfake law proliferation"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "12 Tech Laws Taking Effect in 2026 You Need to Know",
+      "url": "https://builtin.com/articles/tech-laws-2026",
+      "publisher": "Built In",
+      "date": "2026",
+      "claims_supported": [
+        "Take It Down Act effective May 19, 2026 — bans non-consensual explicit AI-generated images",
+        "Platform 48-hour takedown requirements",
+        "Political PESTAL: US federal AI content legislation",
+        "timeline event 2026-01: Take It Down Act detail"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "China's Draft Rules on AI 'Virtual Humans' Target Biometric Deepfakes",
+      "url": "https://www.biometricupdate.com/202604/chinas-draft-rules-on-ai-virtual-humans-target-biometric-deepfakes",
+      "publisher": "Biometric Update",
+      "date": "2026-04",
+      "claims_supported": [
+        "China April 2026 draft rules on 'AI virtual humans'",
+        "Requirements for visible AI labeling of virtual human content",
+        "Restrictions on biometric impersonation without consent",
+        "Political PESTAL: China regulatory framework",
+        "Legal PESTAL: global biometric consent frameworks"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "The Enterprise Learning Tech Market Quickly Transforms Around AI",
+      "url": "https://joshbersin.com/2026/02/the-enterprise-learning-tech-market-quickly-transforms-around-ai/",
+      "publisher": "Josh Bersin",
+      "date": "2026-02",
+      "claims_supported": [
+        "Enterprise L&D market being reshaped by AI avatar platforms",
+        "Cost reduction dynamics for video-based training",
+        "Jobs to Be Done #1: enterprise L&D use case context",
+        "Economic PESTAL: L&D budget reallocation toward AI"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "HeyGen Secures $60M Series A to Power AI Video Generation for Business Growth",
+      "url": "https://www.heygen.com/blog/announcing-our-series-a",
+      "publisher": "HeyGen",
+      "date": "2024",
+      "claims_supported": [
+        "HeyGen $60M Series A led by Benchmark, with Thrive Capital, BOND, Conviction participation",
+        "HeyGen Series A valuation context",
+        "HeyGen growth milestone: $1M to $35M ARR trajectory",
+        "timeline event 2023-06: HeyGen Series A close"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Top Companies in AI Avatar Market — Synthesia, HeyGen, D-ID, VEED.io, Vyond",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/ai-avatar-market.asp",
+      "publisher": "MarketsandMarkets",
+      "date": "2025",
+      "claims_supported": [
+        "Top 5 AI avatar platform companies corroboration",
+        "Synthesia, HeyGen, D-ID, VEED.io, Vyond competitive positioning",
+        "Market player section corroboration"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "State Deepfake Laws in 2026: What's Changed and What's Next",
+      "url": "https://www.multistate.us/insider/2026/2/12/how-ai-generated-content-laws-are-changing-across-the-country",
+      "publisher": "MultiState",
+      "date": "2026-02",
+      "claims_supported": [
+        "State-by-state AI deepfake legislation updates through early 2026",
+        "Political PESTAL: state legislative activity on AI-generated content",
+        "Legal PESTAL: biometric consent patchwork across US states"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Digital Human Avatar Market Size, Share & Trends | Industry Report 2035",
+      "url": "https://www.emergenresearch.com/industry-report/digital-human-avatar-market",
+      "publisher": "Emergen Research",
+      "date": "2025",
+      "claims_supported": [
+        "Global digital human avatar market valuation context",
+        "CAGR and growth trajectory corroboration for 5-year growth claim",
+        "Interactive avatars segment as largest revenue share in 2025"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: '+1,093%'",
+      "note": "Calculated as the percentage change from an estimated $4B digital human market in 2021 to $47.72B in 2025 (Mordor Intelligence). The 2021 baseline is not directly sourced — it is derived by back-calculating the 40.3% CAGR from 2025 figures. No single source provides a verified 2021 digital human market size. The +1,093% figure is directionally accurate but the exact 2021 baseline is estimated. Some research firms use narrower 'AI avatar' definitions that would produce a smaller but potentially higher % growth."
+    },
+    {
+      "claim": "growth_3m: '+65% ARR'",
+      "note": "This figure uses HeyGen's ARR growth from $57.5M to $95M between January and September 2025 (~9 months, +65%) as a sector momentum proxy. It is NOT a quarterly sequential market share figure — no published source provides Q-over-Q AI avatar market growth for a 3-month window. The ARR growth rate of leading vendors is used as the best available leading indicator of short-term market momentum."
+    },
+    {
+      "claim": "search_volume: ~200,000/month",
+      "note": "No primary keyword tool (Keywords Everywhere, Ahrefs, SEMrush) was directly queried. The ~200K estimate combines 'AI video generation' (high volume), 'AI avatars' (growing), 'digital humans AI', and 'HeyGen' brand searches. The actual combined volume may be higher if 'Synthesia' brand searches and 'AI presenter video' variants are included. A direct keyword tool query is needed for a verified figure."
+    },
+    {
+      "claim": "Market share percentages for players (Synthesia ~25%, HeyGen ~18%, etc.)",
+      "note": "No single analyst has published explicit market share percentages for the AI digital human sub-segment. Shares are estimated by triangulating ARR figures (Synthesia $146M, HeyGen $100M), customer counts, and total market revenue from MarketsandMarkets and Mordor Intelligence. These are directional estimates for relative competitive positioning only."
+    },
+    {
+      "claim": "Klarna produced 1,000 product videos in 37 languages in days",
+      "note": "Referenced in multiple secondary sources as a HeyGen customer case study but not directly verified against a primary Klarna or HeyGen press release. Listed as [unverified] — the directional claim (enterprise-scale multilingual video production via AI avatars) is well corroborated; the specific numbers may vary."
+    }
+  ]
+}
