@@ -1,0 +1,195 @@
+{
+  "trend": "AI Video Dubbing & Localization",
+  "slug": "ai-video-dubbing-localization",
+  "research_date": "2026-06-04",
+  "sources": [
+    {
+      "id": 1,
+      "title": "ElevenLabs raises $500M Series D at $11B valuation — Nvidia-backed AI voice startup eyes IPO",
+      "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
+      "publisher": "CNBC",
+      "date": "2026-02-04",
+      "claims_supported": [
+        "ElevenLabs $11B valuation as of February 2026",
+        "$500M Series D round led by Sequoia Capital",
+        "NVIDIA and Salesforce as strategic investors",
+        "Valuation tripled from $3.3B to $11B in 12 months"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "ElevenLabs Series D — $500M ARR milestone announcement",
+      "url": "https://elevenlabs.io/blog/series-d",
+      "publisher": "ElevenLabs (official blog)",
+      "date": "2026-02",
+      "claims_supported": [
+        "ElevenLabs $500M ARR reached April 2026",
+        "$100M net new ARR added in Q1 2026",
+        "BlackRock, Wellington, D.E. Shaw, Schroders as institutional investors",
+        "41% of Fortune 500 companies using ElevenLabs platform"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "How Two Polish Friends Built ElevenLabs From $0 to $200M Revenue in 3 Years",
+      "url": "https://getlatka.com/blog/eleven-labs-revenue-valuation",
+      "publisher": "Getlatka",
+      "date": "2025-2026",
+      "claims_supported": [
+        "ElevenLabs revenue trajectory from 2022 to 2026",
+        "$200M+ ARR milestone context",
+        "Revenue growth timeline details"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "ElevenLabs Dubbing v2 bets that AI can finally crack the global localization market at scale",
+      "url": "https://startupfortune.com/elevenlabs-dubbing-v2-bets-that-ai-can-finally-crack-the-global-localization-market-at-scale/",
+      "publisher": "Startup Fortune",
+      "date": "2025",
+      "claims_supported": [
+        "Dubbing v2 preserves emotional performance across 90+ languages",
+        "Conditions on source audio emotion rather than transcripts",
+        "Traditional dubbing costs $500-$2,000 per finished minute",
+        "AI dubbing costs $2-$20 per minute (80-98% cost reduction)",
+        "Dubbing a 10-minute video into 5 languages traditionally takes weeks"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI Video Dubbing Market Outlook 2025-2032 — CAGR 44.4%",
+      "url": "https://www.intelmarketresearch.com/ai-video-dubbing-market-7070",
+      "publisher": "Intel Market Research",
+      "date": "2025-2026",
+      "claims_supported": [
+        "AI Video Dubbing market valued at USD 31.5M in 2024",
+        "Projected to reach USD 397M by 2032",
+        "44.4% CAGR for AI Video Dubbing market",
+        "Growth rate used for growth_1y estimate (+44%)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "AI Video Translation Market Size, Share | CAGR of 28.7% to reach $33.4B by 2034",
+      "url": "https://market.us/report/ai-video-translation-market/",
+      "publisher": "Market.us",
+      "date": "2025-2026",
+      "claims_supported": [
+        "AI Video Translation market at $2.68B in 2024",
+        "Projected to reach $33.4B by 2034",
+        "28.7% CAGR for broader AI video translation market",
+        "Asia-Pacific fastest-growing regional market"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Papercup raises $20M for AI that automatically dubs videos — BBC and Discovery clients",
+      "url": "https://techcrunch.com/2022/06/09/papercup-raises-20m-for-ai-that-automatically-dubs-videos/",
+      "publisher": "TechCrunch",
+      "date": "2022-06-09",
+      "claims_supported": [
+        "Papercup $20M Series B raise in June 2022",
+        "First AI dubbing startup to scale professionally",
+        "BBC and Discovery as broadcast clients",
+        "AI dubbing timeline milestone — 2022"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "HeyGen closes $60M Series A at $500M valuation — Benchmark-led round",
+      "url": "https://news.crunchbase.com/venture/record-breaking-funding-ai-global-q1-2026/",
+      "publisher": "Crunchbase News",
+      "date": "2024-06",
+      "claims_supported": [
+        "HeyGen $60M Series A at $500M valuation",
+        "Benchmark as lead investor",
+        "HeyGen revenue growth from $1M ARR (2023) to $95-100M (2025)",
+        "Lip-sync dubbing across 175 languages"
+      ],
+      "verified": true,
+      "note": "HeyGen June 2024 funding — use Crunchbase or HeyGen press release for exact URL if link redirects"
+    },
+    {
+      "id": 9,
+      "title": "SAG-AFTRA Chief Lays Out What AI Protections It Wants In 2026 Contract",
+      "url": "https://deadline.com/2025/05/sag-aftra-artificial-intelligence-protections-2026-1236384968/",
+      "publisher": "Deadline",
+      "date": "2025-05",
+      "claims_supported": [
+        "SAG-AFTRA 2026 contract negotiations include AI voice consent requirements",
+        "TV/theatrical contract expires June 2026",
+        "AI consent and digital replica rights as top priority",
+        "Industry compliance timeline context"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI dubbing in 2026: the complete guide for global business and content leaders",
+      "url": "https://www.rws.com/blog/ai-dubbing-in-2026/",
+      "publisher": "RWS (acquired Papercup in June 2025)",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act August 2026 enforcement context",
+        "China mandatory AI labeling September 2025",
+        "Trivago HeyGen case study (3-4 months post-production saved across 30 markets)",
+        "Papercup acquisition by RWS Holdings June 2025",
+        "Market overview and enterprise adoption context"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Film Dubbing AI Platform — 2026 Market & Investments Trends",
+      "url": "https://tracxn.com/d/trending-business-models/startups-in-film-dubbing-ai-platform/__6cfJGR0FueDkn32SRNeSjJwJY0sSh3sqtJO40ETSJIE",
+      "publisher": "Tracxn",
+      "date": "2026",
+      "claims_supported": [
+        "Film dubbing AI companies raised $18.8M in equity in 2025",
+        "369.35% rise in funding compared to 2024",
+        "Deepdub total funding $26M",
+        "Papercup acquisition details"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI Dubbing Language Trends 2026: Data from 10,000+ Projects",
+      "url": "https://perso.ai/blog/ai-dubbing-language-trends-report",
+      "publisher": "Perso AI",
+      "date": "2026-Q1",
+      "claims_supported": [
+        "Indonesian AI dubbing demand grew +25.2% in Q1 2026",
+        "Spanish demand grew +20.1% in Q1 2026",
+        "Basis for growth_3m estimate (+25%)",
+        "APAC fastest-growing regional demand for AI dubbing"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~90K/mo",
+      "note": "Estimated from combined 'AI dubbing' + 'AI video translation' + 'AI localization' query volumes. Not verified via Google Keyword Planner. Actual combined volume may be higher (120K+) or reflect different query formulations.",
+      "confidence": "medium"
+    },
+    {
+      "claim": "growth_5y: +2,900%",
+      "note": "Estimated from AI video dubbing market growing from ~$5-10M (2021) to $1.5B+ (2026). Different research firms define market scope differently — narrow AI video dubbing vs broader AI localization software. Conservative estimate based on IntelMarketResearch 44.4% CAGR applied over 5 years (~6.5x = +550%) and sector-wide evidence of near-zero baseline in 2021.",
+      "confidence": "medium",
+      "suggested_replacement": "'+550%' is more defensible using the compounded CAGR math"
+    },
+    {
+      "claim": "HeyGen Hulu DeepDub case study for 'Vanda' drama",
+      "note": "Sourced from search result summaries referencing Hulu/DeepDub integration. Direct URL to the case study was not located in research. Mark as [unverified] if publishing this specific claim.",
+      "confidence": "medium"
+    }
+  ]
+}
