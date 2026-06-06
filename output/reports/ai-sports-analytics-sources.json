@@ -1,0 +1,123 @@
+{
+  "slug": "ai-sports-analytics",
+  "trend_name": "AI in Sports Analytics",
+  "research_date": "2026-06-06",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI In Sports Market Share, Size, Trends, Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/ai-in-sports-global-market-report",
+      "publisher": "The Business Research Company",
+      "claim": "AI in sports market worth $9.76B in 2026, growing at 27.85% CAGR toward $33.32B by 2031.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI in Sports Market Size, Share and Trends 2026 to 2035",
+      "url": "https://www.precedenceresearch.com/ai-in-sports-market",
+      "publisher": "Precedence Research",
+      "claim": "Global AI in sports market projected to surpass $27B–$33B by 2030–2031 at ~28–30% CAGR; North America leads with the largest regional share.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "The Future of Football Is Here: AI Solutions To Power FIFA World Cup 2026™",
+      "url": "https://news.lenovo.com/pressroom/press-releases/future-of-football-ai-solutions-power-fifa-world-cup-2026/",
+      "publisher": "Lenovo StoryHub (official press release)",
+      "claim": "Lenovo named FIFA's Official Technology Partner for World Cup 2026; deploying Football AI Pro (trained on 2,000+ metrics, millions of FIFA data points) to all 48 national teams; edge AI infrastructure for real-time broadcast and operational support across 16 stadiums.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Faster offside decisions, referee body cams and more analysis: innovation at FIFA World Cup 2026™",
+      "url": "https://inside.fifa.com/news/offside-decisions-referee-body-cams-innovation-world-cup-2026",
+      "publisher": "FIFA (official)",
+      "claim": "16 optical tracking cameras per stadium generating 150M data points per match; 3D player avatars scanned in ~1 second; instantaneous AI-assisted VAR offside decisions delivered directly to assistant referees on the pitch — first use at a FIFA World Cup.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI in Sports Analytics Market — CAGR of 33.0%",
+      "url": "https://market.us/report/ai-in-sports-analytics-market/",
+      "publisher": "Market.us",
+      "claim": "AI in sports analytics segment growing at 33% CAGR; $0.9B in 2023 to $15.6B by 2033. Broader AI in sports at 30.3% CAGR per separate Market.us report.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "AI's World Cup debut: real-time data poised to reshape football strategy",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3353833/ais-world-cup-debut-real-time-data-poised-reshape-football-strategy-level-field",
+      "publisher": "South China Morning Post",
+      "claim": "82% of sports organizations have adopted AI as of 2026; 75% of professional teams rely on real-time analytics for performance and strategy; 3 in 4 report tangible financial results.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "World Cup 2026 sparks a $11bn transformation",
+      "url": "https://www.businessdailyafrica.com/bd/opinion-analysis/columnists/world-cup-2026-sparks-a-11bn-transformation-5481408",
+      "publisher": "Business Daily Africa",
+      "claim": "FIFA World Cup 2026 projected to generate $10.9B in revenue (nearly double Qatar 2022); $320M in incremental analytics platform investments across participating nations.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Why More Teams Are Switching to AI-Powered Sports Analytics",
+      "url": "https://wsc-sports.com/blog/industry-insights/why-more-teams-are-switching-to-ai-powered-sports-analytics/",
+      "publisher": "WSC Sports",
+      "claim": "WSC Sports delivers 150M+ AI-generated clips per year to 160+ sports rights holders; claims 4x engagement uplift from AI video vs. human-edited clips.",
+      "verified": true,
+      "note": "Source is WSC Sports company blog — figures directionally reliable but commercially motivated; treat engagement data as self-reported"
+    },
+    {
+      "id": 9,
+      "title": "Sportradar Group AG — Form 6-K FY2026 Q1 (SEC filing)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001836470/000110465926049763/tm2612832d1_ex99-2.htm",
+      "publisher": "SEC / Sportradar (official regulatory filing)",
+      "claim": "Sportradar Q1 2026 revenue €347M (+11% YoY). Q4 2025 revenue €369M (+20% YoY).",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Genius Sports Ltd — Form 6-K FY2025 (SEC filing)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001834489/000119312526089847/geni-ex99_1.htm",
+      "publisher": "SEC / Genius Sports (official regulatory filing)",
+      "claim": "Genius Sports FY2025 total group revenue $669.5M — an increase of $158.6M year-over-year.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "What the FIFA World Cup 2026 Reveals About Enterprise AI at Scale",
+      "url": "https://cmrindia.com/what-the-fifa-world-cup-2026-reveals-about-enterprise-ai-at-scale/",
+      "publisher": "CMR India",
+      "claim": "Lenovo's Football AI Pro trained on millions of FIFA-owned data points and 2,000+ football-specific metrics; provides live substitution and tactical suggestions based on fatigue markers.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "How AI & Sports Analytics Are Transforming Every Sport in 2026",
+      "url": "https://medium.com/@nithinnarla/the-data-behind-the-game-how-ai-sports-analytics-are-transforming-every-sport-in-2026-94ebe8193418",
+      "publisher": "Medium",
+      "claim": "Computer vision tracks players 20 times per second; wearable sensors measure exertion at the cellular level; neural networks process billions of recorded sports events.",
+      "verified": false,
+      "note": "Medium blog post — use as qualitative context only; specific technical figures should be cross-referenced with primary vendor sources [unverified]"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Catapult Sports used by 68% of Premier League clubs",
+      "note": "Widely cited in sports analytics coverage but no primary source found with exact survey methodology. Catapult's website claims 3,500+ elite teams across 40+ sports. [unverified — treat as directional]"
+    },
+    {
+      "claim": "AI injury prevention saves NFL franchises $1–3M per avoided ACL surgery",
+      "note": "Derived from public estimates of player replacement and lost performance costs. No single authoritative source published this specific figure. [unverified — calculated estimate]"
+    },
+    {
+      "claim": "Sportradar holds ~15% market share by revenue in AI in sports",
+      "note": "Calculated by dividing Sportradar's ~$1.5B annual revenue against The Business Research Company's $9.76B total market. Assumes both figures use comparable market definitions, which is uncertain. [unverified — calculated estimate]"
+    },
+    {
+      "claim": "Sports betting legal in 38 U.S. states creating $10B+ annual wagering market",
+      "note": "State-level legalization count is directionally accurate as of mid-2025 but exact state count varies by source due to ongoing legislative activity. Wagering market size ($10B+) is widely reported but varies significantly by source definition (gross vs. net revenue). [partially verified]"
+    }
+  ]
+}
