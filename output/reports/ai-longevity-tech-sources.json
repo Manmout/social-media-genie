@@ -1,0 +1,143 @@
+{
+  "trend": "AI Longevity Tech",
+  "slug": "ai-longevity-tech",
+  "research_date": "2026-06-07",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Anti-aging Market Size to Hit USD 149.54 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/anti-aging-market",
+      "publisher": "Precedence Research",
+      "claim": "Global anti-aging market $83.21B in 2026, growing at 6.73% CAGR to $149.54B by 2035",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Longevity and Anti-Aging Drugs Market Size | Forecast 2035",
+      "url": "https://www.globalgrowthinsights.com/market-reports/longevity-and-anti-aging-drugs-117260",
+      "publisher": "Global Growth Insights",
+      "claim": "Longevity drugs sub-market $19.18B (2025) → $21.47B (2026) at 11.9% CAGR, reaching $58.43B by 2035",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Sam Altman–backed AI biotech announces $1 billion to extend human life span",
+      "url": "https://fortune.com/2025/01/24/sam-altman-ai-biotech-1-billion-funding-extend-human-lifespan/",
+      "publisher": "Fortune",
+      "claim": "Sam Altman backed Retro Biosciences with $180M seed; company pursuing $1B Series A",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Aging startup Retro Bio chases $5 billion valuation",
+      "url": "https://www.statnews.com/2025/12/03/aging-startup-retro-bio-chases-5-billion-valuation/",
+      "publisher": "STAT News",
+      "claim": "Retro Biosciences chasing $5B valuation for Series A as of December 2025",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "FDA Greenlights Life Biosciences' First Human Epigenetic Reprogramming Trial",
+      "url": "https://fortune.com/2026/01/30/billionaires-longevity-aging-fda-human-clinical-trial-life-biosciences-jerry-mclaughlin-david-sinclair-harvard-science/",
+      "publisher": "Fortune",
+      "claim": "FDA cleared Life Biosciences IND application for first human epigenetic reprogramming trial (January 2026)",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "FDA clears first human trial of epigenetic reprogramming therapy",
+      "url": "https://longevity.technology/news/fda-clears-first-human-trial-of-epigenetic-reprogramming-therapy/",
+      "publisher": "Longevity Technology",
+      "claim": "Life Biosciences received FDA permission for gene therapy using partial Yamanaka factor epigenetic reprogramming",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "AI at the service of longevity: OpenAI explores cellular reprogramming",
+      "url": "https://www.techno-science.net/en/news/ai-at-the-service-of-longevity-openai-explores-cellular-reprogramming-N26382.html",
+      "publisher": "Techno-Science.net",
+      "claim": "OpenAI + Retro Biosciences AI models redesigned Yamanaka factors achieving 50x improvement in pluripotency markers (August 2025)",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Longevity Market Report 2026-2036: AI, Genomics and Regenerative Medicine",
+      "url": "https://finance.yahoo.com/news/longevity-market-report-2026-2036-114700102.html",
+      "publisher": "Yahoo Finance / Research and Markets",
+      "claim": "Longevity market report through 2036 citing AI, genomics, and regenerative medicine as key growth drivers",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Longevity Biotech Market Growth: How Fast Is Anti-Aging Science Advancing?",
+      "url": "https://patentpc.com/blog/longevity-biotech-market-growth-how-fast-is-anti-aging-science-advancing-new-stats",
+      "publisher": "PatentPC",
+      "claim": "Anti-aging market generated $85B+ in 2025; AI-driven models predict biological age with 97% accuracy",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Longevity Market Funding Trends (2022–2026)",
+      "url": "https://newmarketpitch.com/blogs/news/longevity-funding-trends",
+      "publisher": "New Market Pitch",
+      "claim": "Cellular reprogramming and epigenetics captured $4.7B (62% of all longevity VC funding) 2022–2026; AI drug discovery raised $480M (6% of total)",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "NewLimit raises $175M — Kleiner Perkins + Eli Lilly backing",
+      "url": "https://newmarketpitch.com/blogs/news/longevity-top-startups-fundraising",
+      "publisher": "New Market Pitch",
+      "claim": "NewLimit raised $175M backed by Kleiner Perkins and Eli Lilly for mRNA-based liver rejuvenation therapy",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Reversing Aging: How AI in 2026 is Rolling Back the Biological Clock",
+      "url": "https://insights.wchsb.com/2026/01/20/reversing-aging-how-ai-in-2026-is-rolling-back-the-biological-clock-and-why-it-scares-business/",
+      "publisher": "WCHSB Insights",
+      "claim": "AI biological age clocks now predict mortality risk; epigenetic clocks accepted as FDA surrogate endpoints",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Epigenetic Clocks in 2026: Horvath, GrimAge, DunedinPACE Compared",
+      "url": "https://geneediting101.com/articles/epigenetic-clocks-2026-update",
+      "publisher": "GeneEditing101",
+      "claim": "DunedinPACE measures biological aging rate from 173 CpG methylation sites; responds to interventions within 4–8 weeks",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "CES 2026 Trends: AI, Robotics and Longevity Tech",
+      "url": "https://www.vml.com/insight/ces-2026-trends-ai-robotics-longevity-tech",
+      "publisher": "VML / CES 2026",
+      "claim": "CES 2026 featured dedicated longevity tech pavilion; Withings Body Scan 2 tracks 60+ biomarkers",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "The longevity revolution is here. Our systems still think we die at 65",
+      "url": "https://fortune.com/2026/04/23/longevity-economy-aging-innovation-elder-corps/",
+      "publisher": "Fortune",
+      "claim": "Longevity economy broadly valued at $740B+ in 2026; systemic mismatch between longevity science and healthcare infrastructure",
+      "verified": true
+    },
+    {
+      "id": 16,
+      "title": "AI and Longevity: Consumer and Expert Attitudes — MIT AgeLab",
+      "url": "https://agelab.mit.edu/static/uploads/mit-agelab-ai-longevity_wp-04-21-1357_ada.pdf",
+      "publisher": "MIT AgeLab",
+      "claim": "MIT AgeLab research on AI applications in longevity across health, finance, workplace, and social domains",
+      "verified": true
+    }
+  ],
+  "notes": [
+    "search_volume (~90,000/mo) is an estimate for the 'longevity' keyword category; exact figures for 'AI longevity tech' keyword require SEMrush/Ahrefs direct query [unverified]",
+    "growth_5y (+77%) calculated from anti-aging market ~$47B estimate in 2021 vs $83.21B in 2026 per Precedence Research — reflects broad anti-aging market, not AI-specific sub-segment",
+    "growth_1y (+12%) is the 11.9% CAGR for longevity drugs sub-market per Global Growth Insights",
+    "growth_3m (+50x) refers to the OpenAI + Retro Bio efficiency improvement in cellular reprogramming — a technical/biological milestone, not a market size metric",
+    "Altos Labs valuation ($5B+) sourced from Longevity Initiative reporting; precise current valuation not publicly disclosed",
+    "Retro Biosciences $1B Series A details are based on December 2025 reporting of fundraising intent; closing terms may differ"
+  ]
+}
