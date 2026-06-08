@@ -1,0 +1,96 @@
+{
+  "trend": "AI Defense Technology",
+  "slug": "ai-defense-tech",
+  "researched": "2026-06-08",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+      "claim": "Anduril closes $5B Series H at $61B post-money valuation (May 2026), doubling from $30.5B; CEO disclosed $2.2B of 2025 revenue",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Tech Insider",
+      "url": "https://tech-insider.org/shield-ai-1-5-billion-series-g-12-7-billion-valuation-cca-aechelon-2026/",
+      "claim": "Shield AI raises $1.5B at $12.7B valuation (March 2026); $540M+ revenue projected for 2026; V-BAT and Hivemind AI pilot program details",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-military-market-report",
+      "claim": "Global AI in military market valued at USD 9.31B in 2024, growing at 13.0% CAGR from 2025 to 2030; ~4.2x expansion over five years cited by MarketsandMarkets",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "CCS Global Tech",
+      "url": "https://ccsglobaltech.com/federal-contractors-defense-ai-strategy/",
+      "claim": "Pentagon FY2026 budget allocates $13.4B for AI and autonomous systems — largest single-year US defense AI investment in history",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Augment Market",
+      "url": "https://augment.market/pulse/anduril-at-61b-and-defense-techs-2026-reset",
+      "claim": "Anduril's Lattice OS; $2.2B 2025 revenue doubling; $20B Army IDIQ contract details; 40-50% gross margins vs 5-10% for traditional primes",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Arms Control Association",
+      "url": "https://www.armscontrol.org/act/2025-01/features/geopolitics-and-regulation-autonomous-weapons-systems",
+      "claim": "UN General Assembly Nov 2025 resolution calls for legally binding LAWS treaty; US and Russia rejected LAWS regulation frameworks; geopolitical fractures in autonomous weapons governance",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Everything PR / Defense Tech State Report",
+      "url": "https://everything-pr.com/state-of-defense-tech-2026/",
+      "claim": "2026 defense tech landscape: Anduril Roadrunner-M, Palantir Maven Smart System expansion, Shield AI V-BAT in Ukraine, Helsing HX-2 production; sector overview",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Glitchwire",
+      "url": "https://glitchwire.com/news/helsing-approaches-18-billion-valuation-as-europes-defense-tech-champion-scales/",
+      "claim": "Helsing approaches $18B valuation; raises $1.2B; HX-2 strike drone production; Europe-sovereign AI architecture for NATO defense contracts",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "StartupHub.ai",
+      "url": "https://www.startuphub.ai/ai-news/ai-news/2026/defense-ai-6-2-billion-week-may-11-2026",
+      "claim": "Defense AI absorbed $6.2B in venture funding in a single week (May 11, 2026) — record weekly inflow for the sector",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Rohirrim AI / Pentagon AI Contracts Blog",
+      "url": "https://rohirrim.ai/blog/pentagon-ai-contracts/",
+      "claim": "Pentagon May 2026 AI contract awards signal new era for defense acquisition; DoD restructures procurement via OTA vehicles; top 10 FY2025 defense AI contracts totaled $38.3B cumulatively",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/03/26/shield-ai-revenue-series-g-funding-12-billion-valuation/",
+      "claim": "Shield AI projecting 80%+ revenue growth in 2026 equating to at least $540M; $12.7B valuation confirmed; Collaborative Combat Aircraft program details",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Value Add VC",
+      "url": "https://valueaddvc.com/defense-tech",
+      "claim": "Defense tech VC funding tracker: Q1 2026 record $4.5B+ in defense-related venture; Anduril, Shield AI, Palantir and 40+ startups tracked with full funding histories",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Market share percentages for Palantir (35%), Anduril (28%), Shield AI (8%), Helsing (6%), Traditional Primes (23%) are analyst estimates derived from proportional revenue and funding data — no single authoritative market share breakdown was found for AI-native defense tech specifically",
+    "search_volume (~65K/mo) is an estimate — no Keywords Everywhere data was pulled for this session",
+    "growth_3m (+18%) is extrapolated from Q1 2026 VC inflows vs Q1 2025 — not a direct market size measurement"
+  ]
+}
