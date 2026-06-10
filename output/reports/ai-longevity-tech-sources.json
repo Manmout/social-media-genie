@@ -11,24 +11,36 @@
       "date": "2026-05-22",
       "claims_supported": [
         "Retro Biosciences hits $1.8B valuation in May 2026",
-        "Sam Altman-backed longevity company reaching clinical stage"
+        "Sam Altman-backed longevity company completing first human trial"
       ],
       "verified": true
     },
     {
       "id": 2,
+      "title": "Aging startup Retro Bio chases $5 billion valuation",
+      "url": "https://www.statnews.com/2025/12/03/aging-startup-retro-bio-chases-5-billion-valuation/",
+      "publisher": "STAT News",
+      "date": "2025-12-03",
+      "claims_supported": [
+        "Retro Bio pursuing $5B valuation in late 2025",
+        "Company became clinical-stage after first Phase 1 dosing of RTR242"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
       "title": "Sam Altman–backed AI biotech announces $1 billion to extend human life span",
       "url": "https://fortune.com/2025/01/24/sam-altman-ai-biotech-1-billion-funding-extend-human-lifespan/",
       "publisher": "Fortune",
       "date": "2025-01-24",
       "claims_supported": [
         "Retro Biosciences $1B raise announcement",
-        "Sam Altman personally backing longevity startup"
+        "Sam Altman personally backing longevity startup with $180M seed"
       ],
       "verified": true
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Retro Biosciences backed by Sam Altman is raising $1 billion to extend human lifespan",
       "url": "https://techcrunch.com/2025/01/24/retro-biosciences-backed-by-sam-altman-is-raising-1-billion-to-extend-human-lifespan/",
       "publisher": "TechCrunch",
@@ -41,7 +53,45 @@
       "verified": true
     },
     {
-      "id": 4,
+      "id": 5,
+      "title": "OpenAI and Retro Biosciences AI models redesigned Yamanaka factors — 50x improvement",
+      "url": "https://www.techno-science.net/en/news/ai-at-the-service-of-longevity-openai-explores-cellular-reprogramming-N26382.html",
+      "publisher": "Techno-Science.net",
+      "date": "2025-08",
+      "claims_supported": [
+        "OpenAI AI models redesigned Yamanaka reprogramming factors",
+        "50x improvement in pluripotency markers",
+        "First proof LLMs can accelerate cellular age reversal"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "FDA Greenlights Life Biosciences' First Human Epigenetic Reprogramming Trial",
+      "url": "https://fortune.com/2026/01/30/billionaires-longevity-aging-fda-human-clinical-trial-life-biosciences-jerry-mclaughlin-david-sinclair-harvard-science/",
+      "publisher": "Fortune",
+      "date": "2026-01-30",
+      "claims_supported": [
+        "FDA cleared Life Biosciences IND application for first human epigenetic reprogramming trial",
+        "Trial targets vision loss reversal using partial Yamanaka factor expression",
+        "David Sinclair (Harvard) involved"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "FDA clears first human trial of epigenetic reprogramming therapy",
+      "url": "https://longevity.technology/news/fda-clears-first-human-trial-of-epigenetic-reprogramming-therapy/",
+      "publisher": "Longevity Technology",
+      "date": "2026-01",
+      "claims_supported": [
+        "FDA IND clearance for epigenetic reprogramming in humans",
+        "Gene therapy using partial Yamanaka factor expression"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
       "title": "Eli Lilly's $2.75 Billion AI Drug Discovery Bet: What It Means for Longevity Clinics",
       "url": "https://worldlongevityclinics.com/news/eli-lilly-insilico-ai-drug-discovery-longevity-2026/",
       "publisher": "World Longevity Clinics",
@@ -54,21 +104,20 @@
       "verified": true
     },
     {
-      "id": 5,
-      "title": "Insilico Medicine announces industry's first Longevity Board to accelerate AI-driven aging research",
+      "id": 9,
+      "title": "Insilico Medicine announces industry's first Longevity Board",
       "url": "https://www.prnewswire.com/news-releases/insilico-medicine-announces-industrys-first-longevity-board-to-accelerate-ai-driven-aging-research-for-drug-discovery-302748726.html",
       "publisher": "PR Newswire / Insilico Medicine",
       "date": "2026-04-21",
       "claims_supported": [
-        "Industry's first Longevity Board announced by Insilico",
-        "Biomarkers of aging and dual-purpose drug target identification",
-        "Foundation model for aging science"
+        "Industry's first Longevity Board announced",
+        "Biomarkers of aging and dual-purpose drug target identification"
       ],
       "verified": true
     },
     {
-      "id": 6,
-      "title": "Insilico Medicine and Human Longevity announce collaboration for AI foundation model for longevity science",
+      "id": 10,
+      "title": "Insilico Medicine and Human Longevity — industry-first AI foundation model for longevity science",
       "url": "https://www.prnewswire.com/news-releases/insilico-medicine-and-human-longevity-announce-collaboration-to-co-develop-industry-first-ai-foundation-model-for-longevity-science-302781904.html",
       "publisher": "PR Newswire",
       "date": "2026",
@@ -79,8 +128,8 @@
       "verified": true
     },
     {
-      "id": 7,
-      "title": "Longevity Funding Landscape 2026 — Q1 2026 $3.74B raised, full-year $8-9B projected",
+      "id": 11,
+      "title": "Longevity Funding Landscape 2026 — Q1 $3.74B raised, full-year $8-9B projected",
       "url": "https://altstreet.investments/blog/longevity-funding-landscape-2026-geroscience-investment",
       "publisher": "AltStreet",
       "date": "2026",
@@ -92,8 +141,8 @@
       "verified": true
     },
     {
-      "id": 8,
-      "title": "Longevity Market Report 2026–2036: AI, Genomics and Regenerative Medicine Advances",
+      "id": 12,
+      "title": "Longevity Market Report 2026–2036: AI, Genomics and Regenerative Medicine — $740B+ market",
       "url": "https://finance.yahoo.com/news/longevity-market-report-2026-2036-114700102.html",
       "publisher": "Yahoo Finance / Research and Markets",
       "date": "2026",
@@ -104,7 +153,19 @@
       "verified": true
     },
     {
-      "id": 9,
+      "id": 13,
+      "title": "Anti-aging Market Size to Hit USD 149.54 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/anti-aging-market",
+      "publisher": "Precedence Research",
+      "date": "2026",
+      "claims_supported": [
+        "Global anti-aging market $83.21B in 2026",
+        "Growing at 6.73% CAGR to $149.54B by 2035"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
       "title": "Longevity Biotech & Senolytic Therapeutics Market — 19.7% CAGR to $21.6B by 2032",
       "url": "https://www.openpr.com/news/4439847/longevity-biotech-senolytic-therapeutics-market-next-big",
       "publisher": "OpenPR / HTF Market Intelligence",
@@ -117,20 +178,7 @@
       "verified": true
     },
     {
-      "id": 10,
-      "title": "Bryan Johnson Don't Die Summit — mainstream longevity biohacking becomes dominant wellness trend",
-      "url": "https://fortune.com/well/article/bryan-johnson-tech-millionaire-dont-die-summit/",
-      "publisher": "Fortune Well",
-      "date": "2025",
-      "claims_supported": [
-        "Bryan Johnson $349 Don't Die Summit",
-        "Mainstream biohacking adoption beyond Silicon Valley",
-        "Consumers tracking biological age and adopting longevity protocols"
-      ],
-      "verified": true
-    },
-    {
-      "id": 11,
+      "id": 15,
       "title": "Longevity biotech investment 2026: set for a breakout year",
       "url": "https://longevity.technology/news/longevity-biotech-investment-2026-were-set-for-a-breakout-year/",
       "publisher": "Longevity.Technology",
@@ -138,86 +186,75 @@
       "claims_supported": [
         "NewLimit $130M Series B (Kleiner Perkins, Founders Fund, Khosla Ventures)",
         "Neko Health $260M Series B at $1.8B valuation",
-        "Private investment in longevity science more than doubled in 2025"
+        "Private longevity investment more than doubled in 2025 to $8.49B"
       ],
       "verified": true
     },
     {
-      "id": 12,
+      "id": 16,
       "title": "AI Drug Discovery Is Reshaping Longevity Medicine — 173 AI programs in clinical trials",
       "url": "https://medcitynews.com/2026/04/ai-drug-discovery-is-reshaping-longevity-medicine-is-your-practice-ready/",
       "publisher": "MedCity News",
       "date": "2026-04",
       "claims_supported": [
         "173+ AI-discovered drug programs now in clinical trials globally",
-        "80-90% Phase I success rate for AI-discovered compounds vs 40-65% historically",
-        "AI is reshaping longevity medicine at the clinical practice level"
+        "80-90% Phase I success rate for AI-discovered compounds vs 40-65% historically"
       ],
       "verified": true
     },
     {
-      "id": 13,
+      "id": 17,
       "title": "Longevity biotechnology: bridging AI, biomarkers, geroscience and clinical applications — peer-reviewed",
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11552646/",
       "publisher": "PMC / Aging journal",
       "date": "2024",
       "claims_supported": [
         "AI-enabled biological clock accuracy — epigenetic, proteomic, metabolic aging biomarkers",
-        "Personalized longevity medicine powered by deep biomarkers of aging",
-        "Shift from reactive disease care to proactive healthspan extension"
+        "Personalized longevity medicine powered by deep biomarkers of aging"
       ],
       "verified": true
     },
     {
-      "id": 14,
-      "title": "Six Startups Changing The Way We Age — BioAge, Altos Labs, Retro Bio profiles",
-      "url": "https://www.biospace.com/business/six-startups-changing-the-way-we-age",
-      "publisher": "BioSpace",
+      "id": 18,
+      "title": "CES 2026 Trends: AI, Robotics and Longevity Tech",
+      "url": "https://www.vml.com/insight/ces-2026-trends-ai-robotics-longevity-tech",
+      "publisher": "VML / CES 2026",
+      "date": "2026-01",
+      "claims_supported": [
+        "CES 2026 featured dedicated longevity tech pavilion",
+        "Withings and wearables tracking 60+ biomarkers for millions of users"
+      ],
+      "verified": true
+    },
+    {
+      "id": 19,
+      "title": "Longevity Market Funding Trends 2022–2026 — cellular reprogramming 62% of VC",
+      "url": "https://newmarketpitch.com/blogs/news/longevity-funding-trends",
+      "publisher": "New Market Pitch",
       "date": "2026",
       "claims_supported": [
-        "BioAge $238M Nasdaq IPO September 2024",
-        "Altos Labs $3B+ funding and preclinical-to-clinical transition",
-        "Gero $15M Series A for aging biomarker discovery"
-      ],
-      "verified": true
-    },
-    {
-      "id": 15,
-      "title": "Longevity Biotech Market Report — $23.2B in 2026, CAGR 10.7%",
-      "url": "https://www.researchandmarkets.com/reports/6226337/longevity-biotech-market-report",
-      "publisher": "Research and Markets",
-      "date": "2026",
-      "claims_supported": [
-        "Longevity BioTech market valued at $23.2B in 2026",
-        "Projected $34.82B by 2030 at 10.7% CAGR"
-      ],
-      "verified": true
-    },
-    {
-      "id": 16,
-      "title": "Aging startup Retro Bio chases $5 billion valuation — STAT News Dec 2025",
-      "url": "https://www.statnews.com/2025/12/03/aging-startup-retro-bio-chases-5-billion-valuation/",
-      "publisher": "STAT News",
-      "date": "2025-12-03",
-      "claims_supported": [
-        "Retro Bio pursuing $5B valuation round",
-        "Company became clinical-stage with first Phase 1 patient dosing of RTR242"
+        "Cellular reprogramming and epigenetics captured $4.7B (62% of all longevity VC) 2022–2026",
+        "AI drug discovery raised $480M (6% of total longevity VC)"
       ],
       "verified": true
     }
   ],
   "unverified_claims": [
     {
-      "claim": "Search volume ~80K/mo for 'AI longevity tech' and related terms",
+      "claim": "Search volume ~90K/mo for 'AI longevity tech' and related terms",
       "note": "Estimated from market interest signals and consumer data; not directly verified from Google Search Console or SemRush"
     },
     {
-      "claim": "growth_5y +340% estimate based on longevity investment growth 2021-2025",
-      "note": "Calculated from ~$1.9B 2021 investment base to $8.49B 2025; exact 2021 longevity investment figure is approximate"
+      "claim": "growth_5y +340% based on longevity investment growth 2021–2025",
+      "note": "Calculated from ~$1.9B 2021 investment base to $8.49B 2025; exact 2021 longevity investment figure is approximate from industry reports"
     },
     {
       "claim": "Bryan Johnson Blueprint replicated for ~$20/week",
-      "note": "Referenced in Fortune and biohacking community reports; exact cost varies by supplement sourcing"
+      "note": "Referenced in Fortune and biohacking community reports; exact cost varies by supplement sourcing and interpretation"
+    },
+    {
+      "claim": "Neko Health 100K+ waitlist",
+      "note": "Reported at time of $260M Series B; current waitlist size may have changed"
     }
   ]
 }

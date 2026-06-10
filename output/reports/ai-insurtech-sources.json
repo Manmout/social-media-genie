@@ -1,0 +1,190 @@
+{
+  "trend": "AI in Insurance (Insurtech AI)",
+  "slug": "ai-insurtech",
+  "research_date": "2026-06-05",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Insurance Market Size, Share | Industry Report, 2034",
+      "url": "https://www.fortunebusinessinsights.com/ai-in-insurance-market-114760",
+      "publisher": "Fortune Business Insights",
+      "claims_supported": [
+        "Global AI in insurance market projected to grow from $13.45B (2026) to $154.39B by 2034",
+        "CAGR of 35.7% during forecast period 2026–2034"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI in Insurance Market Size, Share | CAGR of 32.7%",
+      "url": "https://market.us/report/ai-in-insurance-market/",
+      "publisher": "Market.us",
+      "claims_supported": [
+        "AI in insurance market valued at $2.74B in 2021",
+        "CAGR of 32.7% from 2024 to 2033"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "AI-Powered Insurance Underwriting Market Size | CAGR of 44%",
+      "url": "https://market.us/report/ai-powered-insurance-underwriting-market/",
+      "publisher": "Market.us",
+      "claims_supported": [
+        "LLM-based agentic underwriting reduced hallucination rates from 11.3% to 3.8%",
+        "Underwriting decision accuracy improved from 92% to 96%"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Cyber Threats in AI Push US $1.63B Insurtech Funding",
+      "url": "https://cybermagazine.com/news/cyber-threats-in-ai-pushes-us-1-63bn-insurtech-funding",
+      "publisher": "Cybersecurity Magazine / Gallagher",
+      "claims_supported": [
+        "95.2% of all insurtech funding in Q1 2026 directed toward AI-focused companies",
+        "Investment reached $1.63B in Q1 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Lemonade AI Insurance: 3M+ Customers, $1.3B In-Force Premium by 2026",
+      "url": "https://www.indexbox.io/blog/how-lemonade-uses-ai-to-disrupt-the-insurance-industry/",
+      "publisher": "IndexBox",
+      "claims_supported": [
+        "Lemonade in-force premium $1.3B and 3.1M+ customers by Q1 2026",
+        "Launched Tesla autonomous car insurance January 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Lemonade Embraced AI in Claims From Inception",
+      "url": "https://www.claimsjournal.com/news/national/2025/03/07/327670.htm",
+      "publisher": "Claims Journal",
+      "claims_supported": [
+        "Lemonade surpassed $1B in-force premiums in March 2025",
+        "Net loss ratio improved to 75% (2025) from 97% (2022)",
+        "AI Jim settled claim in 2 seconds (world record)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Shift Technology Revenue 2024: $82.6M ARR, $320M Raised",
+      "url": "https://getlatka.com/companies/shift-technology.com",
+      "publisher": "GetLatka",
+      "claims_supported": [
+        "Shift Technology $82.6M ARR in 2024 (up from $62.1M in 2023)",
+        "$320M raised from 17 investors"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Shift Technology — Five-Year Renewal with AXA",
+      "url": "https://www.shift-technology.com/resources/news/five-year-renewal-of-collaboration-between-shift-technology-and-axa-to-accelerate-ai-powered-insurance-transformation",
+      "publisher": "Shift Technology",
+      "claims_supported": [
+        "Shift Technology renewed 5-year partnership with AXA in March 2026",
+        "Partnership spans 15 countries across Europe, Asia, and Latin America"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Insurance AI Pricing Under the EU AI Act and NAIC Bulletin",
+      "url": "https://www.deepinspect.ai/blog/industries-insurance",
+      "publisher": "DeepInspect",
+      "claims_supported": [
+        "Life and health insurance pricing AI classified as high-risk under EU AI Act Annex III point 5(c)",
+        "EU AI Act obligations applying from August 2, 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "NAIC Intensifies AI Regulatory Focus: What Health Insurance Payors Need to Know",
+      "url": "https://www.crowell.com/en/insights/client-alerts/naic-intensifies-ai-regulatory-focus-what-health-insurance-payors-need-to-know",
+      "publisher": "Crowell & Moring",
+      "claims_supported": [
+        "NAIC Model Bulletin adopted December 2023, incorporated by 25 US states",
+        "NAIC AI Evaluation Tool pilot running Jan–Sep 2026 in 12 states"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Insurity Survey: Declining Consumer Confidence in AI for P&C Insurance",
+      "url": "https://insurity.com/press-release/insurity-survey-reveals-declining-consumer-confidence-ai-pc-insurance-signaling-need",
+      "publisher": "Insurity",
+      "claims_supported": [
+        "47% of consumers reported good AI interactions in 2025, down from 63% in 2024",
+        "Millennial positive sentiment toward AI in insurance fell from 41% (2024) to 26% (2025)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "4 Ways Conversational AI Can Close the Millennial Insurance Gap",
+      "url": "https://insurmi.com/4-ways-conversational-ai-can-close-the-millennial-insurance-gap/",
+      "publisher": "Insurmi",
+      "claims_supported": [
+        "Only 10% of millennials have sufficient life insurance coverage",
+        "Millennials face friction and complexity as primary barriers to purchasing insurance"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI in Insurance Market Key Players Analysis — Lemonade, Tractable, Shift Technology, ZhongAn, Metromile",
+      "url": "https://www.openpr.com/news/3882536/ai-in-insurance-market-key-players-analysis-lemonade",
+      "publisher": "OpenPR",
+      "claims_supported": [
+        "Lemonade, Tractable, Shift Technology, ZhongAn as top AI insurance market players",
+        "North America holds highest market share"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Insurance 2030 — The Impact of AI on the Future of Insurance",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/insurance-2030-the-impact-of-ai-on-the-future-of-insurance",
+      "publisher": "McKinsey & Company",
+      "claims_supported": [
+        "AI enabling straight-through processing from 10–15% to 70–90%",
+        "Underwriting timelines collapsing from 3 days to 3 minutes"
+      ],
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "Insurtech Trends 2026: How AI Is Transforming Claims and Underwriting",
+      "url": "https://vantagepoint.io/blog/sf/insights/insurtech-trends-2026-ai-claims-underwriting",
+      "publisher": "Vantage Point",
+      "claims_supported": [
+        "P&C insurtech funding surged 90% quarter-over-quarter in Q1 2025",
+        "Fraud detection improvement of 30%+ with AI systems"
+      ],
+      "verified": true
+    },
+    {
+      "id": 16,
+      "title": "Older Gen Zers Are Letting AI Pick Their Health Insurance Plan",
+      "url": "https://www.newsweek.com/older-gen-zers-are-letting-ai-pick-their-health-insurance-plan-11062001",
+      "publisher": "Newsweek",
+      "claims_supported": [
+        "Gen Z is using AI tools to select health insurance plans without brokers"
+      ],
+      "verified": true
+    }
+  ],
+  "notes": [
+    "search_volume (~60,000) is approximate — composite estimate for 'AI insurance' + 'insurtech AI' keyword cluster; no direct search volume source available; marked as unverified.",
+    "growth_3m (+90% QoQ) reflects Q4 2024 → Q1 2025 P&C insurtech funding surge per Gallagher/Cybersecurity Magazine; used as proxy for recent market acceleration since market size quarterly figures unavailable.",
+    "ZhongAn market share (~15% Asia digital) is a segment estimate based on policy volume dominance in Asia-Pacific digital insurance, not total global AI insurance market; no precise third-party market share figure available.",
+    "Tractable $1B valuation is from 2021 Series D — no updated 2026 valuation publicly available.",
+    "Hippo Insurance market cap (~$800M) is approximate based on available 2025 reports."
+  ]
+}
