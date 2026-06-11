@@ -1,0 +1,161 @@
+{
+  "trend_name": "Post-Quantum Cryptography",
+  "status": "surging",
+  "search_volume": "60K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+523%",
+  "growth_1y": "+38%",
+  "growth_3m": "+18%",
+  "trigger": "Aug 2024: NIST finalizes FIPS 203/204/205 — world's first PQC standards. Mar 2026: Trump Cyber Strategy mandates PQC alongside zero-trust. \"Harvest now, decrypt later\" attacks confirmed active by US intelligence — any encrypted data stored today is a future quantum target.",
+  "timeline": [
+    {
+      "date": "Dec 2016",
+      "event": "NIST launches global competition for quantum-resistant algorithms, receiving 82 initial proposals from 25 countries — the largest open cryptography standardization effort in history."
+    },
+    {
+      "date": "Jul 2022",
+      "event": "NIST announces 4 finalists: CRYSTALS-Kyber (key encapsulation), CRYSTALS-Dilithium, FALCON, SPHINCS+ (signatures). Industry migration planning begins in earnest."
+    },
+    {
+      "date": "Aug 2024",
+      "event": "NIST finalizes FIPS 203 (ML-KEM), FIPS 204 (ML-DSA), FIPS 205 (SLH-DSA) — 8-year competition concludes. Google's Willow quantum chip accelerates Q-Day timeline estimates. Enterprise CBOM audits launch across Fortune 500."
+    },
+    {
+      "date": "Jan 2025",
+      "event": "US OMB issues binding migration timelines for all federal agencies under M-23-02. SandboxAQ closes $300M+ raise at $5.75B valuation. Quantinuum raises $600M from investors including Nvidia at $10B valuation — PQC becomes a venture darling."
+    },
+    {
+      "date": "Jun 2025",
+      "event": "EU ENISA publishes Coordinated PQC Implementation Roadmap with phased milestones: 2026 inventory, 2030 migration, 2035 full harmonisation. UAE issues binding National Encryption Policy requiring 2026 migration plan submissions — first government with a hard deadline."
+    },
+    {
+      "date": "Mar 2026",
+      "event": "Trump Cyber Strategy explicitly mandates PQC adoption for all federal systems. PQC market hits $2.18B — up 38% YoY. Cloudflare and Chrome ship ML-KEM hybrid TLS as default for 5%+ of global HTTPS traffic. BFSI sector CNSA 2.0 deadline pressure triggers wave of enterprise migrations."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Three enacted US federal statutes underpin PQC mandates — immune to executive-order reversal. Trump's March 2026 Cyber Strategy explicitly names PQC as a national security priority alongside zero-trust. CNSA 2.0 requires all National Security Systems to migrate to quantum-resistant algorithms by 2030. UAE is the first nation to issue binding migration submission requirements in 2026."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Market grows from $1.58B (2025) to $20.5B by 2033 at 37.8% CAGR. NXP, Thales, AWS, Palo Alto, and IDEMIA hold ~60% combined share. SandboxAQ ($5.75B valuation) and Quantinuum ($10B, Nvidia-backed) signal institutional capital is now flowing at scale. PQC migration consulting will outpace the software market 3x through 2028."
+    },
+    {
+      "factor": "Social",
+      "impact": "\"Harvest now, decrypt later\" attacks confirmed active by US intelligence agencies — adversaries are storing today's encrypted traffic for future quantum decryption. Healthcare, financial, and government data with 10+ year sensitivity windows is the primary target. CISOs increasingly citing PQC as a board-level risk, not a future-state R&D project."
+    },
+    {
+      "factor": "Technological",
+      "impact": "NIST FIPS 203/204/205 eliminate the 'waiting for standards' blocker as of Aug 2024. OpenSSL 3.2, Chrome 124+, Cloudflare, and AWS now support ML-KEM hybrid TLS. Google's Willow chip (Dec 2024) demonstrated error-corrected quantum computing at scale — shortening credible Q-Day estimates from 2030–2035 to a broader 2028–2032 window."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Lattice-based PQC algorithms (ML-KEM, ML-DSA) require 2–4x more CPU cycles per operation than RSA-2048, increasing server energy consumption during the transition period. Larger key and signature sizes (ML-KEM-768 keys are ~1KB vs RSA-2048's 256 bytes) raise network bandwidth and certificate storage costs — material at hyperscale. [unverified quantification of total energy delta]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "FIPS 203/204/205 are now mandatory for US federal procurement. CNSA 2.0 sets hard NSS migration deadlines through 2030. EU ENISA roadmap targets 2030 harmonization, with GDPR's long-lived data retention creating de facto liability for failure to migrate before Q-Day. Basel Committee quantum risk guidance adds BFSI regulatory pressure. Companies storing HIPAA-protected data for 10+ years face retroactive liability risk."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Protect web traffic and APIs from harvest-now-decrypt-later adversaries storing TLS sessions today for future quantum decryption",
+      "solution": "Deploy ML-KEM hybrid key encapsulation in TLS 1.3 — already available in OpenSSL 3.2, Chrome, Cloudflare, and AWS ACM. Hybrid mode (classical + PQC) provides quantum resistance with zero backwards-compatibility breakage."
+    },
+    {
+      "job": "Audit and inventory all cryptographic dependencies before regulatory deadlines without requiring cryptography expertise in every team",
+      "solution": "Cryptographic Bill of Materials (CBOM) scanners such as SandboxAQ AQtive Guard and IBM Guardium Quantum Safe that auto-detect RSA/ECC usage across codebases, infrastructure, and APIs — producing a prioritized migration roadmap in days, not months."
+    },
+    {
+      "job": "Migrate enterprise PKI — code-signing certificates, internal CAs, identity tokens — before the 2030 CNSA deadline",
+      "solution": "Crypto-agile certificate lifecycle management platforms (Keyfactor, Venafi, AppViewX) that automate dual-issue (classical + PQC hybrid) certificates and track expiry across thousands of endpoints — replacing manual PKI management that breaks under PQC key-size expansion."
+    },
+    {
+      "job": "Secure IoT and embedded devices with constrained compute that cannot run standard PQC algorithms",
+      "solution": "Lightweight PQC hardware IPs such as PQShield's embedded cores and NXP's quantum-resistant secure elements, delivering SLH-DSA signatures at <10mW — enabling PQC in payment cards, automotive ECUs, and industrial sensors without a hardware redesign."
+    },
+    {
+      "job": "Prove compliance to regulators (CNSA 2.0, ENISA, Basel) and auditors who need documented evidence of PQC migration progress",
+      "solution": "Compliance-mapped PQC dashboards that link every cryptographic asset to its regulatory obligation and migration status — converting the CBOM inventory into a real-time audit trail acceptable to NIST NCCoE, EU NIS Cooperation Group, and financial regulators."
+    }
+  ],
+  "market": [
+    {
+      "name": "NXP Semiconductor",
+      "share": "~22%",
+      "loved": "Broadest hardware footprint from automotive ECUs to payment cards; embedding ML-KEM in secure elements shipped to 2B+ endpoints annually; semiconductor-level PQC unavoidable if chip supply is involved",
+      "segment": "Hardware / Secure Elements"
+    },
+    {
+      "name": "Thales",
+      "share": "~18%",
+      "loved": "Luna HSM fleet (most-deployed enterprise HSM) getting PQC firmware updates; key management layer that enterprises already trust for long-lived key storage is the migration gateway",
+      "segment": "Enterprise HSM & Key Management"
+    },
+    {
+      "name": "AWS (KMS / ACM)",
+      "share": "~15%",
+      "loved": "Hybrid PQC in AWS Certificate Manager and IoT Core since 2025; largest cloud provider making PQC the path-of-least-resistance default for AWS-native workloads",
+      "segment": "Cloud-Native PQC"
+    },
+    {
+      "name": "SandboxAQ",
+      "share": "~9%",
+      "loved": "$1B+ raised; Alphabet spinout; AQtive Guard is the market-leading enterprise CBOM + migration platform; preferred vendor for US DoD, financial institutions, and telecom operators",
+      "segment": "PQC Migration & Analytics"
+    },
+    {
+      "name": "IBM Quantum Safe",
+      "share": "~6%",
+      "loved": "Designed CRYSTALS-Kyber (now ML-KEM) — the core NIST standard; Guardium Quantum Safe + open-source CBOM tooling; IBM Consulting migration services targeting Fortune 1000",
+      "segment": "Enterprise Consulting & Tooling"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "SandboxAQ",
+      "detail": "Spun from Alphabet; $1B+ raised, $5.75B valuation. AQtive Guard platform scans enterprise infrastructure for cryptographic risk and generates a prioritized migration roadmap. Works with US DoD, major banks, and global telecom operators. Largest pure-play PQC migration platform by revenue."
+    },
+    {
+      "name": "PQShield (UK)",
+      "detail": "$63M+ raised; UK Tech Nation Future Fifty 2026 member. Sells hardware and software PQC IP cores for embedding in chips, firmware, and applications. Supplies semiconductor vendors and government agencies. Specialises in NIST-compliant implementations optimised for constrained IoT hardware."
+    },
+    {
+      "name": "Quantinuum",
+      "detail": "Formed from Honeywell Quantum Solutions + Cambridge Quantum merger (2021). Raised $600M at $10B valuation in 2024 — Nvidia's VC arm invested. InQuanto platform bridges PQC research and enterprise deployment. Filed confidential S-1 for what could be the sector's largest IPO."
+    },
+    {
+      "name": "IBM Quantum Safe",
+      "detail": "Designed CRYSTALS-Kyber (ML-KEM) — the primary NIST PQC key-encapsulation standard. Guardium Quantum Safe provides CBOM scanning and migration orchestration for enterprise clients. Open-sourced CBOM tooling to establish industry standard. IBM Consulting offers end-to-end migration engagements for Fortune 1000."
+    },
+    {
+      "name": "Cloudflare / Google",
+      "detail": "Not vendors but de-facto standard setters. Cloudflare deployed ML-KEM hybrid TLS for all traffic by Q1 2026. Google's Chrome 124+ enabled post-quantum key agreement by default. Together they are migrating 5%+ of global HTTPS traffic and forcing browser compatibility — making hybrid PQC the path-of-least-resistance for every web service."
+    }
+  ],
+  "canvas": {
+    "who": "CISOs, security architects, and IT compliance officers at enterprises holding long-lived sensitive data; US federal agencies and defense contractors under CNSA 2.0 mandates; BFSI firms under Basel Committee quantum risk guidance and DORA; healthcare organizations with HIPAA 10-year retention requirements; telecom operators and critical infrastructure operators under NIS2/ENISA roadmap obligations",
+    "where": "United States (CNSA 2.0 hardest deadline — NSS migration by 2030), UAE (first binding 2026 migration plan submission), EU (ENISA roadmap + GDPR liability), Asia-Pacific (fastest-growing adoption driven by national security programs); predominantly enterprise software, cloud services, and hardware security module upgrades",
+    "why_now": "NIST FIPS 203/204/205 finalized August 2024 eliminated the 'waiting for standards' excuse. Google's Willow chip compressed credible Q-Day estimates. 'Harvest now, decrypt later' attacks are confirmed active — intelligence agencies in the US and UK have publicly warned encrypted data is being collected today for future decryption. Enterprise migrations take 5–15 years depending on complexity, meaning a 2026 start is already the minimum viable timeline to meet 2030 federal mandates.",
+    "behavior": "Enterprises launching Cryptographic Bill of Materials (CBOM) audits to inventory every RSA/ECC dependency across codebases and infrastructure. Cloud providers shipping hybrid PQC as the default TLS configuration, making opt-in obsolete. Government procurement RFPs in 2026 requiring PQC compliance documentation as a vendor qualification threshold. Certificate authorities dual-issuing classical + PQC hybrid certificates during transition. Security budgets shifting from network perimeter tools to cryptographic infrastructure modernization.",
+    "unmet": "Migration tooling that works at enterprise scale without requiring cryptography expertise in every development team — current CBOM scanners still require specialist interpretation. Backwards-compatible hybrid PQC that doesn't break legacy endpoints or embedded devices deployed for 10-20 year lifespans. Regulatory clarity on liability: who bears legal responsibility if pre-migration encrypted data is decrypted post-Q-Day when the company met all current compliance deadlines. Performance benchmarks and cost modeling for PQC at hyperscale — enterprises cannot justify migration spend without quantified latency and energy overhead data."
+  },
+  "takeaways": [
+    "The migration clock started in August 2024 — every quarter without a Cryptographic Bill of Materials audit is compounding technical debt. Enterprises that launch CBOM projects in 2026 can realistically complete migrations before 2031 CNSA deadlines; those that wait until 2028 will miss federal mandates. The single most valuable thing any security team can do today is run a CBOM scan and produce a prioritized migration roadmap.",
+    "'Harvest now, decrypt later' is the most underpriced enterprise risk of 2026. Any data with a 7+ year sensitivity horizon — health records, financial transaction history, classified communications, IP — should be treated as already under collection by quantum-capable adversaries within the decade. Vendors who can translate this into CFO-legible financial exposure estimates will win security budget that no compliance mandate alone can unlock.",
+    "Build for crypto-agility, not a one-time CRYSTALS-Kyber swap. NIST may issue FIPS revisions as quantum hardware evolves; systems that hardcode a single algorithm will require full re-engineering within 5 years. Designing with algorithm-negotiation layers (like TLS cipher suites) from the start is the difference between a migration and a rebuild — price it accordingly in architecture decisions.",
+    "The highest-velocity near-term market is BFSI and federal verticals — combined CNSA 2.0, Basel Committee, and DORA pressure creates a mandatory-spend forcing function that no other sector faces yet. PQC compliance consulting, managed migration services, and crypto-agility audit tooling targeting these two segments will outgrow the underlying technology market by 3x through 2028. Position now before the wave of government contract awards in H2 2026."
+  ],
+  "sources": [
+    "https://www.grandviewresearch.com/industry-analysis/post-quantum-cryptography-market-report",
+    "https://csrc.nist.gov/projects/post-quantum-cryptography",
+    "https://postquantum.com/quantum-policies/us-pqc-regulatory-framework-2026/",
+    "https://www.marketsandmarkets.com/ResearchInsight/post-quantum-cryptography-market.asp",
+    "https://thequantuminsider.com/2026/03/25/25-companies-building-the-quantum-cryptography-communications-markets/",
+    "https://www.cuilabs.io/articles/pqc-2026-guide",
+    "https://quantumgate.ae/post-quantum-cryptography-how-governments-worldwide-are-shaping-the-transition-ahead",
+    "https://pqshield.com/scaling-the-post-quantum-era-pqshield-joins-tech-nations-future-fifty-2026/"
+  ]
+}
