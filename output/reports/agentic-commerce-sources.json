@@ -1,0 +1,196 @@
+{
+  "trend": "Agentic Commerce",
+  "slug": "agentic-commerce",
+  "researched_date": "2026-06-12",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Agentic Commerce Stats 2026: Enterprise Guide",
+      "url": "https://commercetools.com/blog/agentic-commerce-stats-enterprise-guide",
+      "publisher": "Commercetools",
+      "type": "industry-research",
+      "claims_supported": [
+        "73% of consumers already use AI in their shopping journey",
+        "4,700% YoY growth in AI-driven visits to US retail sites (Adobe Analytics)",
+        "58% of consumers have replaced traditional search with GenAI for product recommendations"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "The Agentic Commerce Opportunity: How AI Agents Are Ushering in a New Era for Consumers and Merchants",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-agentic-commerce-opportunity-how-ai-agents-are-ushering-in-a-new-era-for-consumers-and-merchants",
+      "publisher": "McKinsey & Company",
+      "type": "analyst-report",
+      "claims_supported": [
+        "$1 trillion in orchestrated US retail revenue by 2030",
+        "$3–5 trillion in global agent-orchestrated retail revenue by 2030",
+        "Agentic commerce executes the full purchase lifecycle from a single goal statement"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Agentic Commerce: Benefits & How To Get Started (2026)",
+      "url": "https://www.shopify.com/blog/agentic-commerce",
+      "publisher": "Shopify",
+      "type": "platform-data",
+      "claims_supported": [
+        "Agentic traffic to Shopify stores grew 15x between January 2025 and January 2026",
+        "5.6 million Shopify stores now accessible via Agentic Storefronts",
+        "Shopify commands more than 14% of US ecommerce market share"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Power Couple OpenAI + Amazon May Have Just Won Consumer Agentic Commerce",
+      "url": "https://www.forrester.com/blogs/power-couple-openai-amazon-may-have-just-won-consumer-agentic-commerce/",
+      "publisher": "Forrester Research",
+      "type": "analyst-report",
+      "claims_supported": [
+        "OpenAI and Amazon $50 billion strategic partnership (February 27, 2026)",
+        "OpenAI + Amazon positioned as leading consumer agentic commerce partnership"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Agentic Commerce Is Coming, But Regulation Meant for Humans Will Slow It Down",
+      "url": "https://datainnovation.org/2026/03/agentic-commerce-is-coming-but-regulation-meant-for-humans-will-slow-it-down/",
+      "publisher": "Center for Data Innovation",
+      "type": "policy-analysis",
+      "claims_supported": [
+        "Consumer protection laws written for human-initiated transactions do not address AI agent liability",
+        "NIST consultation on AI agent standards planned for April 2026",
+        "Regulatory frameworks need updating for agentic age"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Consumer Demand for AI Shopping Is Forming Fast but Trust for Agentic Commerce Is Still Catching Up",
+      "url": "https://www.checkout.com/newsroom/consumer-demand-for-ai-shopping-is-forming-fast-but-trust-for-agentic-commerce-is-still-catching-up",
+      "publisher": "Checkout.com",
+      "type": "consumer-survey",
+      "claims_supported": [
+        "39% consumer adoption of AI shopping tools",
+        "805% AI shopping traffic growth",
+        "AI agents currently convert 86% worse than affiliate links",
+        "27% of consumers trust no organization to operate an AI shopping agent"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Agentic AI Commerce: The Next Retail Revolution Is Here",
+      "url": "https://www.bain.com/insights/agentic-ai-commerce-the-next-retail-revolution-is-here/",
+      "publisher": "Bain & Company",
+      "type": "analyst-report",
+      "claims_supported": [
+        "Autonomous AI agents acting as proxies for consumers across the full commerce lifecycle",
+        "Agentic AI in retail redefining the customer journey",
+        "Morgan Stanley forecast: $190B–$385B in US ecommerce from agentic shoppers by 2030"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "The Rise of Agentic Commerce",
+      "url": "https://www.pwc.com/us/en/industries/consumer-markets/library/agentic-commerce.html",
+      "publisher": "PwC",
+      "type": "industry-analysis",
+      "claims_supported": [
+        "Agentic commerce could revolutionize buying behavior sooner than expected",
+        "33% of consumers expect at least 10% of purchases to be AI-driven within one year",
+        "Zero-click commerce set to disrupt retail in 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Top Ecommerce Trends for 2026: AI Agents, TikTok Shop & Livestream Shopping",
+      "url": "https://searchengineland.com/guide/top-ecommerce-trends-2026",
+      "publisher": "Search Engine Land",
+      "type": "trend-analysis",
+      "claims_supported": [
+        "AI agents as top ecommerce trend for 2026",
+        "GenAI-referred traffic to US retail sites during Prime Day grew 3,300% YoY",
+        "AI shopping agents disrupting product discovery and checkout"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Why the AI Shopping Agent Wars Will Heat Up in 2026",
+      "url": "https://www.modernretail.co/technology/why-the-ai-shopping-agent-wars-will-heat-up-in-2026/",
+      "publisher": "Modern Retail",
+      "type": "industry-news",
+      "claims_supported": [
+        "Amazon, Google, OpenAI, and Meta all launched AI shopping tools in 2025",
+        "Retailers navigating how much access to grant external AI agents",
+        "Microsoft Copilot Checkout launched January 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "AI Platforms Will Account for $20.57 Billion in US Retail Ecommerce in 2026",
+      "url": "https://commercetools.com/blog/agentic-commerce-stats-enterprise-guide",
+      "publisher": "Commercetools (citing eMarketer)",
+      "type": "market-data",
+      "claims_supported": [
+        "AI platforms = 1.5% of total US retail ecommerce in 2026",
+        "$20.57 billion in AI-driven ecommerce spend in 2026",
+        "Nearly quadruple 2025 figures"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "49 Agentic Commerce Growth Statistics",
+      "url": "https://nevermined.ai/blog/agentic-commerce-growth-statistics",
+      "publisher": "Nevermined",
+      "type": "statistics-compilation",
+      "claims_supported": [
+        "Agentic AI in retail and ecommerce worth $60.43 billion in 2026 (broader segment)",
+        "29.29% CAGR projected to 2031 ($218.37B)",
+        "Search interest in 'AI agent' tripled in the past year",
+        "J.P. Morgan: up to 25% of US online sales agent-driven by 2030"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Agentic Commerce 2026: Market Size, Trends, Risks & AI Visibility",
+      "url": "https://sanbi.ai/blog/agentic-commerce-2026-guide",
+      "publisher": "Sanbi AI",
+      "type": "market-analysis",
+      "claims_supported": [
+        "Global agentic commerce market valued at $1.90B in 2025, $2.66B by end of 2026",
+        "Stripe ACP and Google UCP as the protocol standards for AI commerce",
+        "Prompt injection attacks as emerging security risk for AI agents"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "New Research on Agentic Commerce Finds Gap Between Consumer and Merchant Expectations",
+      "url": "https://homeofdirectcommerce.com/news/new-research-on-agentic-commerce-finds-gap-between-consumer-and-merchant-expectations/",
+      "publisher": "Home of Direct Commerce",
+      "type": "research-summary",
+      "claims_supported": [
+        "Gap between consumer readiness and merchant infrastructure for agentic commerce",
+        "55% of consumers have knowingly used a retailer's AI assistant (Amazon Rufus, Walmart Sparky)",
+        "52% of US shoppers planned to use GenAI for shopping within one year of mid-2025"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Walmart pilot programs using AI agents for bulk order aggregation reducing per-unit carbon footprint by 17% — no primary source found",
+    "Exact search volume for 'agentic commerce' keyword (~120K/mo) — estimate based on adoption metrics, not SEMrush/Ahrefs data",
+    "2-5% agentic platform fee estimate — referenced in analyst discussions but no published rate card found"
+  ],
+  "notes": "Growth metrics interpretation: growth_1y '+1,400%' based on Shopify's verified 15x agentic traffic growth January 2025 to January 2026. growth_3m '+805%' based on Checkout.com's reported AI shopping traffic growth metric. growth_5y '+∞' reflects category birth from near-zero — ChatGPT plugins launched late 2023, meaningful agentic shopping commerce infrastructure only established 2025."
+}
