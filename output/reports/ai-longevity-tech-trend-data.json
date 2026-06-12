@@ -1,0 +1,223 @@
+{
+  "trend_name": "AI Longevity Tech",
+  "status": "surging",
+  "search_volume": "~90K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+340%",
+  "growth_1y": "+55%",
+  "growth_3m": "+65%",
+  "trigger": "January 2026: FDA clears Life Biosciences' first human epigenetic reprogramming trial — the regulatory watershed proving cells can be made younger without cancer risk. April 2026: Eli Lilly signs a $2.75B AI drug discovery deal with Insilico Medicine, the largest Big Pharma bet on AI longevity to date. May 2026: Sam Altman–backed Retro Biosciences hits a $1.8B valuation after completing its first human trial. With 173+ AI-discovered drug programs in clinical trials globally and Q1 2026 longevity investment already at $3.74B, the sector is on pace to more than double 2025's record $8.49B funding year.",
+  "timeline": [
+    {
+      "date": "2013-09",
+      "event": "Google launches Calico Life Sciences with $1B+ to research the biology of aging — the first major tech company bet that aging is an engineering problem, not a natural inevitability. Calico's founding signals Silicon Valley's entry into the longevity space."
+    },
+    {
+      "date": "2021-01",
+      "event": "Altos Labs founded with $3B+ backed by Jeff Bezos and Yuri Milner, recruiting Nobel laureates Shinya Yamanaka and Jennifer Doudna to research cellular reprogramming — the largest single funding commitment in longevity history, establishing the category as venture-investable at scale."
+    },
+    {
+      "date": "2024-09",
+      "event": "BioAge Labs IPO on Nasdaq raises $238M — the first AI-native longevity company to go public. Its AI engine analyses genetic data from aging cohorts to identify metabolic drug targets, validating the AI-biomarker model for institutional investors."
+    },
+    {
+      "date": "2025-08",
+      "event": "OpenAI and Retro Biosciences announce their AI models redesigned Yamanaka reprogramming factors, achieving a 50x improvement in stem cell pluripotency markers — the first published proof that large language models can meaningfully accelerate cellular age reversal, establishing AI as the critical tool in longevity biology."
+    },
+    {
+      "date": "2026-01",
+      "event": "FDA clears Life Biosciences' IND application for the first human epigenetic reprogramming trial, targeting vision loss reversal using partial Yamanaka factor expression — the regulatory watershed validating that age reversal is now a legal, funded, clinical-stage pursuit in the United States. Private longevity investment hit $8.49B in 2025, more than doubling year-over-year."
+    },
+    {
+      "date": "2026-04",
+      "event": "Eli Lilly signs a $2.75B deal with Insilico Medicine for AI-generated drug candidates targeting age-related diseases. Insilico simultaneously announces the industry's first Longevity Board and an AI foundation model for aging science in partnership with Human Longevity Inc. — marking Big Pharma's full commitment to AI-driven longevity medicine and triggering a wave of follow-on pharma deals."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Aging has no recognised disease classification in most regulatory systems, leaving longevity drugs in a strategic gray zone. However, the FDA's Complex Innovative Trial Designs (CID) program now accepts epigenetic age clocks (GrimAge, DunedinPACE) as surrogate biomarker endpoints — opening regulatory pathways that didn't exist before 2024. The FDA's January 2026 clearance of Life Biosciences' epigenetic reprogramming IND sets a landmark precedent. The EU AI Act creates governance requirements for AI-driven health diagnostics, adding compliance overhead but institutional legitimacy. China's government actively funds longevity research as a national strategic priority."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The broader longevity market is projected to surpass $740B in 2026 (Research and Markets). Private longevity investment hit $8.49B in 2025, with Q1 2026 alone at $3.74B — on pace for $12-15B full year. The anti-aging drug sub-market sits at $21.47B in 2026, projected to $58.43B by 2035 at 11.9% CAGR. Eli Lilly's $2.75B Insilico deal and Function Health's $298M Series B signal both Big Pharma and consumer health capital are flooding in. Entry-level AI longevity testing now starts at $300–500; full-concierge longevity programmes run $10K–$100K/year."
+    },
+    {
+      "factor": "Social",
+      "impact": "The global population aged 60+ will reach 2.1 billion by 2050 (WHO), creating structural demand for healthspan extension. Biohacking has gone mainstream: CES 2026 featured a dedicated longevity tech pavilion. Bryan Johnson's Blueprint protocol, publicised via the 2025 Netflix documentary 'Don't Die', has been replicated for ~$20/week, normalising biological age optimisation beyond the wealthy. Neko Health's 100K+ waitlist proves mass-market consumer demand. The 'healthspan' mindset — quality of healthy years over raw lifespan — has replaced 'fitness' as the aspirational health frame for 35–55 consumers."
+    },
+    {
+      "factor": "Technological",
+      "impact": "AI is transforming four layers simultaneously: (1) drug discovery — 173+ AI-discovered programs in clinical trials, 80–90% Phase I success vs. 40–65% historically; (2) biological clocks — epigenetic (DNA methylation), proteomic, and metabolic clocks now measure biological age to ±2 years from a single blood draw; (3) protein engineering — OpenAI/Retro Bio achieved 50x Yamanaka factor efficiency via generative AI; (4) multimodal biomarker models — Insilico's foundation model integrates genomics, proteomics, and clinical data to identify dual-purpose aging drug targets. Compute cost reductions continue to accelerate all four layers."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Successful longevity therapies could dramatically reduce age-related healthcare costs — the US spends ~$1.2T annually on age-related disease. However, extended lifespans increase net resource consumption and carbon footprints per person unless offset by productivity gains. The more pressing near-term concern is access inequality: longevity science risks becoming the most consequential health privilege in history, with lower-income populations unable to afford interventions that wealthy individuals use to slow their own biological aging by decades."
+    },
+    {
+      "factor": "Legal",
+      "impact": "No U.S. or EU regulatory pathway exists for 'slowing aging' as a clinical endpoint — companies must still target specific age-related diseases (fibrosis, neurodegeneration, vision loss). The TAME trial (Metformin for aging) is the only FDA-accepted aging-as-indication precedent to date. HIPAA and GDPR create friction for the large longitudinal biomarker datasets that AI longevity models require. AI-discovered drug IP is legally contested — who owns a patent on a molecule designed by a generative AI model? U.S. and UK courts are only beginning to rule, creating significant portfolio uncertainty."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Pharma R&D teams spending 12+ years and $2.6B per drug candidate to develop age-related disease therapies",
+      "solution": "AI drug discovery platforms (Insilico Medicine, Recursion Pharmaceuticals) use generative AI and multimodal foundation models to compress drug candidate design from years to months — with Phase I success rates of 80–90% vs. 40–65% historically and estimated 70% cost reduction per candidate."
+    },
+    {
+      "job": "Individuals want to know how fast they are biologically aging — not just their chronological age — to course-correct before disease strikes",
+      "solution": "AI biological clock platforms (TruDiagnostic, Elysium Health Index, Gero) measure epigenetic methylation patterns from a blood or saliva sample and return a biological age score with personalised action plans — now available direct-to-consumer for $200–$500."
+    },
+    {
+      "job": "Longevity clinics and concierge medicine practices need to personalise health optimisation protocols at scale without adding proportional physician hours",
+      "solution": "AI-powered longevity platforms (Function Health, Neko Health, Fountain Life) run comprehensive multi-biomarker panels and generate AI-driven health action plans — enabling one physician to serve 10x the clients with personalised protocols."
+    },
+    {
+      "job": "Aging researchers need to map complex interactions between thousands of biomarkers across decades of longitudinal patient data to identify druggable aging mechanisms",
+      "solution": "Longevity AI foundation models (Insilico Medicine × Human Longevity Inc.) integrate genomics, proteomics, epigenomics, and clinical records into a unified aging model — enabling identification of dual-purpose targets that address both aging and specific diseases simultaneously."
+    },
+    {
+      "job": "Health-conscious consumers want to optimise daily behaviour for lifespan and healthspan but lack a personalised, science-backed protocol they can actually follow",
+      "solution": "Consumer longevity stacks (Bryan Johnson's Blueprint app, Levels Health CGM, Oura Ring HRV tracking) deliver AI-personalised daily protocols — sleep, diet, exercise, supplementation — based on continuous biomarker feedback at $50–400/month."
+    }
+  ],
+  "market": [
+    {
+      "name": "Altos Labs",
+      "share": "~largest funded",
+      "loved": "Nobel-calibre science team, $3B+ war chest, epigenetic reprogramming via Yamanaka factors targeting neurodegenerative and immune aging disorders — initiated human clinical trials by 2026",
+      "segment": "Deep science / cellular reprogramming"
+    },
+    {
+      "name": "Insilico Medicine",
+      "share": "~leading AI platform",
+      "loved": "First AI-designed drug in Phase II clinical trials; $2.75B Eli Lilly partnership; industry-first longevity AI foundation model; most commercially validated AI drug discovery engine for aging",
+      "segment": "AI drug discovery / Big Pharma partnerships"
+    },
+    {
+      "name": "Retro Biosciences",
+      "share": "$1.8B valuation",
+      "loved": "Sam Altman + OpenAI partnership; 50x Yamanaka factor improvement via AI; RTR242 Phase 1 completed; most AI-integrated longevity biotech at clinical stage",
+      "segment": "Stem cell reprogramming / AI-protein engineering"
+    },
+    {
+      "name": "Neko Health / Function Health",
+      "share": "[unverified]",
+      "loved": "Consumer-facing longevity diagnostics; 100K+ Neko waitlist; Function Health $298M Series B; brings clinical-grade AI biomarker analysis to $499/year consumer subscriptions",
+      "segment": "Consumer longevity diagnostics"
+    },
+    {
+      "name": "BioAge Labs",
+      "share": "Public (NASDAQ: BIOA)",
+      "loved": "Only publicly traded pure-play AI longevity company; AI metabolic aging biomarkers; data-first approach validated by $238M IPO; growing pharma partnership pipeline",
+      "segment": "Biomarker AI / public equity"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Altos Labs",
+      "detail": "$3B+ funding (Jeff Bezos, Yuri Milner, ARCH Venture Partners), Nobel laureate scientific team. Focuses on partial cellular reprogramming using Yamanaka factors to reverse epigenetic marks of aging. By 2026, transitioned from pure research to early clinical trials targeting idiopathic fibrosis and neurodegeneration. Most secretive and most heavily funded company in the sector."
+    },
+    {
+      "name": "Retro Biosciences",
+      "detail": "$1.8B valuation as of May 2026 (STAT News); backed by Sam Altman personally ($180M seed); partnered with OpenAI in 2025 to redesign Yamanaka proteins achieving 50x improvement in stem cell pluripotency. Completed Phase 1 trial of RTR242. Building an AI-native biology platform combining large language models with wet-lab automation."
+    },
+    {
+      "name": "Insilico Medicine",
+      "detail": "AI drug discovery pioneer with the industry's most validated pipeline: first company with an AI-designed drug (ISM001-055, targeting IPF) in Phase II. Announced industry's first Longevity Board April 2026 and partnered with Human Longevity Inc. for the first large-scale AI foundation model for aging science. The Eli Lilly $2.75B deal is the largest commercial validation of AI longevity drug discovery."
+    },
+    {
+      "name": "Life Biosciences",
+      "detail": "Received FDA IND clearance in January 2026 for the first human epigenetic reprogramming trial — targeting vision loss reversal via partial Yamanaka factor expression. Backed by Bain Capital Life Sciences and David Sinclair (Harvard). The first clinical-stage proof that epigenetic reprogramming is safe for human application; a critical regulatory milestone for the entire longevity field."
+    },
+    {
+      "name": "NewLimit",
+      "detail": "$130M Series B (May 2025) backed by Kleiner Perkins, Founders Fund, and Khosla Ventures. Founded by Brian Armstrong (Coinbase CEO) and Blake Byers. Uses high-throughput screening combined with ML models to identify epigenetic programs that safely rejuvenate aging cells — targeting 10+ year human healthspan extension."
+    }
+  ],
+  "canvas": {
+    "who": "Three converging cohorts: (1) Affluent health optimisers aged 35–65 — tech executives, founders, and high-earning professionals who already track biometrics (Oura, WHOOP, CGM) and pay $5K–$100K/year for personalised longevity programmes; (2) Biohackers aged 25–45 who follow Bryan Johnson, Andrew Huberman, and Peter Attia — self-experimenting and adopting cheaper DIY versions of longevity protocols; (3) Pharma and biotech R&D departments deploying AI drug discovery platforms to target age-related disease pipelines.",
+    "where": "Consumer: direct-to-consumer via longevity clinics (Neko Health, Fountain Life, Human Longevity Inc.), testing kit mail order (TruDiagnostic, Elysium), and content ecosystems (Bryan Johnson's YouTube 2M+ subs, Peter Attia's #1 health podcast, Huberman Lab). Viral spread on TikTok ('longevity' has 8B+ views) and Reddit (r/longevity 150K+ members). Institutional: pharma R&D via B2B SaaS contracts (Insilico, Recursion). North America leads with ~45% of investment; Europe and Asia-Pacific rapidly scaling.",
+    "why_now": "Four simultaneous accelerants: (1) AI crossed the threshold where it can design proteins, interpret multimodal biomarker data, and run in silico trials — compressing decades of aging biology into years; (2) FDA cleared the first human epigenetic reprogramming trial in January 2026 — removing the 'will regulators ever allow it?' objection; (3) Bryan Johnson's Netflix documentary (2025) and the $20/week Blueprint replication trend brought longevity science to mainstream consumers globally; (4) First AI-designed drugs entered Phase II clinical trials in 2024–2025, eliminating the 'will it ever work?' objection for investors.",
+    "behavior": "Consumers are shifting from treating disease after it strikes to measuring and managing biological age in real time. Adoption of continuous biomarker monitoring (CGMs, epigenetic tests, full-body MRI scans) is growing at 35–50% annually. At the institutional level, pharma companies are purchasing AI drug discovery capabilities through $100M+ licensing deals rather than building in-house — a buy-vs-build shift that validates the AI longevity platform model. Early clinical data showing 80–90% Phase I success rates for AI-discovered compounds is converting sceptical oncologists and aging researchers into believers.",
+    "unmet": "Three critical unmet needs: (1) No regulatory pathway for 'aging' as a clinical target — every longevity drug must still be positioned as a specific disease treatment, limiting commercial framing; the TAME trial is the only exception; (2) Radical access inequality — the most effective longevity interventions cost $10K–$100K/year, placing them out of reach for 95%+ of the global population; longevity science risks becoming the most consequential health privilege in history; (3) Longitudinal data infrastructure gap — AI longevity models need decades of multi-omics data from thousands of patients, but no open, unified dataset exists; each company builds private silos, slowing the entire field."
+  },
+  "takeaways": [
+    "The consumer longevity market has a massive gap at the $20–$200/month price tier. Bryan Johnson's $2M/year protocol has been crowd-replicated for ~$20/week — proving demand exists far below the luxury price point. Builders should target the mass market with AI-personalised supplement stacks, CGM-integrated behaviour coaching apps, and affordable epigenetic age testing subscriptions. This is the Peloton moment for biological optimisation: the science is proven, the audience is ready, and no mainstream brand owns the category yet.",
+    "AI drug discovery for aging is a winner-takes-most platform race — build or buy within 24 months. Eli Lilly's $2.75B Insilico bet signals that Big Pharma has decided to buy AI longevity capabilities rather than build them. Biotech companies with validated Phase I/II AI-discovered compounds have a 12–18-month window before acquisition premiums compress. Investors and founders should prioritise validated clinical data over platform breadth — one successful Phase II compound is worth ten in-silico models.",
+    "Epigenetic age diagnostics are the cholesterol test of the 2030s — and the market has no dominant brand yet. Measuring biological age via DNA methylation clocks is clinically validated, the cost is dropping below $200, and consumer awareness is rising fast. The company that turns 'biological age score' into a household metric — as blood pressure or cholesterol became standard — will own the diagnostic funnel for every longevity intervention above it. Target the employer wellness benefit channel: HR teams already pay for mental health apps; the pitch for annual biological-age testing writes itself.",
+    "Build the regulatory infrastructure layer before the drugs arrive. The FDA's January 2026 IND clearance for Life Biosciences creates a template, but 'aging' still has no disease classification. The most strategically valuable company in longevity may not be a drug company — it may be the one that designs the clinical trial framework, biomarker endpoints, and regulatory strategy that gets an anti-aging indication fully approved. Whoever helps regulators define aging as a treatable condition will sit at the chokepoint of a $100B+ market — a Stripe-level opportunity in the longevity stack."
+  ],
+  "sources": [
+    {
+      "title": "Retro Biosciences longevity startup raises at $1.8B valuation, May 2026",
+      "url": "https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/",
+      "publisher": "STAT News"
+    },
+    {
+      "title": "Sam Altman–backed AI biotech announces $1 billion to extend human life span",
+      "url": "https://fortune.com/2025/01/24/sam-altman-ai-biotech-1-billion-funding-extend-human-lifespan/",
+      "publisher": "Fortune"
+    },
+    {
+      "title": "Eli Lilly's $2.75 Billion AI Drug Discovery Bet for Longevity",
+      "url": "https://worldlongevityclinics.com/news/eli-lilly-insilico-ai-drug-discovery-longevity-2026/",
+      "publisher": "World Longevity Clinics"
+    },
+    {
+      "title": "Insilico Medicine announces industry's first Longevity Board",
+      "url": "https://www.prnewswire.com/news-releases/insilico-medicine-announces-industrys-first-longevity-board-to-accelerate-ai-driven-aging-research-for-drug-discovery-302748726.html",
+      "publisher": "PR Newswire / Insilico Medicine"
+    },
+    {
+      "title": "FDA clears first human trial of epigenetic reprogramming therapy",
+      "url": "https://longevity.technology/news/fda-clears-first-human-trial-of-epigenetic-reprogramming-therapy/",
+      "publisher": "Longevity Technology"
+    },
+    {
+      "title": "FDA Greenlights Life Biosciences' first human epigenetic reprogramming trial",
+      "url": "https://fortune.com/2026/01/30/billionaires-longevity-aging-fda-human-clinical-trial-life-biosciences-jerry-mclaughlin-david-sinclair-harvard-science/",
+      "publisher": "Fortune"
+    },
+    {
+      "title": "Longevity Funding Landscape 2026 — Q1 $3.74B raised, full-year $8-9B projected",
+      "url": "https://altstreet.investments/blog/longevity-funding-landscape-2026-geroscience-investment",
+      "publisher": "AltStreet"
+    },
+    {
+      "title": "Longevity Market Report 2026–2036: AI, Genomics and Regenerative Medicine — $740B+ market",
+      "url": "https://finance.yahoo.com/news/longevity-market-report-2026-2036-114700102.html",
+      "publisher": "Yahoo Finance / Research and Markets"
+    },
+    {
+      "title": "Longevity Biotech & Senolytic Therapeutics Market — 19.7% CAGR to $21.6B by 2032",
+      "url": "https://www.openpr.com/news/4439847/longevity-biotech-senolytic-therapeutics-market-next-big",
+      "publisher": "OpenPR / HTF Market Intelligence"
+    },
+    {
+      "title": "AI Drug Discovery Is Reshaping Longevity Medicine — 173 AI programs in clinical trials",
+      "url": "https://medcitynews.com/2026/04/ai-drug-discovery-is-reshaping-longevity-medicine-is-your-practice-ready/",
+      "publisher": "MedCity News"
+    },
+    {
+      "title": "OpenAI and Retro Biosciences AI models redesigned Yamanaka factors — 50x improvement",
+      "url": "https://www.techno-science.net/en/news/ai-at-the-service-of-longevity-openai-explores-cellular-reprogramming-N26382.html",
+      "publisher": "Techno-Science.net"
+    },
+    {
+      "title": "Longevity biotech investment 2026: set for a breakout year",
+      "url": "https://longevity.technology/news/longevity-biotech-investment-2026-were-set-for-a-breakout-year/",
+      "publisher": "Longevity.Technology"
+    },
+    {
+      "title": "Anti-aging Market Size to Hit USD 149.54 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/anti-aging-market",
+      "publisher": "Precedence Research"
+    },
+    {
+      "title": "Longevity biotechnology: bridging AI, biomarkers, geroscience and clinical applications — peer-reviewed",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11552646/",
+      "publisher": "PMC / Aging journal"
+    }
+  ]
+}

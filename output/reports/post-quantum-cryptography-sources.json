@@ -1,0 +1,99 @@
+{
+  "trend": "Post-Quantum Cryptography",
+  "slug": "post-quantum-cryptography",
+  "retrieved": "2026-06-11",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/post-quantum-cryptography-market-report",
+      "claim": "Global PQC market estimated at USD 1,584.9M in 2025, reaching USD 2,177.6M in 2026, projected to USD 20,545.5M by 2033 at 37.8% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "NIST CSRC (Official)",
+      "url": "https://csrc.nist.gov/projects/post-quantum-cryptography",
+      "claim": "NIST finalized FIPS 203 (ML-KEM), FIPS 204 (ML-DSA), FIPS 205 (SLH-DSA) on August 13, 2024 — first official post-quantum cryptography standards after 8-year competition",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "PostQuantum.com / US PQC Regulatory Framework",
+      "url": "https://postquantum.com/quantum-policies/us-pqc-regulatory-framework-2026/",
+      "claim": "Three enacted US federal statutes underpin PQC mandates; Trump March 2026 Cyber Strategy explicitly mandates PQC; TLS 1.3 PQC deadline Jan 2, 2030; CNSA 2.0 NSS migration deadline 2030",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/post-quantum-cryptography-market.asp",
+      "claim": "NXP, Thales, AWS, Palo Alto Networks, and IDEMIA are top 5 market players; collectively ~59-70% combined market share",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/03/25/25-companies-building-the-quantum-cryptography-communications-markets/",
+      "claim": "PQShield raised $63M+; SandboxAQ raised $300M+ in Dec 2024 at $5.75B valuation; Quantinuum raised $600M from Nvidia-led investors at $10B valuation",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "CUI Labs",
+      "url": "https://www.cuilabs.io/articles/pqc-2026-guide",
+      "claim": "Enterprises face Q-Day risk window 2028–2032 based on recent quantum hardware advances; 'harvest now, decrypt later' attacks confirmed active; enterprise migrations take 5–15 years depending on size",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Quantum Gate AE / Global Government Transitions",
+      "url": "https://quantumgate.ae/post-quantum-cryptography-how-governments-worldwide-are-shaping-the-transition-ahead",
+      "claim": "UAE issued binding National Encryption Policy in late 2025 requiring mandatory 2026 migration plan submissions — first government with binding near-term deadline. EU ENISA Roadmap published June 2025 with 2026/2030/2035 milestones.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "PQShield Official Blog",
+      "url": "https://pqshield.com/scaling-the-post-quantum-era-pqshield-joins-tech-nations-future-fifty-2026/",
+      "claim": "PQShield named to UK Tech Nation Future Fifty 2026; company provides hardware/software PQC IP for semiconductor vendors and government agencies",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Kings Research",
+      "url": "https://www.kingsresearch.com/press-release/post-quantum-cryptography-market",
+      "claim": "PQC market projected to reach USD 10,806.9M by 2032; BFSI sector holds leading 28% market share in 2026 explicitly mandated to secure high-value transactions; hardware commands 52% share",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Security Boulevard / Enterprise Migration Guide",
+      "url": "https://securityboulevard.com/2026/03/post-quantum-cryptography-for-authentication-the-enterprise-migration-guide-2026/",
+      "claim": "Migration timelines: 5–7 years for small enterprises, 8–12 for medium, 12–15+ for large. Realistic deadline arithmetic means 2026 start is the minimum viable timeline for large enterprises to meet 2030 federal mandates.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: 60K/mo for 'post-quantum cryptography' cluster",
+      "note": "Estimated from search trend momentum data and category size; no direct Ahrefs/SEMrush source available — treat as directional"
+    },
+    {
+      "claim": "growth_5y: +523% (market ~$350M in 2021 vs ~$2.18B in 2026)",
+      "note": "2021 baseline interpolated by back-calculating from CAGR figures across multiple market reports; exact 2021 figure not directly cited"
+    },
+    {
+      "claim": "growth_3m: +18% (Q1 2026 vs Q4 2025)",
+      "note": "Derived from annual CAGR applied to quarterly period with acceleration adjustment for new mandate announcements; no direct quarterly market report found"
+    },
+    {
+      "claim": "Environmental: lattice-based PQC requires 2–4x more CPU cycles per operation than RSA-2048",
+      "note": "Directional estimate from academic benchmarking papers; exact multiplier varies by algorithm, implementation, and hardware — no single authoritative source"
+    },
+    {
+      "claim": "Market shares for NXP (~22%), Thales (~18%), AWS (~15%) are approximate",
+      "note": "MarketsandMarkets confirms combined share of ~60% for top 5 players; individual shares estimated proportionally from company revenue and product footprint data — not directly cited"
+    }
+  ]
+}

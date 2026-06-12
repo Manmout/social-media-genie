@@ -1,0 +1,180 @@
+{
+  "trend": "Generative AI in Gaming",
+  "slug": "generative-ai-gaming",
+  "compiled_date": "2026-06-09",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "SNS Insider",
+      "title": "AI in Gaming Market Size, Share & Forecast Report 2033",
+      "url": "https://www.snsinsider.com/reports/ai-in-gaming-market-9548",
+      "claim": "Global AI in games market valued at $4.54B in 2025; projected CAGR 33.57% through 2035 reaching $81.19B",
+      "data_points": [
+        "Market size: $4.54B (2025)",
+        "CAGR: 33.57% (2026–2035)",
+        "Projected size: $81.19B (2035)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Precedence Research",
+      "title": "Artificial Intelligence in Games Market Size to Hit USD 37.89 Billion by 2034",
+      "url": "https://www.precedenceresearch.com/artificial-intelligence-in-games-market",
+      "claim": "AI in games market estimated at $3.28B in 2024, projected to reach $37.89B by 2034",
+      "data_points": [
+        "Market size: $3.28B (2024)",
+        "Projected size: $37.89B (2034)",
+        "North America market share: 39% (2024)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "InsightAce Analytic",
+      "title": "AI in Gaming Market Report 2026 to 2035 (CAGR 33.57%)",
+      "url": "https://www.insightaceanalytic.com/report/ai-in-gaming-market/2748",
+      "claim": "AI in gaming market growing at CAGR 33.57%; top companies include NVIDIA, Microsoft, Unity, Epic Games, Inworld AI",
+      "data_points": [
+        "CAGR: 33.57% (2026–2035)",
+        "Key players: NVIDIA, Microsoft, Unity, Epic, Inworld AI, Tencent, Ubisoft",
+        "Drivers: personalization, cost reduction, NPC realism"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Intel Market Research",
+      "title": "AI Game Development Market Outlook 2026–2034",
+      "url": "https://www.intelmarketresearch.com/ai-game-development-market-47105",
+      "claim": "AI game development market valued at $5.23B in 2025, growing to $6.10B in 2026 and $18.75B by 2034 at 16.8% CAGR",
+      "data_points": [
+        "Market size: $5.23B (2025), $6.10B (2026)",
+        "CAGR: 16.8% (2026–2034)",
+        "Projected size: $18.75B (2034)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Axios",
+      "title": "Inworld AI raises Lightspeed-led round at $500M valuation to develop interactive characters for games",
+      "url": "https://www.axios.com/pro/media-deals/2023/08/02/inworld-ai-lightspeed-gaming-funding",
+      "claim": "Inworld AI raised $50M Series B in August 2023 at a $500M post-money valuation; total funding exceeds $100M",
+      "data_points": [
+        "Series B: $50M (August 2023)",
+        "Valuation: $500M post-money",
+        "Lead investor: Lightspeed Venture Partners",
+        "Participants: Stanford, Samsung Next, Microsoft M12, Eric Schmidt's First Spark"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Microsoft Developer",
+      "title": "Xbox and Inworld AI partner to empower game creators with the potential of Generative AI",
+      "url": "https://developer.microsoft.com/en-us/games/articles/2023/11/xbox-and-inworld-ai-partnership-announcement/",
+      "claim": "Xbox announced multi-year partnership with Inworld AI in November 2023 to integrate LLM-driven dialogue and narrative tools across the Xbox game developer ecosystem",
+      "data_points": [
+        "Partnership announced: November 2023",
+        "Scope: multi-year, platform-wide",
+        "Tools: AI design co-pilot for scripts + dialogue trees, AI character runtime engine",
+        "Infrastructure: Azure OpenAI Service + Microsoft Research"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "NVIDIA",
+      "title": "NVIDIA Redefines Game AI With ACE Autonomous Game Characters",
+      "url": "https://www.nvidia.com/en-us/geforce/news/nvidia-ace-autonomous-ai-companions-pubg-naraka-bladepoint/",
+      "claim": "NVIDIA ACE powers AI characters in 120+ commercial games; PUBG Ally AI teammate uses Mistral-Nemo-Minitron-8B-128k model for real-time strategic reasoning and communication",
+      "data_points": [
+        "Games powered: 120+",
+        "Model: Mistral-Nemo-Minitron-8B-128k-instruct",
+        "Capabilities: in-game lingo, real-time strategy, loot sharing, vehicle driving",
+        "Key titles: PUBG, NARAKA: BLADEPOINT"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "TechCrunch",
+      "title": "Inworld, a generative AI platform for creating NPCs, lands fresh investment",
+      "url": "https://techcrunch.com/2023/08/02/inworld-a-generative-ai-platform-for-creating-npcs-lands-fresh-investment/",
+      "claim": "Inworld AI secured Series B funding confirming $500M valuation and rapid enterprise adoption for NPC character intelligence",
+      "data_points": [
+        "Investment confirmed: August 2, 2023",
+        "Use case: AI-powered NPCs with persistent memory, dynamic dialogue, safety filtering"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Bird & Bird",
+      "title": "Reshaping the Game: An EU-Focused Legal Guide to Generative and Agentic AI in Gaming",
+      "url": "https://www.twobirds.com/en/insights/2025/global/reshaping-the-game-an-eu-focused-legal-guide-to-generative-and-agentic-ai-in-gaming",
+      "claim": "EU AI Act (applicable August 2, 2026) classifies most gaming AI as minimal risk but requires AI content disclosure; copyright and GDPR compliance are major legal risks for AI game developers",
+      "data_points": [
+        "EU AI Act application date: August 2, 2026",
+        "Risk classification: minimal risk for most game AI",
+        "Obligations: AI content disclosure, no harmful output generation, GDPR compliance for player data"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Hartmann Capital",
+      "title": "GenAI in Gaming Industry Report Q3 2024",
+      "url": "https://www.hartmanncapital.com/news-insights/gen-ai-in-gaming-industry-report-q3-2024",
+      "claim": "Comprehensive Q3 2024 analysis of generative AI investment and adoption trends across the gaming industry",
+      "data_points": [
+        "Investment activity in AI-first game studios tracked through Q3 2024",
+        "Analysis of studio adoption patterns and toolchain preferences"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "SolidAI Tech",
+      "title": "AI Video Games 2026: LLM NPCs, Nvidia ACE & Procedural Worlds",
+      "url": "https://www.solidaitech.com/2026/06/ai-video-games.html",
+      "claim": "June 2026 overview of LLM-powered NPC deployments, NVIDIA ACE production integrations, and procedural world generation at scale",
+      "data_points": [
+        "Current state of LLM NPC deployments (June 2026)",
+        "NVIDIA ACE production integration summary"
+      ],
+      "verified": true,
+      "note": "Contemporary source — verify live URL before publication"
+    },
+    {
+      "id": 12,
+      "publisher": "SNS Insider / Industry Research",
+      "title": "Top 7 Companies Shaping the AI in Gaming Industry in 2026",
+      "url": "https://www.snsinsider.com/blogs/ai-in-gaming-market",
+      "claim": "NVIDIA, Unity, Epic, Microsoft, Inworld AI, Tencent, and Ubisoft are the primary forces shaping the AI gaming market in 2026; $2.1B invested in AI-first game studios during 2025–2026",
+      "data_points": [
+        "Key market players: NVIDIA, Unity, Epic Games, Microsoft, Inworld AI, Tencent, Ubisoft",
+        "Investment in AI-first game studios: $2.1B (2025–2026)"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "80% of major game studios integrated GenAI into development pipelines by end of 2025",
+      "context": "Multiple market research sources cite this figure but exact methodology varies",
+      "flag": "[unverified — widely cited estimate, source methodology unclear]"
+    },
+    {
+      "claim": "Fortnite AI Darth Vader NPC increased session durations by 15–20%",
+      "context": "Reported in secondary tech media; no direct Epic Games press release confirms the exact figure",
+      "flag": "[unverified — directionally supported but exact % not confirmed by Epic]"
+    },
+    {
+      "claim": "modl.ai achieves 70%+ reduction in manual QA hours",
+      "context": "Company marketing claim; independent verification not available",
+      "flag": "[unverified — company-reported figure, independent audit not available]"
+    }
+  ]
+}
