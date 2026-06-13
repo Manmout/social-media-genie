@@ -1,0 +1,112 @@
+{
+  "trend": "AI Recruiting Technology",
+  "slug": "ai-recruiting-technology",
+  "research_date": "2026-06-13",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Recruitment Statistics 2026 — Global Data & Trends",
+      "url": "https://www.demandsage.com/ai-recruitment-statistics/",
+      "publisher": "DemandSage",
+      "key_claim": "AI adoption in HR doubled from 26% to 43% in 12 months; 93% of recruiters plan to increase AI usage in 2026",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI in Recruitment Market Size to Reach USD 5.81 Billion by 2034 | CAGR 25.0%",
+      "url": "https://trendxinsights.com/syndicated-market-research-reports/ai-recruitment-market/",
+      "publisher": "TrendX Insights",
+      "key_claim": "AI recruitment market $782.5M in 2025 growing to $5.83B by 2034 at 25% CAGR",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "100 AI Recruitment Statistics You Need to Know Heading Into 2026",
+      "url": "https://www.hiretruffle.com/blog/best-ai-recruitment-statistics",
+      "publisher": "HireTruffle",
+      "key_claim": "AI screens 250+ resumes/hour vs 4-6 for human recruiters; 60% of Fortune 100 use HireVue",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "NYC's Local Law 144 and the Final Regulations — Regulation of AI-Driven Hiring Tools in the United States",
+      "url": "https://natlawreview.com/article/nyc-s-local-law-144-and-final-regulations-regulation-ai-driven-hiring-tools-united",
+      "publisher": "National Law Review",
+      "key_claim": "NYC Local Law 144 enacted 2021, enforced July 2023; requires annual AEDT bias audits; $500-$1,500/day penalties per candidate",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Eightfold AI Revenue 2024: $96.6M ARR, $2.1B Valuation",
+      "url": "https://getlatka.com/companies/eightfold",
+      "publisher": "GetLatka",
+      "key_claim": "Eightfold AI $96.6M ARR, $2.1B valuation, $396.8M total funding, 400+ enterprise clients",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "AI Hiring Compliance 2026: Local Law 144 + EU AI Act Guide",
+      "url": "https://www.thehirehub.ai/blog/ai-hiring-compliance-in-2026-the-recruiter-s-guide-to-nyc-local-law-144-and-the-eu-ai-act",
+      "publisher": "TheHireHub",
+      "key_claim": "EU AI Act classifies CV-sorting AI as high-risk under Article 6(1); conformity assessments required by Aug 2027",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "AI in Recruitment 2026: Trends, Stats & What's Actually Working",
+      "url": "https://incruiter.com/blog/ai-in-recruitment-2026-trends-stats-what-works/",
+      "publisher": "InCruiter",
+      "key_claim": "Broader AI in recruitment market at $8.16B in 2025, growing to $15.24B by 2030 at 24.8% CAGR",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI Adoption in Recruiting: 2025 Year in Review",
+      "url": "https://www.herohunt.ai/blog/ai-adoption-in-recruiting-2025-year-in-review/",
+      "publisher": "HeroHunt",
+      "key_claim": "AI adoption in recruiting doubled; LinkedIn reports 37% of organizations integrating generative AI in hiring (2025)",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "AI Act for Recruiters: Where the Rules Apply in 2026, Country by Country",
+      "url": "https://recruitly.io/resources/ai-act-for-recruiters",
+      "publisher": "Recruitly",
+      "key_claim": "EU AI Act prohibited practices apply since Feb 2025; high-risk Article 6(1) obligations apply from Aug 2027 for hiring AI",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI Recruitment Market — Size, Analysis & Share",
+      "url": "https://straitsresearch.com/report/ai-recruitment-market",
+      "publisher": "Straits Research",
+      "key_claim": "Workday acquires Paradox for $1B (Aug 2025); Workday acquires Sana AI for $1.1B (Jan 2026)",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Amazon scraps secret AI recruiting tool that showed bias against women",
+      "url": "https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G",
+      "publisher": "Reuters",
+      "key_claim": "Amazon shut down AI resume screening tool Oct 2018 after systematic gender discrimination discovered",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "NYC Local Law 144 Compliance Guide 2026",
+      "url": "https://www.warden-ai.com/resources/hr-tech-compliance-nyc-local-law-144",
+      "publisher": "Warden AI",
+      "key_claim": "75% of NYC Law 144 enforcement complaints were misrouted (Dec 2025 Comptroller audit); stricter enforcement expected 2026",
+      "verified": true
+    }
+  ],
+  "data_quality_notes": {
+    "market_size": "Market size figures vary significantly by scope definition. $8.16B (DemandSage/InCruiter) covers all AI tools used in the full HR lifecycle. $782.5M-$5.83B range (TrendX) covers AI-native recruiting platforms only. Both are legitimate; the broader figure is used in this report as it reflects the total addressable opportunity for AI in talent acquisition.",
+    "growth_rates": "24.8% CAGR for the broader AI recruiting market (InCruiter/DemandSage) is consensus. 25% CAGR for AI-native platforms (TrendX) is consistent. 5Y growth of +510% is an estimate based on the market's trajectory from <$1B in 2021 to $8.16B in 2025.",
+    "unverified_claims": [
+      "Cost-per-hire reduction of $3,500-$5,000 from AI screening — cited in industry reports but not independently verified with primary data",
+      "Time-to-fill reduction from 42 to under 20 days — vendor-reported; independent validation needed",
+      "40% more diverse shortlists from Eightfold AI — customer-reported, not independently audited"
+    ]
+  }
+}
