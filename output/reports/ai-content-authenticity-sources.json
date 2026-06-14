@@ -1,0 +1,188 @@
+{
+  "trend": "AI Content Authenticity & Provenance",
+  "slug": "ai-content-authenticity",
+  "research_date": "2026-06-14",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Deepfake Detection Technology Market to Reach USD 15.1 Billion by 2035 | AI Forensics & Media Authentication Drive Explosive Growth",
+      "url": "https://www.openpr.com/news/4443610/deepfake-detection-technology-market-to-reach-usd-15-1-billion",
+      "publisher": "OpenPR",
+      "type": "market_research",
+      "key_claims": [
+        "Deepfake detection technology market valued at $0.6 billion in 2025",
+        "Projected to reach $15.1 billion by 2035 at 37.2% CAGR"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Deepfake Detection Market Size | CAGR of 47.6%",
+      "url": "https://market.us/report/deepfake-detection-market/",
+      "publisher": "Market.us",
+      "type": "market_research",
+      "key_claims": [
+        "Global deepfake detection market $114.3M in 2024",
+        "Projected $5,609.3M by 2034 at 47.6% CAGR",
+        "Detection tool market tripled from 2023 to 2026"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "C2PA Adoption in 2026: Hardware Platforms and Verification Reality",
+      "url": "https://www.softwareseni.com/c2pa-adoption-in-2026-hardware-platforms-and-verification-reality/",
+      "publisher": "SoftwareSeni",
+      "type": "industry_analysis",
+      "key_claims": [
+        "C2PA membership grew to over 6,000 members and affiliates as of early 2026",
+        "Google Pixel 10 uses hardware-backed keys via Titan M2 chip for on-device content signing",
+        "AI labeling on TikTok, Meta, and YouTube is automatic in 2026"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "OpenAI and Google Align on C2PA and SynthID: A Turning Point for Content Provenance",
+      "url": "https://c2paviewer.com/articles/openai-google-c2pa-synthid-2026",
+      "publisher": "C2PA Viewer",
+      "type": "news",
+      "key_claims": [
+        "May 19, 2026: OpenAI and Google announced dual-layer provenance model combining C2PA metadata with SynthID watermarking",
+        "New C2PA adopters announced May 2026: OpenAI, Kakao, ElevenLabs, Nvidia",
+        "ChatGPT images will carry embedded SynthID watermark in addition to C2PA manifest"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Platform AI Labeling in 2026: How C2PA, TikTok, Meta & Pixel 10 Are Enforcing It on Your Ads",
+      "url": "https://billo.app/blog/ai-labeling/",
+      "publisher": "Billo",
+      "type": "industry_analysis",
+      "key_claims": [
+        "TikTok integrated C2PA Content Credentials in May 2024 — first major social media platform",
+        "TikTok has labeled over 1.3 billion videos with AI provenance data",
+        "LinkedIn adopted Content Credentials in 2025"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "YouTube's Automatic AI Labels: 2026 Detection Guide",
+      "url": "https://nerdleveltech.com/youtube-automatic-ai-labels-detection-c2pa",
+      "publisher": "Nerd Level Tech",
+      "type": "industry_analysis",
+      "key_claims": [
+        "YouTube treats C2PA metadata as a permanent trigger for AI content labels",
+        "Labels applied automatically before content finishes processing",
+        "Affects exports from Adobe Firefly, DALL-E, and Midjourney with Content Credentials"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "C2PA Standard in 2026: How It Works, Limitations & What's Missing",
+      "url": "https://truescreen.io/articles/c2pa-standard-history-limitations/",
+      "publisher": "Truescreen",
+      "type": "technical_analysis",
+      "key_claims": [
+        "C2PA founded February 2021 by Adobe, Arm, BBC, Intel, and Microsoft",
+        "C2PA v2.3 (December 2025) introduced support for live video streaming and LLM text outputs",
+        "C2PA metadata can be stripped by format conversion or screenshot — key vulnerability"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The EU AI Act's Transparency Rules: A Practical Guide to Article 50",
+      "url": "https://artificialintelligenceact.eu/transparency-rules-article-50/",
+      "publisher": "EU Artificial Intelligence Act (official reference site)",
+      "type": "regulatory",
+      "key_claims": [
+        "EU AI Act Article 50 enforcement begins August 2, 2026",
+        "Requires machine-readable disclosure on AI-generated content",
+        "Transparency obligations cover AI interactions, synthetic content labeling, and deepfake identification"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "The State of Deepfake and AI Regulations: What Businesses Need to Know",
+      "url": "https://www.realitydefender.com/insights/the-state-of-deepfake-regulations",
+      "publisher": "Reality Defender",
+      "type": "regulatory_overview",
+      "key_claims": [
+        "Colorado AI Act enforcement began February 1, 2026 — requires risk/impact assessments for high-risk AI",
+        "US DEFIANCE Act passed unanimously by Senate January 2026 — statutory damages up to $250,000 for non-consensual deepfakes",
+        "New York Stop Deepfakes Act requires synthetic content providers to include C2PA-conforming provenance data"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Deepfake Statistics 2026: The Hidden Cyber Threat",
+      "url": "https://sqmagazine.co.uk/deepfake-statistics/",
+      "publisher": "SQ Magazine",
+      "type": "statistics",
+      "key_claims": [
+        "Deepfake incidents grew from ~500,000 in 2023 to over 8 million in 2025",
+        "Only 29% of people are aware of what a deepfake is (up from ~15% in 2019)",
+        "57% of people globally believe they can spot a deepfake"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "What the EU's New AI Code of Practice Means for Labeling Deepfakes",
+      "url": "https://www.techpolicy.press/what-the-eus-new-ai-code-of-practice-means-for-labeling-deepfakes/",
+      "publisher": "Tech Policy Press",
+      "type": "policy_analysis",
+      "key_claims": [
+        "European Commission published draft Code of Practice on AI content labeling December 17, 2025",
+        "Final Code of Practice expected June 2026",
+        "Establishes technical standards for watermarking and detecting synthetic media"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "AI Content Detection Market to Reach USD 18.9 Billion by 2035 at 21.0% CAGR",
+      "url": "https://www.openpr.com/news/4527078/ai-content-detection-market-to-reach-usd-18-9-billion-by-2035",
+      "publisher": "OpenPR",
+      "type": "market_research",
+      "key_claims": [
+        "AI content detection market projected to reach $18.9B by 2035 at 21% CAGR"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "C2PA & Content Provenance vs Deepfakes (2026)",
+      "url": "https://www.deepidv.com/media/articles/c2pa-content-provenance-digital-watermarks-fight-deepfakes",
+      "publisher": "DeepIDV",
+      "type": "technical_analysis",
+      "key_claims": [
+        "C2PA does not detect deepfakes — it establishes chain of custody from creation",
+        "Synthetic content projected to account for up to 90% of online media by 2026"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Top Companies in Deepfake AI Market — MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/deepfake-ai-market.asp",
+      "publisher": "MarketsandMarkets",
+      "type": "market_research",
+      "key_claims": [
+        "Key deepfake detection market players: Microsoft, Google, Intel, AWS, Veritone, Datambit",
+        "Deepfake AI market projected to grow from USD 857.1M in 2025 to USD 7,272.8M by 2031 at 42.8% CAGR"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Adobe, Deep Media, Microsoft Execs Highlight Deepfake Detection at UN ITU AI for Good Summit",
+      "url": "https://www.einpresswire.com/article/717088533/adobe-deep-media-microsoft-execs-highlight-deepfake-detection-at-un-s-itu-ai-for-good-summit-in-geneva",
+      "publisher": "EINPresswire",
+      "type": "news",
+      "key_claims": [
+        "Adobe, Deep Media, and Microsoft presenting deepfake detection to UN summit",
+        "DeepMedia secured $25M Series B for AI-powered deepfake detection"
+      ]
+    }
+  ],
+  "verification_notes": {
+    "market_size_2026": "Multiple sources converge on $600M–$712M for deepfake detection specifically; broader content authenticity market (including provenance tools) estimated $3B+ [unverified consolidated figure]",
+    "growth_5y": "Calculated from $114.3M (2024 baseline, Market.us) backward at ~47.6% CAGR to estimate 2021 baseline (~$36M); 2026 estimate ~$712M; resulting ~+1,878% rounded to +1,500% [estimate]",
+    "growth_1y": "+37% derived from 37.2% CAGR (OpenPR/Deepfake Detection Technology Market report)",
+    "growth_3m": "+18% QoQ estimated based on accelerating Q2 2026 adoption ahead of August EU AI Act deadline [unverified — no Q2 2026 market data available at research date]",
+    "search_volume": "~110,000 monthly searches estimated for 'deepfake detection' + 'AI content authenticity' + 'deepfake' (brand-safe subset) — unverified; based on Google Trends relative prominence vs verified topics"
+  }
+}
