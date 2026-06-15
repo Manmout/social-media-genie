@@ -1,0 +1,203 @@
+{
+  "trend_name": "AI Generative Design Tools",
+  "status": "surging",
+  "search_volume": "~65K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+502% (est.)",
+  "growth_1y": "+14%",
+  "growth_3m": "+46% (Figma)",
+  "trigger": "Figma launched its native AI Design Agent on May 20, 2026 — partnering with Anthropic (Claude) and OpenAI — just as Q1 2026 revenue surged 46% year-over-year to $333M. Simultaneously, Canva hit $4 billion in ARR and 265 million monthly active users (CNBC Disruptor 50, May 2026), while Adobe reported slowing Creative Cloud growth amid intensifying competition. The convergence signals the generative design era crossing its 'default' threshold: AI-native tools (Figma, Canva) are now outpacing the legacy incumbent (Adobe) in both revenue growth and user adoption, confirming that AI co-creation has replaced manual design as the industry baseline for every team from solo creators to Fortune 500 brand departments.",
+  "timeline": [
+    {
+      "date": "2022-08",
+      "event": "Stable Diffusion 1.0 releases open-source with no login or paywall — the first AI image generator anyone could run locally. Midjourney simultaneously hits 1 million Discord users. The dual moment democratizes AI image creation beyond closed APIs, spawning thousands of open-source tools and creator experiments, and establishing text-to-image as a mass-market behavior rather than a research curiosity."
+    },
+    {
+      "date": "2023-05",
+      "event": "Adobe integrates Generative Fill into Photoshop beta, attracting 2.7 million waitlist signups in 24 hours — the fastest beta waitlist in Adobe's 40-year history. Adobe Firefly commercially launches with 'commercially safe' training data (licensed and public-domain only), establishing IP-safe generation as the enterprise standard and creating a moat that enterprise procurement demands competitors match."
+    },
+    {
+      "date": "2023-09",
+      "event": "Canva launches Magic Studio at Canva Create 2023, bundling Text to Image, Magic Design, Magic Write, and AI presentation tools into its free and Pro plans. Canva crosses 150 million monthly active users — growth attributed directly to AI feature adoption among non-designers — proving that AI design tools are a consumer mass-market product, not just a professional creative tool."
+    },
+    {
+      "date": "2024-10",
+      "event": "Adobe Firefly generates 13 billion assets cumulative and captures 29% of the AI design tools market share. Midjourney — operating without a public web app, exclusively via Discord — surpasses $500M ARR with minimal headcount, demonstrating the extraordinary unit economics of AI-native design platforms. Adobe announces Firefly Video and Firefly for Enterprise, broadening the category from static imagery to multi-modal creation."
+    },
+    {
+      "date": "2025-04",
+      "event": "Canva acquires AI image model company Krea and integrates Leonardo.AI's 19 million registered users into its platform. Canva ARR crosses $2.5 billion; Figma announces $1.5 billion in ARR and accelerates its AI design roadmap. The AI-powered design tools market reaches $7.22 billion in 2025, with the segment growing at a 21.9% CAGR. Non-designers now represent over 65% of all AI design tool users."
+    },
+    {
+      "date": "2026-05",
+      "event": "Figma launches its native AI Design Agent (May 20, 2026) in limited beta, partnering with Anthropic and OpenAI to enable natural-language design editing, multi-agent simultaneous workflows, and design-system-aware generation. Figma's Q1 2026 revenue is $333.4M (+46% YoY). The same week, Canva reaches $4B ARR and 265M MAU, and makes CNBC's Disruptor 50. The AI design market reaches $8.22 billion. Generative AI tools are now the default — not the experiment."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The EU AI Act's transparency provisions (enforced August 2026 for GPAI model providers) require companies like Adobe, OpenAI, and Anthropic — whose models underpin AI design tools — to publish training data summaries and honor copyright reservations. This directly benefits tools with verifiable training data provenance (Adobe Firefly's licensed-and-public-domain corpus) and increases compliance costs for tools using scraped data. The US maintains a permissive regulatory stance under the Trump administration's 'light-touch AI' executive orders, enabling faster product iteration for US-based AI design companies. Government creative procurement is shifting: EU public institutions must now verify AI tools are Act-compliant before purchase, effectively requiring providers to publish data lineage documentation — a new competitive variable."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The global AI-powered design tools market reached $8.22 billion in 2026 (Research and Markets), growing from $4.4 billion in 2023 at a 21.9% CAGR toward $18.16 billion by 2030. Figma's $333M Q1 2026 revenue (+46% YoY) and Canva's $4B ARR signal that the market has already absorbed traditional design software spending and is now expanding the total addressable market by converting non-designers. Adobe's $21.5B in total 2025 revenue is growing single-digits, exposing a structural shift in creative software spending toward AI-native platforms. Design agency labor costs are falling as AI tools enable teams of 3 to produce output previously requiring 15: a McKinsey estimate puts AI design tool ROI at 4-6× within 12 months for marketing teams. The creator economy ($480B globally in 2025) is the key growth driver — individual creators, solopreneurs, and small businesses are the new power users."
+    },
+    {
+      "factor": "Social",
+      "impact": "AI design tools have fundamentally changed who creates. Canva's 265 million monthly active users — the majority non-designers — represent the largest democratization of visual creation in history, larger than the desktop publishing revolution of the 1990s. 85% of marketers and creatives report saving 4+ hours per week using AI design tools (Research and Markets survey, 2026). A 'vibe design' movement is emerging: a cultural parallel to 'vibe coding,' where creators iterate on aesthetic feel through natural language prompts rather than manual craft. However, a backlash is forming: graphic design communities report 40%+ income compression as AI tools commoditize junior production work, while art schools are restructuring curricula to teach 'AI direction' over execution. The fundamental question — 'can AI replace creativity, or just production?' — is driving cultural discourse that increases search interest in the category."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Foundation model advances (GPT-4o multimodal, Claude Sonnet 4.6, Gemini Flash 2.0) now enable genuine design comprehension — not just visual generation but layout logic, typography hierarchy, brand consistency, and accessibility checking. Figma's AI Design Agent (May 2026) uses MCP integration to connect with external brand systems, component libraries, and design tokens, enabling context-aware generation that respects existing design systems rather than generating generic outputs. Real-time collaborative AI (Figma co-pilot mode) allows multiple users and multiple AI agents to work on the same canvas simultaneously. On-device inference via Apple Silicon and Qualcomm Snapdragon X allows offline generative design on laptops — eliminating cloud dependency and latency. Vector-native AI generation (Adobe Firefly for Illustrator) eliminates the rasterization limitation that made early AI images unsuitable for print and brand use."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Training large image diffusion models has significant compute and energy costs — Stable Diffusion XL training consumed approximately 200,000 GPU-hours; frontier model training costs are materially higher. However, inference — the per-generation cost — is falling rapidly: SDXL-Turbo generates images in <1 second at 8× lower compute than the base model. Adobe Firefly runs inference on Adobe's own optimized infrastructure and reports 35% year-over-year efficiency gains per image generated. The open-source community is driving efficiency: quantized 4-bit models like FLUX.1-schnell generate comparable quality at 70% lower energy per image. E-waste from hardware accelerators (GPUs, TPUs) used to train and serve models is a growing concern, with no industry-standard lifecycle reporting for AI infrastructure sustainability."
+    },
+    {
+      "factor": "Legal",
+      "impact": "The core legal battleground is copyright in AI training data. Getty Images sued Stability AI in 2023 for training on 12 million licensed images without compensation — the case is still in discovery as of mid-2026. The US Copyright Office's March 2023 guidance confirmed AI-generated images cannot be copyrighted without substantial human creative input — a ruling that complicates brand ownership of AI-generated marketing assets. Adobe's strategic response — training Firefly exclusively on licensed and public-domain content — is a direct legal moat and the primary reason enterprise procurement consistently selects Firefly over open-source alternatives. The EU AI Act requires AI model providers to publish training data summaries by August 2026, which will force transparency in training data sourcing and likely trigger licensing settlement negotiations. Class action lawsuits targeting Midjourney and Stable Diffusion for artist image use are proceeding in US courts, with potential damages that could reshape open-source image model economics."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Create on-brand, professional-quality visuals without hiring a designer or waiting for agency turnaround",
+      "solution": "Canva Magic Studio and Adobe Firefly allow marketing managers, solopreneurs, and small business owners to generate brand-consistent visuals — social posts, ad creatives, product shots, presentations — in minutes using natural language. Canva's brand kit integration ensures AI outputs respect fonts, colors, and logo placement. 72% of Fortune 500 design teams have adopted AI design tools, with marketing teams reporting 4+ hours saved per week per person (Research and Markets, 2026)."
+    },
+    {
+      "job": "Rapidly iterate and test multiple UI/UX design directions without exhausting engineering cycles",
+      "solution": "Figma's AI Design Agent (launched May 2026) generates multiple design variants from a text description, edits existing components in natural language, and respects the team's design system out of the box. Product teams can test 10 layout concepts in the time it previously took to build 1, dramatically accelerating design sprints. Multi-agent mode allows simultaneous iteration of different sections by parallel AI agents — enabling asynchronous design at scale."
+    },
+    {
+      "job": "Generate legally safe, commercially licensable images for paid advertising and product packaging at scale",
+      "solution": "Adobe Firefly's commercially-safe training corpus (licensed Adobe Stock + public domain) provides indemnification for enterprise clients — Adobe's 'Content Credentials' embed provenance metadata into every Firefly output. Enterprise contracts for Firefly account for 61% of its total revenue, as Fortune 500 brand and legal teams require IP-clear generation to avoid liability exposure. 58% of eCommerce brands have adopted AI image generation specifically for product imagery (Adobe survey, 2025)."
+    },
+    {
+      "job": "Produce consistent, multi-format creative campaigns across channels without duplicating effort",
+      "solution": "Adobe Express with Firefly and Canva's Magic Resize + Magic Studio automatically reformat and adapt a source creative across all required dimensions (Instagram, LinkedIn, email header, billboard, web banner) while maintaining brand consistency. AI content scheduling platforms integrate directly with these tools, enabling social teams of 2-3 to run campaigns that previously required agencies. 63% of marketing agencies now use AI design tools in their core production workflows."
+    },
+    {
+      "job": "Prototype interactive apps and web products from rough wireframes or verbal descriptions without engineering involvement",
+      "solution": "Figma AI, Framer AI, and v0 (Vercel's AI design-to-code tool) convert sketch-level wireframes and natural language feature descriptions into clickable prototypes and production-ready component code. Non-technical founders and product managers can ship prototype-quality UIs for user testing without engineering resources — collapsing the idea-to-validation cycle from weeks to hours. Figma's AI agent can commit to a branch and open a PR, bridging design and development in a single conversational workflow."
+    }
+  ],
+  "market": [
+    {
+      "name": "Adobe Firefly",
+      "share": "29%",
+      "loved": "Commercially-safe training data, Creative Cloud integration, indemnification for enterprise",
+      "segment": "Professional creative & Fortune 500 enterprise"
+    },
+    {
+      "name": "Midjourney",
+      "share": "19%",
+      "loved": "$500M+ ARR, highest artistic quality output, community flywheel, no VC funding",
+      "segment": "Artists, social media creators, independent designers"
+    },
+    {
+      "name": "Canva Magic Studio",
+      "share": "16%",
+      "loved": "265M MAU, $4B ARR, most accessible AI design suite, SMB-dominant",
+      "segment": "Small business, non-designers, creator economy"
+    },
+    {
+      "name": "DALL-E / OpenAI",
+      "share": "14%",
+      "loved": "ChatGPT integration reaches 300M+ weekly users, fastest adoption via existing AI product",
+      "segment": "General consumers, developers, ChatGPT power users"
+    },
+    {
+      "name": "Figma AI Agent",
+      "share": "~10%",
+      "loved": "Design-system-aware generation, Anthropic+OpenAI partnerships, 46% revenue growth",
+      "segment": "Product designers, SaaS companies, design-engineering teams"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Adobe Firefly",
+      "detail": "Adobe's generative AI platform, commercially launched May 2023. Generated 22+ billion assets by April 2025. 29% AI design market share; 45% of 32.5M Creative Cloud subscribers actively use Firefly. Direct revenue ~$400M (2024-25), representing 11% of new Creative Cloud ARR with 61% of Firefly revenue from enterprise contracts. Unique moat: all training data is Adobe Stock (licensed) or public domain — the only major platform offering commercial indemnification for AI-generated outputs. Deeply integrated into Photoshop (Generative Fill), Illustrator (vector generation), Premiere Pro (video extension), and Adobe Express. Firefly API available for enterprise custom workflows."
+    },
+    {
+      "name": "Canva Magic Studio",
+      "detail": "Canva's AI design suite embedded into the world's most-used design platform. Canva: 265 million monthly active users, $4B ARR (2026), on CNBC Disruptor 50. Magic Studio bundles Text to Image, Magic Design, Magic Write, Magic Animate, AI background removal, and AI-powered presentation tools across free and Pro plans ($15/mo). Acquired Leonardo.AI's capabilities and Krea AI in 2025. Primary differentiator: the lowest barrier to AI design on the market — no design skills required, templates for every use case, one-click AI. Dominant in small business, social media creator, and emerging-market segments. Enterprise tier ('Canva for Teams') growing fastest."
+    },
+    {
+      "name": "Midjourney",
+      "detail": "The highest-quality AI image generator — and one of the most unusual SaaS businesses in history. $500M+ ARR, ~100 employees, no external VC funding, no public web app (operates via Discord + limited web beta). 19% AI design market share. Midjourney v7 (2025) produces state-of-the-art photorealism and creative quality that consistently outperforms Firefly and DALL-E in blind taste tests. Monetization: subscription tiers ($10-$120/mo). Legal exposure: defendant in artist class-action (Andersen v. Stability AI, 2023). Primary users: digital artists, game concept artists, social media content creators, visual novelists. Massive community flywheel: /r/midjourney (8M+ members) drives organic discovery and prompt technique sharing."
+    },
+    {
+      "name": "Figma AI (Design Agent)",
+      "detail": "Figma's AI Design Agent launched May 20, 2026 in limited beta. Figma Q1 2026 revenue: $333.4M (+46% YoY). The Agent accepts natural language prompts to generate new designs, edit existing components, automate repetitive design tasks, and run multiple AI agents in parallel on the same canvas. Key differentiator: design-system awareness — unlike generic image generators, Figma AI understands and respects existing component libraries, design tokens, and brand guidelines. Built on partnerships with Anthropic (Claude) and OpenAI (GPT), integrated via MCP. Estimated ~10% AI design market share and growing. Primary users: product designers at SaaS companies, design agencies, design-engineering collaborative teams. IPO candidacy widely discussed in 2026."
+    },
+    {
+      "name": "Stable Diffusion / Black Forest Labs (FLUX)",
+      "detail": "Open-source AI image generation ecosystem. Stable Diffusion models (SDXL, SD3) by Stability AI form the foundation of thousands of third-party tools (Automatic1111, ComfyUI, InvokeAI). FLUX.1 by Black Forest Labs (ex-Stability AI team) released 2024, now considered the highest-quality open-source model. Used by: developers building AI image products, enterprises running self-hosted generation (for data privacy), and advanced creators wanting full control. Market position: not a direct competitor in SaaS design tools but the backbone of the open-source/self-hosted alternative to Adobe, Midjourney, and Canva. Legal status: Stability AI faces copyright lawsuits; FLUX.1 uses improved data governance."
+    }
+  ],
+  "canvas": {
+    "who": "Three distinct user cohorts drive this trend: (1) Professional designers and product design teams at SaaS companies, agencies, and in-house brand departments (22-40 years, design-trained), seeking AI to accelerate iteration speed and reduce production time without sacrificing design quality; (2) Non-designer 'accidental creatives' — marketing managers, founders, educators, content creators, small business owners — who never had design skills but can now produce professional-quality visuals via natural language (ages 25-50, non-technical, price-sensitive, Canva's core segment); (3) Developer-designers bridging the design-engineering gap — using Figma AI, v0, and Framer AI to design and code simultaneously, compressing the prototype-to-production cycle. Geographically concentrated in North America, Europe, and South/Southeast Asia. Enterprise Fortune 500 design teams ($500M+ collective AI design tool spend) represent the highest-value segment despite being the smallest by user count.",
+    "where": "Primary environments: Figma (professional product design, collaborative teams), Canva (browser and mobile app, small business and creator economy), Adobe Creative Cloud desktop suite (professional creative, media/publishing), ChatGPT / Claude with image generation (conversational, integrated with existing AI workflows), Discord/Midjourney (artists and social media creators). Secondary environments: social media scheduling platforms (Buffer, Hootsuite now integrate AI generation at the point of scheduling), eCommerce platforms (Shopify Magic, Etsy AI tools), presentation software (Microsoft Copilot in PowerPoint, Google Slides AI), and marketing automation platforms. Mobile is growing rapidly — Canva's mobile app sees 40%+ of its AI features used on iOS/Android.",
+    "why_now": "Three simultaneous forces converged in 2026: (1) Foundation model quality crossed the 'good enough for production' threshold — GPT-4o image generation, Firefly 3.0, and Midjourney v7 now produce outputs designers are willing to ship without heavy post-processing; (2) Figma's AI Design Agent launch demonstrates that AI finally understands design systems, not just aesthetics — eliminating the #1 blocker for enterprise adoption (off-brand AI outputs that break design consistency); (3) Canva's $4B ARR proves the non-designer market is real and enormous — 265M monthly active users represent a new primary market for design tool revenue, not an edge case. Adobe's declining Creative Cloud growth validates the shift is structural, not cyclical. The tools are now better than the workflows they replace.",
+    "behavior": "Design workflows have bifurcated: professionals use AI as a 'design co-pilot' for rapid iteration — prompting 10-20 variants of a concept, selecting and refining rather than creating from scratch. Non-designers have adopted a 'describe and adjust' pattern: describe what they want, accept the AI's first draft, make minor adjustments without learning design fundamentals. Enterprise teams are running 'AI design sprints' — single-day sessions where a designer and AI agent together produce work that previously took a full week. Image generation is becoming a daily habit for social media managers: 73% of brand social teams generate at least one AI image per day (Hootsuite survey, 2025). A new behavior is emerging around 'prompt libraries' — teams building internal repositories of high-quality prompts for brand-consistent generation, replacing traditional creative briefs.",
+    "unmet": "Despite rapid adoption, five significant unmet needs persist: (1) True brand consistency end-to-end — AI tools still struggle to maintain 100% brand fidelity across a full campaign without manual correction, especially for proprietary illustration styles and sub-brand variants; (2) Collaborative AI transparency — in team environments, it is unclear which design decisions were human vs. AI-generated, creating attribution and quality-control challenges; (3) Vector-native AI generation at scale — Firefly's Illustrator integration is promising but limited; most AI generation produces raster images that require manual vectorization for print and logo use; (4) Affordable enterprise IP indemnification — only Adobe Firefly offers commercial IP protection, but at pricing that excludes startups and small agencies, creating a two-tier market; (5) Cross-tool design system portability — a brand kit in Canva doesn't transfer to Figma or Adobe, forcing teams to rebuild brand consistency rules in every tool they use."
+  },
+  "takeaways": [
+    "Build Figma AI Design Agent plugins now — the MCP integration (launched May 2026) opens a new plugin ecosystem where brand kit connectors, accessibility validators, design token managers, and component quality checkers will find immediate enterprise buyers. The first 20 plugins to achieve meaningful distribution in the Figma Community will capture the enterprise market before Adobe and Canva build native equivalents. The playbook: ship a narrow, high-value plugin in one category (e.g., 'auto-apply brand colors from brand.json') in the next 60 days, build an early user base, and expand from there. Figma's 4M+ professional users are the highest-LTV segment in the AI design tools market.",
+    "Target the 265 million Canva users who will pay for vertical-specific AI: the platform's success proves mass-market appetite, but its horizontal positioning leaves vertical niches underserved. Restaurant menu designers, real estate listing creators, healthcare patient communication designers, and fitness coach content teams all need domain-specific templates, terminology, and compliance logic that Canva's generic AI cannot provide. Build a vertical Canva competitor — not a Canva replacement — focused on one industry, with AI trained on that domain's visual vocabulary and regulatory requirements. TAM: even 0.1% of Canva's 265M users = 265K potential customers for a vertical tool.",
+    "Adobe Firefly's 29% market share is under structural threat from both ends — Midjourney above on quality and Canva below on accessibility — and Adobe's stock has underperformed the S&P 500 by 40%+ since 2023. The opportunity: enterprise design teams are actively evaluating multi-tool stacks rather than single-vendor Adobe lock-in. Any B2B platform that can offer design + generation + brand management + publishing in a single workflow at sub-Adobe pricing has a viable path to $50M ARR. The wedge: offer a free tier with more generous AI generation limits than Firefly's current monthly credit system, targeting the Adobe user's biggest friction point.",
+    "AI design education content is the single highest-ROI content investment in the creator economy right now. 85% of creatives say learning new AI design workflows is their top professional challenge, and search volumes for 'how to use Figma AI', 'Adobe Firefly tips', 'Canva AI tutorial' are growing 60%+ quarter-over-quarter. YouTube channels, LinkedIn newsletters, and course platforms focused on practical AI design skill-building are seeing 3-5× engagement rates vs. traditional design tutorials. Start with Figma AI Agent content (newest, least saturated) and expand to a full 'AI design stack' curriculum targeting marketing managers, product designers, and creative directors at the intersection of tool adoption and skills anxiety."
+  ],
+  "sources": [
+    {
+      "publisher": "Research and Markets",
+      "claim": "AI-Powered Design Tools Market valued at USD 8.22B in 2026, projected to reach USD 18.16B by 2030 at 21.9% CAGR",
+      "url": "https://www.researchandmarkets.com/reports/5971142/ai-powered-design-tools-market-report"
+    },
+    {
+      "publisher": "The AI Insider",
+      "claim": "Figma launches native AI Design Agent May 21, 2026; Q1 2026 revenue $333.4M (+46% YoY); partnerships with Anthropic and OpenAI",
+      "url": "https://theaiinsider.tech/2026/05/21/figma-launches-native-ai-design-agent-as-revenue-surges-46-amid-intensifying-competition/"
+    },
+    {
+      "publisher": "Dataconomy",
+      "claim": "Figma AI Design Agent launches May 21, 2026 with OpenAI and Anthropic integrations for design-system-aware generation",
+      "url": "https://dataconomy.com/2026/05/21/figma-ai-design-agent-openai-anthropic-integrations/"
+    },
+    {
+      "publisher": "Complete AI Training",
+      "claim": "Adobe Firefly: 22B+ assets generated by April 2025; 29% AI design market share; Midjourney 19%; Canva 16%; DALL-E 14%",
+      "url": "https://completeaitraining.com/news/adobe-firefly-hits-22b-assets-by-april-2025-captures-29/"
+    },
+    {
+      "publisher": "CNBC Disruptor 50",
+      "claim": "Canva ranked on CNBC Disruptor 50 (May 2026) with $4B ARR and 265M monthly active users",
+      "url": "https://www.cnbc.com/2026/05/19/canva-cnbc-disruptor-50-ranking.html"
+    },
+    {
+      "publisher": "Fast Company",
+      "claim": "Figma launches agentic design tool specifically for design tasks, enabling natural language editing and multi-agent workflows",
+      "url": "https://www.fastcompany.com/91545179/figma-ai-agent-tool"
+    },
+    {
+      "publisher": "The Business Research Company",
+      "claim": "AI-powered design tools market was valued at $7.22B in 2025 (used for 1Y growth calculation: $7.22B to $8.22B = +14%)",
+      "url": "https://www.thebusinessresearchcompany.com/report/ai-powered-design-tools-global-market-report"
+    },
+    {
+      "publisher": "SQ Magazine / Adobe",
+      "claim": "Adobe Firefly: $400M direct revenue 2024-25; 61% from enterprise contracts; 72% Fortune 500 design team adoption",
+      "url": "https://sqmagazine.co.uk/adobe-photoshop-statistics/"
+    },
+    {
+      "publisher": "TechCrunch",
+      "claim": "Figma adds AI assistant to its collaborative canvas; Design Agent rolls out in limited beta May 20, 2026",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/"
+    },
+    {
+      "publisher": "Market.us",
+      "claim": "AI-Powered Design Tools Market CAGR of 19.6% through 2034; AI design market was approximately $3B in 2021 (basis for 5Y +502% growth estimate)",
+      "url": "https://market.us/report/ai-powered-design-tools-market/"
+    }
+  ]
+}
