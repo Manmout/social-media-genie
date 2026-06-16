@@ -1,0 +1,127 @@
+{
+  "slug": "ai-data-center-power-crisis",
+  "trend_name": "AI Data Center Power Crisis",
+  "research_date": "2026-06-16",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Gartner Says Data Center Electricity Consumption to Grow 26% in 2026",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026",
+      "publisher": "Gartner",
+      "claim": "Global data center electricity demand will reach 565 TWh in 2026, up from 447 TWh in 2025 (+26.4% YoY). Power demand reaches 132 GW. AI-optimized servers account for 31% of data center power consumption in 2026.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Accelerating Power Demand from Data Centers Is Poised to Boost New Energy Technologies",
+      "url": "https://www.goldmansachs.com/insights/articles/accelerating-power-demand-from-data-centers-poised-to-boost-new-energy-technologies",
+      "publisher": "Goldman Sachs",
+      "claim": "165% increase in global data center power demand projected by 2030 vs. 2023 levels. Data center capacity expanding to 92 GW by 2027 at 17% CAGR. Data center power demand will reach 290 GW by 2030.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions",
+      "url": "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions",
+      "publisher": "International Energy Agency (IEA)",
+      "claim": "Data centre electricity use surged in 2025 despite tightening grid bottlenecks; grid interconnection queues extending to 7+ years in prime US markets.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Meta Secures 6.6 GW of Nuclear Energy to Power AI Data Centers",
+      "url": "https://www.latitudemedia.com/news/meta-strikes-6-6-gw-nuclear-deal-to-fuel-its-ai-supercluster/",
+      "publisher": "Latitude Media",
+      "claim": "Meta struck a 6.6 GW nuclear energy deal spanning TerraPower Natrium, Oklo Aurora, Vistra, and Constellation — the largest single corporate energy procurement in history.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI Data Center Energy Storage Market Outlook, 2030: 28–38% CAGR",
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3269513/28124/en/AI-Data-Center-Energy-Storage-Market-Outlook-2030-AI-Workloads-and-Faster-Grid-Interconnection-Needs-Driving-the-Market-at-28-38-CAGR.html",
+      "publisher": "GlobeNewswire",
+      "claim": "AI data center energy storage market growing from $1.2B in 2025 to $4.1–6.0B by 2030 at 28–38% CAGR. AI workloads bring power swings from 30% to 100% of capacity.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Data Center Power Crisis 2026: The Grid Bottleneck",
+      "url": "https://enkiai.com/data-center/data-center-power-crisis-2026-the-grid-bottleneck/",
+      "publisher": "EnkiAI",
+      "claim": "Transformer delivery times now stretch 3–5 years; switchgear sold out through 2028. 30–50% of large data centers scheduled for 2026 will be delayed or cancelled. 11 GW of announced capacity shows no signs of construction.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Every Nuclear-Powered Data Center Deal: Google, Amazon, Meta & Microsoft (2026)",
+      "url": "https://smrintel.com/nuclear-data-center-deals/",
+      "publisher": "SMR Intel",
+      "claim": "As of May 2026, every major tech hyperscaler has signed at least one nuclear power deal, with 13 announced projects committing over 9.8 GW of nuclear capacity. Microsoft's Crane Clean Energy Center (835 MW) is the only deal with confirmed pre-2030 delivery.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "2026 Global Data Center Market Outlook",
+      "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+      "publisher": "JLL",
+      "claim": "The sector is experiencing an infrastructure investment supercycle requiring up to $3 trillion by 2030. Nearly 100 GW of new data centers will be added between 2026 and 2030, equating to $1.2 trillion in real estate asset value creation.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "AI, Data Centers, and the U.S. Electric Grid: A Watershed Moment",
+      "url": "https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid",
+      "publisher": "Belfer Center for Science and International Affairs (Harvard)",
+      "claim": "AI data centers represent a watershed moment for the US electric grid; structural grid capacity constraints cannot be resolved within AI deployment timescales.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Why the AI Data Center Boom Is the Biggest Grid Story of 2026",
+      "url": "https://enline.energy/articles/ai-data-center-grid-capacity-2026",
+      "publisher": "Enline Energy",
+      "claim": "Fervo Energy's enhanced geothermal 100 MW Utah project (Google/Mitsui, $88/MWh) represents the first utility-scale EGS deployment for data center power. Google, Intersect Power, and TPG to invest $20B in clean energy projects for data center demand.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "AI Data Center Grid Strain: Power Halts Growth in 2026",
+      "url": "https://enkiai.com/data-center/ai-data-center-grid-strain-power-halts-growth-in-2026/",
+      "publisher": "EnkiAI",
+      "claim": "Between 30% and 50% of large data centers scheduled to open in 2026 will be delayed or cancelled. The bottleneck is not money — it is grid infrastructure with multi-year lead times.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Global Data Centre Electricity Demand To Surge 26.4 Per Cent In 2026 (Gartner)",
+      "url": "https://www.freepressjournal.in/tech/global-data-centre-electricity-demand-to-surge-264-per-cent-in-2026-as-ai-workloads-drive-power-consumption-gartner",
+      "publisher": "Free Press Journal (reporting Gartner data)",
+      "claim": "Corroboration of Gartner June 2026 data: 565 TWh consumption in 2026; 132 GW power demand; AI data centers would rank as the 5th largest national energy consumer if treated as a country.",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "2026 Predictions: AI Sparks Data Center Power Revolution",
+      "url": "https://www.datacenterknowledge.com/operations-and-management/2026-predictions-ai-sparks-data-center-power-revolution",
+      "publisher": "Data Center Knowledge",
+      "claim": "2026 marks the inflection point where power availability — not fiber proximity or land cost — becomes the primary data center site selection criterion.",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "What We Know About Energy Use at U.S. Data Centers Amid the AI Boom",
+      "url": "https://www.pewresearch.org/short-reads/2025/10/24/what-we-know-about-energy-use-at-us-data-centers-amid-the-ai-boom/",
+      "publisher": "Pew Research Center",
+      "claim": "US data centers consume approximately 4% of national electricity as of late 2025, up from 1.5% in 2020.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Market share percentages for Constellation, Vertiv, TerraPower, Fervo, and Bloom Energy are estimated based on disclosed deals and analyst commentary — no single authoritative market share report was found for this specific sub-sector.",
+    "The claim that consumer electricity bills in data center-dense regions rose '8–15%' between 2023–2026 is directionally supported by utility filings in Virginia and California but the specific range is an aggregation estimate — [unverified exact range].",
+    "Bloom Energy '18-month installation timeline' for data center deployments — based on company marketing materials and analyst reports, not a verified third-party case study.",
+    "Fervo EGS cost projection of '$80–100/MWh current vs. $88/MWh Google/Mitsui deal' — the $88/MWh figure is verified; the $80–100/MWh range for current EGS costs is based on public statements from Fervo management, not audited financials.",
+    "The '86,200 employees worldwide' figure for the data center industry with '+45% year-over-year' growth — sourced from one market report citation; exact source and methodology not independently confirmed.",
+    "Growth_3m '+38%' represents the CAGR of the AI data center energy storage sub-market (GlobeNewswire, April 2026), not a verified 3-month search volume or market size growth rate — used as a proxy for momentum in the energy solutions space."
+  ]
+}

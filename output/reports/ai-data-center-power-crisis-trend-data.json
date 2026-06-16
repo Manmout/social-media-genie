@@ -1,0 +1,213 @@
+{
+  "trend_name": "AI Data Center Power Crisis",
+  "status": "surging",
+  "search_volume": "~75,000/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+182%",
+  "growth_1y": "+26%",
+  "growth_3m": "+38%",
+  "trigger": "Gartner's June 10, 2026 press release confirmed global data center electricity demand will hit 565 TWh in 2026 — a 26.4% year-over-year surge, the single largest annual jump ever recorded. Combined with 30–50% of large data centers scheduled for 2026 now facing delays or cancellations due to grid capacity constraints (transformer lead times stretched to 3–5 years, switchgear sold out through 2028), Meta's 6.6 GW nuclear megadeal (the largest single corporate energy procurement in history), and Goldman Sachs projecting 165% total power demand growth from data centers by 2030, AI's energy hunger has emerged as the defining bottleneck for AI expansion — more binding than chip supply or developer talent.",
+  "timeline": [
+    {
+      "date": "2022-11",
+      "event": "ChatGPT's public launch triggers an unprecedented hyperscaler AI buildout: Microsoft, Google, and Amazon collectively announce $100B+ in data center investments over the next two years. Power engineers and grid operators begin flagging that AI GPU clusters consume 10–50x more electricity per square foot than conventional servers, but no structural response is initiated."
+    },
+    {
+      "date": "2023-09",
+      "event": "Microsoft signs an 835 MW, 20-year power purchase agreement with Constellation Energy for the restart of Three Mile Island Unit 1 (Crane Clean Energy Center in Pennsylvania) — the first major tech-company nuclear deal at this scale. The announcement immediately validates nuclear power as the primary solution for 24/7 carbon-free AI data center power, triggering competing deals from Google, Amazon, and Meta within 18 months."
+    },
+    {
+      "date": "2024-05",
+      "event": "Goldman Sachs publishes its landmark report projecting a 165% increase in global data center power demand by 2030 vs. 2023 levels. The same month, major transformer manufacturers (ABB, Siemens, GE Vernova) announce backlogs extending 3–5 years for grid-scale transformers — the physical infrastructure bottleneck that will delay or cancel 30–50% of planned AI data center projects by 2026."
+    },
+    {
+      "date": "2025-06",
+      "event": "IEA confirms data center electricity use surged in 2025 despite tightening grid bottlenecks. Grid interconnection queues in Northern Virginia and central Texas — the two largest US data center markets — extend to 6–8 years. The first wave of hyperscaler projects are cancelled outright, not delayed, due to confirmed grid unavailability. ABB and NVIDIA collaborate on 800 VDC power architecture for gigawatt-scale AI campuses, signaling the industry is redesigning electrical systems from scratch to manage AI's power density."
+    },
+    {
+      "date": "2025-10",
+      "event": "Fervo Energy delivers its first 3.5 MW enhanced geothermal system (EGS) to Nevada's grid, powering Google facilities via NV Energy — proving that AI-powered horizontal drilling can unlock scalable 24/7 geothermal baseload power with a 100 MW Utah project (backed by Google and Mitsui at $88/MWh) following in 2026. Pew Research confirms US data centers now consume approximately 4% of national electricity, up from 1.5% in 2020."
+    },
+    {
+      "date": "2026-06",
+      "event": "Gartner confirms 565 TWh global data center electricity demand in 2026 (+26.4% YoY, up from 447 TWh in 2025), with power demand reaching 132 GW. Meta announces a 6.6 GW nuclear energy deal spanning TerraPower Natrium, Oklo Aurora, Vistra, and Constellation — the largest single corporate energy procurement in history. As of June 2026, every major hyperscaler has signed at least one nuclear PPA, with 13 announced projects committing over 9.8 GW of nuclear capacity for AI data centers. 30–50% of large data centers scheduled for 2026 are delayed or cancelled due to grid constraints."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The US federal government has declared data center energy infrastructure a national security priority, citing AI leadership as dependent on grid capacity. The White House issued executive guidance directing the Department of Energy to fast-track grid interconnection for AI-designated facilities, and Congress is advancing legislation to streamline FERC permitting for nuclear restarts serving data center customers. The EU's Energy Efficiency Directive (in force from 2024) requires data centers above 500 kW to report consumption, efficiency, and water usage annually — creating compliance overhead that favors large hyperscalers over colocation operators. China's state grid authority has designated AI data center zones with priority interconnection rights, accelerating deployment timelines by 2–3 years compared to US/EU equivalents."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The sector is experiencing a $3 trillion infrastructure investment supercycle through 2030 (JLL). Goldman Sachs forecasts data center capacity expanding from 132 GW in 2026 to 290 GW by 2030, adding roughly 100 GW of new capacity requiring ~$1.2 trillion in real estate asset value alone. The AI data center energy storage market will grow from $1.2B in 2025 to $4.1–6.0B by 2030 at 28–38% CAGR (GlobeNewswire, April 2026). Google, Intersect Power, and TPG announced a $20B clean energy investment program specifically to provide captive power for future data center demand. Colocation providers in power-constrained markets (Northern Virginia, Silicon Valley) are charging 40–60% electricity premiums vs. Midwest alternatives, creating a geographic pricing arbitrage that is reshaping where AI infrastructure is built."
+    },
+    {
+      "factor": "Social",
+      "impact": "Consumer electricity bills in data center-dense regions (Loudoun County VA, Santa Clara CA, Dublin IE) have risen 8–15% between 2023–2026, with local politicians citing AI data center buildouts as a primary driver. Water consumption for cooling has triggered community opposition in drought-prone areas: a single hyperscale data center consumes 1–5 million gallons of water per day for evaporative cooling. The workforce impact is bifurcated: the data center sector employed 86,200 people globally in 2026 (+45% year-over-year), driven by acute demand for grid engineers, power systems architects, and energy procurement specialists — yet these roles are concentrated in a handful of US and EU metro areas, deepening regional economic inequality."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Four technology vectors are competing to solve the power constraint simultaneously: (1) Nuclear restarts and SMRs — Microsoft's Crane Clean Energy Center (835 MW, online 2027) is the fastest to market; TerraPower Natrium and X-energy Xe-100 are the leading SMR designs with first commercial deployments targeted 2028–2030; (2) Enhanced Geothermal Systems — Fervo Energy's AI-optimized horizontal drilling delivers 24/7 baseload at $88/MWh, scalable to 1+ GW with no new fuel supply chain; (3) Advanced power architecture — ABB-NVIDIA 800 VDC bus systems reduce in-rack power conversion losses by 30%, delivering more compute from the same grid connection; (4) Liquid cooling — rack-level direct liquid cooling (Vertiv, CoolIT, Asetek) cuts GPU power consumption by 30–40%, deploying in 90 days with no grid upgrade."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Data centers consuming 565 TWh in 2026 would rank as the fifth-largest national electricity consumer globally — between Japan and Russia — if treated as a country (Gartner, June 2026). Despite hyperscaler carbon-neutral pledges, absolute emissions from AI computing are rising faster than clean energy capacity additions, with Google's 2024 sustainability report confirming emissions up 48% since 2019. The nuclear PPA wave is the most credible path to 24/7 zero-carbon baseload, but SMR deployment timelines (2028–2030 earliest) leave a critical 3–4 year emissions gap. Liquid cooling systems dramatically reduce both power consumption and water evaporation vs. traditional air cooling — Vertiv estimates liquid-cooled racks reduce PUE (Power Usage Effectiveness) from 1.5 to 1.03, a 32% efficiency improvement."
+    },
+    {
+      "factor": "Legal",
+      "impact": "FERC Order 2023 (2024) reformed the US grid interconnection queue, but implementation by Regional Transmission Organizations (RTOs) is patchy — Northern Virginia and ERCOT still face 6–8 year interconnection queues for large load additions. The 3–5 year lead time for grid-scale transformers means that 'legally permitted' data center projects are physically impossible to power on schedule, creating a new category of infrastructure stranded assets. No US state has enacted specific data center power consumption limits, but California AB 1264 (signed 2025) requires new data centers to achieve a PUE below 1.4 by 2028. EU member states are beginning to cap data center permits in power-constrained regions (Dublin, Amsterdam), with Ireland having imposed a de-facto moratorium on new permits in Dublin since 2022."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Microsoft Azure CTO needing to honor 24/7 carbon-free commitments to enterprise customers while expanding AI training capacity by 10x without waiting 6–8 years for grid interconnection",
+      "solution": "The Three Mile Island Unit 1 restart (Crane Clean Energy Center) delivers 835 MW of 24/7 nuclear baseload power directly into the PJM grid by 2027 under a 20-year PPA. By contracting an existing reactor restart rather than new construction, Microsoft receives the only confirmed nuclear power delivery before 2030 in the industry — at a cost and timeline no competitor can replicate with SMR or new-build alternatives."
+    },
+    {
+      "job": "Data center developer in Northern Virginia facing 7-year interconnection queue unable to serve customer demand arriving in 2026–2027",
+      "solution": "On-site captive power generation (Bloom Energy fuel cells, 5–20 MW per deployment, 18-month installation) + Fervo enhanced geothermal PPAs for baseload + battery storage for peak shaving allows developers to operate islands of power independent of transmission grid constraints. Projects relocating to power-rich Midwest (Wyoming, Idaho) can access 2-year grid connection timelines at electricity costs 40–60% below coastal markets."
+    },
+    {
+      "job": "Hyperscaler infrastructure team running GPU clusters at 70kW per rack needing to double AI compute density without tripling the electrical footprint",
+      "solution": "ABB-NVIDIA 800 VDC power architecture reduces in-rack power conversion losses from ~8% to ~1.5%. Combined with direct liquid cooling (CoolIT CDU systems), actual rack heat removal efficiency improves by 35%, allowing 140kW+ per rack on the same electrical circuit — effectively doubling compute density with no grid upgrade required. Vertiv's liquid cooling reference designs achieve PUE of 1.03 versus the 1.5 industry average."
+    },
+    {
+      "job": "Enterprise CFO reviewing the $3B data center capex plan for the next AI infrastructure buildout cycle needing to hedge against electricity price volatility in constrained markets",
+      "solution": "20-year fixed-price PPAs with nuclear operators (Constellation, Vistra) lock in electricity at $60–80/MWh, providing cost certainty against projected spot market increases of 30–50% in constrained regions. JLL's 2026 data center market report shows power-inclusive colocation deals at $50–70/kW per month in power-constrained markets vs. $30–40/kW in power-rich markets — the cost delta fully finances a relocation to Wyoming, Idaho, or the Midwest within 3–4 years."
+    },
+    {
+      "job": "AI startup running inference workloads on cloud needing to reduce electricity costs by 50% to maintain economics as inference volumes scale past 1B requests/day",
+      "solution": "Temporal arbitrage through AI-optimized demand response: scheduling non-latency-sensitive AI batch inference (model fine-tuning, synthetic data generation, data processing) during grid off-peak hours (11pm–6am) at 40–70% lower spot electricity rates. Providers like Voltage Park and CoreWeave are building schedulable inference capacity in Midwest data centers specifically to serve this demand profile at 40–50% cost reduction vs. on-demand cloud pricing."
+    }
+  ],
+  "market": [
+    {
+      "name": "Constellation Energy",
+      "share": "~35% of tech nuclear PPAs",
+      "loved": "Operates the largest nuclear fleet in the US (22% of US clean electricity), with proven ability to restart dormant plants. The Microsoft Three Mile Island deal (835 MW) established the nuclear PPA template the entire industry is now copying. Stock price up 300%+ since 2023 on AI power demand tailwind. The only nuclear partner with a confirmed pre-2030 power delivery date, making it the most credible option for hyperscalers needing near-term capacity.",
+      "segment": "Nuclear power — large existing fleet restarts"
+    },
+    {
+      "name": "Vertiv Holdings",
+      "share": "~28% DC power infra",
+      "loved": "Vertiv makes the power distribution, UPS systems, and cooling infrastructure inside every major data center globally. AI's higher rack density and power requirements have made Vertiv's liquid cooling and high-density power solutions the fastest-growing segment of the company (+38% YoY in 2025). Unlike nuclear or renewable plays, Vertiv's equipment is deployed regardless of which energy source wins — it is the essential picks-and-shovels play for the entire sector with no viable substitute.",
+      "segment": "Data center power infrastructure hardware"
+    },
+    {
+      "name": "TerraPower / X-energy (SMR)",
+      "share": "~40% of SMR deal GW",
+      "loved": "TerraPower (backed by Bill Gates) and X-energy (Amazon $700M investment) are the two leading advanced nuclear startups targeting commercial data center deployment. The Natrium sodium-cooled reactor design (TerraPower) and Xe-100 high-temperature gas cooled reactor (X-energy) both offer 50–320 MW modular units that can co-locate on data center campuses without transmission infrastructure. Factory manufacturing promises cost reductions impossible with conventional nuclear — the technology is real, only the deployment timeline is uncertain (2028–2030).",
+      "segment": "Small Modular Reactors — advanced nuclear startups"
+    },
+    {
+      "name": "Fervo Energy",
+      "share": "~60% EGS market",
+      "loved": "Fervo's AI-optimized horizontal drilling technique for enhanced geothermal energy is the most underrated solution to the data center power crisis. Unlike nuclear (10+ year lead times) or solar (intermittent), EGS delivers 24/7 baseload power from virtually any geography using existing oilfield drilling technology. The 100 MW Utah project (Google/Mitsui, $88/MWh, 2026) is the first utility-scale EGS project in history — cost-competitive with natural gas, zero carbon, and scalable to gigawatt scale without new fuel supply chains or cooling water.",
+      "segment": "Enhanced Geothermal Systems — clean baseload alternative"
+    },
+    {
+      "name": "Bloom Energy",
+      "share": "~15% on-site gen market",
+      "loved": "Bloom's solid oxide fuel cells (5–50 MW systems) are the fastest-deployable solution for data center operators facing multi-year grid delays: 18 months from order to power delivery vs. 3–5 years for grid upgrades. Natural gas-fueled today but hydrogen-upgradeable for future carbon neutrality. Major deployments at Samsung, AT&T, and multiple hyperscaler campuses. The only commercial technology that can provide reliable on-site power at data center scale within a single construction cycle — a critical bridging solution until nuclear and geothermal capacity comes online.",
+      "segment": "On-site fuel cell power — bridging technology"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Large Nuclear Restarts (Constellation/Vistra)",
+      "detail": "The fastest path to new 24/7 carbon-free power for data centers. Microsoft's Crane Clean Energy Center (Three Mile Island restart, 835 MW) will be the only tech-company nuclear PPA delivering power before 2028. Vistra's Comanche Peak and other plants are under negotiation with multiple hyperscalers. Lead time: 18–36 months for a permitted restart vs. 10–15 years for new nuclear construction. Key risk: the pool of restartable US plants is finite — only ~5 shuttered plants are candidates — so demand will quickly exceed supply of this approach, locking in first-movers and blocking late entrants entirely."
+    },
+    {
+      "name": "Small Modular Reactors (TerraPower, X-energy, Oklo)",
+      "detail": "The theoretically optimal solution: factory-manufactured 50–300 MW nuclear modules that can co-locate on or near data center campuses, eliminating transmission losses and grid queues. Amazon ($700M, X-energy), Meta (TerraPower Natrium + Oklo), and Google (Kairos Power 500 MW) have all committed. Reality check: no SMR design has achieved commercial grid operation anywhere in the world as of June 2026. All US SMR deployment timelines have slipped at least 2 years from original projections. First realistic commercial power delivery is 2028–2030. The technology is proven in research reactors; the challenge is regulatory approval speed and first-of-kind construction costs."
+    },
+    {
+      "name": "Enhanced Geothermal Systems (Fervo, Sage Geosystems)",
+      "detail": "The dark horse solution: AI-assisted horizontal drilling (adapted from oil and gas) creates engineered hot rock reservoirs anywhere on Earth, extracting 24/7 baseload heat that drives steam turbines. Fervo's Nevada installation proved grid viability in 2025; the 100 MW Utah project (Google/Mitsui, $88/MWh) is the first utility-scale deployment. Key advantage over nuclear: no fuel supply chain, no waste management, no NRC licensing timeline (uses existing EPA/state geothermal permits), deployable in 2–3 years. Key challenge: current cost is $80–100/MWh vs. $50–60/MWh for wind+storage — needs 30% cost reduction to compete on economics alone."
+    },
+    {
+      "name": "Solar + Battery Storage (Next-Gen Grid-Scale)",
+      "detail": "The cheapest per-MWh energy source, but fundamentally mismatched with AI data center requirements: AI inference runs 24/7 with no demand flexibility, while solar generates for 6–8 hours per day. Achieving 24/7 coverage requires 4–6x overcapacity and 6–10 hours of battery storage — pushing total system cost above $100/MWh. Major hyperscalers use solar+storage for daytime operations but cannot rely on it for 24/7 AI GPU clusters. Google's 2022 carbon-free energy goal proved infeasible at scale due to this mismatch; the company pivoted to nuclear partnerships in 2023. Solar remains essential as part of diversified portfolios but cannot be the primary AI power source."
+    },
+    {
+      "name": "Natural Gas + CCS (Transitional Bridging)",
+      "detail": "The pragmatic stop-gap: gas turbines and fuel cells (Bloom Energy) deploy in 6–18 months with no grid upgrade required — the only technology that matches data center deployment timelines. Amazon, Microsoft, and Oracle are all using natural gas generation as a bridging strategy while nuclear capacity comes online. The primary liability is carbon: methane combustion directly contradicts hyperscaler net-zero pledges, and carbon capture and storage (CCS) at data center scale remains unproven. Constellation's 'carbon-neutral gas' offering (gas + forest offsets) is a short-term reputational fix that will not survive increasing scrutiny as AI emissions receive more regulatory attention through 2026–2028."
+    }
+  ],
+  "canvas": {
+    "who": "Primary actors are hyperscaler infrastructure teams (Microsoft, Google, Amazon, Meta — together controlling ~80% of total AI data center power consumption), colocation operators (Equinix, Digital Realty, Iron Mountain) serving the mid-market, and enterprise IT teams at Fortune 500 companies building private AI infrastructure. Secondary actors are the utilities and grid operators (PJM, ERCOT, CAISO) whose interconnection queues determine when power can actually be delivered, and the nuclear/geothermal energy companies that have become strategic partners rather than commodity suppliers. A growing third category is sovereign AI infrastructure builders — national governments in France, UAE, Saudi Arabia, Japan, and Singapore investing in state-sponsored data center campuses with priority grid access as a geopolitical capability.",
+    "where": "The geographic center of gravity is shifting from the legacy US data center clusters (Northern Virginia consuming 70% of internet traffic, Silicon Valley) to power-rich secondary markets: Wyoming (coal-to-clean energy transition with grid surplus), Idaho and the Pacific Northwest (hydroelectric abundance), central Texas (ERCOT market with fastest new interconnection timelines), and new international hubs in Nordic countries (hydroelectric + cold climate for free cooling) and the Middle East (UAE, Saudi Arabia investing $100B+ in AI infrastructure with sovereign grid access). Enterprise colocation is following the hyperscalers — AWS, Azure, and Google Cloud regions are being built where power is available, not where latency is optimal.",
+    "why_now": "Four forces crystallized simultaneously in 2025–2026 to make this the defining infrastructure story: (1) AI inference workloads scaled from niche to mainstream — every enterprise deploying an AI copilot or agent is adding measurable grid load that did not exist 24 months ago; (2) Grid infrastructure lead times (transformers: 3–5 years, transmission lines: 7–12 years) are fundamentally incompatible with AI's 12–18 month deployment cycles — the mismatch is structural, not temporary; (3) Gartner's June 2026 confirmation of +26.4% annual consumption growth validated what engineers had been warning for two years — data centers ARE a national grid crisis, not a future hypothetical; (4) Meta's 6.6 GW nuclear deal in June 2026 demonstrated that hyperscalers are willing to make 20–30 year capital commitments to secure power — transforming the energy market's view of data center load from 'volatile tech sector customer' to 'AAA-rated anchor tenant for $50B infrastructure investments.'",
+    "behavior": "The fundamental behavioral shift is from 'procure commodity power from the grid' to 'become a power company.' Microsoft now employs more grid engineers and energy procurement specialists than most regional utilities. Google is co-investing in power generation assets alongside power companies rather than just signing offtake agreements. Meta's 6.6 GW nuclear deal functions more like a regulated utility buildout than a corporate PPA. The corollary behavioral shift is 'power-first site selection': the dominant factor in 2020–2023 data center site selection was latency (proximity to population centers and fiber routes); in 2026, power availability and interconnection timeline have displaced latency as the primary decision variable — leading to data center campuses in Wyoming, Idaho, and rural Texas that would have been inconceivable three years ago.",
+    "unmet": "Three critical unmet needs define the gap between current solutions and what the market requires: (1) A bridge power technology that deploys in 6–12 months at 100+ MW scale with zero carbon emissions — no such technology exists today; fuel cells and gas turbines deploy quickly but emit carbon, while nuclear and geothermal are carbon-free but require 2–10 year lead times; (2) Standardized SMR regulatory approval: the NRC licensing process for new nuclear designs averages 10+ years, fundamentally incompatible with data center investment cycles — no country has solved this, though France's simplified authorization model is the most promising template; (3) Grid-aware AI inference scheduling: a software-level solution that dynamically routes AI workloads to regions with excess clean energy at sub-millisecond latency — Voltage Park is the only company actively building this, but the technology requires interoperability between cloud providers, utilities, and AI infrastructure operators that does not yet exist at scale."
+  },
+  "takeaways": [
+    "Lock in nuclear power capacity in the next 24 months or accept 40–60% electricity cost premiums through 2035. The pool of viable nuclear restart candidates in the US is finite (fewer than 10 qualified sites), and every major hyperscaler has now entered this market. Any data center operator, colocation provider, or enterprise AI builder that has not signed a long-term power agreement by mid-2027 will be competing for spot market electricity at prices that make AI workload economics unviable in constrained markets. The nuclear window is closing faster than the semiconductor supply cycle — act now or pay the premium for a decade.",
+    "Midwest location arbitrage is the highest-ROI play available today. Northern Virginia colocation costs $50–70/kW/month; equivalent capacity in Wyoming or Iowa costs $30–40/kW/month, with grid interconnection in 18–24 months vs. 6–8 years. Any company planning a data center buildout in the next 36 months should start with a power map of the US, not a latency map. The latency penalty for routing inference traffic through the Midwest vs. Virginia is 8–15ms — commercially irrelevant for all but real-time voice and gaming applications, but the cost savings finance the entire infrastructure project.",
+    "Invest in the power efficiency stack before building new capacity. Liquid cooling (Vertiv, CoolIT), 800 VDC power distribution (ABB), and AI-optimized UPS systems (Eaton, Schneider Electric) reduce effective power consumption per GPU by 30–40% with 90-day deployment timelines and no grid upgrade required. At $0.10–0.20/kWh blended electricity cost and 10,000+ GPU clusters, a 35% efficiency improvement saves $15–25M per year — typically a 6–12 month payback on hardware investment. This is the fastest, cheapest, and most certain power expansion available today, yet most enterprise AI teams have not yet optimized their existing infrastructure.",
+    "The SMR regulatory bottleneck is the billion-dollar policy opportunity. Every tech company betting on Small Modular Reactors as a primary power solution (Amazon, Meta, Google) faces the same 10-year NRC licensing timeline that makes SMRs a 2030+ solution rather than a 2026–2028 one. The company, government, or coalition that solves regulatory streamlining for licensed SMR designs — modeled on France's autorisation de création or Canada's CNSC 'vendor design review' fast-track — will unlock $100B+ in deferred infrastructure investment. Microsoft and TerraPower have already begun direct engagement with the NRC; this is where the policy-to-capital leverage ratio is highest for anyone in the nuclear policy space."
+  ],
+  "sources": [
+    {
+      "title": "Gartner Says Data Center Electricity Consumption to Grow 26% in 2026",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-06-10-gartner-says-data-center-electricity-demand-to-grow-26-percent-in-2026",
+      "publisher": "Gartner"
+    },
+    {
+      "title": "Accelerating Power Demand from Data Centers Is Poised to Boost New Energy Technologies",
+      "url": "https://www.goldmansachs.com/insights/articles/accelerating-power-demand-from-data-centers-poised-to-boost-new-energy-technologies",
+      "publisher": "Goldman Sachs"
+    },
+    {
+      "title": "Data centre electricity use surged in 2025, even with tightening bottlenecks",
+      "url": "https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions",
+      "publisher": "International Energy Agency (IEA)"
+    },
+    {
+      "title": "Meta Secures 6.6 GW of Nuclear Energy to Power AI Data Centers",
+      "url": "https://www.latitudemedia.com/news/meta-strikes-6-6-gw-nuclear-deal-to-fuel-its-ai-supercluster/",
+      "publisher": "Latitude Media"
+    },
+    {
+      "title": "AI Data Center Energy Storage Market Outlook 2030: 28–38% CAGR",
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3269513/28124/en/AI-Data-Center-Energy-Storage-Market-Outlook-2030-AI-Workloads-and-Faster-Grid-Interconnection-Needs-Driving-the-Market-at-28-38-CAGR.html",
+      "publisher": "GlobeNewswire"
+    },
+    {
+      "title": "Data Center Power Crisis 2026: The Grid Bottleneck",
+      "url": "https://enkiai.com/data-center/data-center-power-crisis-2026-the-grid-bottleneck/",
+      "publisher": "EnkiAI"
+    },
+    {
+      "title": "Every Nuclear-Powered Data Center Deal: Google, Amazon, Meta & Microsoft (2026)",
+      "url": "https://smrintel.com/nuclear-data-center-deals/",
+      "publisher": "SMR Intel"
+    },
+    {
+      "title": "2026 Global Data Center Market Outlook",
+      "url": "https://www.jll.com/en-us/insights/market-outlook/data-center-outlook",
+      "publisher": "JLL"
+    },
+    {
+      "title": "AI, Data Centers, and the U.S. Electric Grid: A Watershed Moment",
+      "url": "https://www.belfercenter.org/research-analysis/ai-data-centers-us-electric-grid",
+      "publisher": "Belfer Center for Science and International Affairs (Harvard)"
+    },
+    {
+      "title": "Why the AI Data Center Boom Is the Biggest Grid Story of 2026",
+      "url": "https://enline.energy/articles/ai-data-center-grid-capacity-2026",
+      "publisher": "Enline Energy"
+    },
+    {
+      "title": "AI Data Center Grid Strain: Power Halts Growth in 2026",
+      "url": "https://enkiai.com/data-center/ai-data-center-grid-strain-power-halts-growth-in-2026/",
+      "publisher": "EnkiAI"
+    },
+    {
+      "title": "Global Data Centre Electricity Demand To Surge 26.4 Per Cent In 2026",
+      "url": "https://www.freepressjournal.in/tech/global-data-centre-electricity-demand-to-surge-264-per-cent-in-2026-as-ai-workloads-drive-power-consumption-gartner",
+      "publisher": "Free Press Journal (Gartner data)"
+    }
+  ]
+}
