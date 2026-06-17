@@ -1,0 +1,120 @@
+{
+  "slug": "ai-anti-deepfake-identity",
+  "trend_name": "AI Identity Verification & Anti-Deepfake",
+  "research_date": "2026-06-17",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Grand View Research",
+      "title": "Identity Verification Market Size, Share & Trends Report 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/identity-verification-market-report",
+      "claim": "Global identity verification market valued at USD 9.87B in 2022, projected to reach USD 33.93B by 2030 at 16.7% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Fortune Business Insights",
+      "title": "Identity Verification Market Size, Share & Growth Forecast to 2034",
+      "url": "https://www.fortunebusinessinsights.com/identity-verification-market-106468",
+      "claim": "Identity verification market projected from USD 11.18B in 2026 to USD 51.42B by 2034",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Fintech Global",
+      "title": "How AI and deepfakes are reshaping identity fraud in 2026",
+      "url": "https://fintech.global/2026/03/20/how-ai-and-deepfakes-are-reshaping-identity-fraud-in-2026/",
+      "claim": "Deepfakes account for 11% of all global fraud activity in 2026, up from 7% in 2024; deepfakes represent 40% of biometric fraud attempts",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Keepnet Labs",
+      "title": "Deepfake Statistics 2026: Verified Benchmarks & Risks",
+      "url": "https://keepnetlabs.com/blog/deepfake-statistics-and-trends",
+      "claim": "Human detection accuracy of high-quality deepfakes: 24.5%; deepfake fraud attempts increased 2,137% over 3 years; global scam losses via AI-enabled fraud hit $1T in 2024",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Bright Defense",
+      "title": "150+ Deepfake Statistics (March 2026)",
+      "url": "https://www.brightdefense.com/resources/deepfake-statistics/",
+      "claim": "Deepfake fraud losses reached $1.56B cumulative by end of 2025; $200M+ lost in Q1 2025 alone; 669% YoY escalation from 2024 to 2025",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "StockTitan / Hercules Capital",
+      "title": "Pindrop secures $100M financing to accelerate fraud and voice AI",
+      "url": "https://www.stocktitan.net/news/HTGC/pindrop-secures-100-million-financing-to-accelerate-fraud-and-la6scwsr43gq.html",
+      "claim": "Pindrop secured $100M debt financing from Hercules Capital; analyzes 1,400+ voice attributes per call; deployed at major US banks handling 350M+ calls/year",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "TechCrunch",
+      "title": "Reality Defender raises $15M to detect text, video and image deepfakes",
+      "url": "https://techcrunch.com/2023/10/17/reality-defender-raises-15m-to-detect-text-video-and-image-deepfakes/",
+      "claim": "Reality Defender raised $15M Series A led by DCVC with participation from Comcast and Ex/ante for multimodal deepfake detection",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "TechCrunch",
+      "title": "Socure raises $450M at $4.5B valuation, adding Tiger Global as new investor",
+      "url": "https://techcrunch.com/?p=2230878",
+      "claim": "Socure raised $450M at $4.5B valuation; 1,900+ enterprise clients including top 25 US banks and 4 of 5 top US credit card issuers",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "iProov",
+      "title": "Jumio adds iProov award-winning liveness detection to its KYX platform",
+      "url": "https://www.iproov.com/press/jumio-adds-iproov-award-winning-liveness-detection-to-its-kyx-platform",
+      "claim": "iProov's Flashmark technology deployed at UK HMRC, European Commission, Singapore IDA, US DHS; Jumio partnership to integrate government-grade liveness detection",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Intel Market Research",
+      "title": "AI Deepfake Detection Market Outlook 2026-2034",
+      "url": "https://www.intelmarketresearch.com/ai-deepfake-detection-market-47139",
+      "claim": "AI deepfake detection market valued at USD 635.7M in 2025, projected to reach USD 1.84B by 2034",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "TruthScan",
+      "title": "Deepfake Statistics 2026: AI Fraud Data and Trends",
+      "url": "https://truthscan.com/blog/deepfake-statistics-2026/",
+      "claim": "Average enterprise loss per deepfake incident: $280K-$500K; average $500K loss per incident in 2024 for large businesses",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "MarketsandMarkets",
+      "title": "Identity Verification Market Report 2025-2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/identity-verification-market-178660742.html",
+      "claim": "US identity verification market projected from $10.9B in 2023 to $21.8B by 2028 at 14.9% CAGR",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "71% of consumers report fear of being deceived by deepfakes",
+      "note": "Cited by Keepnet but original survey source not independently confirmed",
+      "status": "[unverified]"
+    },
+    {
+      "claim": "Jumio has completed 1B+ identity verifications globally",
+      "note": "Company-stated figure, not independently audited",
+      "status": "[unverified]"
+    },
+    {
+      "claim": "iProov has had zero successful spoof attacks against Flashmark as of 2025",
+      "note": "Company claim; no independent third-party audit source identified",
+      "status": "[unverified]"
+    }
+  ]
+}
