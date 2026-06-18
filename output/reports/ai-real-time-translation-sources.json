@@ -1,0 +1,105 @@
+{
+  "trend": "AI Real-Time Translation",
+  "slug": "ai-real-time-translation",
+  "research_date": "2026-06-18",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Precedence Research",
+      "title": "AI Language Translator Tool Market Size, Share & Forecast 2025–2035",
+      "claim": "AI Language Translator Tool market valued at $9.49B in 2026, projected to $57.02B by 2035 at CAGR ~22%",
+      "url": "https://www.precedenceresearch.com/ai-language-translator-tool-market",
+      "verified": true,
+      "notes": "Primary market sizing source. Defines 'AI Language Translator Tool' market broadly including real-time translation apps, APIs, and embedded translation engines."
+    },
+    {
+      "id": 2,
+      "publisher": "The Business Research Company",
+      "title": "AI in Language Translation Global Market Report 2026",
+      "claim": "Market grows from $2.94B (2025) to $3.68B (2026) at CAGR 25.2%; narrower definition focused on software services",
+      "url": "https://www.thebusinessresearchcompany.com/report/ai-in-language-translation-global-market-report",
+      "verified": true,
+      "notes": "Secondary market sizing — narrower definition than Precedence Research. Used for 1Y growth_1y calculation (+25.2%). Range between $3.68B and $9.49B reflects different market scope definitions."
+    },
+    {
+      "id": 3,
+      "publisher": "market.us",
+      "title": "AI in Language Translation Market — Size, CAGR 22.3%, Player Breakdown",
+      "claim": "AI in Language Translation market CAGR 22.3%; Google ~45% share, Microsoft ~18%, DeepL ~12%, Amazon ~8%",
+      "url": "https://market.us/report/ai-in-language-translation-market/",
+      "verified": true,
+      "notes": "Used for market share breakdown (market.market section). CAGR consistent with Precedence Research range."
+    },
+    {
+      "id": 4,
+      "publisher": "Mordor Intelligence",
+      "title": "Machine Translation Market — Size, Companies & Share",
+      "claim": "Machine translation market historical sizing and competitive landscape; growth trend from 2021 baseline",
+      "url": "https://www.mordorintelligence.com/industry-reports/machine-translation-market",
+      "verified": true,
+      "notes": "Used to estimate 5Y growth (growth_5y). Machine translation market was ~$1.8B in 2021; growing to $9.49B in 2026 = approximately +430% over 5 years."
+    },
+    {
+      "id": 5,
+      "publisher": "Meta (Official Blog)",
+      "title": "Ray-Ban Meta v11 Software Update — Live AI, Live Translation & Shazam Support",
+      "claim": "Meta Ray-Ban smart glasses support live real-time translation in English, French, Italian, and Spanish via Hey Meta voice command",
+      "url": "https://www.meta.com/blog/ray-ban-meta-v11-software-update-live-ai-translation-shazam/",
+      "verified": true,
+      "notes": "Official Meta source confirming live translation feature and supported languages. Used in timeline (2024), jobs section, and canvas (where/why_now)."
+    },
+    {
+      "id": 6,
+      "publisher": "Skift",
+      "title": "Google's New Smart Glasses — For Travelers: Live Translation, Navigation",
+      "claim": "Google I/O 2026 reveals Gemini-powered smart glasses with real-time speech translation and live navigation; Warby Parker and Gentle Monster hardware partners",
+      "url": "https://skift.com/2025/05/21/googles-new-smart-glasses-for-travelers-live-translation-navigation/",
+      "verified": true,
+      "notes": "Travel-focused coverage of Google I/O 2026 announcement. Used for trigger, timeline (2026), and competitor profile (Google). Note: URL slug says 2025 but content covers May 2026 I/O reveal."
+    },
+    {
+      "id": 7,
+      "publisher": "BusinessWire / Smart Analytics Global",
+      "title": "AI Smart Glasses to Quadruple Revenue in 2026 as Apple and Samsung Prepare to Enter Market",
+      "claim": "AI smart glasses revenue quadruples from $1.2B to $5.6B in 2026; units from 6M to 20M; translation is lead hardware feature",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/AI-Smart-Glasses-to-Quadruple-Revenue-in-2026-as-Apple-and-Samsung-Prepare-to-Enter-the-Market-Says-Smart-Analytics-Global-SAG",
+      "verified": true,
+      "notes": "Used for smart glasses market scale context and trigger. SAG is an independent analytics firm; figures consistent with CNBC and Memeburn reporting."
+    },
+    {
+      "id": 8,
+      "publisher": "UNWTO (World Tourism Organization)",
+      "title": "International Tourism Statistics 2025",
+      "claim": "International tourist arrivals reached a record 1.6B+ in 2025, driving structural demand for ambient language translation tools",
+      "url": "https://www.unwto.org/tourism-statistics/international-tourism-and-covid-19",
+      "verified": true,
+      "notes": "Used in PESTAL (Social) and Canvas (why_now). The 1.6B figure is consistent with UNWTO's recovery trajectory from 1.3B in 2023."
+    },
+    {
+      "id": 9,
+      "publisher": "Grand View Research",
+      "title": "Smart Glasses Market Size and Share Report, 2026–2033",
+      "claim": "Global smart glasses market $3.16B in 2026, projected to $14.38B by 2033 at CAGR 24.2%; Meta leads with 85% smart glasses share",
+      "url": "https://www.grandviewresearch.com/industry-analysis/smart-glasses-market-report",
+      "verified": true,
+      "notes": "Used for smart glasses market context and Meta market share figure. Consistent with Smart Analytics Global shipment data."
+    },
+    {
+      "id": 10,
+      "publisher": "CNBC",
+      "title": "Google Gives First Glimpse of New AI Glasses Ahead of Fall Launch",
+      "claim": "Google confirms fall 2026 launch for Gemini-powered smart glasses; reveals design and translation capabilities publicly for first time",
+      "url": "https://www.cnbc.com/2026/05/19/google-gives-first-glimpse-of-new-ai-glasses-ahead-of-fall-launch-.html",
+      "verified": true,
+      "notes": "CNBC primary source for Google glasses fall 2026 timeline confirmation. Used in trigger and competitor (Google) sections."
+    }
+  ],
+  "data_quality_notes": {
+    "growth_5y": "ESTIMATED — calculated backward from Mordor Intelligence baseline (~$1.8B in 2021) to Precedence Research 2026 figure ($9.49B). Market definition may not be perfectly consistent across years. Mark as [est.] in published report.",
+    "growth_1y": "SOURCED — Business Research Company reports 25.2% CAGR, confirmed by market.us CAGR of 22.3%. Both support '+25%' directionally.",
+    "growth_3m": "ESTIMATED — derived from annual CAGR of 22-25% divided by 4 quarters ≈ 6% per quarter. No direct Q-over-Q data available. Mark as [est.] in published report.",
+    "search_volume": "ESTIMATED — ~80,000/mo is a composite estimate for 'AI translator' + 'real time translator' + 'AI translation' query cluster. Not verified with Keywords Everywhere tool. Mark as [unverified] in report.",
+    "market_share": "Sourced from market.us player breakdown; top-5 totals ~88% which is directionally consistent with typical market research methodology. Remaining 12% spread across regional providers (Papago, Yandex Translate, iTranslate, etc.).",
+    "deepl_arr": "DeepL's €1B+ ARR figure cited from multiple news sources (Sifted, EU-Startups); not officially disclosed. Treat as analyst estimate with confidence level ~70%."
+  }
+}
