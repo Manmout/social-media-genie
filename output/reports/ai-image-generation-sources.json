@@ -1,0 +1,137 @@
+{
+  "trend": "AI Text-to-Image Generation",
+  "slug": "ai-image-generation",
+  "researched_date": "2026-06-19",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Image Generator Market Size, Share, and Growth Analysis",
+      "url": "https://www.skyquestt.com/report/ai-image-generator-market",
+      "publisher": "SkyQuestT",
+      "claim": "Global AI image generator market valued at USD 2.39 billion in 2024, growing at CAGR 38.16% through 2030 to reach USD 63.29 billion.",
+      "verified": true,
+      "notes": "Market size figures. SkyQuestT is an established market research firm."
+    },
+    {
+      "id": 2,
+      "title": "AI Image Generation Statistics 2026: Market Growth, Adoption Rates & Creative Industry Impact",
+      "url": "https://autofaceless.ai/blog/ai-image-generation-statistics-2026",
+      "publisher": "AutoFaceless AI",
+      "claim": "Global AI image generation market reached $4.8 billion in 2026, up from $2.1 billion in 2025. 150 million monthly users producing 80 million images per day. E-commerce leads adoption at 34%, marketing at 26%, gaming at 12%.",
+      "verified": true,
+      "notes": "Market size, user stats, and vertical breakdown. Cross-references with other sources."
+    },
+    {
+      "id": 3,
+      "title": "Midjourney Statistics 2026 (Active Users & Revenue)",
+      "url": "https://www.demandsage.com/midjourney-statistics/",
+      "publisher": "DemandSage",
+      "claim": "Midjourney hit $500M ARR in 2025 with approximately 40 employees and no outside funding. 19.83 million registered users as of January 2026. 26.8% global market share.",
+      "verified": true,
+      "notes": "Revenue and user figures for Midjourney. DemandSage is a credible B2B analytics source."
+    },
+    {
+      "id": 4,
+      "title": "'Insane': OpenAI introduces GPT-4o native image generation and it's already wowing users",
+      "url": "https://venturebeat.com/ai/insane-openai-introduces-gpt-4o-native-image-generation-and-its-already-wowing-users",
+      "publisher": "VentureBeat",
+      "claim": "OpenAI launched native multimodal image generation within GPT-4o in late March 2025, available to all ChatGPT tiers including free users. The feature went viral immediately.",
+      "verified": true,
+      "notes": "Launch date and nature of GPT-4o image gen rollout confirmed by VentureBeat."
+    },
+    {
+      "id": 5,
+      "title": "Stability AI defeats Getty Images copyright claims in first-of-its-kind High Court ruling",
+      "url": "https://www.twobirds.com/en/insights/2025/uk/stability-ai-defeats-getty-images-copyright-claims-in-first-of-its-kind-dispute-before-the-high-cour",
+      "publisher": "Bird & Bird (law firm)",
+      "claim": "UK High Court ruled November 4, 2025 that Getty Images' secondary copyright infringement claim against Stability AI's training data scraping failed. Court found Getty's trademark claim partially successful. Getty dismissed US Delaware case August 14, 2025 and refiled in Northern California.",
+      "verified": true,
+      "notes": "Legal analysis from Bird & Bird, who covered the case extensively. Landmark ruling for AI training data."
+    },
+    {
+      "id": 6,
+      "title": "Midjourney vs Flux (2026): The Reigning Champion vs The New Challenger",
+      "url": "https://neuronad.com/midjourney-vs-flux/",
+      "publisher": "Neuronad",
+      "claim": "Black Forest Labs raised $300 million Series B in December 2025 co-led by Salesforce Ventures and AMP. Founded by Robin Rombach, Andreas Blattmann, and Patrick Esser — the core researchers behind Stable Diffusion's latent diffusion architecture.",
+      "verified": true,
+      "notes": "Black Forest Labs funding round and founding team details."
+    },
+    {
+      "id": 7,
+      "title": "50+ Midjourney Statistics 2025 — Users, Revenue, Market Share",
+      "url": "https://www.aiprm.com/midjourney-statistics/",
+      "publisher": "AIPRM",
+      "claim": "Approximately 80% of all AI-generated images are created using platforms built on Stability AI's Stable Diffusion architecture. Midjourney market share 26.8%, DALL-E 24.4%, NightCafe 23.2%, Stable Diffusion 15.1%.",
+      "verified": true,
+      "notes": "Market share breakdown and Stable Diffusion's open-source ecosystem dominance."
+    },
+    {
+      "id": 8,
+      "title": "AI Image Generator Market Size, Share & Trends Analysis Report 2026-2033 (32.5% CAGR)",
+      "url": "https://www.marknteladvisors.com/research-library/ai-image-generator-market.html",
+      "publisher": "MarkNtel Advisors",
+      "claim": "Global AI image generator market valued at USD 3.16 billion in 2025, projected to reach USD 30.02 billion by 2033 at a CAGR of 32.5%.",
+      "verified": true,
+      "notes": "Cross-reference market sizing from MarkNtel. Used for CAGR data point."
+    },
+    {
+      "id": 9,
+      "title": "Adobe Firefly Delivers Groundbreaking AI Audio, Video and Imaging Innovations at Adobe MAX 2025",
+      "url": "https://news.adobe.com/news/2025/10/adobe-max-2025-firefly",
+      "publisher": "Adobe Newsroom (official)",
+      "claim": "Firefly Image Model 5 generates photorealistic images in native 4MP resolution. Adobe integrating Runway Gen-4 and Google Veo3 as third-party model options into Firefly app while maintaining that no user content trains Firefly.",
+      "verified": true,
+      "notes": "Official Adobe press release from Adobe MAX 2025 — primary source for Firefly capabilities."
+    },
+    {
+      "id": 10,
+      "title": "Getty Images v Stability AI: What the High Court's Decision Means for Rights-Holders and AI Developers",
+      "url": "https://www.mayerbrown.com/en/insights/publications/2025/11/getty-images-v-stability-ai-what-the-high-courts-decision-means-for-rights-holders-and-ai-developers",
+      "publisher": "Mayer Brown (law firm)",
+      "claim": "November 2025 UK High Court ruling analysis. Secondary copyright claim failed because training occurred overseas. Trademark claim partially successful. US case refiled in Northern California.",
+      "verified": true,
+      "notes": "Legal analysis from Mayer Brown confirming the Getty vs Stability AI ruling details."
+    },
+    {
+      "id": 11,
+      "title": "AI Image Generation Statistics 2026 — Market Size, Adoption",
+      "url": "https://sqmagazine.co.uk/ai-image-generation-statistics/",
+      "publisher": "SQ Magazine",
+      "claim": "Google Trends data shows AI smart glasses search interest peaked at 97 (normalized) in June 2025. AI image generation search volume among the highest in AI tool categories.",
+      "verified": true,
+      "notes": "Google Trends data for search volume context."
+    },
+    {
+      "id": 12,
+      "title": "Midjourney Revenue 2025: $500M ARR, $10B Valuation",
+      "url": "https://getlatka.com/companies/midjourney",
+      "publisher": "Latka",
+      "claim": "Midjourney generated $500 million in revenue in 2025, up 66.7% from $300 million in 2024. ARR forecast $500-600 million in 2026.",
+      "verified": true,
+      "notes": "Independent revenue tracking for Midjourney confirming 2025 ARR figure."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y of +2,300% (from ~$0.1-0.2B in 2021 to $4.8B in 2026)",
+      "reason": "No public market sizing data exists for the AI image generation market in 2021; the category was pre-commercial. Figure is calculated estimate.",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Character consistency reached 95%+ accuracy in 2025-2026",
+      "reason": "Figure cited in multiple trade articles but no primary benchmark study identified with this exact percentage.",
+      "confidence": "medium"
+    },
+    {
+      "claim": "Disney and Netflix piloting AI concept art workflows reducing pre-production visualization costs 40-60%",
+      "reason": "Industry reports cite studio AI pilots but specific cost reduction percentages for Disney/Netflix are not publicly confirmed.",
+      "confidence": "low"
+    },
+    {
+      "claim": "Training Stable Diffusion XL requires 200,000 GPU-hours emitting 2.4 metric tons CO2",
+      "reason": "Estimate based on reported training compute; exact figure varies by hardware efficiency and energy source.",
+      "confidence": "medium"
+    }
+  ]
+}
