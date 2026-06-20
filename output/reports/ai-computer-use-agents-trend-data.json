@@ -1,0 +1,213 @@
+{
+  "trend_name": "AI Computer Use Agents",
+  "status": "surging",
+  "search_volume": "~500,000/mo",
+  "category": "AI & Technology",
+  "growth_5y": "∞ (new cat.)",
+  "growth_1y": "+47%",
+  "growth_3m": "+43%",
+  "trigger": "March 24, 2026: Anthropic makes Claude Computer Use generally available to all enterprise customers — the first tier-1 AI lab to put GUI-control AI into production at scale. One in five U.S. businesses now subscribes to Anthropic, up from one in twenty-five just twelve months prior. Driven substantially by computer use enterprise adoption, Anthropic's ARR surged from $4B (early 2025) to $30B by April 2026, and the company closed a $65B Series H in May 2026 at a $965B post-money valuation — overtaking OpenAI to become the world's most valuable private AI company.",
+  "timeline": [
+    {
+      "date": "2024-10",
+      "event": "Anthropic releases 'Computer Use' in public beta for Claude 3.5 Sonnet — the first mainstream AI to control a real desktop GUI, resize windows, click buttons, and run terminal commands. Described widely as the dawn of the 'agentic era'. Model Context Protocol (MCP) released alongside, creating a standardized tool-connection layer for AI agents."
+    },
+    {
+      "date": "2025-01",
+      "event": "OpenAI launches Operator — its computer-use agent bundled with ChatGPT Pro at $200/month — scoring 38.1% on OSWorld (the gold-standard benchmark for real desktop task completion), below the human baseline of 72.36%. Despite weak benchmarks, ChatGPT's 500M+ user base gives Operator immediate mass-market distribution."
+    },
+    {
+      "date": "2025-03",
+      "event": "Chinese startup Manus goes viral: the all-in-one consumer computer use agent hits a 2-million-person waitlist in one week after its demo video generates 1M+ views. Manus raises $75M from Benchmark at a $500M valuation in April 2025, and reaches $90M in annualized revenue by August 2025 — just five months after launch."
+    },
+    {
+      "date": "2025-04",
+      "event": "Google releases the Agent2Agent (A2A) protocol, enabling AI agents from different vendors to communicate, delegate sub-tasks, and orchestrate multi-agent workflows — complementing Anthropic's MCP. The combined MCP + A2A stack becomes the de facto open infrastructure for enterprise agent deployment."
+    },
+    {
+      "date": "2025-12",
+      "event": "Meta acquires Manus for a reported $2–3 billion, the largest AI computer use agent acquisition on record. The deal signals that big tech views GUI-control AI as core platform infrastructure rather than a standalone product. Manus continues operating its subscription service post-acquisition."
+    },
+    {
+      "date": "2026-03",
+      "event": "Anthropic makes Claude Computer Use generally available to enterprise (March 24, 2026). Simular Agent S2 becomes the first AI agent to cross the human baseline on OSWorld (72.6% vs. human baseline of 72.36%). The 2026 State of AI Agents Report reveals 31% of enterprises have AI agents in production, with banking and insurance leading at 47%."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Governments are moving quickly to regulate autonomous AI systems that can act on behalf of users. Illinois' employment AI law (effective January 1, 2026) makes discriminatory AI decisions a civil rights issue. California's SB 243 imposes safety requirements on AI systems providing adaptive, human-like interactions. The EU AI Act classifies certain autonomous agents as 'high-risk systems', requiring human oversight, conformity assessments, and audit trails before deployment in sensitive domains. Over 2026, a wave of U.S. state AI bills is expected to expand liability for agent-caused harms, creating compliance risk for enterprises deploying computer use agents at scale. Trump administration deregulation pushes at the federal level contrast sharply with EU tightening, creating a two-speed regulatory environment."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The AI agents market reached $11.78B in 2026, growing at a 46.61% CAGR toward $216.8B by 2035. Anthropic's ARR surged from ~$4B (early 2025) to $30B by April 2026, driven substantially by computer use enterprise adoption, culminating in a $65B Series H at a $965B post-money valuation. One in five U.S. businesses now subscribes to Anthropic (up from 1 in 25 a year prior). Meta's $2–3B acquisition of Manus set a category valuation benchmark. The median time-to-value on agent deployments is 5.1 months, with SDR (sales development) agents paying back in 3.4 months and finance/operations agents in 8.9 months. Banking and insurance sectors lead adoption at 47%, creating compounding ROI pressure on laggard industries."
+    },
+    {
+      "factor": "Social",
+      "impact": "Computer use agents represent the most direct threat to white-collar jobs since spreadsheet automation: they do not merely generate content, they complete tasks across real software. Research assistants, data-entry operators, QA testers, schedulers, and administrative staff are primary displacement categories. However, early adopter surveys show professionals using agents primarily to multiply output — 3–5x — rather than reduce headcount. Worker anxiety about AI agent surveillance (agents with full desktop access can read all files, emails, and credentials) is a significant trust barrier. 62% of organizations experiment with AI agents while fewer than 25% have scaled to production, reflecting a 'fear vs. adoption' tension that defines the 2026 social dynamic."
+    },
+    {
+      "factor": "Technological",
+      "impact": "OSWorld benchmark scores reveal the June 2026 state of the art for desktop task completion: Coasty 82%, Claude Sonnet 4.6 73%, Simular Agent S2 72.6% (first to match human baseline of 72.36%), GPT-5.3 Codex 65%, OpenAI Operator 38%. Anthropic's Model Context Protocol (MCP) and Google's Agent2Agent (A2A) protocol together form the open infrastructure layer that reduces agent integration time from months to days. GPT-5.5 launched April 23, 2026 with advanced reasoning for long-horizon tasks. Qualcomm is in early talks to acquire Tenstorrent for $8–10B, which would consolidate AI inference hardware for on-device agent execution. The technical ceiling is no longer blocking enterprise deployment — reliability and trust infrastructure are the bottlenecks."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Computer use agents consume dramatically more compute than stateless chatbot interactions. A single agent session completing a multi-hour, multi-step task can consume 100–1,000x more tokens than a simple question-answer exchange. As deployments scale to millions of agent-hours per day across enterprise customers, the energy footprint of AI inference becomes a material component of corporate carbon accounting. Big Tech's 2026 AI infrastructure spend is on track for $700B (Fortune, April 2026), a significant fraction of which powers agentic workloads. Net environmental impact against legacy human workflow replacement is unresolved and largely unstudied. Green AI agent infrastructure — agents running on renewable-powered edge hardware — is an emerging product category without a clear leader."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Agent liability is the 2026 legal frontier with no clear resolution: when a computer use agent makes a financial error, books the wrong flight, deletes the wrong file, or clicks 'confirm' on an irreversible transaction, who is legally responsible — the AI vendor, the deploying enterprise, or the end user? No jurisdiction has settled this question. Privacy law is equally unsettled: agents with full desktop access can read every file, email, calendar, and browser credential on a system, creating data exposure that exceeds existing consent and disclosure frameworks. GDPR's 'data minimization' principle fundamentally conflicts with how computer use agents function. By 2027, more than 40% of agentic AI projects are forecast to stall due to insufficient risk controls, unclear liability, and rising costs."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "QA/software tester needing to validate complex, multi-step UI workflows across multiple apps without writing fragile, maintenance-heavy test scripts",
+      "solution": "Computer use agents navigate any GUI, click through workflows, identify visual regressions, and log failure states using plain English instructions — replacing the most time-intensive part of manual QA. Teams at 40%+ of enterprise software shops now use Claude Computer Use or Operator for regression testing, reducing QA cycle time by up to 60% in early deployments."
+    },
+    {
+      "job": "Operations team processing high-volume, repetitive cross-system data entry — invoices, CRM updates, expense reports, compliance filings — across legacy software with no public APIs",
+      "solution": "Computer use agents navigate legacy UIs visually, extract data from PDFs and spreadsheets, and enter it into target systems as a human would — without any API integration or vendor cooperation required. Finance and ops deployments average a 8.9-month payback period per Anthropic's 2026 State of AI Agents Report."
+    },
+    {
+      "job": "Research analyst spending 80% of their time manually compiling competitive intelligence, market data, and regulatory updates from dozens of websites and paywalled research portals",
+      "solution": "Computer use agents browse the open web, navigate portals, extract structured data, synthesize findings into structured reports, and update shared databases — compressing multi-day research cycles to hours. This was Manus's core use case: it drove $90M ARR in the five months after launch and a $2–3B Meta acquisition."
+    },
+    {
+      "job": "Sales development rep or recruiter needing personalized outreach across LinkedIn, email, and CRM while keeping all systems in sync without manual copy-paste",
+      "solution": "SDR agents built on computer use infrastructure browse profiles, draft personalized outreach, log activities to Salesforce or HubSpot, and schedule follow-ups — all from a single natural-language instruction. SDR agents have the fastest enterprise deployment payback at 3.4 months, making them the category's clearest ROI case."
+    },
+    {
+      "job": "E-commerce operator managing product listings, pricing updates, inventory syncs, and competitor price monitoring across multiple platforms simultaneously",
+      "solution": "Computer use agents log into any marketplace portal, update listings at scale, scrape competitor pricing, and trigger reprice rules — operating 24/7 without needing API access or technical staff. Particularly valuable for SMBs selling simultaneously on Amazon, Etsy, and Shopify with lean teams and no dedicated software engineers."
+    }
+  ],
+  "market": [
+    {
+      "name": "Anthropic (Claude Computer Use)",
+      "share": "~45% enterprise [unverified]",
+      "loved": "Highest verified OSWorld score among tier-1 platforms (73%), $30B ARR in April 2026, MCP standard creator, 1 in 5 US businesses subscribing, GA since March 2026, preferred in regulated industries (banking, insurance, healthcare)",
+      "segment": "Enterprise / developer"
+    },
+    {
+      "name": "OpenAI (Operator)",
+      "share": "~35% consumer [unverified]",
+      "loved": "Largest user base via ChatGPT Pro ($200/mo), sandboxed cloud execution reducing local file exposure risk, deep GPT-5.5 reasoning integration, brand recognition with 500M+ weekly ChatGPT users",
+      "segment": "Consumer / prosumer"
+    },
+    {
+      "name": "Google (Project Mariner / Gemini)",
+      "share": "~12% [unverified]",
+      "loved": "Native integration with Google Workspace (Gmail, Drive, Calendar, Meet), Agent2Agent (A2A) protocol for multi-agent orchestration, deep Android XR and enterprise Workspace ties",
+      "segment": "Enterprise Google Workspace users"
+    },
+    {
+      "name": "Meta / Manus (acquired December 2025)",
+      "share": "~5% [unverified]",
+      "loved": "Consumer viral breakout (2M waitlist in one week), $90M ARR in 5 months post-launch, acquired by Meta for $2–3B in Dec 2025, strongest consumer brand outside of ChatGPT",
+      "segment": "Consumer enthusiasts / general public"
+    },
+    {
+      "name": "Simular / Coasty (independent challengers)",
+      "share": "[unverified — niche]",
+      "loved": "Simular Agent S2: first AI agent to match human baseline on OSWorld (72.6%); Coasty: highest OSWorld score in the market (82%), outperforming every tier-1 player. Both offer benchmark-verifiable performance at lower cost than enterprise-tier contracts.",
+      "segment": "Power users / benchmark-driven enterprise buyers"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Anthropic Claude Computer Use",
+      "detail": "Launched in public beta October 2024, generally available to enterprise March 24, 2026. Claude Sonnet 4.6 scores 73% on OSWorld — second overall globally, above the human baseline. Built on MCP (Model Context Protocol), which has become the de facto standard for agent-tool connections. Priced from $20/month (consumer Claude.ai) to enterprise contracts. With Anthropic at $965B post-money valuation and $30B ARR in April 2026, Claude Computer Use is the enterprise-grade choice for regulated industries requiring audit trails and compliance controls."
+    },
+    {
+      "name": "OpenAI Operator",
+      "detail": "Launched January 2025 at $200/month via ChatGPT Pro. Runs in a sandboxed cloud browser environment rather than accessing local files — a privacy-preserving design that also limits capability. Scores 38.1% on OSWorld, well below the human baseline of 72.36% and the weakest performance among major platforms. The strategic bet is on orchestration: Operator routes tasks to specialized agents (code interpreter, file reader, web browser) rather than controlling a single unified desktop. GPT-5.5 integration (April 2026) improves multi-step reasoning, though benchmark scores have not yet been formally re-published."
+    },
+    {
+      "name": "Google Project Mariner / Gemini",
+      "detail": "Google's computer use agent powered by Gemini, deeply integrated with Google Workspace and the Android XR ecosystem. Agent2Agent (A2A) protocol (released April 2025) allows Mariner to coordinate with Claude and other agents in multi-agent pipelines. Strongest competitive advantage: native access to Gmail, Drive, Calendar, and Meet makes it the default for organizations already in Google's ecosystem. Announced display at Google I/O May 2026 alongside Android XR smart glasses suggests a path toward ambient, always-on computer use beyond the desktop."
+    },
+    {
+      "name": "Simular Agent S2",
+      "detail": "Independent AI startup and the first agent to cross the human baseline on OSWorld (72.6% vs. 72.36% human). Uses a hierarchical agent architecture: a 'task planner' decomposes complex goals before delegating to specialized sub-agents, reducing errors in long-horizon tasks. Full Agent S2 architecture published in open research. No major corporate backing as of June 2026, making it both a potential acquisition target and the strongest signal that state-of-the-art computer use is achievable outside the $1T+ AI labs."
+    },
+    {
+      "name": "Meta / Manus",
+      "detail": "Originally launched by Monica.im (Chinese-founded) on March 6, 2025, Manus went viral instantly — 2M waitlist in one week, $90M ARR in five months. The product differentiation was simplicity: one instruction ('research this topic and make a slide deck') triggered a full computer use session with no technical setup. Acquired by Meta for $2–3B in December 2025. Post-acquisition, Manus operates as a distinct consumer-facing brand under Meta's AI umbrella, with implications for integration into Meta AI, Ray-Ban glasses, and WhatsApp — potentially making Manus the consumer entry point for ambient AI task execution beyond the desktop."
+    }
+  ],
+  "canvas": {
+    "who": "Three distinct buyer segments: (1) Enterprise IT and operations teams in banking, insurance, and logistics (leading adoption at 47%) deploying agents for back-office automation — data entry, regulatory reporting, compliance workflows; (2) Individual 'agent-native' power users — developers, researchers, consultants — subscribing to $20–200/month agent products to multiply their personal output; (3) SMB operators managing multi-platform e-commerce, social media scheduling, and customer communication who need 24/7 automation without technical staff. 79% of Anthropic subscribers also subscribe to OpenAI, confirming early adopters actively hedge across platforms and optimize by use case.",
+    "where": "Enterprise adoption flows through CIO and CTO channels — computer use agents are purchased as part of AI platform contracts, often alongside existing Claude or ChatGPT enterprise subscriptions. Individual adoption is driven by YouTube tutorials, X/Twitter practitioner threads, and LinkedIn case studies from professionals sharing measurable output gains. Product Hunt and r/AIAgents on Reddit serve as early signal communities for new tools. The Manus viral launch (March 2025) and its Meta acquisition demonstrated that consumer-grade computer use discovery can happen at social-media speed. North America and Western Europe lead deployment; China has distinct domestic alternatives (ByteDance, Baidu) operating in parallel.",
+    "why_now": "Four forces converged by 2026: (1) OSWorld results proved agents can match human performance on real desktop tasks — removing the last 'it's not good enough' objection from enterprise procurement; (2) MCP + A2A open standards reduced agent-building cost from months of custom integration to days of configuration; (3) Anthropic's enterprise GA in March 2026 gave procurement teams a trusted, contract-grade vendor, unlocking corporate budgets; (4) Meta's $2–3B Manus acquisition converted the remaining skeptics — if a first-year startup building computer use agents is worth multiple billions, the category is real. The technology crossed from 'interesting experiment' to 'deployed enterprise infrastructure' in under 18 months.",
+    "behavior": "Users are shifting from delegation to automation loops. Instead of asking AI to help draft an email, agent-native professionals instruct agents to 'monitor my inbox for RFP requests, draft responses using our template, and flag anything over $50K for my review.' The typical early adopter runs 3–7 concurrent agent jobs. Anthropic's 2026 State of AI Agents Report shows 35% of organizations report broad agent usage, 27% are in limited experiments, and 17% have deployed org-wide. Banking deployments focus on compliance reporting and customer onboarding; logistics teams focus on document processing and inventory sync; individual power users focus on research synthesis, CRM management, and content production automation.",
+    "unmet": "Three critical unmet needs define the gap between promise and mass adoption in 2026: (1) Reliability at scale — even the highest-scoring agents (Coasty 82%, Claude 73%) fail 18–27% of real desktop tasks; at enterprise scale, a 20% failure rate requires human review overhead that often negates the productivity gain and blocks deployment in zero-error environments like finance and healthcare; (2) Trustworthy data boundaries — agents with full desktop access can read every file, email, and credential; enterprises need granular role-based access control, data residency guarantees, and cryptographically verifiable audit trails before deploying in regulated environments; (3) Persistent, personalized memory — agents lose all context between sessions, cannot remember the state of a multi-week project, and cannot learn from user corrections over time. The first agent to solve persistent, work-aware memory at production reliability will define the dominant platform of the next decade."
+  },
+  "takeaways": [
+    "The OSWorld benchmark is the new procurement standard — require a score before signing any contract. The 2026 OSWorld leaderboard exposes a stark capability gap: OpenAI Operator (38%) vs. Claude Sonnet 73% vs. Coasty 82%. A 2x difference in task completion rate translates directly to 2x ROI at enterprise scale. Procurement teams should mandate verifiable OSWorld scores and pilot completions on their actual internal workflows before signing any computer use agent contract — treating it the same way cloud infrastructure teams benchmark latency and uptime.",
+    "The MCP + A2A protocol stack is the agent infrastructure layer to build on. Anthropic's Model Context Protocol and Google's Agent2Agent protocol have become the de facto open standards for agent-to-tool and agent-to-agent connections. Companies building on proprietary APIs are accumulating integration debt that will be painful to unwind as the vendor landscape consolidates. Building on MCP/A2A now creates a portable, multi-vendor agent stack immune to any single platform's pricing or policy changes — critical insurance as the platform war between Anthropic, OpenAI, Google, and Meta intensifies in 2027.",
+    "The enterprise deployment gap is the 2026–2027 revenue opportunity: only 31% of enterprises have agents in production vs. 80%+ planning to deploy. The bottleneck is not technical capability — it is governance, compliance, and trust infrastructure. Companies that build compliant agent deployment frameworks (role-based access control, audit trails, human-in-the-loop checkpoints, verifiable data residency) will become the middleware layer that unlocks the remaining 69% of the addressable enterprise market. This 'agent governance' category is the 2026 equivalent of 2012's 'cloud security' — quiet, infrastructure-level, and worth billions.",
+    "Persistent agent memory is the moat of the next cycle. Every major computer use agent in 2026 is stateless between sessions: it forgets what it did yesterday, cannot learn from user corrections, and cannot build a model of an organization's specific workflows over time. The company that ships credible, production-grade persistent memory — an agent that improves measurably at your specific tasks month over month — will command premium pricing, near-zero churn, and a switching-cost moat no competitor can easily replicate. Brilliant Labs (Noa 'Narrative' memory), mem0, and several stealth startups are early movers in a market where the eventual winner is worth Stripe-level returns."
+  ],
+  "sources": [
+    {
+      "title": "AI Agent Adoption 2026: What the Data Shows (Gartner, IDC cited)",
+      "url": "https://joget.com/ai-agent-adoption-in-2026-what-the-analysts-data-shows/",
+      "publisher": "Joget / Gartner / IDC"
+    },
+    {
+      "title": "AI Agents Statistics 2026: Adoption, Market Growth and Key Trends",
+      "url": "https://citrusbug.com/blog/ai-agents-statistics/",
+      "publisher": "Citrusbug"
+    },
+    {
+      "title": "Chinese AI startup Manus reportedly gets $75M funding from Benchmark at $500M valuation",
+      "url": "https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves",
+      "url": "https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html",
+      "publisher": "CNBC"
+    },
+    {
+      "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push",
+      "url": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
+      "publisher": "CNBC"
+    },
+    {
+      "title": "OSWorld Benchmark 2026 — 82% vs 38%: Why Your Computer Use Agent Choice Matters",
+      "url": "https://coasty.ai/blog/osworld-benchmark-2026-results-ai-computer-use",
+      "publisher": "Coasty"
+    },
+    {
+      "title": "2025–2026 AI Computer-Use Benchmarks & Top AI Agents Guide",
+      "url": "https://o-mega.ai/articles/the-2025-2026-guide-to-ai-computer-use-benchmarks-and-top-ai-agents",
+      "publisher": "O-Mega AI"
+    },
+    {
+      "title": "Anthropic AI Statistics 2026: Users, Revenue & Market Share",
+      "url": "https://www.getpanto.ai/blog/anthropic-ai-statistics",
+      "publisher": "GetPanto"
+    },
+    {
+      "title": "AI agents arrived in 2025 — here's what happened and the challenges ahead in 2026",
+      "url": "https://theconversation.com/ai-agents-arrived-in-2025-heres-what-happened-and-the-challenges-ahead-in-2026-272325",
+      "publisher": "The Conversation"
+    },
+    {
+      "title": "Top 10 Privacy, AI & Cybersecurity Issues for 2026",
+      "url": "https://www.workplaceprivacyreport.com/2026/01/articles/consumer-privacy/top-10-privacy-ai-cybersecurity-issues-for-2026/",
+      "publisher": "Workplace Privacy Report"
+    },
+    {
+      "title": "AI Desktop Agents Reshape Productivity Software Market in 2026",
+      "url": "https://blockchain.news/news/ai-desktop-agents-productivity-software-2026",
+      "publisher": "Blockchain.news"
+    },
+    {
+      "title": "Big Tech is about to spend $700 billion on AI this year",
+      "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
+      "publisher": "Fortune"
+    }
+  ]
+}

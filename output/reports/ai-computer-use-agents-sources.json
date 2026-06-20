@@ -1,0 +1,155 @@
+{
+  "topic": "AI Computer Use Agents",
+  "slug": "ai-computer-use-agents",
+  "collected_at": "2026-06-20",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Agent Adoption 2026: What the Data Shows",
+      "url": "https://joget.com/ai-agent-adoption-in-2026-what-the-analysts-data-shows/",
+      "publisher": "Joget (citing Gartner, IDC)",
+      "claims": [
+        "31% of enterprises have AI agents in production",
+        "40% of enterprise apps expected to include task-specific agents by end of 2026 (up from <5% in 2025)",
+        "Banking and insurance lead adoption at 47%; healthcare and government trail at 18% and 14%",
+        "80% of enterprise apps shipped or updated in Q1 2026 embed at least one AI agent, up from 33% in 2024",
+        "Median time-to-value on agent deployments is 5.1 months; SDR agents pay back in 3.4 months; finance/ops in 8.9 months",
+        "By end of 2027, 40%+ of agentic AI projects forecast to stall due to rising costs, unclear value, insufficient risk controls"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI Agents Statistics 2026: Adoption, Market Growth and Key Trends",
+      "url": "https://citrusbug.com/blog/ai-agents-statistics/",
+      "publisher": "Citrusbug",
+      "claims": [
+        "AI agents market: $8.03B (2025) → $11.78B (2026), CAGR 46.61%",
+        "Global market for AI agents projected from $5.29B (2024) to $216.8B by 2035",
+        "35% of organizations report broad agent usage; 27% limited experiments; 17% org-wide deployment",
+        "62% of organizations experiment with AI agents; fewer than 25% have scaled to production"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Chinese AI startup Manus reportedly gets funding from Benchmark at $500M valuation",
+      "url": "https://techcrunch.com/2025/04/25/chinese-ai-startup-manus-reportedly-gets-funding-from-benchmark-at-500m-valuation/",
+      "publisher": "TechCrunch",
+      "claims": [
+        "Manus raised $75M Series B from Benchmark at ~$500M valuation",
+        "Manus launch date: March 6, 2025",
+        "Waitlist hit 2 million people within one week of launch"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Manus at $90M/year — Revenue and Growth Data",
+      "url": "https://sacra.com/research/manus-at-90m-year/",
+      "publisher": "Sacra",
+      "claims": [
+        "Manus reached $90M in annualized revenue by August 2025 — five months after launch"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Meta acquires intelligent agent firm Manus, capping year of aggressive AI moves",
+      "url": "https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html",
+      "publisher": "CNBC",
+      "claims": [
+        "Meta acquired Manus for a reported $2–3 billion in December 2025",
+        "Largest AI computer use agent acquisition on record",
+        "Manus continues operating its subscription service post-acquisition"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Anthropic says Claude can now use your computer to finish tasks for you",
+      "url": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
+      "publisher": "CNBC",
+      "claims": [
+        "Anthropic made Claude Computer Use generally available to all enterprise customers on March 24, 2026",
+        "One in five U.S. businesses now subscribes to Anthropic, up from one in twenty-five a year prior"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "OSWorld Benchmark 2026 — 82% vs 38%: Why Your Computer Use Agent Choice Matters",
+      "url": "https://coasty.ai/blog/osworld-benchmark-2026-results-ai-computer-use",
+      "publisher": "Coasty (benchmark claim — independent validation recommended)",
+      "claims": [
+        "Human baseline on OSWorld: 72.36%",
+        "OSWorld 2026 leaderboard: Coasty 82%, Claude Sonnet 4.6 73%, Simular Agent S2 72.6%, GPT-5.3 Codex 65%, OpenAI Operator 38%",
+        "OSWorld consists of 369 real desktop tasks across real operating systems and real apps"
+      ],
+      "verified": "partial — Coasty's own score is self-reported; OSWorld methodology verified via o-mega.ai"
+    },
+    {
+      "id": 8,
+      "title": "2025–2026 AI Computer-Use Benchmarks & Top AI Agents Guide",
+      "url": "https://o-mega.ai/articles/the-2025-2026-guide-to-ai-computer-use-benchmarks-and-top-ai-agents",
+      "publisher": "O-Mega AI",
+      "claims": [
+        "OpenAI Operator scored 38.1% on OSWorld at launch (January 2025), described as 'state of the art' despite being below human baseline",
+        "OSWorld is the gold-standard benchmark for computer use AI, testing real desktop environments with no API wrappers"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Anthropic AI Statistics 2026: Users, Revenue & Market Share",
+      "url": "https://www.getpanto.ai/blog/anthropic-ai-statistics",
+      "publisher": "GetPanto",
+      "claims": [
+        "Anthropic ARR: ~$4B early 2025 → $14B February 2026 (Series G) → $30B April 2026",
+        "Anthropic closed $65B Series H in May 2026 at $965B post-money valuation",
+        "Anthropic overtook OpenAI to become the world's most valuable private AI startup"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI agents arrived in 2025 — here's what happened and the challenges ahead in 2026",
+      "url": "https://theconversation.com/ai-agents-arrived-in-2025-heres-what-happened-and-the-challenges-ahead-in-2026-272325",
+      "publisher": "The Conversation",
+      "claims": [
+        "Anthropic's Model Context Protocol (MCP) released late 2024 as a standardized tool-connection layer for AI agents",
+        "Google's Agent2Agent (A2A) protocol released April 2025, enabling cross-provider agent collaboration",
+        "MCP and A2A designed to work together, forming open multi-agent infrastructure"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Top 10 Privacy, AI & Cybersecurity Issues for 2026",
+      "url": "https://www.workplaceprivacyreport.com/2026/01/articles/consumer-privacy/top-10-privacy-ai-cybersecurity-issues-for-2026/",
+      "publisher": "Workplace Privacy Report",
+      "claims": [
+        "AI agents introduce novel privacy risks: they actively collect and use data across contexts rather than merely reproducing it",
+        "Risk of inappropriate context transfer — information appropriate in one setting transferred to another",
+        "2026 state AI bills expanding liability for AI-caused harms in employment and recruiting decisions"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Big Tech is about to spend $700 billion on AI this year",
+      "url": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
+      "publisher": "Fortune",
+      "claims": [
+        "Big Tech on track to spend $700B on AI infrastructure in 2026 — a significant fraction powering agentic workloads"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_flags": [
+    "search_volume (~500,000/mo) is an author estimate for the combined AI agents/computer use category — not sourced from Ahrefs or Semrush",
+    "Market share percentages for Anthropic, OpenAI, Google, and Meta/Manus in the computer use agents sub-category specifically are [unverified] — no third-party breakdown found",
+    "Coasty's 82% OSWorld score is self-reported by Coasty; no independent third-party validation found as of June 2026",
+    "Qualcomm's talks to acquire Tenstorrent for $8–10B were reported as 'early stage' in May 2026; deal not confirmed closed as of research date"
+  ]
+}
