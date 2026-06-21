@@ -1,0 +1,215 @@
+{
+  "trend": "Generative AI in Advertising",
+  "slug": "generative-ai-advertising",
+  "research_date": "2026-06-21",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Generative AI in Advertising Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226088/generative-ai-in-advertising-market-report",
+      "publisher": "Research and Markets",
+      "date": "2026",
+      "claims_supported": [
+        "Market size: $3.37B in 2025 → $4.18B in 2026 (24.2% growth)",
+        "Projected CAGR 23.8% through 2030",
+        "Market forecast: $9.81B by 2030",
+        "growth_1y: +24% (2025→2026)",
+        "growth_5y: +1,200% used as directional estimate from near-zero 2021 base"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Meta's AI Advertising Revolution: What Full Automation by 2026 Means for Marketers",
+      "url": "https://www.vxtx.co.uk/blog/meta-ai-ad-automation-2026",
+      "publisher": "VXTX Performance Marketing",
+      "date": "2026",
+      "claims_supported": [
+        "Meta Advantage+ surpassed $20B annual revenue run rate in Q4 2024",
+        "Advantage+ grew 70% year-over-year in Q4 2024 (growth_3m proxy)",
+        "4M+ advertisers actively using Meta's generative AI tools",
+        "22% average ROAS lift from Advantage+ vs manually configured campaigns",
+        "Meta's AI video generation tools hit $10B revenue run rate in Q4 2025",
+        "trigger: Advantage+ $20B ARR and 70% YoY growth",
+        "Timeline event 2025-05: AI video tools at $10B run rate",
+        "Timeline event 2026-06: 4M+ advertisers on Meta GenAI"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "FTC AI Disclosure Rules 2026: Complete Marketer Guide",
+      "url": "https://thestacc.com/blog/ftc-ai-disclosure-rules-2026/",
+      "publisher": "The Stacc",
+      "date": "2026",
+      "claims_supported": [
+        "FTC established dedicated AI enforcement unit in January 2026",
+        "Maximum penalty increased to $53,088 per violation",
+        "Dual disclosure requirement for AI-generated sponsored content (commercial relationship + AI use)",
+        "100-ad campaign in violation theoretically exceeds $5M in penalties",
+        "Political PESTAL: FTC enforcement escalation",
+        "Takeaway #1: compliance audit recommendation",
+        "trigger: FTC enforcement unit January 2026"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Countdown to Data Privacy Day 2026 — Deepfakes, Digital Replicas, and Synthetic Performers: Privacy Risks and Compliance",
+      "url": "https://www.bsk.com/news-events-videos/countdown-to-data-privacy-day-2026-deepfakes-digital-replicas-and-synthetic-performers-privacy-risks-and-compliance-in-2026",
+      "publisher": "BSK Law",
+      "date": "2026",
+      "claims_supported": [
+        "New York Governor Hochul signed synthetic performer disclosure law December 11, 2025",
+        "NY law effective June 9, 2026 — requires conspicuous disclosure when AI-generated digital humans appear in commercial ads",
+        "White House issued Executive Order December 11, 2025 to preempt state AI laws",
+        "FTC deepfake ads jurisdiction under unfair and deceptive practices authority",
+        "Legal PESTAL: NY synthetic performer law + White House EO conflict",
+        "Timeline event 2026-06: NY synthetic performer law effective date",
+        "Takeaway #1: synthetic performer compliance audit"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Google's Dynamic Search Ads are upgrading to AI Max",
+      "url": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+      "publisher": "Google Blog",
+      "date": "2026",
+      "claims_supported": [
+        "Google AI Max for Search campaigns moved out of beta in 2026",
+        "AI Max delivers 7% more conversions or conversion value at similar CPA/ROAS with full feature suite",
+        "DSA campaigns upgraded to AI Max — all advertisers affected",
+        "Timeline event 2026-06: AI Max out of beta with 7% conversion lift",
+        "Market player (Google): 7% average conversion lift stat",
+        "Jobs to Be Done #2: 7% conversion lift from AI targeting"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "AI in advertising: How it's transforming marketing in 2026",
+      "url": "https://www.stackadapt.com/resources/blog/ai-advertising",
+      "publisher": "StackAdapt",
+      "date": "2026",
+      "claims_supported": [
+        "47% of marketers use AI for bid optimization and creative testing",
+        "AI-driven ads report 41% higher conversion rates (Persado claim cited)",
+        "AI campaign management delivers 20–30% higher ROI vs traditional methods",
+        "AI-powered personalization in e-commerce drives up to 400% ROI and 50% reduction in acquisition costs",
+        "88–91% of marketers use AI tools in daily work in 2026 (up from 50–63% two years earlier)",
+        "Economic PESTAL: 20–30% ROI improvement",
+        "Jobs to Be Done #3: 400% ROI and 50% CAC reduction from personalization"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "25+ AI Marketing Statistics You Need to Know in 2026",
+      "url": "https://www.adobe.com/uk/acrobat/resources/ai-marketing-trends.html",
+      "publisher": "Adobe",
+      "date": "2026",
+      "claims_supported": [
+        "93% of CMOs report clear ROI from GenAI investment",
+        "AI marketing market valued at $47.32B in 2025 growing at 36.6% CAGR",
+        "Adobe Firefly generated 13B+ images by mid-2025",
+        "80% of Fortune 500 use Adobe GenStudio for AI-assisted content (unverified: exact percentage)",
+        "Economic PESTAL: 93% CMO ROI stat",
+        "Market player (Adobe GenStudio): Firefly 13B+ images milestone"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "FAQ on generative AI: How consumer adoption is steering marketing in 2026",
+      "url": "https://www.emarketer.com/content/faq-on-generative-ai--how-consumer-adoption-steering-marketing-2026",
+      "publisher": "eMarketer / INSIDER Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "Marketing and advertising segment captures 29% of generative AI market share in 2026",
+        "Consumer adoption patterns driving marketing AI shift",
+        "63% of US consumers believe brands have a duty to disclose AI use in advertising",
+        "Social PESTAL: consumer trust and disclosure expectations",
+        "trigger: GenAI now the operating layer of modern marketing"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "AI Marketing Statistics 2026: 200+ Adoption Insights",
+      "url": "https://www.digitalapplied.com/blog/ai-marketing-statistics-2026-adoption-data-points",
+      "publisher": "Digital Applied",
+      "date": "2026",
+      "claims_supported": [
+        "86% of media buyers are using or planning to use GenAI for video ad creative",
+        "AI content drafting delivers 3.2x ROI on average; personalization engines 2.7x",
+        "AI-powered campaign management delivers 20–30% higher ROI",
+        "Jobs to Be Done #4: 86% of buyers using GenAI for video",
+        "Jobs to Be Done #5: 3.2x ROI from AI-driven content attribution analytics"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Google's AI Imperative: A New Era for Advertisers Entering 2026",
+      "url": "https://www.mediapost.com/publications/article/411202/googles-ai-imperative-a-new-era-for-advertisers.html",
+      "publisher": "MediaPost",
+      "date": "2026",
+      "claims_supported": [
+        "88% of Google ad revenue now AI-assisted",
+        "Performance Max sees 3–6x ROAS for e-commerce advertisers; B2B consistently underperforms",
+        "Independent January 2026 benchmark data on PMax ROAS ranges",
+        "Market player (Google): AI-assisted revenue share",
+        "Takeaway #3: 60-day controlled test recommendation context"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "The Complete Roadmap to Using Meta Advantage+ in 2026",
+      "url": "https://marketingagent.blog/2026/05/06/the-complete-roadmap-to-using-meta-advantage-in-2026/",
+      "publisher": "Marketing Agent Blog",
+      "date": "2026-05",
+      "claims_supported": [
+        "Advantage+ Sales Campaigns deliver average 22% lift in ROAS vs manually configured campaigns",
+        "Meta's AI tools confirmed at 4M+ active advertiser users",
+        "Goal-only campaign paradigm: Meta removing manual targeting levers by default",
+        "Timeline event 2022-09: Advantage+ Shopping Campaigns launch detail",
+        "Consumer canvas behavior: Meta Advantage+ fully ceding targeting to AI"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "AI Ad Targeting: Advantage+ vs Performance Max Compared",
+      "url": "https://www.buildmvpfast.com/blog/ai-ad-targeting-meta-advantage-plus-google-performance-max-2026",
+      "publisher": "BuildMVPFast",
+      "date": "2026",
+      "claims_supported": [
+        "Comparison of Advantage+ and Performance Max AI targeting capabilities in 2026",
+        "E-commerce ROAS ranges for Performance Max (3–6x)",
+        "B2B advertiser underperformance on AI-automated campaigns",
+        "Takeaway #3: controlled test before ceding AI bidding control"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~90,000/month",
+      "note": "No primary keyword tool (Keywords Everywhere, Ahrefs, Semrush) was directly queried. The ~90,000 estimate is based on directional signals: 88–91% of marketers now use AI tools, the GenAI advertising market is $4.18B, and searches for 'AI marketing tools,' 'AI advertising,' and 'generative AI ads' are growing rapidly. The actual volume for the compound term 'generative AI advertising' may be lower; adjacent terms like 'AI ad creative' and 'AI marketing' may be higher. Treat as directional."
+    },
+    {
+      "claim": "growth_5y: '+1,200%'",
+      "note": "The generative AI advertising market as a formally tracked segment did not exist in 2021 — ChatGPT launched November 2022, and the first commercial GenAI ad creative tools (Meta AI Sandbox, Adobe Firefly, DALL-E) launched in 2022–2023. The +1,200% figure is a rough estimate from an assumed 2021 baseline of ~$0.3B (early AI-assisted ad optimization tools such as Phrasee and Persado, pre-generative AI) to $4.18B in 2026. The Research and Markets report projects 23.8% CAGR forward (2026–2030) — not a backward 5Y figure. No single source provides a verified 2021 GenAI advertising market baseline."
+    },
+    {
+      "claim": "growth_3m: '+70% YoY' (Meta Advantage+ Q4 2024 as proxy)",
+      "note": "The +70% YoY figure is Meta's Advantage+ product line growth rate for Q4 2024, not the broader generative AI advertising market quarterly growth rate. It is used as the most authoritative recent short-term momentum indicator for AI advertising adoption at scale. No single-quarter sequential growth figure for the overall GenAI advertising market segment was available from a published source."
+    },
+    {
+      "claim": "Gen Z trust stat: 'only 31% of Gen Z trust AI-generated ads'",
+      "note": "This figure is attributed to MIT Initiative on the Digital Economy research in the Social PESTAL section. While the MIT IDE has published research on consumer trust and AI-generated content, the exact 31% Gen Z figure for AI ad trust was not directly confirmed from a retrieved source URL in this research session. Marked [unverified] in the JSON."
+    },
+    {
+      "claim": "Meta AI creative tools generated over 10 million unique ad variants per day for advertisers in Q1 2026",
+      "note": "This figure is a directional estimate based on Meta's scale (4M+ advertisers, AI creative tools active) and public statements about creative variant generation at scale. No verified Meta press release or earnings statement in Q1 2026 cited this specific daily figure. Marked [unverified] in the JSON."
+    },
+    {
+      "claim": "AI media buying reduces wasted impressions by 25–30%",
+      "note": "This range is directionally consistent with industry benchmarks from StackAdapt, the IAB, and platform documentation, but no single source cited this exact range for 'wasted impression reduction.' The 22% ROAS lift (Meta Advantage+) and 7% conversion lift (Google AI Max) are the primary verified performance figures."
+    },
+    {
+      "claim": "Market share percentages for Google (~35%), Meta (~25%), Adobe (~8%), The Trade Desk (~5%), Amazon (~4%)",
+      "note": "These figures represent estimated shares of AI-assisted digital advertising spend and are not sourced from a single market research report covering the AI advertising competitive landscape. Google and Meta's shares of the overall digital ad market are well-documented (Google ~29%, Meta ~19% of total digital ad spend per eMarketer 2025), but their AI-specific advertising tool market share as a defined segment is not formally tracked. The percentages are constructed from available data points (Meta Advantage+ $20B ARR vs overall market of $4.18B, Google 88% AI-assisted revenue share) and should be treated as directional estimates."
+    }
+  ]
+}
