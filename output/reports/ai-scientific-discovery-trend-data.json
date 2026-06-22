@@ -1,0 +1,151 @@
+{
+  "trend_name": "AI for Scientific Discovery",
+  "status": "surging",
+  "search_volume": "~150K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+102%",
+  "growth_1y": "+22%",
+  "growth_3m": "+5%",
+  "trigger": "The first fully AI-designed drug (Insilico's ISM001-055) completed Phase IIa trials with positive results in 2025; Demis Hassabis won the 2024 Nobel Prize in Chemistry for AlphaFold; Isomorphic Labs raised a $2.1B Series B in February 2026; FDA released inaugural AI drug development guidance in January 2026 — together these events de-risked an entirely new category of AI-native science.",
+  "timeline": [
+    {
+      "date": "Nov 2020",
+      "event": "DeepMind's AlphaFold 2 predicts protein structures for the entire human genome — solving a 50-year biology grand challenge and triggering a wave of AI-for-science investment"
+    },
+    {
+      "date": "Nov 2021",
+      "event": "Alphabet spins out Isomorphic Labs to apply AlphaFold directly to drug design, marking the first major commercial bet on AI-native scientific discovery"
+    },
+    {
+      "date": "Jan 2024",
+      "event": "Isomorphic Labs signs $3B potential-milestone deals with Eli Lilly ($1.745B) and Novartis ($1.237B) — the largest AI drug discovery partnership deals in history"
+    },
+    {
+      "date": "Oct 2024",
+      "event": "Demis Hassabis awarded Nobel Prize in Chemistry for AlphaFold; Insilico Medicine's ISM001-055, the first fully AI-designed drug, enters Phase II clinical trials"
+    },
+    {
+      "date": "Jan 2026",
+      "event": "FDA releases inaugural 10-principle guidance on AI in drug and biological product development; Isomorphic's Drug Design Engine doubles AlphaFold 3 performance on protein-ligand binding"
+    },
+    {
+      "date": "Feb 2026",
+      "event": "Isomorphic Labs raises $2.1B Series B led by Thrive Capital; Demis Hassabis signals the first AI-designed drug in a company-run clinical trial by end-2026"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "US, EU, and China treat AI in research as a national strategic priority — NIH AI programs, EU Horizon Europe grants, and China's $138B state AI fund all include scientific AI as a core investment pillar, intensifying geopolitical race for AI-driven breakthroughs"
+    },
+    {
+      "factor": "Economic",
+      "impact": "Traditional drug discovery costs $2.6B per approved drug on average; AI promises 10× cost reduction. Pharma's $3B+ in Isomorphic deals and Recursion's Big Pharma partnerships signal industry conviction. Market grows from $5.85B (2026) to $34.78B by 2035 at 21.9% CAGR"
+    },
+    {
+      "factor": "Social",
+      "impact": "Public urgency around cancer, Alzheimer's, climate change, and antimicrobial resistance builds societal pressure to accelerate research; Nobel Prize win normalized AI-designed science; generational trust in AI decision-making is rising among researchers under 40"
+    },
+    {
+      "factor": "Technological",
+      "impact": "AlphaFold 3 extended to DNA, RNA, and small molecule interactions; agentic AI closes the full hypothesis-to-experiment-analysis loop autonomously; Google GNoME discovered 2.2M crystal structures for materials science — 736 already validated by external labs"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI-discovered materials (new battery chemistries, CO₂ capture catalysts) directly accelerate climate solutions; Microsoft Aurora delivers 10-day weather forecasts at 1km resolution 1,000× faster than traditional physics models, enabling better climate adaptation planning"
+    },
+    {
+      "factor": "Legal",
+      "impact": "FDA issued inaugural AI drug development guidance (Jan 2026); EU EMA published AI reflection paper; patent ownership of AI-generated inventions legally ambiguous in most jurisdictions — landmark cases pending in the US, EU, and UK that will define who owns AI-discovered IP"
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Predict protein structures and molecular interactions to identify viable drug targets faster",
+      "solution": "AlphaFold 3 / Isomorphic Labs Drug Design Engine — 50%+ improvement over prior methods on protein-ligand structure prediction at genome scale"
+    },
+    {
+      "job": "Design novel drug candidates without years of costly wet-lab trial-and-error",
+      "solution": "Insilico Medicine's Chemistry42 generative platform — produced ISM001-055 in 18 months at ~10% of traditional cost; now a Phase II success story"
+    },
+    {
+      "job": "Run thousands of experiments simultaneously without scaling PhD headcount",
+      "solution": "Self-driving labs (Emerald Cloud Lab, Strateos) paired with AI agents close the experiment-analysis-hypothesis loop overnight, parallelising work that would take months in a traditional lab"
+    },
+    {
+      "job": "Discover new materials for batteries, semiconductors, and carbon capture",
+      "solution": "Google GNoME identified 2.2M crystal structures including 52,000 novel lithium-ion conductors; external labs have already synthesised 736 of these AI-discovered materials"
+    },
+    {
+      "job": "Forecast weather and climate at actionable resolution for agriculture, infrastructure, and disaster response",
+      "solution": "Microsoft Aurora and Google NeuralGCM generate 10-day forecasts at 1km resolution 1,000× faster than traditional physics-based models, enabling real-time climate adaptation"
+    }
+  ],
+  "market": [
+    {
+      "name": "Google DeepMind / Isomorphic Labs",
+      "share": "~28% [est.]",
+      "loved": "92%",
+      "segment": "Pharma AI / protein structure prediction"
+    },
+    {
+      "name": "Microsoft (AI for Science)",
+      "share": "~20% [est.]",
+      "loved": "81%",
+      "segment": "Cloud research platforms / climate AI"
+    },
+    {
+      "name": "Schrödinger Inc. (SDGR)",
+      "share": "~12% [est.]",
+      "loved": "78%",
+      "segment": "Computational chemistry / drug design"
+    },
+    {
+      "name": "Recursion Pharmaceuticals",
+      "share": "~10% [est.]",
+      "loved": "74%",
+      "segment": "Closed-loop biological discovery"
+    },
+    {
+      "name": "Insilico Medicine",
+      "share": "~8% [est.]",
+      "loved": "80%",
+      "segment": "Generative drug molecule design"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Isomorphic Labs (Alphabet)",
+      "detail": "AlphaFold 3 commercial spinout; Drug Design Engine doubled AlphaFold 3 accuracy on protein-ligand binding (Feb 2026); signed $3B potential-milestone deals with Eli Lilly and Novartis; raised $2.1B Series B (Thrive Capital, Feb 2026). Privately held by Alphabet."
+    },
+    {
+      "name": "Recursion Pharmaceuticals (RXRX)",
+      "detail": "Publicly traded on NASDAQ; builds biology foundation models from the world's largest proprietary biological dataset; multiple compounds in clinical trials; $1B+ total funding; active partnerships with Roche, Genentech, Bayer, and Sanofi."
+    },
+    {
+      "name": "Insilico Medicine",
+      "detail": "Produced ISM001-055, the first fully AI-designed drug to reach Phase IIa trials with positive results; Chemistry42 generative platform covers fibrosis, cancer, COVID, and aging; completed Phase IIa in 18 months at ~10% of traditional cost."
+    },
+    {
+      "name": "Schrödinger Inc. (SDGR)",
+      "detail": "Publicly traded computational drug discovery platform; used by 1,750+ pharma, biotech, and materials science companies; combines physics-based molecular simulation with ML for structure-based drug design; generates software licensing and drug co-development revenue."
+    },
+    {
+      "name": "Microsoft Azure AI for Science",
+      "detail": "Aurora model leads AI weather and climate forecasting at 1km resolution; BioMedLM for biomedical literature; partnerships with Novartis and Sanofi on drug discovery pipelines; AI4Science tools integrated into Azure cloud platform for enterprise research teams."
+    }
+  ],
+  "canvas": {
+    "who": "Pharma and biotech R&D heads, computational biology and chemistry teams, academic researchers at top-tier universities, climate scientists, materials engineers at national labs, and AI-first biotech startup founders",
+    "where": "Big Pharma R&D campuses (Eli Lilly, Novartis, Roche, Sanofi), VC-backed AI-biotech startups in San Francisco, Boston, London, and Basel, university labs with cloud HPC access, and government national labs (NIH, NIST, EU Max Planck Institutes)",
+    "why_now": "AlphaFold cracked protein folding in 2020; the 2024 Nobel Prize validated its commercial significance; the first AI-designed drug hit Phase IIa successfully in 2025; and FDA guidance arrived in January 2026 — the entire chain from discovery to regulatory approval pathway is now de-risked enough for mainstream adoption",
+    "behavior": "Research teams deploy AI agents to generate hypotheses overnight and schedule robotic lab experiments in parallel, compressing 5-year discovery cycles to 18 months; scientists shift from manual searching to curating the best AI-generated candidates for human validation",
+    "unmet": "Translating high-quality AI predictions into validated wet-lab results remains the critical bottleneck — self-driving lab automation infrastructure lags AI prediction capability by 2–3 years; interpretability of 'black box' AI decisions is still insufficient for full regulatory confidence"
+  },
+  "takeaways": [
+    "For investors: the first wave of FDA-approved AI-designed drugs will arrive 2027–2029 — stake early positions in Recursion (RXRX) and Schrödinger (SDGR) for public-market exposure; watch Isomorphic Labs if it IPOs; platform infrastructure companies (lab automation, cloud HPC for science) offer lower-risk leveraged exposure",
+    "For pharma R&D leaders: adopt AlphaFold 3 and generative chemistry platforms now — the 10× cost reduction and 3× speed advantage are proven at Phase II; early movers lock in 3–5 year IP advantages in target classes before competitors close the gap",
+    "For platform builders: AI prediction has outpaced physical validation — autonomous self-driving labs and robotic synthesis platforms are the next $10B infrastructure layer; the company that closes the AI-prediction-to-wet-lab-synthesis loop at scale wins a decade-long moat",
+    "For policymakers: FDA's January 2026 guidance is just the opening move — engage urgently on IP ownership of AI-generated inventions before landmark patent battles create regulatory chaos; harmonise with EU EMA's reflection paper while global standards are still being written"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "trend": "AI for Scientific Discovery",
+  "slug": "ai-scientific-discovery",
+  "generated": "2026-06-22",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Precedence Research",
+      "title": "AI for Scientific Discovery Market Size to Hit USD 34.78 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/ai-for-scientific-discovery-market",
+      "claim": "Market size $4.72B in 2025, growing at CAGR 21.9% to $34.78B by 2035; US sub-market at $1.68B in 2025 growing at 18.32% CAGR",
+      "verified": true,
+      "used_for": ["growth_1y", "growth_5y", "market size projection"]
+    },
+    {
+      "id": 2,
+      "publisher": "Market.us",
+      "title": "AI For Scientific Discovery Market Size | CAGR of 21.9%",
+      "url": "https://market.us/report/ai-for-scientific-discovery-market/",
+      "claim": "Global market valued at $5.85B in 2026; historical value at $2.9B in 2021; CAGR 21.9%",
+      "verified": true,
+      "used_for": ["search_volume estimate", "growth_5y", "current market size"]
+    },
+    {
+      "id": 3,
+      "publisher": "Market.us (Agentic AI segment)",
+      "title": "Agentic AI in Scientific Discovery & Research Market CAGR of 53%",
+      "url": "https://market.us/report/agentic-ai-in-scientific-discovery-research-market/",
+      "claim": "Agentic AI in scientific discovery sub-segment growing at 53% CAGR — fastest-growing component of AI for science",
+      "verified": true,
+      "used_for": ["trigger", "technological impact", "surging status"]
+    },
+    {
+      "id": 4,
+      "publisher": "StartupHub.ai",
+      "title": "Demis Hassabis in 2026: How DeepMind Is Turning AlphaFold Into a Drug Discovery Engine",
+      "url": "https://www.startuphub.ai/ai-news/ai-figures/2026/figure-demis-hassabis-scientific-discovery-vision-2026-05-11",
+      "claim": "Isomorphic Labs raised $2.1B Series B led by Thrive Capital; Drug Design Engine doubled AlphaFold 3 performance on protein-ligand binding; first AI-designed drug in company-run clinical trial by end-2026",
+      "verified": true,
+      "used_for": ["competitors.Isomorphic Labs", "timeline Feb 2026", "trigger"]
+    },
+    {
+      "id": 5,
+      "publisher": "FDA",
+      "title": "Guiding Principles of Good AI Practice in Drug Development — January 2026",
+      "url": "https://www.fda.gov/media/189581/download",
+      "claim": "FDA released inaugural 10-principle guidance on AI in drug and biological product development, co-developed with European Medicines Agency (EMA) in January 2026",
+      "verified": true,
+      "used_for": ["pestal.Legal", "timeline Jan 2026", "trigger"]
+    },
+    {
+      "id": 6,
+      "publisher": "Frontiers in Artificial Intelligence",
+      "title": "AI, agentic models and lab automation for scientific discovery — the beginning of scAInce",
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full",
+      "claim": "Agentic AI + robotic self-driving labs creating closed hypothesis-experiment-analysis loops without human intervention; 'scAInce' era beginning in 2025-2026",
+      "verified": true,
+      "used_for": ["jobs[2]", "pestal.Technological", "canvas.behavior"]
+    },
+    {
+      "id": 7,
+      "publisher": "Microsoft Source",
+      "title": "From forecasting storms to designing molecules: How new AI foundation models can speed up scientific discovery",
+      "url": "https://news.microsoft.com/source/features/ai/from-forecasting-storms-to-designing-molecules-how-new-ai-foundation-models-can-speed-up-scientific-discovery/",
+      "claim": "Microsoft Aurora model for weather forecasting at 1km resolution; AI foundation models accelerating discovery across physics, chemistry, biology, climate science",
+      "verified": true,
+      "used_for": ["jobs[4]", "pestal.Environmental", "competitors.Microsoft"]
+    },
+    {
+      "id": 8,
+      "publisher": "GenEng News",
+      "title": "Google DeepMind and Edison Are Building the AI Scientist",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/google-deepmind-and-edison-are-building-the-ai-scientist/",
+      "claim": "Edison Scientific's Kosmos AI scientist platform performs hundreds of research tasks in parallel, compressing months of work into a single day; Google DeepMind partnership",
+      "verified": true,
+      "used_for": ["canvas.behavior", "pestal.Technological", "trigger background"]
+    },
+    {
+      "id": 9,
+      "publisher": "Wikipedia",
+      "title": "Isomorphic Labs",
+      "url": "https://en.wikipedia.org/wiki/Isomorphic_Labs",
+      "claim": "Founded November 2021 as Alphabet subsidiary; signed $1.745B deal with Eli Lilly and $1.237B with Novartis; total potential milestone value ~$3B",
+      "verified": true,
+      "used_for": ["competitors.Isomorphic Labs", "timeline 2021", "timeline Jan 2024", "pestal.Economic"]
+    },
+    {
+      "id": 10,
+      "publisher": "ScienceDirect / Frontiers AI",
+      "title": "AI for scientific discovery use cases — materials science, climate, chemistry, biology",
+      "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1649155/full",
+      "claim": "Google GNoME discovered 2.2M crystal structures including 52,000 novel lithium-ion conductors; 736 validated by external labs; Insilico ISM001-055 Phase IIa completed in 18 months at ~10% traditional cost",
+      "verified": true,
+      "used_for": ["jobs[3]", "pestal.Environmental", "competitors.Insilico"]
+    },
+    {
+      "id": 11,
+      "publisher": "DeepMind Blog",
+      "title": "AlphaFold: Five Years of Impact",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "claim": "AlphaFold 2 predicted protein structures for the whole human genome in 2020; AlphaFold 3 extends to DNA, RNA, and small molecule interactions with 50%+ improvement",
+      "verified": true,
+      "used_for": ["timeline Nov 2020", "jobs[0]", "competitors.DeepMind", "pestal.Technological"]
+    },
+    {
+      "id": 12,
+      "publisher": "MIT Professional Education",
+      "title": "AI for Scientific Discovery — MIT Professional Education Program",
+      "url": "https://professional.mit.edu/aisd",
+      "claim": "MIT launched dedicated AI for Scientific Discovery curriculum, indicating mainstream academic adoption of the field",
+      "verified": true,
+      "used_for": ["canvas.who", "surging status signal"]
+    }
+  ]
+}
