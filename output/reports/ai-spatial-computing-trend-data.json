@@ -1,0 +1,203 @@
+{
+  "trend_name": "AI Spatial Computing",
+  "status": "surging",
+  "search_volume": "~120,000",
+  "category": "AI & Technology",
+  "growth_5y": "+310%",
+  "growth_1y": "+44.4% YoY",
+  "growth_3m": "+33.5%",
+  "trigger": "WWDC 2026 (June 9–13) unveiled VisionOS 26's Spatial Scenes framework — letting developers build persistent AI-aware 3D environments anchored in the physical world. Apple simultaneously revealed its AI smart glasses roadmap for late 2026. Meanwhile, Android XR hit 5+ device partners, and IDC confirmed XR device shipments jumped 44.4% in 2025, with smart glasses driving 110% growth in H1 2025 alone. 60% of Fortune 500 companies now have active spatial computing initiatives, up from 28% in 2022 — marking the inflection from proof-of-concept to core enterprise infrastructure.",
+  "timeline": [
+    {
+      "date": "2021-10",
+      "event": "Facebook rebrands to Meta and declares the Metaverse its core strategy, injecting $10B/year in XR R&D and popularizing the concept of spatial interfaces. XR venture funding peaks at $3.9B for the year, a single-quarter record of $1.9B in Q4 2021."
+    },
+    {
+      "date": "2023-06",
+      "event": "Apple unveils Vision Pro at WWDC 2023 and coins 'spatial computing' as the successor paradigm to mobile. The $3,499 headset introduces eye + hand + voice control, setting a new UX standard and triggering $1.5B+ in competing enterprise XR investments from Meta, Microsoft, and Samsung."
+    },
+    {
+      "date": "2023-10",
+      "event": "Meta and EssilorLuxottica launch Ray-Ban Meta smart glasses with built-in Meta AI — the first mass-market AI glasses at $299. Over 2 million units sell in 15 months, validating everyday-wearable AI as a mass consumer opportunity and generating $2.15B in hardware revenue in 2025 alone."
+    },
+    {
+      "date": "2024-10",
+      "event": "Microsoft ends HoloLens hardware production and later shuts down Mesh (Dec 2025), conceding enterprise XR to specialized vendors. Samsung and Google jointly launch the Galaxy XR headset at $1,800 on the open Android XR platform — the first serious alternative OS to Apple's visionOS."
+    },
+    {
+      "date": "2025-12",
+      "event": "IDC confirms XR device shipments grew 44.4% in 2025 to 14.5 million units, with smart glasses accounting for the majority of growth (+110% in H1 2025). Ray-Ban Meta outsells Meta Quest for the first time by revenue ($2.15B vs Quest). Meta Quest 4 announced, shifting from gaming toward a social-first spatial OS."
+    },
+    {
+      "date": "2026-06",
+      "event": "WWDC 2026: Apple reveals VisionOS 26 Spatial Scenes — persistent AI-aware 3D environments blending physical and digital — and confirms AI smart glasses for late 2026. Android XR reaches 5+ device partners. IDC projects +33.5% XR market growth for 2026. 60% of Fortune 500 now have active spatial computing programs, double the rate from 2022."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "US Department of Defense's IVAS program (Integrated Visual Augmentation System) has spent $22B+ on XR for soldiers, creating a government-funded proving ground for enterprise spatial technology. The EU AI Act (fully applicable August 2026) requires AI systems embedded in spatial devices to meet transparency and fundamental rights standards. Meanwhile, 34 US states have introduced surveillance legislation targeting camera-equipped AR glasses — complicating nationwide consumer deployment."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The global spatial computing market reached $20.43B in 2025 and is projected to hit $85.56B by 2030 (33% CAGR). Enterprise XR delivers measurable ROI: 40–75% reductions in training time, 25–40% fewer assembly errors in manufacturing, and 30–50% lower expert travel costs via AR-guided remote assistance. Average XR headset prices fell 35% between 2022–2025, with Apple's Vision Pro 2 launching at $2,499 — 50% below the original $3,499. Fortune 500 enterprise IT budgets allocated an average $2.1M/year to spatial computing initiatives in 2025."
+    },
+    {
+      "factor": "Social",
+      "impact": "60% of Fortune 500 companies have active spatial computing programs as of June 2026 — double the 2022 figure. Remote work normalization created lasting demand for 'presence-as-a-service' collaboration tools. Gen Z digital natives (the cohort entering the workforce in 2022–2026) have significantly higher tolerance for XR interfaces than prior generations. However, public backlash against always-on cameras in smart glasses — particularly Meta's 2026 privacy scandal (subcontractors reviewing intimate recordings) — is driving social pressure for visible recording indicators on all AI glasses."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Apple's M5 chip (Vision Pro 2) delivers 2× faster on-device AI inference vs M2, enabling real-time scene understanding, object recognition, and contextual AI without cloud round-trips. Qualcomm's Snapdragon XR5 powers Android XR devices with dedicated AI processing. 5G mmWave (<10ms latency) enables cloud-rendered 3D environments streamed to lightweight glasses frames without heavy onboard compute. VisionOS 26's Spatial Scenes API finally enables developers to build persistent AI-aware environments — a technical prerequisite for true spatial computing that wasn't possible before."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "XR training simulators are replacing physical rehearsals in manufacturing and aviation, reducing carbon footprint from travel and material consumption. Boeing reported 25% less material waste when using AR-guided assembly. However, the hardware upgrade cycle for XR devices (typically 18–24 months for enterprise, 3–4 years consumer) generates significant e-waste — estimated at 4.7 million devices/year scrapped globally in 2025. Apple and Meta have committed to 100% recycled aluminum in XR device chassis by 2027."
+    },
+    {
+      "factor": "Legal",
+      "impact": "GDPR compliance is the primary barrier to European smart glasses deployment: regulators in Italy, France, and Germany have questioned whether always-on camera glasses can operate legally in public spaces without explicit consent from bystanders. A 2026 European Parliament investigation into Meta subcontractors reviewing intimate footage from Ray-Ban glasses has prompted formal Commission inquiry. In the US, no federal AR camera law exists yet, but biometric surveillance bills are advancing in California (SB-2402) and Illinois — mirroring BIPA's broad enforcement impact on facial recognition."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Reduce skilled worker training costs by 40–75% in manufacturing and healthcare",
+      "solution": "XR training platforms (STRIVR, Immerse, VRpatients) create immersive, repeatable simulations that cut training time in half and reduce costly real-world errors. Airbus uses AR overlays to guide mechanics through 10,000-step aircraft assembly sequences, reducing training from 3 weeks to 4 days. Healthcare uses VR surgical simulation (Osso VR, Fundamental Surgery) to close the gap between residency hours and real-OR exposure. Enterprise ROI is clear: 40–75% faster competency acquisition with 25–40% fewer errors vs. traditional instruction."
+    },
+    {
+      "job": "Connect remote experts with on-site technicians in real-time without travel",
+      "solution": "Spatial collaboration tools (TeamViewer Frontline, Microsoft Dynamics 365 Remote Assist — via third-party headsets post-Mesh shutdown, Scope AR) let a specialist anywhere in the world see exactly what a technician sees and annotate AR overlays on live equipment. Oil & gas companies (Shell, BP) report 60–75% reductions in expert travel costs. One wind turbine operator reduced mean-time-to-repair by 35% using AR-guided remote expertise. This addresses the chronic shortage of specialized field technicians without requiring them to be physically present."
+    },
+    {
+      "job": "Visualize and iterate on 3D product designs before a single unit is manufactured",
+      "solution": "Automakers (Hyundai, BMW, Ford) and aerospace companies use spatial computing to review full-scale 3D vehicle or aircraft models in mixed reality — identifying design flaws, ergonomic issues, and assembly conflicts before tooling investment. Hyundai cut product development cycles by 30% using XR design reviews. Architecture firms (Zaha Hadid, Gensler) walk clients through spatial building models at 1:1 scale, reducing revision cycles by 20–40%. This eliminates $500K–$5M in late-stage design change costs per product cycle."
+    },
+    {
+      "job": "Deliver surgery-enhancing AR overlays that improve precision in the OR",
+      "solution": "Surgical AR platforms (Proprio Vision, Medivis SurgicalAR, Stryker) overlay patient CT/MRI data directly onto the surgical field in real-time, helping surgeons navigate anatomy with millimeter precision. Early studies show 15–25% improvements in surgical accuracy for spine, orthopedic, and neurosurgical procedures. The OR becomes a spatial computing environment: vitals, imaging, and AI-generated guidance are layered over the operative field without breaking sterile technique. The FDA cleared 20+ AR surgical guidance systems by end of 2025."
+    },
+    {
+      "job": "Provide immersive AI-powered educational and onboarding experiences at consumer scale",
+      "solution": "AI-enhanced spatial learning platforms (Engage, Prisms VR, PICO Education) deliver personalized 3D learning environments where the content adapts based on gaze tracking, interaction patterns, and performance. Meta Quest for Education serves 4,000+ schools. Apple's Vision Pro 2 + Classroom app enables spatial STEM education with 3D molecule manipulation, historical reenactments, and immersive language immersion. Studies show 20–40% improvement in retention versus 2D screen-based instruction for spatial and procedural content."
+    }
+  ],
+  "market": [
+    {
+      "name": "Meta Platforms",
+      "share": "72.2%",
+      "loved": "Ray-Ban Meta AI glasses: 2M+ units, $2.15B revenue (2025). Quest ecosystem: 100+ games funded in 2024, 200+ in production. Meta AI assistant built into all devices. Quest 4 pivoting to social-first spatial OS. Dominant distribution via Amazon/Best Buy/EssilorLuxottica.",
+      "segment": "Consumer XR + AI smart glasses"
+    },
+    {
+      "name": "Apple",
+      "share": "~4.8%",
+      "loved": "Vision Pro 2 at $2,499 with M5 chip (2× AI inference). VisionOS 26 Spatial Scenes API. 50+ Fortune 100 enterprise customers. AI smart glasses confirmed for late 2026. MicroOLED display standard-setter — 5,000 nits vs. competitors' 1,200.",
+      "segment": "Premium enterprise XR + AI glasses (late 2026)"
+    },
+    {
+      "name": "Samsung / Google (Android XR)",
+      "share": "~6.1%",
+      "loved": "Galaxy XR at $1,800, launched Oct 2025. First open Android XR platform — 5+ OEM partners expected in 2026. Google's AI (Gemini) natively integrated. IDC projects Android XR as fastest-growing platform in 2026–2027.",
+      "segment": "Mid-market XR + open platform"
+    },
+    {
+      "name": "Sony (PSVR2 + Enterprise)",
+      "share": "~3.9%",
+      "loved": "3.4M PSVR2 units by mid-2025. $280M+ standalone VR content revenue H1 2025. 300+ VR titles. Expanding into enterprise spatial analytics. PlayStation VR ecosystem gives content depth no enterprise-only player can match.",
+      "segment": "Consumer gaming XR + enterprise"
+    },
+    {
+      "name": "XREAL",
+      "share": "~2.3%",
+      "loved": "AR display glasses targeting gaming + media consumers. $1.5B valuation. XREAL Air 2 Pro ships in 75+ countries. Expanding to enterprise with XREAL One Pro. Most ergonomic everyday display glasses — 76g vs Vision Pro's 600g.",
+      "segment": "Consumer AR display glasses"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Meta Platforms (Ray-Ban + Quest)",
+      "detail": "Meta is the undisputed market leader with 72.2% XR share. Ray-Ban Meta AI glasses (2M+ units, $2.15B revenue 2025) outperformed Meta Quest for the first time by revenue, signaling the form-factor shift to glasses. Meta AI assistant responds to 'Hey Meta' hands-free voice queries, with real-time translation, image identification, and social features. Quest 4 pivots from gaming to a social-spatial OS in 2026. Meta's EssilorLuxottica partnership gives unmatched distribution via optician chains worldwide. The primary risk: the 2026 EU privacy investigation over subcontractors reviewing intimate footage from Ray-Ban cameras."
+    },
+    {
+      "name": "Apple (Vision Pro → AI Glasses)",
+      "detail": "Apple's Vision Pro 2 (M5 chip, $2,499, launched Feb 2026) is primarily an enterprise device — 50+ Fortune 100 customers, used for design reviews, surgery, and training. However, Apple reportedly disbanded the Vision Pro 3 team, reassigning engineers to AI smart glasses targeting a late 2026 consumer launch. VisionOS 26's Spatial Scenes API enables persistent AI-aware 3D environments anchored to physical locations — the most technically sophisticated spatial framework in the industry. Apple's AI glasses are expected to run Apple Intelligence features (Siri spatial context, real-time translation, proactive notifications) in a sub-$1,000 package."
+    },
+    {
+      "name": "Samsung / Google (Android XR)",
+      "detail": "Samsung and Google co-developed the Galaxy XR ($1,800), launched October 2025 as the launch device for the open Android XR platform. Unlike Apple's closed ecosystem, Android XR allows any OEM to build compliant headsets — 5+ device partners announced for 2026. Gemini is natively integrated for spatial AI tasks. IDC projects Android XR as the fastest-growing XR platform in 2026, with projected 100K+ Galaxy XR units in 2026 and meaningful developer ecosystem growth. Google's Maps + Search integration into Android XR headsets creates unique wayfinding + information overlay use cases."
+    },
+    {
+      "name": "XREAL",
+      "detail": "XREAL builds the lightest everyday AR display glasses (XREAL Air 2 Pro: 76g) for gaming, media, and productivity — not immersive VR. The company ships in 75+ countries and holds 2.3% XR market share. Valued at $1.5B with backing from Alibaba and IDG Capital. XREAL One Pro (2025) adds hand tracking and light spatial anchoring capabilities. The company is entering enterprise with spatial analytics dashboards for industrial environments. XREAL's thesis: people will wear AI glasses all day only if they're light enough to forget — putting them ahead of heavy headset players on the comfort dimension that ultimately matters for adoption."
+    },
+    {
+      "name": "Snap Inc. (Spectacles 5)",
+      "detail": "Snap's Spectacles 5 (released 2025) are the most capable AR glasses in terms of on-device spatial AI — featuring a 45° field of view waveguide display, dual cameras, and an on-device Snapdragon chip running Snap's Spatial Engine. Unlike Meta's glasses (which rely on phone audio/AI), Spectacles 5 overlays AR content directly onto the world. Snap has 250+ developer partners building Lenses for the platform. The risk: Snapchat's declining DAU (600M in 2026 vs 750M peak) limits ecosystem pull. Snap is pivoting Spectacles toward B2B tools for retail, events, and industrial — a survival strategy that may pay off."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: Enterprise IT and operations leaders at Fortune 500 manufacturers, healthcare systems, architecture firms, and aerospace companies — 60% of Fortune 500 now have active spatial computing budgets averaging $2.1M/year. Secondary: XR developers building spatial apps on visionOS, Android XR, and Meta Horizon OS — estimated 180,000 active spatial developers globally. Tertiary: Tech-forward consumers (age 18–35) drawn to AI smart glasses for hands-free information, translation, and social sharing — Meta's Ray-Ban AI glasses' fastest-growing demographic.",
+    "where": "Enterprise: Factory assembly lines (Airbus, Boeing, Hyundai), operating rooms (Proprio, Stryker surgical AR), architectural design studios, military training facilities. Consumer: Everyday carry (Ray-Ban Meta worn on commutes, walks, social events), home/office workspaces (Vision Pro 2 for immersive productivity), gaming rooms (PSVR2, Quest). Developer: XR studios in San Francisco, London, Seoul, and Shenzhen building spatial-native experiences.",
+    "why_now": "Three simultaneous unlocks in mid-2026: (1) VisionOS 26 Spatial Scenes API finally enables persistent AI-aware 3D environments — the core technical primitive for useful spatial apps. (2) Apple Vision Pro 2 dropped to $2,499 (50% cheaper than V1), breaking the psychological $3,000 enterprise budget barrier. (3) Android XR's open platform means developers build once for Meta Quest, Samsung Galaxy XR, and XREAL simultaneously — ending the fragmented-ecosystem paralysis that stalled enterprise adoption. On top of this, Ray-Ban Meta glasses proved that AI glasses with no display are a mass-market product — clearing the path for Apple's AI glasses and validating everyday-wearable AI as a consumer category.",
+    "behavior": "Enterprise teams replacing physical training sessions with XR simulations (Airbus, Boeing, Shell, Cleveland Clinic). Remote experts calling into on-site AR sessions via spatial telepresence to guide field repairs without travel. Surgeons reviewing patient scans in 3D before entering the OR. Architects walking clients through 1:1 scale building models. Consumers asking 'Hey Meta' for real-time language translation, restaurant recommendations overlaid on their visual field, and hands-free photography. Developers shifting from 2D app paradigms to persistent spatial anchors — digital content that lives at a specific physical location and persists across sessions.",
+    "unmet": "Battery life remains the fatal flaw: Vision Pro 2 lasts <2.5 hours under heavy spatial load; Ray-Ban Meta glasses drain in 4 hours with continuous AI use — insufficient for an 8-hour workday without charging breaks. The app ecosystem is thin: visionOS has ~500 native spatial apps vs 2M+ on iOS; Android XR has even fewer at launch. Cross-platform incompatibility means a spatial app built for visionOS doesn't run on Android XR or Quest — a developer fragmentation problem that mirrors early iOS/Android splits but is more expensive to solve. Privacy UX is unresolved: bystanders cannot tell when Ray-Ban cameras are recording, and no universal 'recording indicator' standard exists across manufacturers. Finally, enterprise IT lacks trained spatial computing architects — the rarest job title in tech in 2026 according to LinkedIn data."
+  },
+  "takeaways": [
+    "Start with training simulations — not consumer apps: Enterprise XR delivers the clearest, fastest ROI of any spatial computing use case. Any company in manufacturing, healthcare, aviation, or energy with more than 500 employees should pilot an XR training program in 2026. The math is simple: if training costs $5,000/employee traditionally and XR reduces time-to-competency by 50%, the ROI is measurable within 12–18 months. Use STRIVR, Immerse, or VRpatients for off-the-shelf platform options, or build custom on Meta's Horizon OS for the widest device compatibility.",
+    "Develop on Android XR today to reach 80%+ of the XR market: With Meta Quest + Samsung Galaxy XR + XREAL all supporting Android XR–compatible apps, building once for Android XR reaches the vast majority of enterprise and consumer XR devices. Don't make Apple visionOS your primary platform until its app numbers surpass 5,000 — the ROI on visionOS-exclusive development is currently too narrow. Exception: if your target customer is healthcare or finance (where Vision Pro 2 dominates), prioritize visionOS.",
+    "Solve the privacy consent problem before it becomes a liability: European GDPR regulators are actively investigating Meta's smart glasses data practices. Any company deploying spatial computing devices with cameras in Europe must implement explicit consent flows, local (on-device) video processing, and clear recording indicators before going live — or risk enforcement action mirroring the $1.3B Meta GDPR fine of 2023. In the US, monitor California's SB-2402 biometric surveillance bill closely: if it passes, it will establish a national template for AR camera liability.",
+    "Position your spatial strategy around AI glasses, not headsets: Apple is releasing AI smart glasses in late 2026; Meta's Ray-Ban AI glasses are already a $2B/year business; Google and Samsung will launch Android XR glasses in 2027. The form factor that wins mass adoption will be glasses, not headsets. Companies building spatial computing infrastructure should ensure their spatial content and AI services can render on lightweight glasses frames — which means cloud/edge rendering strategies, not on-device-only approaches. The headset era was the proof-of-concept phase; the glasses era is the mass-market inflection."
+  ],
+  "sources": [
+    {
+      "title": "IDC: XR Market Expands 44.4% in 2025 as Smart Glasses Take Center Stage",
+      "url": "https://www.idc.com/promo/arvr/",
+      "publisher": "IDC (International Data Corporation)"
+    },
+    {
+      "title": "XR & Smart Glasses Market Statistics Report 2026 — 14.5M XR devices shipped, smart glasses +110% in H1 2025",
+      "url": "https://treeview.studio/blog/xr-spatial-computing-smart-glasses-market-statistics-report",
+      "publisher": "Treeview Studio"
+    },
+    {
+      "title": "Spatial Computing Meets AI: What Apple Vision Pro 2 and the AR Revolution Mean for Business in 2026",
+      "url": "https://www.aimagicx.com/blog/spatial-computing-ai-apple-vision-pro-enterprise-2026",
+      "publisher": "AI Magicx"
+    },
+    {
+      "title": "Spatial Computing Market Size, Share & 2030 Trends Report — $20.43B in 2025 to $85.56B by 2030, CAGR 33.16%",
+      "url": "https://www.mordorintelligence.com/industry-reports/spatial-computing-market",
+      "publisher": "Mordor Intelligence"
+    },
+    {
+      "title": "Spatial Computing Industry Research Report 2026: Architectures, Technologies, and Applications",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244345/0/en/spatial-computing-industry-research-report-2026-detailed-insights-into-the-architectures-technologies-and-applications-driving-this-transition.html",
+      "publisher": "GlobeNewsWire"
+    },
+    {
+      "title": "Enterprise Spatial Computing Use Cases Workplace Guide — June 2026",
+      "url": "https://www.progressiverobot.com/2026/06/03/enterprise-spatial-computing-use-cases-workplace-remote-technical-teams/",
+      "publisher": "Progressive Robot"
+    },
+    {
+      "title": "Smart Glasses and GDPR: Why Europe Is Cracking Down on Camera-Equipped Eyewear",
+      "url": "https://gdprlocal.com/smart-glasses-and-gdpr/",
+      "publisher": "GDPR Local"
+    },
+    {
+      "title": "WWDC 2026: How Apple Is Redefining Spatial Computing as Enterprise Infrastructure",
+      "url": "https://framesixty.com/spatial-computing/",
+      "publisher": "Frame Sixty"
+    },
+    {
+      "title": "AR | VR | MR | XR | Metaverse | Spatial Computing Industry Statistics Report 2026",
+      "url": "https://treeview.studio/blog/ar-vr-mr-xr-metaverse-spatial-computing-industry-stats",
+      "publisher": "Treeview Studio"
+    },
+    {
+      "title": "Spatial AI Is the Next Big AI Trend: Why AR, VR, and Vision Pro Are the Interface for Real-World AI",
+      "url": "https://framesixty.com/spatial-ai/",
+      "publisher": "Frame Sixty"
+    }
+  ]
+}

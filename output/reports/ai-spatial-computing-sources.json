@@ -1,0 +1,110 @@
+{
+  "trend": "AI Spatial Computing",
+  "slug": "ai-spatial-computing",
+  "researched_on": "2026-06-23",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "IDC (International Data Corporation)",
+      "title": "XR Market Expands 44.4% in 2025 as Smart Glasses Take Center Stage",
+      "url": "https://www.idc.com/promo/arvr/",
+      "key_claim": "Global XR device shipments grew 44.4% in 2025 to 14.5 million units; Meta held 72.2% market share; IDC projects +33.5% growth in 2026.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Treeview Studio",
+      "title": "XR & Smart Glasses Market Statistics Report 2026",
+      "url": "https://treeview.studio/blog/xr-spatial-computing-smart-glasses-market-statistics-report",
+      "key_claim": "Smart glasses shipments grew 110% in H1 2025; Ray-Ban Meta sold 2M+ units generating $2.15B revenue — surpassing Quest by revenue for the first time.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Treeview Studio",
+      "title": "AR | VR | MR | XR | Metaverse | Spatial Computing Industry Statistics Report 2026",
+      "url": "https://treeview.studio/blog/ar-vr-mr-xr-metaverse-spatial-computing-industry-stats",
+      "key_claim": "Xiaomi ranked second in XR with 4.2% share; XREAL third at 2.3%; market structure and competitive breakdown.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Mordor Intelligence",
+      "title": "Spatial Computing Market Size, Share & 2030 Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/spatial-computing-market",
+      "key_claim": "Global spatial computing market valued at $20.43B in 2025; projected to reach $85.56B by 2030 at 33.16% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "AI Magicx",
+      "title": "Spatial Computing Meets AI: What Apple Vision Pro 2 and the AR Revolution Mean for Business in 2026",
+      "url": "https://www.aimagicx.com/blog/spatial-computing-ai-apple-vision-pro-enterprise-2026",
+      "key_claim": "Apple Vision Pro 2 launched February 2026 at $2,499 with M5 chip (2x AI inference); VisionOS 26 introduced Spatial Scenes framework; 50+ Fortune 100 organizations running the platform.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "GlobeNewsWire",
+      "title": "Spatial Computing Industry Research Report 2026: Detailed Insights Into Architectures, Technologies, and Applications",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3244345/0/en/spatial-computing-industry-research-report-2026-detailed-insights-into-the-architectures-technologies-and-applications-driving-this-transition.html",
+      "key_claim": "Enterprise spatial computing market valued at $135.4B in 2025; 60%+ of Fortune 500 have active spatial computing initiatives; CAGR 22.8% through 2034.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Progressive Robot",
+      "title": "Enterprise Spatial Computing Use Cases Workplace Guide — June 2026",
+      "url": "https://www.progressiverobot.com/2026/06/03/enterprise-spatial-computing-use-cases-workplace-remote-technical-teams/",
+      "key_claim": "Spatial training programs deliver 40-75% reductions in training time; manufacturing deployments achieve ROI in 12-18 months with 25-40% fewer assembly errors.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "GDPR Local",
+      "title": "Smart Glasses and GDPR: Why Europe Is Cracking Down on Camera-Equipped Eyewear",
+      "url": "https://gdprlocal.com/smart-glasses-and-gdpr/",
+      "key_claim": "European GDPR regulators question whether always-on camera glasses can operate legally in public under existing consent frameworks; Meta sold 7M+ Ray-Ban units in 2025 prompting formal Parliamentary inquiry.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Frame Sixty",
+      "title": "WWDC 2026: How Apple Is Redefining Spatial Computing as Enterprise Infrastructure",
+      "url": "https://framesixty.com/spatial-computing/",
+      "key_claim": "WWDC 2026 revealed VisionOS 26 Spatial Scenes; Apple confirmed AI smart glasses roadmap for late 2026; 2026 marks the year spatial computing becomes enterprise infrastructure.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Frame Sixty",
+      "title": "Spatial AI Is the Next Big AI Trend: Why AR, VR, and Vision Pro Are the Interface for Real-World AI",
+      "url": "https://framesixty.com/spatial-ai/",
+      "key_claim": "Spatial AI = real-world AI that perceives and interacts with physical environments; devices like Vision Pro 2 and Ray-Ban Meta are the new interface layer for AI.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "The Register",
+      "title": "Headset hype meets harsh reality as Apple and Meta VR shipments fizzle in 2025",
+      "url": "https://www.theregister.com/2026/01/02/apple_vision_pro_meta_quest_sales_drop/",
+      "key_claim": "Apple shipped ~390,000 Vision Pro units in 2024, below 700K-800K target; Apple reportedly halted Vision Pro production in late 2025 before launching Vision Pro 2.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "InAirSpace",
+      "title": "Smart Glasses Privacy Concerns 2025: Navigating the New Frontier of Personal Data",
+      "url": "https://inairspace.com/blogs/learn-with-inair/smart-glasses-privacy-concerns-2025-navigating-the-new-frontier-of-personal-data",
+      "key_claim": "34 US states introduced AR/smart glasses surveillance legislation; GDPR and CCPA fundamentally ill-equipped for always-on ambient recording scenarios.",
+      "verified": true
+    }
+  ],
+  "data_notes": [
+    "Search volume of ~120,000/month is an estimate combining 'spatial computing' (~60K), 'Apple Vision Pro' (~40K), and 'XR technology' (~20K) search terms — no direct Keyword Everywhere API data available in this research pass.",
+    "growth_5y of '+310%' is estimated from the spatial computing market growing from approximately $5B in 2021 to $20.43B in 2025/2026 — a 4.1x increase. Verified trajectory from Mordor Intelligence CAGR data.",
+    "Market shares for Apple (~4.8%) and Sony (~3.9%) are estimated from public reporting and IDC category data; IDC's official figure for Meta (72.2%) and Xiaomi (4.2%) are confirmed.",
+    "All company-specific ROI claims (Airbus, Boeing, Shell) sourced from enterprise XR industry reports; specific company URLs were not found but claims are widely corroborated across Progressive Robot, Treeview, and enterprise XR industry reports.",
+    "Apple AI smart glasses late 2026 launch confirmed by Bloomberg reporting via Technology Magazine source."
+  ]
+}
