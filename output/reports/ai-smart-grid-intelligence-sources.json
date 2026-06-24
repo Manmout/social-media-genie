@@ -1,0 +1,126 @@
+{
+  "trend": "AI-Powered Smart Grid Intelligence",
+  "slug": "ai-smart-grid-intelligence",
+  "research_date": "2026-06-24",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI-Powered Smart Grid Market Research Report 2026: $12.79 Bn Opportunities",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273684/28124/en/AI-Powered-Smart-Grid-Market-Research-Report-2026-12.79-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "publisher": "GlobeNewsWire / Research and Markets",
+      "key_claim": "AI-Powered Smart Grid Market valued at $7.54B in 2026, projected to reach $12.79B by 2030 at 14.1% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI in Energy Market Size to Hit USD 75.53 Billion by 2034",
+      "url": "https://www.precedenceresearch.com/ai-in-energy-market",
+      "publisher": "Precedence Research",
+      "key_claim": "AI in Energy market reaches $21.22B in 2026 with 17.20% CAGR through 2034",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "2024 United States Data Center Energy Usage Report",
+      "url": "https://eta-publications.lbl.gov/sites/default/files/2024-12/lbnl-2024-united-states-data-center-energy-usage-report_1.pdf",
+      "publisher": "Lawrence Berkeley National Laboratory (US DOE)",
+      "key_claim": "US data centers consumed 183 TWh of electricity in 2024, representing more than 4% of total US electricity consumption",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Strategic Federal Actions Aim to Strengthen AI and Energy Infrastructure",
+      "url": "https://bipartisanpolicy.org/explainer/strategic-federal-actions-aim-to-strengthen-ai-and-energy-infrastructure/",
+      "publisher": "Bipartisan Policy Center",
+      "key_claim": "White House Ratepayer Protection Pledge signed March 4, 2026 by 7 AI companies committing to self-supply power for data centers",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Smart Grid Software 2026, $52B Market, FERC Rulemaking",
+      "url": "https://enkiai.com/ai-infrastructure/grid-optimization-software-grid-capacity/",
+      "publisher": "EnkiAI",
+      "key_claim": "FERC set June 2026 deadline for large-load interconnection rulemaking; Smart Grid Software market at $52B in 2026",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "US Energy Management Market: Smart Grids, AI, and the IRA Are Rewriting the Industry",
+      "url": "https://www.skyquestt.com/insights/us-energy-management-smart-grids-ai-ira-are-rewriting-the-market",
+      "publisher": "SkyQuest Technology",
+      "key_claim": "IRA $369B investment; DOE Grid Modernization Initiative $10.5B; AI grid management saves 15-25% operational costs for utilities",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Is power grid connectivity the strategic bottleneck for AI?",
+      "url": "https://www.weforum.org/stories/2026/05/electricity-data-grid-connectivity-strategic-bottleneck-ai-transformation/",
+      "publisher": "World Economic Forum",
+      "key_claim": "Electrical grid connectivity identified as strategic bottleneck for AI transformation globally; power availability exceeds compute as primary constraint",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "GE Vernova to acquire Alteia, advancing AI-enabled GridOS Visual Intelligence software",
+      "url": "https://www.gevernova.com/news/press-releases/ge-vernova-to-acquire-alteia-advancing-ai-enabled-gridos-visual-intelligence-software",
+      "publisher": "GE Vernova (official press release)",
+      "key_claim": "GE Vernova acquired AI software firm Alteia in July 2025 to integrate visual intelligence and AI workflows into GridOS platform",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Utilidata Announces Development of a Custom Module for AI at the Edge of the Grid",
+      "url": "https://utilidata.com/press-release/utilidata-announces-development-of-a-custom-module-for-ai-at-the-edge-of-the-grid",
+      "publisher": "Utilidata (official press release)",
+      "key_claim": "Utilidata and NVIDIA developing NVIDIA Jetson-powered AI module for real-time intelligence at grid edge (transformers, meters)",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI 2026: Data Centers Restart Growth of a Stagnant U.S. Electrical Grid",
+      "url": "https://brief.bismarckanalysis.com/p/ai-2026-data-centers-restart-growth",
+      "publisher": "Bismarck Analysis",
+      "key_claim": "US utility 5-year peak demand forecasts grew from 38 GW (2023) to 128 GW (2024) — a 237% surge in planning horizons in 12 months",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Energy demand from AI — Analysis",
+      "url": "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai",
+      "publisher": "International Energy Agency",
+      "key_claim": "IEA projects AI data center electricity demand to exceed 250 TWh globally in 2026; global demand will rise 1T+ kWh/year through 2030",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "US Utilities Invest $1.1T by 2030 for AI & Electrification",
+      "url": "https://www.buylakewoodranch.com/blog/us-utilities-invest-11t-by-2030-for-ai-electrification/",
+      "publisher": "Industry analysis",
+      "key_claim": "US utilities committed to $1.1T in grid investment by 2030 driven by electrification and AI infrastructure demand",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI-Powered Smart Grid Market Report 2026 - Research and Markets",
+      "url": "https://www.researchandmarkets.com/reports/6231838/ai-powered-smart-grid-market-report",
+      "publisher": "Research and Markets",
+      "key_claim": "Top 5 smart grid players (Siemens, GE Vernova, Schneider Electric, ABB, Itron) hold approximately 45% combined market share in North America",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "NERC outage minutes decrease 29% in predictive load balancing systems",
+      "url": "https://www.micatu.com/blog/ai-grid-optimization",
+      "publisher": "Micatu",
+      "key_claim": "NERC-reported outage minutes decreased by 29% in systems implementing AI predictive load balancing vs traditional grid management",
+      "verified": false,
+      "note": "[unverified — referenced in multiple secondary sources but NERC primary source not directly confirmed]"
+    }
+  ],
+  "notes": [
+    "growth_3m value of '+45% YoY' is an estimate based on Q1/Q2 2026 investment acceleration signals, not a directly sourced figure",
+    "Market share percentages for individual companies (GE Vernova 18%, Siemens 15%, etc.) are estimates derived from the '45% combined for top 5' figure from GM Insights, distributed based on reported revenue and deployment scale",
+    "NERC 29% outage reduction statistic appears in multiple secondary sources but the primary NERC report URL was not directly confirmed — flagged accordingly",
+    "AutoGrid was acquired by Enel in 2021 (not 2024 as initially misremembered — corrected in the report)"
+  ]
+}
