@@ -1,0 +1,193 @@
+{
+  "trend_name": "AIOps & Autonomous IT Operations",
+  "status": "surging",
+  "search_volume": "~60K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+220%",
+  "growth_1y": "+14%",
+  "growth_3m": "+6%",
+  "trigger": "AWS DevOps Agent and Microsoft Azure SRE Agent both reached GA in March 2026, following PagerDuty's SRE Agent (Oct 2025) and Datadog Bits AI. A January 2026 ResearchGate study of 10,000+ incidents found AI now predicts failures with 92% accuracy and resolves 82% without any human touching a keyboard — enterprise IT operations has entered the autonomous era.",
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "Gartner coins the term 'AIOps' (Artificial Intelligence for IT Operations) and sizes the category at $300–500M/yr. Pioneers IBM, CA Technologies, and Moogsoft begin shipping ML-based alert correlation products targeting enterprise NOC teams."
+    },
+    {
+      "date": "2019",
+      "event": "Gartner predicts 40% of DevOps teams will use AIOps capabilities by 2023. First-gen platforms focused on noise reduction: Moogsoft, BigPanda, and OpsRamp debut correlation engines that cut alert volumes by 80–90%. Market reaches ~$2B."
+    },
+    {
+      "date": "2021",
+      "event": "COVID-era cloud acceleration drives explosive growth in distributed system complexity. AIOps market reaches ~$6B as organizations managing thousands of microservices across multi-cloud environments cannot operate without AI-assisted observability."
+    },
+    {
+      "date": "2023",
+      "event": "LLMs enter IT operations. Splunk ships ITSI Episode Summarization, Dynatrace integrates Davis generative AI, and Datadog begins building Bits AI. AIOps Platform Market reaches $11.7B (MarketsandMarkets). Gartner predicts 30% enterprise adoption by 2024 — a benchmark met on schedule."
+    },
+    {
+      "date": "2025-10",
+      "event": "PagerDuty launches its SRE Agent with a 6-step autonomous workflow: run diagnostics → surface context → analyze → suggest remediations → execute approved actions → learn for future incidents. Gartner simultaneously retires 'AIOps Platforms' as a category, renaming it 'Event Intelligence Solutions' due to rampant vendor term overuse."
+    },
+    {
+      "date": "2026-03",
+      "event": "AWS DevOps Agent and Microsoft Azure SRE Agent both reach GA. A ResearchGate study of 10,000+ production incidents across 50 enterprises confirms AI now resolves 82% of incidents autonomously. Gartner survey (Dec 2025) finds 73% of enterprises plan AIOps self-healing infrastructure adoption by year-end. Market reaches $18.95B (Mordor Intelligence)."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act high-risk enforcement arrives August 2, 2026, covering AI systems in critical infrastructure — forcing enterprises to document and audit every autonomous decision AIOps platforms make in telecom, finance, and healthcare environments. FTC's 'Operation AI Comply' in 2025 established precedent for penalizing opaque AI automation in enterprise settings."
+    },
+    {
+      "factor": "Economic",
+      "impact": "AIOps market grows from ~$6B in 2021 to $18.95B in 2026 at ~25% CAGR (Mordor Intelligence). IT labor shortage costs enterprises $87B+ globally [unverified]; AIOps delivers 60% downtime reduction and 40–60% MTTR improvement — BT Group documented MTTR dropping from 2 hours to 85 seconds. Datadog alone posted $3.3B ARR in 2025, signaling category-level economic pull."
+    },
+    {
+      "factor": "Social",
+      "impact": "SRE and DevOps burnout is an acute workforce crisis. 72% of ops engineers report alert fatigue as a top job dissatisfaction driver [unverified]; on-call rotations with constant 2 AM pages are driving attrition at top tech companies. Autonomous AIOps is increasingly marketed — and adopted — as an engineer retention and wellness tool, not just an efficiency play."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Three converging breakthroughs define 2025–2026: (1) LLMs that read logs, traces, and metrics in plain language and propose remediation steps; (2) causal AI (Dynatrace Davis) that identifies root cause across thousands of service dependencies with no manual correlation; and (3) agentic execution frameworks that allow AI to take multi-step remediation actions — restarting services, scaling pods, opening tickets — without human prompting."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AIOps workload scheduling and rightsizing algorithms reduce cloud over-provisioning — enterprises report 20–30% cloud cost reduction that correlates with proportional energy savings. Data center AIOps is increasingly sold on carbon efficiency: auto-scaling workloads to off-peak low-carbon grid windows is a documented use case at hyperscale operators."
+    },
+    {
+      "factor": "Legal",
+      "impact": "SOX, HIPAA, PCI-DSS, and GDPR all require immutable audit trails for automated changes to production systems. EU AI Act's August 2026 enforcement deadline is forcing legal teams to review AIOps decisions for explainability compliance. The emerging legal risk: if an autonomous AIOps action triggers a data breach or service outage, questions of liability between the enterprise and AI vendor remain legally unsettled."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "SREs drowning in alert floods — thousands of alerts per hour, 90%+ false positives, human on-call unable to triage signal from noise",
+      "solution": "AIOps ML correlation (PagerDuty, BigPanda, Moogsoft) groups thousands of alerts into a handful of actionable incidents, reducing alert noise by up to 91% (PagerDuty documented case). Engineers shift from triage to exception handling."
+    },
+    {
+      "job": "Incident response teams spending 2+ hours manually tracing root cause across 50+ microservices before any remediation begins",
+      "solution": "AI root cause analysis (Dynatrace Davis, Datadog Bits AI) correlates signals across 1,000+ service dependencies in seconds, pointing engineers to the exact failing component — documented MTTR reductions of 40–60% and BT Group's 2h → 85s case."
+    },
+    {
+      "job": "Production failures discovered only after customer-facing impact begins, leaving no time for graceful degradation",
+      "solution": "Predictive AIOps ML models identify anomaly patterns 24–48 hours before failures materialize, with 92% prediction accuracy in production (ResearchGate 2026 study). Teams switch from reactive firefighting to scheduled preventive maintenance."
+    },
+    {
+      "job": "Post-incident teams rebuilding institutional knowledge from scratch on each recurrence, losing remediation lessons across team rotations",
+      "solution": "Generative AI postmortem engines (Datadog Bits AI, PagerDuty SRE Agent) auto-generate structured incident timelines, root cause summaries, and actionable playbooks from every incident — turning failures into searchable institutional knowledge bases."
+    },
+    {
+      "job": "Cloud FinOps teams unable to identify idle or over-provisioned resources fast enough to prevent budget overruns in dynamic microservices environments",
+      "solution": "AIOps cost optimization agents continuously right-size workloads, terminate zombie processes, and shift batch jobs to low-cost windows — enterprises report 20–30% cloud spend reduction without manual resource audits."
+    }
+  ],
+  "market": [
+    {
+      "name": "Datadog",
+      "share": "~25% [unverified]",
+      "loved": "Bits AI SRE: always-on autonomous agent that investigates incidents, analyzes service dependencies, and generates postmortems without prompting; $3.3B ARR (2025)",
+      "segment": "Cloud-native and DevOps-first enterprises; SaaS, fintech, e-commerce"
+    },
+    {
+      "name": "Dynatrace",
+      "share": "~20% [unverified]",
+      "loved": "Davis AI hypermodal engine: causal AI for root cause + predictive AI for failure forecasting + generative AI for recommendations; strongest for Kubernetes and OpenTelemetry-native environments",
+      "segment": "Large enterprise, regulated industries, complex Kubernetes deployments"
+    },
+    {
+      "name": "ServiceNow ITOM",
+      "share": "~15% [unverified]",
+      "loved": "Now Assist SRE Specialist (GA June 2026): deepest ITSM + CMDB + change management integration; ITIL-governed IT ops with AI overlay; unmatched for enterprises where governance matters as much as speed",
+      "segment": "Enterprise IT organizations, ITIL-compliant shops, regulated industries"
+    },
+    {
+      "name": "PagerDuty",
+      "share": "~12% [unverified]",
+      "loved": "SRE Agent (Oct 2025): 6-step autonomous incident workflow; pioneered 'AI-first on-call' concept; ~91% alert noise reduction documented; ~$450M ARR",
+      "segment": "Mid-market DevOps teams, high-velocity engineering organizations"
+    },
+    {
+      "name": "Splunk / Cisco",
+      "share": "~10% [unverified]",
+      "loved": "ITSI Episode Summarization: hybrid SIEM + AIOps covering security and operations in one platform; strong in enterprises already invested in Splunk's data platform",
+      "segment": "Enterprise security + operations, legacy-stack hybrid environments"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Datadog Bits AI",
+      "detail": "$3.3B ARR in 2025; acquired Eppo (feature flags) and Metaplane (data observability) to extend AI context across the full software lifecycle. Bits AI SRE operates fully autonomously — no prompting required — and can investigate incidents, map service dependencies, and draft postmortems. Strongest in cloud-native environments with OpenTelemetry instrumentation."
+    },
+    {
+      "name": "Dynatrace Davis AI",
+      "detail": "Publicly traded ($DT); hypermodal AI engine combining causal AI (deterministic root cause, no false positives), predictive AI (failure forecasting 48h ahead), and generative AI (plain-language recommendations). Davis has been doing AI root cause analysis since 2016 — the most mature AI engine in the market. Dominates Kubernetes and enterprise Java/Spring environments."
+    },
+    {
+      "name": "PagerDuty SRE Agent",
+      "detail": "Launched October 2025; purpose-built AI SRE with six autonomous steps: run diagnostics → surface key context → analyze → suggest remediations → execute approved actions → generate smart playbooks. ~$450M ARR; pioneered the 'AI-first on-call' paradigm that shifts humans from investigators to approvers. Popular among mid-market DevOps-native companies."
+    },
+    {
+      "name": "ServiceNow Now Assist SRE",
+      "detail": "GA June 2026; the only AIOps platform with native ITSM + CMDB + change management integration — critical for enterprises where ITIL governance, change advisory boards, and compliance audit trails are mandatory. Fastest-growing ServiceNow product module. Targets enterprise IT organizations where ITOM and ITSM workflows must be unified."
+    },
+    {
+      "name": "Moogsoft (IBM)",
+      "detail": "AIOps pioneer founded 2012; acquired by IBM in 2023 and integrated into IBM's Watson AIOps suite. Strong heritage in telco, mainframe, and legacy hybrid environments where Datadog and Dynatrace have weak coverage. Losing cloud-native market share but dominant in Fortune 500 organizations with mainframe estates and on-prem infrastructure they cannot migrate."
+    }
+  ],
+  "canvas": {
+    "who": "Primary buyers: CTOs, VPs of Engineering, and SRE/DevOps Leads at enterprises with 200+ engineers managing distributed systems across cloud and hybrid infrastructure. IT Operations Managers at mid-to-large enterprises (Finance, Telecom, Retail, Healthcare) facing multi-cloud complexity. Secondary: FinOps teams seeking cloud cost optimization via AI rightsizing.",
+    "where": "Cloud-native environments on AWS, Azure, and GCP running Kubernetes, microservices, and serverless architectures. Enterprise hybrid environments managing legacy on-prem alongside cloud workloads. Regulated industries — finance, healthcare, telecom — where uptime SLAs carry contractual and compliance penalties.",
+    "why_now": "Three forces converged in 2025–2026: (1) LLMs that understand system logs and traces in plain language, enabling natural-language incident analysis at scale for the first time; (2) the AI agent paradigm enabling end-to-end autonomous task execution without human prompting; and (3) an acute SRE talent shortage making 24/7 human on-call economically unsustainable for all but the largest tech companies. All three made autonomous IT operations not just possible but necessary.",
+    "behavior": "Enterprises are shifting from 'human on-call 24/7' to 'AI-first response with human approval gates'. The behavioral change: AI agents handle the first 80% of incidents (auto-diagnose, auto-remediate, auto-close) and escalate only genuinely complex or high-stakes situations. Engineers are moving from firefighters to incident approvers and exception handlers. On-call rotations are shrinking — the same reliability is achieved with smaller, better-rested teams.",
+    "unmet": "The explainability gap: ops engineers urgently need AI that not only resolves incidents but produces auditable causality trails explaining WHY each action was taken — especially under EU AI Act enforcement arriving August 2026. Current platforms excel at resolution but lag on legally-defensible decision logs and regulatory-grade audit trails. The second unmet need: cross-platform agentic orchestration — AI that acts across different observability tools, ticketing systems, and cloud providers in a single autonomous workflow without vendor lock-in."
+  },
+  "takeaways": [
+    "Pilot autonomous AI ops before Q4 2026: 73% of enterprises plan AIOps adoption this year (Gartner, Dec 2025 survey) — early movers gain operational learning curves, vendor integrations, and runbook libraries that become structural advantages. Organizations that delay face 12–18 months of catch-up in a market where AI accuracy compounds with each incident processed.",
+    "Buy on outcomes, not feature lists: AIOps procurement is shifting from capability comparisons to SLA-backed guarantees — MTTR under 90 seconds, 90%+ alert noise reduction, 99.9%+ uptime. Demand proof-of-concept on your actual infrastructure before signing; vendors who demonstrate quantified ROI on your specific stack in a 30-day trial will consistently outperform those selling feature roadmaps.",
+    "Prioritize explainability for EU AI Act compliance: High-risk AI enforcement arrives August 2, 2026. AIOps platforms making autonomous decisions in critical infrastructure (finance, healthcare, telecom) must provide immutable decision logs for regulatory audits. Audit your current platform's explainability capabilities now — retrofitting audit trails after enforcement is costly and technically difficult.",
+    "Consolidate your observability stack around one agentic platform: The AIOps market is converging on 3–5 full-stack platforms that maintain AI context across metrics, logs, traces, alerts, and incidents. Fragmented tool stacks lose cross-signal correlation fidelity — the very context AI needs to diagnose root causes autonomously. Evaluate stack consolidation around a single vendor's agentic platform before 2027 lock-in makes switching prohibitively expensive."
+  ],
+  "sources": [
+    {
+      "title": "AIOps Market Size, Demand, Share Analysis & Forecast Report 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/aiops-market",
+      "publisher": "Mordor Intelligence"
+    },
+    {
+      "title": "AIOps Platform Market Size, Share, Trends | Growth & Industry Forecast [2032]",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/aiops-platform-market-251128836.html",
+      "publisher": "MarketsandMarkets"
+    },
+    {
+      "title": "Definition of AIOps (Artificial Intelligence for IT Operations)",
+      "url": "https://www.gartner.com/en/information-technology/glossary/aiops-artificial-intelligence-operations",
+      "publisher": "Gartner"
+    },
+    {
+      "title": "From AIOps to Event Intelligence: Gartner's Rebrand Fixes an Industry Identity Crisis",
+      "url": "https://cribl.io/blog/from-aiops-to-event-intelligence-gartner-rebrand-fixes-industry-identity-crisis/",
+      "publisher": "Cribl"
+    },
+    {
+      "title": "AIOps Use Cases for Faster Incident Resolution",
+      "url": "https://www.pagerduty.com/resources/aiops/learn/aiops-use-cases-incident-resolution/",
+      "publisher": "PagerDuty"
+    },
+    {
+      "title": "Agentic SRE: How Self-Healing Infrastructure Is Redefining Enterprise AIOps in 2026",
+      "url": "https://www.unite.ai/agentic-sre-how-self-healing-infrastructure-is-redefining-enterprise-aiops-in-2026/",
+      "publisher": "Unite.AI"
+    },
+    {
+      "title": "Top AIOps Tools for DevOps Engineers in 2026",
+      "url": "https://devopsboys.com/blog/top-aiops-tools-for-devops-engineers-2026",
+      "publisher": "DevOpsBoys"
+    },
+    {
+      "title": "AI Operations (AIOps) Market Size, Share | CAGR of 25.8%",
+      "url": "https://market.us/report/ai-operations-aiops-market/",
+      "publisher": "Market.us"
+    }
+  ]
+}

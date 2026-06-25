@@ -1,0 +1,117 @@
+{
+  "slug": "aiops-autonomous-it-operations",
+  "trend_name": "AIOps & Autonomous IT Operations",
+  "research_date": "2026-06-25",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AIOps Market Size, Demand, Share Analysis & Forecast Report 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/aiops-market",
+      "publisher": "Mordor Intelligence",
+      "claim": "AIOps market worth $18.95B in 2026, projected to reach $37.79B by 2031 at 14.8% CAGR. Market growing from ~$16.6B in 2025.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AIOps Platform Market Size, Share, Trends | Growth & Industry Forecast [2032]",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/aiops-platform-market-251128836.html",
+      "publisher": "MarketsandMarkets",
+      "claim": "AIOps Platform Market valued at $11.7B in 2023, expected to reach $32.4B by 2028 at 22.7% CAGR. Consistent with Mordor's higher 2026 figure when accounting for different market scope definitions.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Definition of AIOps (Artificial Intelligence for IT Operations)",
+      "url": "https://www.gartner.com/en/information-technology/glossary/aiops-artificial-intelligence-operations",
+      "publisher": "Gartner",
+      "claim": "Gartner coined 'AIOps' in 2016–2017; market initially sized at $300–500M/yr (Nov 2019 estimate). Gartner predicted 40% DevOps adoption by 2023 — met. Dec 2025 survey: 73% of enterprises plan self-healing infrastructure adoption by end of 2026.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "From AIOps to Event Intelligence: Gartner's Rebrand Fixes an Industry Identity Crisis",
+      "url": "https://cribl.io/blog/from-aiops-to-event-intelligence-gartner-rebrand-fixes-industry-identity-crisis/",
+      "publisher": "Cribl",
+      "claim": "Gartner retired the 'AIOps Platforms' market category in 2025, renaming it 'Event Intelligence Solutions' due to widespread vendor overuse of the term and buyer confusion. Forrester still uses 'AIOps' in its Wave reports as of Q2 2025.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AIOps Use Cases for Faster Incident Resolution",
+      "url": "https://www.pagerduty.com/resources/aiops/learn/aiops-use-cases-incident-resolution/",
+      "publisher": "PagerDuty",
+      "claim": "PagerDuty AIOps reduces alert noise by up to 91%. Documented outcomes: 45% faster incident response, 60% downtime reduction, 40–60% MTTR improvement across enterprise deployments.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Agentic SRE: How Self-Healing Infrastructure Is Redefining Enterprise AIOps in 2026",
+      "url": "https://www.unite.ai/agentic-sre-how-self-healing-infrastructure-is-redefining-enterprise-aiops-in-2026/",
+      "publisher": "Unite.AI",
+      "claim": "AWS DevOps Agent and Microsoft Azure SRE Agent both reached GA in March 2026. ResearchGate 2026 study of 10,000+ incidents across 50 enterprises: AI models now predict failures with 92% accuracy and resolve 82% of incidents without human intervention. BT Group reduced MTTR from 2 hours to 85 seconds using AIOps.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Top AIOps Tools for DevOps Engineers in 2026: Datadog AI, Moogsoft, PagerDuty & More",
+      "url": "https://devopsboys.com/blog/top-aiops-tools-for-devops-engineers-2026",
+      "publisher": "DevOpsBoys",
+      "claim": "AIOps is a $16B market with 60% enterprise adoption in production as of 2026. Incumbents shipped AI SRE features by Q2 2026: PagerDuty SRE Agent, Datadog Bits AI SRE, Splunk ITSI Episode Summarization, ServiceNow Now Assist SRE (GA June 2026), LogicMonitor Edwin AI. Datadog: $3.3B ARR in 2025.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI Operations (AIOps) Market Size, Share | CAGR of 25.8%",
+      "url": "https://market.us/report/ai-operations-aiops-market/",
+      "publisher": "Market.us",
+      "claim": "AIOps market CAGR of 25.8% over the forecast period, used to derive 5-year growth estimate of ~+220% from 2021 baseline (~$6B) to 2026 ($18.95B).",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "AIOps Self-Healing Infrastructure 2026: Full Guide",
+      "url": "https://neuralwired.com/2026/03/31/aiops-self-healing-infrastructure-2026/",
+      "publisher": "NeuralWired",
+      "claim": "Self-healing infrastructure and generative AI-powered operations are mainstream in 2026. AWS DevOps Agent and Azure SRE Agent GA confirmed in March 2026. 73% enterprise adoption goal by year-end per Gartner.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Top AIOps Trends Shaping IT Operations in 2026",
+      "url": "https://www.motadata.com/blog/aiops-trends/",
+      "publisher": "Motadata",
+      "claim": "Key 2026 AIOps trends: shift from reactive to predictive/autonomous operations; LLM-powered natural language incident query; AI agents executing runbooks; 99.2% event noise reduction benchmarks in mature deployments; ~9,500 monthly operations hours reclaimed per global enterprise.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "2026 Operational Guide to Cybersecurity, AI Governance & Emerging Risks",
+      "url": "https://www.corporatecomplianceinsights.com/2026-operational-guide-cybersecurity-ai-governance-emerging-risks/",
+      "publisher": "Corporate Compliance Insights",
+      "claim": "EU AI Act high-risk enforcement (August 2, 2026) covers AI in critical infrastructure. Organizations deploying autonomous AIOps in finance, healthcare, and telecom must provide explainable AI decision trails for regulatory audits.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share estimates: Datadog ~25%, Dynatrace ~20%, ServiceNow ~15%, PagerDuty ~12%, Splunk ~10%",
+      "note": "No public market share breakdown available. These are internal estimates derived from relative ARR figures, analyst commentary, and G2/Gartner Peer Insights review volumes. [unverified] — treat as directionally accurate only."
+    },
+    {
+      "claim": "Search volume ~60K/mo for 'AIOps'",
+      "note": "Estimated based on related terms and tool category popularity. Actual verified monthly search volume not available without Keywords Everywhere API pull. [unverified]"
+    },
+    {
+      "claim": "IT labor shortage costs enterprises $87B+ globally",
+      "note": "Widely cited figure in IT analyst commentary but could not locate a single primary source with this exact number. [unverified] — remove or replace before publication."
+    },
+    {
+      "claim": "72% of ops engineers report alert fatigue as a top job dissatisfaction driver",
+      "note": "Cited in various AIOps vendor blogs but primary survey source could not be independently verified. [unverified] — use with attribution caveat."
+    },
+    {
+      "claim": "AIOps reduces cloud spend 20–30%",
+      "note": "Range cited across multiple vendor case studies (Datadog, Dynatrace, LogicMonitor). Individual case studies are real but generalizing to a range is vendor-motivated. [partially verified]"
+    }
+  ]
+}
