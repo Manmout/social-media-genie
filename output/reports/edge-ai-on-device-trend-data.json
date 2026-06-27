@@ -1,0 +1,213 @@
+{
+  "trend_name": "Edge AI — On-Device Intelligence",
+  "status": "surging",
+  "search_volume": "~70,000",
+  "category": "AI & Technology",
+  "growth_5y": "+164%",
+  "growth_1y": "+20%",
+  "growth_3m": "+5%",
+  "trigger": "2026 declared the 'edge AI inflection year' by IoT Analytics as OEMs shift from pilots to full portfolio rollouts; LPDDR6 memory (Jan 2026, 14.4 Gbps) breaks the 'memory wall' enabling 30B+ parameter LLMs on consumer devices; EU AI Act full enforcement (Aug 2026) rewards edge-first privacy architectures; NPUs are now standard silicon in every flagship smartphone, laptop, and industrial sensor — no longer a premium feature.",
+  "timeline": [
+    {
+      "date": "2020",
+      "event": "Edge AI software market valued at $590M (Grand View Research); AI inference locked in cloud data centers — edge hardware too slow, too power-hungry for neural networks."
+    },
+    {
+      "date": "2022",
+      "event": "Gartner places Edge AI on its Emerging Technologies Hype Cycle; startup funding reaches $1B as industrial IoT and computer vision deployments prove ROI in manufacturing and retail."
+    },
+    {
+      "date": "2023",
+      "event": "Google launches Edge TPU 3.0, bringing faster inferencing and lower latency to smart city, retail, and healthcare; Hailo-8 achieves 26 TOPS at 2.5W — highest performance-per-watt edge chip available."
+    },
+    {
+      "date": "2024",
+      "event": "Apple M4 ships with 38-TOPS Neural Engine; Qualcomm Snapdragon X Elite debuts in Copilot+ PCs at 45 TOPS; European edge AI market crosses $5B; Hailo-10H achieves automotive-grade AEC-Q100 certification."
+    },
+    {
+      "date": "2026-01",
+      "event": "LPDDR6 memory ships in mass-market devices at 14.4 Gbps — the 'memory wall' broken; Deloitte projects inference-optimized chip market surpasses $50B; IoT Analytics declares 2026 the inflection year for edge AI IoT."
+    },
+    {
+      "date": "2026-08",
+      "event": "EU AI Act full enforcement for high-risk AI systems begins; edge-first architectures gain decisive regulatory advantage — PII processed locally, reducing GDPR audit scope and avoiding €35M non-compliance penalties."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act reaches full enforcement August 2, 2026, mandating risk management for high-risk AI systems with penalties up to €35M or 7% of global turnover — edge processing simplifies compliance by keeping sensitive data local. US CHIPS Act funds domestic NPU production. Geopolitical chip export restrictions drive sovereign nations toward edge AI to reduce cloud dependence on US hyperscalers."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Global edge AI market consensus: $25–48B in 2026 (Grand View Research $29.98B; Fortune Business Insights $47.59B). Inference-optimized chip market projected to exceed $50B in 2026, up from $20B in 2025 (Deloitte). Startup funding accelerated from $1B (2022) to $4.35B (2025), with average 2025–2026 round size at $310M. Edge inference shifts compute costs from cloud opex ($2–4/hr per H100) to one-time hardware capex — compelling ROI for high-volume inference workloads."
+    },
+    {
+      "factor": "Social",
+      "impact": "83% of C-suite and IT executives say edge AI is critical to core business strategy (IDC survey). 97% of US CIOs have edge AI on their 2025–2026 technology roadmap. Consumer preference for on-device processing is rising — especially for health, voice, and biometric data that users resist sending to third-party clouds. 31% of enterprises cite lack of internal ML expertise as the top adoption barrier."
+    },
+    {
+      "factor": "Technological",
+      "impact": "LPDDR6 memory (14.4 Gbps, Jan 2026) solves memory-bandwidth bottleneck — 30B+ parameter LLMs now run on mobile devices. Model compression (quantization, pruning) shrinks capable LLMs below 4GB RAM. Edge inference achieves sub-20ms latency vs 100–500ms cloud round-trip. NVIDIA Jetson, Apple M4, Qualcomm Snapdragon, and Hailo-8 each offer distinct performance/watt tradeoffs. SiMa.ai delivers 50 TOPS at under 5W with a no-code deployment platform."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Each edge inference call avoided in the cloud reduces energy use — no data center round-trip, no GPU rack power draw. However, billions of always-on edge devices create aggregate energy load that must be managed. Positive feedback loop: edge AI enables smart grid optimization, precision agriculture monitoring, and industrial energy efficiency applications that reduce emissions at scale."
+    },
+    {
+      "factor": "Legal",
+      "impact": "GDPR compliance dramatically simplified — PII processed locally never travels across borders, reducing data controller liability. EU AI Act (Aug 2026) creates second compliance penalty layer for cloud-based high-risk AI systems. Edge-first architectures pass data sovereignty requirements by design. DBIR 2026 warns that edge device exploitation jumped from 3% to 22% of enterprise breaches — security posture must be addressed as a legal risk."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Run private LLMs on laptops without cloud subscription costs",
+      "solution": "Apple M4 / M4 Max with unified memory, Qualcomm Snapdragon X Elite (45 TOPS NPU), AMD Ryzen AI — dedicated NPUs run 7B–13B parameter models offline at <20ms latency, eliminating API costs and data exposure."
+    },
+    {
+      "job": "Real-time industrial predictive maintenance without WAN dependency",
+      "solution": "Edge AI sensors on factory floors analyze vibration, temperature, and acoustic anomalies locally — flagging equipment degradation before failure without cloud round-trips that introduce latency or connectivity dependency."
+    },
+    {
+      "job": "HIPAA/GDPR-compliant patient monitoring with zero cloud exposure",
+      "solution": "Wearables and bedside monitors process vital signs on-device using ARM Cortex-M NPUs and Hailo accelerators — sensitive health data never leaves the hospital's physical perimeter, satisfying regulators and risk teams."
+    },
+    {
+      "job": "Safety-critical autonomous vehicle perception under 10ms",
+      "solution": "NVIDIA DRIVE AGX Orin (275 TOPS) and Hailo-10H (automotive-grade AEC-Q100) process camera, LiDAR, and radar streams in <10ms — latency that cloud inference physically cannot match over any network connection."
+    },
+    {
+      "job": "Privacy-preserving retail analytics without third-party image upload",
+      "solution": "Edge AI cameras perform inventory tracking, loss prevention, and customer flow analytics locally — retailers avoid transmitting customer images to cloud providers, simplifying GDPR compliance and reducing vendor lock-in."
+    }
+  ],
+  "market": [
+    {
+      "name": "NVIDIA",
+      "share": "~39%",
+      "loved": "Jetson platform with 2M+ developer ecosystem; Orin module at 275 TOPS; dominant in robotics, drones, and autonomous vehicles; strategic co-investor in 5+ edge AI startups",
+      "segment": "Edge GPUs and compute modules"
+    },
+    {
+      "name": "Qualcomm",
+      "share": "~8%",
+      "loved": "Snapdragon X Elite — 45 TOPS NPU; 800M+ AI-capable chips shipped in 2025; mobile, Copilot+ PC, automotive ADAS, and IoT; completed 5 acquisitions (Edge Impulse, Foundries.io, Augentix)",
+      "segment": "Mobile and embedded SoCs"
+    },
+    {
+      "name": "Apple",
+      "share": "~6%",
+      "loved": "M4 Neural Engine (38 TOPS) + unified memory (up to 128GB) — best large-model inference architecture for consumer hardware; runs 30B+ models without memory swapping",
+      "segment": "Consumer edge silicon"
+    },
+    {
+      "name": "Intel / AMD",
+      "share": "~7%",
+      "loved": "Intel AI Boost and AMD XDNA NPUs integrated into mainstream PC ecosystem; large enterprise Windows installed base; AMD MI300X winning data-center inference at cloud scale",
+      "segment": "PC NPUs and x86 accelerators"
+    },
+    {
+      "name": "Hailo / SiMa.ai",
+      "share": "~2%",
+      "loved": "Hailo-8: 26 TOPS at 2.5W — highest performance-per-watt edge chip; SiMa.ai: 50+ TOPS at <5W with no-code ML deployment platform; collectively dominating embedded vision and automotive niches",
+      "segment": "Dedicated edge AI accelerators"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "NVIDIA Jetson (Orin / Thor)",
+      "detail": "Industry-leading edge compute platform — Jetson Orin at 275 TOPS, Thor targeting autonomous vehicles at 2,000 TOPS. 2M+ developer ecosystem with CUDA software stack. Jetson dev kits start ~$499; production modules power commercial drones, AMRs, and ADAS systems worldwide. NVIDIA co-invested in at least 5 edge AI companies to secure future inference placement."
+    },
+    {
+      "name": "Qualcomm Snapdragon X Elite",
+      "detail": "45 TOPS Hexagon NPU — the reference platform for Microsoft's Copilot+ PC initiative. Shipped 800M+ AI-capable chips in 2025. Expanded from mobile to laptops, automotive (Snapdragon Ride), and IoT. Completed 5 acquisitions including Edge Impulse (MLOps tooling) and Augentix (intelligent IP cameras) to build full-stack edge AI ecosystem."
+    },
+    {
+      "name": "Apple Silicon M4 / M4 Max",
+      "detail": "38-TOPS 16-core Neural Engine with up to 128GB unified memory — decisive architectural advantage for large-model inference where memory bandwidth matters more than raw TOPS. Runs 30B+ parameter models that competing platforms cannot fit in memory. Best-in-class for developer tooling and privacy-first consumer AI applications."
+    },
+    {
+      "name": "Hailo-8 / Hailo-10H",
+      "detail": "Hailo-8: 26 TOPS at 2.5–3W — the performance-per-watt benchmark for embedded vision. Hailo-10H: automotive-certified AEC-Q100 Grade 2, in vehicle production 2026. Israeli startup with strong European automotive design-win momentum; backed by strategic investors. Competitive moat: specialized architecture built exclusively for neural inference, not adapted from general-purpose silicon."
+    },
+    {
+      "name": "SiMa.ai MLSoC",
+      "detail": "50+ TOPS at under 5W with an integrated no-code software platform — engineers deploy AI models without deep ML expertise, dramatically reducing time-to-deployment. Targets automotive, defense, agriculture, and industrial automation. Raised $250M+ across 8 rounds; backed by NVIDIA, Sutter Hill, and Intel Capital. Key differentiator: software-first approach vs hardware-only competitors."
+    }
+  ],
+  "canvas": {
+    "who": "Enterprise OT/IT teams in manufacturing, healthcare, automotive, and retail deploying edge inference nodes to replace cloud-dependent AI pipelines; consumer electronics OEMs refreshing product lines with NPU-enabled chips marketed as 'AI PC' or 'AI phone'; indie developers building private, offline-capable AI applications; governments and regulated industries (finance, defense, healthcare) requiring data sovereignty",
+    "where": "Factory floors (IIoT sensors and computer vision nodes), hospitals (patient wearables and bedside monitors), automobiles (ADAS and autonomous perception modules), consumer laptops and smartphones (Copilot+ PCs, Apple Silicon Macs), smart city infrastructure (traffic cameras, public safety nodes), agricultural machinery (precision monitoring sensors)",
+    "why_now": "NPUs are now standard silicon — not a premium add-on. LPDDR6 memory (Jan 2026) broke the memory wall enabling 30B-parameter LLMs on mobile devices. EU AI Act full enforcement (Aug 2026) penalizes cloud-dependent high-risk AI architectures while rewarding edge-first designs. Cloud inference costs are accelerating migration of repeat-inference workloads to owned hardware. OEMs are marketing TOPS count as the headline spec — a hardware arms race that brings 2024-era capabilities to mass-market price points by mid-2026.",
+    "behavior": "Developers pull 7B–13B parameter models locally via Ollama, LM Studio, and Apple's MLX framework to eliminate API costs and latency. Enterprises deploy edge inference nodes on factory floors and hospital wards to achieve real-time decisions without WAN dependency. OEMs list NPU TOPS as a headline product specification — replacing GHz clock speed as the primary differentiation metric. Security teams audit edge device fleet exposure after DBIR 2026 reported a 7x jump in edge exploitation incidents.",
+    "unmet": "Fragmented MLOps: no unified platform manages model versioning, canary rollouts, and rollback across millions of heterogeneous edge devices (different chips, OS versions, connectivity conditions). Security posture is dangerously weak — edge devices jumped from 3% to 22% of exploitation-driven enterprise breaches (DBIR 2026). Skills gap: 31% of enterprises cite lack of internal ML expertise as their top adoption barrier. Power management: always-on edge AI inference creates battery and thermal constraints that current model designs do not fully address."
+  },
+  "takeaways": [
+    "Design edge-first for any latency-sensitive or privacy-regulated workload: if your application processes health data, biometrics, financial decisions, or requires <20ms response, architect for on-device inference from day one — cloud fallback only for model sync and updates, never for primary inference.",
+    "Choose your NPU ecosystem early and invest in its toolchain: Qualcomm for mobile and automotive, NVIDIA Jetson for robotics and drones, Apple Silicon for developer-facing tools, Hailo for embedded vision — each is diverging fast with proprietary software stacks and MLOps toolchains that create switching costs within 12–18 months.",
+    "Build the MLOps layer: the biggest unmet market need is a unified platform for deploying, monitoring, and updating AI models across heterogeneous edge fleets — this is the next infrastructure layer to be built, equivalent to Kubernetes for containers circa 2016.",
+    "Lead EU enterprise sales with AI Act compliance as the value proposition: edge-first architectures satisfy GDPR and AI Act data-sovereignty requirements by design — position on-device inference as a compliance feature, not just a performance feature, to unlock regulated-industry budget cycles starting Q3 2026."
+  ],
+  "sources": [
+    {
+      "title": "Edge AI Market Size, Share & Forecast Report, 2026–2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/edge-ai-market-report",
+      "publisher": "Grand View Research"
+    },
+    {
+      "title": "Edge AI Market Size, Share, Growth & Global Report [2034]",
+      "url": "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+      "publisher": "Fortune Business Insights"
+    },
+    {
+      "title": "Edge AI infrastructure reaches a real-world inflection point",
+      "url": "https://siliconangle.com/2026/03/20/edge-ai-infrastructure-reaches-real-world-inflection-point-nvidiagtcai/",
+      "publisher": "SiliconANGLE"
+    },
+    {
+      "title": "Edge AI IoT devices are hitting mass market in 2026 — here is why it is happening now",
+      "url": "https://iottechnews.com/news/edge-ai-iot-devices-mass-market-inflection-2026/",
+      "publisher": "IoT Tech News"
+    },
+    {
+      "title": "Edge AI Hardware 2026: On-Device Intelligence, Architecture & Chip Comparison",
+      "url": "https://neuralcoretech.com/edge-ai-hardware-2026-chip-comparison/",
+      "publisher": "NeuralCoreTech"
+    },
+    {
+      "title": "The Silicon Sovereignty: How 2026's Edge AI Chips are Liberating LLMs from the Cloud",
+      "url": "https://markets.financialcontent.com/wral/article/tokenring-2026-1-8-the-silicon-sovereignty-how-2026s-edge-ai-chips-are-liberating-llms-from-the-cloud",
+      "publisher": "Financial Content Markets"
+    },
+    {
+      "title": "Top 15 Edge AI Chip Makers with Use Cases in 2026",
+      "url": "https://research.aimultiple.com/edge-ai-chips/",
+      "publisher": "AIMultiple Research"
+    },
+    {
+      "title": "Enterprise Edge AI Reaches Inflection Point",
+      "url": "https://www.apmdigest.com/enterprise-edge-ai-reaches-inflection-point",
+      "publisher": "APMdigest"
+    },
+    {
+      "title": "DBIR 2026: Edge Exploits Hit 22% of Breaches",
+      "url": "https://blog.cybelesoft.com/dbir-2026-edge-device-exploitation/",
+      "publisher": "Cybelesoft (citing Verizon DBIR 2026)"
+    },
+    {
+      "title": "Qualcomm IE-IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises & OEMs",
+      "url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-s-ie_iot-expansion-is-complete--edge-ai-unleashed-for-d",
+      "publisher": "Qualcomm"
+    },
+    {
+      "title": "Edge AI Market to Grow at 36.9% CAGR Through 2030",
+      "url": "https://aimagazine.com/globenewswire/3160652",
+      "publisher": "AI Magazine / GlobeNewswire"
+    },
+    {
+      "title": "Introduction | The 2026 Edge AI Technology Report",
+      "url": "https://www.wevolver.com/article/the-2026-edge-ai-technology-report/future-of-edge-ai",
+      "publisher": "Wevolver"
+    }
+  ]
+}

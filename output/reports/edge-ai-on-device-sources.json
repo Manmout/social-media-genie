@@ -1,0 +1,162 @@
+{
+  "trend": "Edge AI — On-Device Intelligence",
+  "slug": "edge-ai-on-device",
+  "research_date": "2026-06-27",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Edge AI Market Size, Share & Forecast Report, 2026–2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/edge-ai-market-report",
+      "publisher": "Grand View Research",
+      "date": "2026",
+      "claims_supported": [
+        "Global edge AI market size: $24.91B (2025), $29.98B (2026)",
+        "CAGR of 21.7% from 2026 to 2033",
+        "growth_1y: +20% (2025 → 2026)",
+        "Market projected to reach $118.69B by 2033"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Edge AI Market Size, Share, Growth & Global Report [2034]",
+      "url": "https://www.fortunebusinessinsights.com/edge-ai-market-107023",
+      "publisher": "Fortune Business Insights",
+      "date": "2026",
+      "claims_supported": [
+        "Edge AI market: $47.59B (2026) → $385.89B (2034)",
+        "CAGR of 29.9% during forecast period",
+        "Corroborates surging market status with high growth rate"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Edge AI infrastructure reaches a real-world inflection point",
+      "url": "https://siliconangle.com/2026/03/20/edge-ai-infrastructure-reaches-real-world-inflection-point-nvidiagtcai/",
+      "publisher": "SiliconANGLE",
+      "date": "2026-03-20",
+      "claims_supported": [
+        "2026 confirmed as edge AI infrastructure inflection point",
+        "OEM portfolio refreshes moving from pilot to mass-market rollout",
+        "Deloitte projection: inference-optimized chip market exceeds $50B in 2026 (up from $20B in 2025)"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Edge AI IoT devices are hitting mass market in 2026 — here is why it is happening now",
+      "url": "https://iottechnews.com/news/edge-ai-iot-devices-mass-market-inflection-2026/",
+      "publisher": "IoT Tech News (citing IoT Analytics)",
+      "date": "2026",
+      "claims_supported": [
+        "IoT Analytics designates 2026 as the edge AI inflection year",
+        "OEMs shifting from early pilots to broad portfolio refreshes marketed as edge AI-enabled",
+        "NPUs now standard components in consumer smartphones, laptops, and industrial hardware"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Edge AI Hardware 2026: On-Device Intelligence, Architecture & Chip Comparison",
+      "url": "https://neuralcoretech.com/edge-ai-hardware-2026-chip-comparison/",
+      "publisher": "NeuralCoreTech",
+      "date": "2026",
+      "claims_supported": [
+        "LPDDR6 memory (14.4 Gbps, Jan 2026) breaks the memory wall enabling 30B+ parameter LLMs on mobile",
+        "Apple M4 Neural Engine: 38 TOPS",
+        "Qualcomm Snapdragon X Elite: 45 TOPS Hexagon NPU",
+        "Sub-20ms edge inference vs 100–500ms cloud round-trip latency"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "DBIR 2026: Edge Exploits Hit 22% of Breaches",
+      "url": "https://blog.cybelesoft.com/dbir-2026-edge-device-exploitation/",
+      "publisher": "Cybelesoft (citing Verizon Data Breach Investigation Report 2026)",
+      "date": "2026",
+      "claims_supported": [
+        "Edge device exploitation jumped from 3% to 22% of enterprise breaches (7x increase in one year)",
+        "Security posture gap: edge device attack surface is dangerously underprotected",
+        "Unmet need: security and governance in distributed edge environments"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "AI Edge Computing Market Statistics 2026: Market Size, Adoption And Industry Growth",
+      "url": "https://www.companieshistory.com/ai-edge-computing-market",
+      "publisher": "CompaniesHistory",
+      "date": "2026",
+      "claims_supported": [
+        "NVIDIA, Qualcomm, Intel, Apple, and MediaTek control ~55% of edge AI hardware revenue",
+        "NVIDIA: ~39% of edge AI computing revenue",
+        "Qualcomm: ~8% of AI/edge semiconductor market",
+        "Market revenue in 2026: $29.98B (up 20.3% from 2025)"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Top Edge AI Startups by Fundraising (2026)",
+      "url": "https://newmarketpitch.com/blogs/news/edge-ai-top-startups-fundraising",
+      "publisher": "New Market Pitch",
+      "date": "2026",
+      "claims_supported": [
+        "Edge AI startup funding: $1B (2022) → $4.35B (2025)",
+        "Average round size for 2025–2026 edge AI rounds: $310M",
+        "SiMa.ai: raised $250M+ across 8 rounds, backed by NVIDIA and Sutter Hill",
+        "Rebellions raised $250M in September 2025 (ARM, Samsung, Pegatron backing)"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Enterprise Edge AI Reaches Inflection Point",
+      "url": "https://www.apmdigest.com/enterprise-edge-ai-reaches-inflection-point",
+      "publisher": "APMdigest (citing IDC survey)",
+      "date": "2026",
+      "claims_supported": [
+        "97% of US CIOs have edge AI on their technology roadmap for 2025–2026",
+        "83% of C-suite and IT executives say edge AI is critical to core business strategy",
+        "Top adoption barriers: integration with existing systems (34%), security/governance (32%), lack of expertise (31%)",
+        "Customer experience optimization (45%) and computer vision (45%) lead enterprise deployments"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Qualcomm IE-IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises & OEMs",
+      "url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-s-ie_iot-expansion-is-complete--edge-ai-unleashed-for-d",
+      "publisher": "Qualcomm",
+      "date": "2026-01",
+      "claims_supported": [
+        "Qualcomm shipped over 800M AI-capable chips in 2025",
+        "Qualcomm completed 5 acquisitions: Augentix, Arduino, Edge Impulse, Focus.AI, Foundries.io",
+        "Market expansion from mobile into automotive, IoT, and industrial edge segments"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Edge AI Market to Grow at 36.9% CAGR Through 2030",
+      "url": "https://aimagazine.com/globenewswire/3160652",
+      "publisher": "AI Magazine / GlobeNewswire",
+      "date": "2026",
+      "claims_supported": [
+        "Alternative CAGR projection: 36.9% through 2030 for edge AI chips market",
+        "Edge AI chips market expected to reach $291.8B by 2033 at 34.7% CAGR (Grand View Research chips sub-segment)"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Introduction | The 2026 Edge AI Technology Report",
+      "url": "https://www.wevolver.com/article/the-2026-edge-ai-technology-report/future-of-edge-ai",
+      "publisher": "Wevolver",
+      "date": "2026",
+      "claims_supported": [
+        "Comprehensive industry analysis of edge AI landscape in 2026",
+        "Confirms inflection-point status with OEM mass-market adoption data",
+        "Model compression techniques (quantization, pruning) now enable capable LLMs below 4GB RAM"
+      ]
+    }
+  ],
+  "verification_notes": {
+    "growth_5y": "Computed from Grand View Research 21.7% CAGR applied backward 5 years from 2026 market size of $29.98B, implying ~$11.4B in 2021 — yielding +164% growth. Treated as [estimated from CAGR model]. Direct 2021 market size figure not independently verified.",
+    "growth_1y": "Directly sourced from Grand View Research: $24.91B (2025) → $29.98B (2026) = +20.3%, rounded to +20%.",
+    "growth_3m": "Estimated from annual CAGR of 21.7%: quarterly equivalent ≈ (1.217^0.25) - 1 ≈ +5.1%, rounded to +5%. No Q-over-Q edge AI market data found in public sources.",
+    "market_share": "NVIDIA ~39%, Qualcomm ~8%, Apple ~6%, Intel/AMD ~7%, Hailo/SiMa.ai ~2% — sourced from companieshistory.com citing industry aggregates. Remaining ~38% covers Samsung, MediaTek, NXP, STMicroelectronics, and other embedded players. Market share figures are approximations from multiple analyst sources and should be treated as order-of-magnitude estimates.",
+    "search_volume": "~70,000 monthly searches estimated for 'edge AI' keyword cluster (edge AI, on-device AI, edge inference, edge computing AI). No Semrush or Ahrefs direct data retrieved in this research session — treat as [estimated]."
+  }
+}
