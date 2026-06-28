@@ -1,0 +1,311 @@
+{
+  "slug": "ai-energy-storage",
+  "trend_name": "AI-Powered Battery & Energy Storage",
+  "research_date": "2026-06-28",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI-Driven Battery Technology Market — The Business Research Company via GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/01/29/3228391/28124/en/Artificial-Intelligence-AI-Driven-Battery-Technology-Research-Report-2026-8-38-Bn-Market-Opportunities-Trends-Competitive-Analysis-Strategies-and-Forecasts-2020-2025-2025-2030F-203.html",
+      "publisher": "GlobeNewswire / The Business Research Company",
+      "date": "2026-01-29",
+      "claims": [
+        "AI-driven battery technology market size: $3.58B in 2025",
+        "Projected to reach $8.38B by 2030 at 18.4% CAGR"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "AI-Driven Battery Management Systems Market to Reach $18.5 Billion by 2032 — Meticulous Research",
+      "url": "https://www.prnewswire.com/news-releases/ai-driven-battery-management-systems-market-to-reach-18-5-billion-by-2032--growing-at-a-cagr-of-20-6-from-2025--says-meticulous-research-302490616.html",
+      "publisher": "PR Newswire / Meticulous Research",
+      "date": "2025",
+      "claims": [
+        "AI-driven BMS market at $4.1B in 2025",
+        "Reaching $18.5B by 2032 at 20.6% CAGR"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "2025 U.S. Energy Storage Installations Set New Record, Surpass 2024 by 52% — ACP / Wood Mackenzie",
+      "url": "https://cleanpower.org/news/report-2025-u-s-energy-storage-installations-set-new-record-surpass-2024-by-52/",
+      "publisher": "American Clean Power Association / Wood Mackenzie",
+      "date": "2026-03-24",
+      "claims": [
+        "US installed record 18.9 GW / 51 GWh of grid-scale battery storage in 2025",
+        "52% above 2024 total of 12.3 GW / 37.1 GWh",
+        "Q4 2025 set quarterly record at 5.8 GW / 14.8 GWh",
+        "Residential segment grew 92% YoY to 2.7 GW"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "United States Installs 58 GWh of New Energy Storage in 2025 — SEIA",
+      "url": "https://seia.org/news/united-states-installs-58-gwh-of-new-energy-storage-in-2025/",
+      "publisher": "Solar Energy Industries Association / Benchmark Mineral Intelligence",
+      "date": "2026-02",
+      "claims": [
+        "US installed 57.6 GWh (rounded: 58 GWh) of new energy storage in 2025",
+        "+30% over 2024 baseline",
+        "Cumulative US utility-scale storage through 2025: 137 GWh",
+        "600+ GWh cumulative US storage projected by 2030"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Global EV Battery Market Share 2025 — SNE Research via CnEVPost",
+      "url": "https://cnevpost.com/2026/02/04/global-ev-battery-market-share-2025/",
+      "publisher": "CnEVPost / SNE Research",
+      "date": "2026-02-04",
+      "claims": [
+        "CATL global EV battery market share 2025: 39.2% (464.7 GWh, +35.7% YoY)",
+        "BYD: 16.4% (194.8 GWh, +27.7% YoY)",
+        "LG Energy Solution: 9.2% (108.8 GWh)",
+        "Total global EV battery market 2025: 1,187 GWh (+31.7% YoY)",
+        "CATL holds #1 position for 9 consecutive years"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "CATL 2025 Annual Report — Record Net Profit of ~$10.5B USD",
+      "url": "https://www.catl.com/en/news/6773.html",
+      "publisher": "CATL (official)",
+      "date": "2026-03-10",
+      "claims": [
+        "CATL 2025 revenue: RMB 423.7B (~$61.4B USD), +17% YoY",
+        "CATL 2025 net profit: RMB 72.2B (~$10.5B USD), +42.28% YoY — record",
+        "Lithium-ion battery sales 2025: 661 GWh, +39% YoY",
+        "CATL energy storage market share 2025: 30.4% globally — 5th consecutive year at #1",
+        "R&D spend 2025: RMB 22.1B",
+        "AI platform trained on 100,000+ battery design cases, 600 TB of data, prediction accuracy up to 95%"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Tesla Energy Posts 46.7 GWh Storage Deployments in 2025",
+      "url": "https://battery-tech.net/battery-markets-news/tesla-energy-posts-46-7-gwh-storage-deployments-in-2025/",
+      "publisher": "Battery-Tech Network (primary: Tesla SEC Form 8-K)",
+      "date": "2026",
+      "claims": [
+        "Tesla deployed 46.7 GWh of energy storage in 2025 (+49% YoY from 31.4 GWh in 2024)",
+        "Tesla Energy division revenue 2025: $12.77B (+26.6% YoY)",
+        "Q4 2025 gross margin: 29.8%",
+        "Tesla sold $430M Megapacks to xAI Colossus AI data center in Memphis"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Base Power Raises $1 Billion Series C to Build the Future of American Power",
+      "url": "https://www.businesswire.com/news/home/20251008106005/en/Base-Power-Raises-$1-Billion-Series-C-to-Build-the-Future-of-American-Power",
+      "publisher": "BusinessWire / Base Power",
+      "date": "2025-10-08",
+      "claims": [
+        "Base Power raised $1B Series C at ~$4B valuation",
+        "AI-managed home battery network in Texas",
+        "Expanding nationally and internationally in 2026",
+        "Building gigafactory in Austin, TX"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Form Energy and Crusoe Announce 12 GWh Iron-Air Battery Deal for AI Data Centers",
+      "url": "https://formenergy.com/form-energy-crusoe-announce-agreement-for-12-gigawatt-hours-of-iron-air-batteries-for-ai-data-centers/",
+      "publisher": "Form Energy (official press release)",
+      "date": "2026-05",
+      "claims": [
+        "Form Energy signed 12 GWh deal with Crusoe for AI data center batteries",
+        "Form Energy 300 MW / 30 GWh Google-Xcel Energy deal — world's largest battery project by GWh",
+        "Iron-air batteries at $70-72/kWh; 100-hour discharge",
+        "Form Energy raised $405M Series F (Oct 2024) at $3.42B valuation"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "IEA: Data Center Investment Will Exceed Oil Supply Spending in 2025",
+      "url": "https://dataconomy.com/2025/11/13/iea-data-center-investment-will-exceed-oil-supply-spending-this-year/",
+      "publisher": "Dataconomy / IEA World Energy Outlook 2025",
+      "date": "2025-11",
+      "claims": [
+        "Global data center investment reached $580B in 2025, surpassing $540B in crude oil supply spending",
+        "Five largest tech companies combined capex: >$400B in 2025",
+        "Global data center electricity use: ~485 TWh in 2025 (+17% YoY)",
+        "AI-focused data center electricity up 50% YoY in 2025",
+        "Projected to reach ~950 TWh by 2030"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "KoBold Metals Raises $537M to Accelerate AI-Driven Critical Mineral Exploration",
+      "url": "https://theaiinsider.tech/2025/01/04/kobold-metals-raises-537m-to-accelerate-ai-driven-critical-mineral-exploration/",
+      "publisher": "The AI Insider / Fortune",
+      "date": "2025-01-04",
+      "claims": [
+        "KoBold Metals raised $537M Series C at $2.96B valuation",
+        "Backed by Bill Gates and Jeff Bezos",
+        "AI discovered 300,000-tonne copper deposit in Zambia that traditional geologists missed"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Unlocking a New Era for Scientific Discovery with AI — Microsoft/PNNL Battery Materials",
+      "url": "https://azure.microsoft.com/en-us/blog/quantum/2024/01/09/unlocking-a-new-era-for-scientific-discovery-with-ai-how-microsofts-ai-screened-over-32-million-candidates-to-find-a-better-battery/",
+      "publisher": "Microsoft Azure (official blog)",
+      "date": "2024-01-09",
+      "claims": [
+        "Microsoft + PNNL AI screened 32 million inorganic material candidates in <1 week",
+        "Narrowed to 18 promising candidates, then 5 for synthesis",
+        "Discovered lithium-sodium-yttrium chloride solid-state electrolyte (N2116) reducing lithium content by up to 70%",
+        "Discovery timeline: weeks, not years"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Google DeepMind GNoME — Millions of New Materials Discovered with Deep Learning",
+      "url": "https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/",
+      "publisher": "Google DeepMind (official)",
+      "date": "2023-11-29",
+      "claims": [
+        "GNoME discovered 2.2 million new crystal structures; 380,000 are stable enough for synthesis",
+        "Energy-GNoME identified 20,454 promising cathode candidates for lithium and post-lithium batteries",
+        "Lawrence Berkeley National Lab confirmed 380,000 compounds added to Materials Project database",
+        "736 of the predicted compounds have been independently synthesized and validated"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Stellantis and Factorial Energy Reach Key Milestone in Solid-State Battery Development",
+      "url": "https://www.globenewswire.com/news-release/2025/04/24/3067380/0/en/Stellantis-and-Factorial-Energy-Reach-Key-Milestone-in-Solid-State-Battery-Development.html",
+      "publisher": "GlobeNewswire / Stellantis + Factorial Energy",
+      "date": "2025-04-24",
+      "claims": [
+        "Factorial Energy's Gammatron AI platform validated 77Ah solid-state FEST cells at 375 Wh/kg",
+        "600+ cycles toward automotive qualification",
+        "15%→90% charge in 18 minutes",
+        "Development validation time cut from 6 months to 2 weeks",
+        "Stellantis integrated cells into a Dodge Charger Daytona development vehicle"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "AI Data Center Energy Storage Market — 28-38% CAGR through 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/04/07/3269513/28124/en/AI-Data-Center-Energy-Storage-Market-Outlook-2030-AI-Workloads-and-Faster-Grid-Interconnection-Needs-Driving-the-Market-at-28-38-CAGR.html",
+      "publisher": "GlobeNewswire",
+      "date": "2026-04-07",
+      "claims": [
+        "AI data center energy storage sub-market growing at 28-38% CAGR through 2030",
+        "AI workloads and grid interconnection delays driving the market"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "World's Largest Grid Battery Part of Google-Xcel Energy Agreement — Utility Dive",
+      "url": "https://www.utilitydive.com/news/worlds-largest-grid-battery-part-of-google-xcel-energy-agreement/813793/",
+      "publisher": "Utility Dive",
+      "date": "2026-02",
+      "claims": [
+        "Google and Xcel Energy signed 300 MW / 30 GWh Form Energy iron-air battery contract",
+        "World's largest battery project by GWh capacity",
+        "Located in Minnesota to power a Google AI data center"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Google Paid $1B for Form Energy's Massive 100-Hour Battery — TechCrunch",
+      "url": "https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/",
+      "publisher": "TechCrunch",
+      "date": "2026-02-26",
+      "claims": [
+        "Google paid approximately $1B for the 30 GWh Form Energy iron-air battery contract",
+        "100-hour discharge capability confirmed"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "CATL Solid-State Battery Stuck at Level Four Out of Nine Tiers — CATL CEO Statement",
+      "url": "https://carnewschina.com/2026/06/24/catl-solid-state-battery-stuck-at-level-four-out-of-nine-tiers-delaying-commercial-deployment/",
+      "publisher": "Car News China",
+      "date": "2026-06-24",
+      "claims": [
+        "CATL Chairman Robin Zeng at Summer Davos 2026: solid-state tech is at 'level 4 of 9' on internal readiness scale",
+        "Commercial inflection point 'won't arrive until 2030'",
+        "2027 small-batch solid-state pilot (~5 GWh planned capacity) still on track",
+        "Mass production target: 2030"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "BloombergNEF: Global Battery Pack Prices Fall to $108/kWh in 2025",
+      "url": "https://about.bnef.com/insights/clean-transport/lithium-ion-battery-pack-prices-fall-to-108-per-kilowatt-hour-despite-rising-metal-prices-bloombergnef/",
+      "publisher": "BloombergNEF",
+      "date": "2025-12",
+      "claims": [
+        "Volume-weighted global average battery pack price: $108/kWh in 2025 (down 8% from 2024)",
+        "China EV pack: $84/kWh",
+        "LFP stationary packs in China: ~$40/kWh",
+        "LFP average globally: $81/kWh vs. NMC at $128/kWh",
+        "North American packs 44% higher than China; European packs 56% higher"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Battery Storage Capacity: Record Growth and Trends in 2026 — Energy Industry Review",
+      "url": "https://energyindustryreview.com/power/battery-storage-capacity-record-growth-and-trends-in-2026/",
+      "publisher": "Energy Industry Review",
+      "date": "2026",
+      "claims": [
+        "Global BESS new capacity additions: 353.4 GWh projected in 2026",
+        "Global utility-scale battery capacity grew 12x between 2020 and 2024 (IEA)"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "ERCOT Surpasses CAISO in Q2 2025 for Most Operating Battery Storage in US — S&P Global",
+      "url": "https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/091725-us-battery-storage-ercot-surpasses-caiso-in-q2-for-most-operating-battery-storage-capacity-in-us",
+      "publisher": "S&P Global",
+      "date": "2025-09-17",
+      "claims": [
+        "ERCOT (Texas) surpassed CAISO (California) in Q2 2025 for most operating battery storage in US",
+        "ERCOT: 14.2 GW nameplate capacity as of Q2 2025",
+        "13.9 GW / 22,853 MWh operational by end-2025"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "New US Electric Generating Capacity to Reach Record High in 2026 — EIA",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67205",
+      "publisher": "U.S. Energy Information Administration (EIA)",
+      "date": "2026-02",
+      "claims": [
+        "EIA projects 24.3 GW of new utility-scale battery storage in 2026",
+        "Texas: 12.9 GW (53% of total), California: 3.4 GW, Arizona: 3.2 GW",
+        "Battery storage leads all new US generating capacity additions in 2026"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Factorial Energy Lists on Nasdaq as FAC — Solid-State Batteries Now Powering Real EVs",
+      "url": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
+      "publisher": "Electrek",
+      "date": "2026-06-11",
+      "claims": [
+        "Factorial Energy (FAC) listed on Nasdaq June 2026 at ~$1.3B equity value",
+        "Solid-state batteries confirmed powering real EVs in road testing as of June 2026",
+        "745-mile (1,200 km) real-world range demonstrated in Dec 2025 vehicle testing"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Group14 Technologies Closes $463M Series D for Silicon Anode Battery Materials",
+      "url": "https://www.geekwire.com/2025/next-gen-battery-company-group14-lands-463m-despite-clean-tech-headwinds/",
+      "publisher": "GeekWire",
+      "date": "2025-08",
+      "claims": [
+        "Group14 raised $463M Series D led by SK Inc. with Microsoft Climate Innovation Fund",
+        "Silicon anode battery materials for next-generation EV and grid batteries",
+        "Represents continued investment in AI-adjacent battery materials startups despite clean-tech headwinds"
+      ]
+    }
+  ],
+  "unverified_claims": [],
+  "notes": "Market size figures for AI-driven battery technology vary widely ($3.58B-$83B) across reports due to different scope definitions. This report uses the AI-specific battery technology segment ($3.58B from The Business Research Company, Jan 2026) as the primary market size figure, not the broader BESS market. The '52% US growth' figure (Wood Mackenzie/ACP) measures GW power capacity; SEIA's '30% growth' figure measures GWh energy capacity — both are correct on their own terms. The Google-Xcel 30 GWh iron-air deal and Form Energy-Crusoe 12 GWh deal are the primary trigger events for the 'surging' status designation."
+}
