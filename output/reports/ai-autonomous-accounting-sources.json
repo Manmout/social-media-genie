@@ -1,0 +1,163 @@
+{
+  "trend": "AI Autonomous Accounting",
+  "slug": "ai-autonomous-accounting",
+  "researched_on": "2026-06-29",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI-for-Accounting Startup Basis Hits $1.15 Billion Valuation",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-24/ai-for-accounting-startup-basis-hits-1-15-billion-valuation",
+      "publisher": "Bloomberg",
+      "date": "2026-02-24",
+      "claims_supported": [
+        "Basis raised $100M at $1.15B valuation",
+        "Basis founded 2023",
+        "Round led by Accel"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Basis Raises $100 Million to Deploy AI Agents for Accounting Firms",
+      "url": "https://www.cpapracticeadvisor.com/2026/02/24/basis-raises-100-million-to-deploy-ai-agents-for-accounting-firms/178759/",
+      "publisher": "CPA Practice Advisor",
+      "date": "2026-02-24",
+      "claims_supported": [
+        "Basis $100M Series C",
+        "GV (Google Ventures) co-investor",
+        "Platform targets CPA firms with agent-based workflows",
+        "Prior $34M Series A in December 2024"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI accounting startup Basis secures $100M at $1.15B valuation as firms adopt agent-based workflows",
+      "url": "https://siliconangle.com/2026/02/24/ai-accounting-startup-basis-secures-100m-1-15b-valuation-firms-adopt-agent-based-workflows/",
+      "publisher": "SiliconANGLE",
+      "date": "2026-02-24",
+      "claims_supported": [
+        "Basis agentic accounting unicorn",
+        "Document review, reconciliation, tax preparation automation"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Basis Raises $100 Million to Build Up AI in Accounting",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/basis-raises-100-million-to-build-up-ai-in-accounting",
+      "publisher": "PYMNTS",
+      "date": "2026-02-24",
+      "claims_supported": [
+        "Basis $100M raise",
+        "Finance & Accounting AI VC momentum in 2026"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "AI in Accounting Market Analysis | Industry Report, Size & Forecast Insights",
+      "url": "https://www.mordorintelligence.com/industry-reports/artificial-intelligence-in-accounting-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "AI accounting market $10.87B in 2026",
+        "$7.52B in 2025",
+        "44.6% CAGR 2026-2031",
+        "$68.75B by 2031",
+        "SMBs represent 68% of sector spend",
+        "Automated bookkeeping segment 47.8% CAGR"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "AI Accounting Startup now Valued at $1.15 Billion",
+      "url": "https://aibusiness.com/agentic-ai/ai-accounting-startup-now-valued-at-1-15-billion",
+      "publisher": "AI Business",
+      "date": "2026-02-24",
+      "claims_supported": [
+        "Basis unicorn valuation",
+        "AI accounting sector milestone"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Botkeeper Company Profile, Funding & Competitors 2026",
+      "url": "https://tracxn.com/d/companies/botkeeper/___vQCTV8O4M3r_0d94yyX2htC2pAyqzcbw_LrBRxhdLY",
+      "publisher": "Tracxn",
+      "date": "2026",
+      "claims_supported": [
+        "Botkeeper $89.5M total funding",
+        "Investors: Ignition Partners, Greycroft, Sorenson Capital",
+        "AI-powered bookkeeping for accounting firms"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "AI in Accounting: The Complete 2026 Guide",
+      "url": "https://www.dualentry.com/blog/ai-in-accounting",
+      "publisher": "DualEntry",
+      "date": "2026",
+      "claims_supported": [
+        "AI accounting market $10.87B in 2026",
+        "44.6% CAGR",
+        "Timeline: ChatGPT 2022 triggered Big 4 pilots",
+        "EU AI Act 2024 impact on financial AI"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Will AI Replace Accountants? The 2026 Reality, Role by Role",
+      "url": "https://www.aiifi.ai/ai-at-work/will-ai-replace-accountants",
+      "publisher": "Aiifi",
+      "date": "2026",
+      "claims_supported": [
+        "85% CPA role automation risk",
+        "Junior accounting hiring fell 16% in two years (Stanford 2025)",
+        "Entry-level bookkeeper employment to decline 5%",
+        "Advisory CPAs command premium rates"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "AI Startup Funding Trends 2026 — Finance & Accounting Tech $893M in H1 2026",
+      "url": "https://aifundingtracker.com/ai-startup-funding-news-today/",
+      "publisher": "AI Funding Tracker",
+      "date": "2026",
+      "claims_supported": [
+        "Finance & Accounting Tech sector $893M VC in H1 2026"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "National Legal Regulatory Analysis 2026: AI, Privacy, and Clinical Governance — CPA Liability for AI Output (ACCA Guidance Jan 2026)",
+      "url": "https://djholtlaw.com/national-legal-regulatory-analysis-2026-artificial-intelligence-privacy-and-clinical-governance-for-medical-practices/",
+      "publisher": "Holt Law",
+      "date": "2026-01",
+      "claims_supported": [
+        "ACCA January 2026 guidance: CPA members legally responsible for AI-produced work",
+        "US Congress exploring AI financial disclosure requirements"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Best AI Accounting Software 2026: Reviews, Features & Pricing",
+      "url": "https://www.dualentry.com/blog/best-ai-accounting-software",
+      "publisher": "DualEntry",
+      "date": "2026",
+      "claims_supported": [
+        "Key players: Intuit, Sage, Xero, Oracle NetSuite",
+        "Zeni $47.5M raised (Elevation Capital, Saama Capital)",
+        "Market landscape overview"
+      ]
+    }
+  ],
+  "verification_notes": {
+    "market_size": "Mordor Intelligence estimate ($10.87B, 2026) cross-checked with DualEntry analysis. Other sources (Business Research Company) cite lower figures ($7.52B for 2026); Mordor is used as primary. All growth rates are within the 39-47% CAGR range across sources.",
+    "basis_funding": "Confirmed by Bloomberg, CPA Practice Advisor, SiliconANGLE, and PYMNTS — four independent sources citing $100M Series C at $1.15B valuation, February 24 2026.",
+    "market_share": "Incumbent market shares (Intuit 34%, Sage 17%, Xero 11%, Oracle 9%) are estimates based on overall accounting software market reports; no source provides AI-specific share breakdowns for incumbents. Marked as estimates.",
+    "stanford_research": "Junior accounting hiring decline of 16% cited via Aiifi sourcing a 2025 Stanford research report; could not independently verify the primary Stanford source URL — flag for editorial review.",
+    "botkeeper_revenue": "Vic.ai processing $15B+ in invoices annually — cited in Vic.ai company materials; treat as company-reported figure.",
+    "unverified_claims": [
+      "CPA exam passes down 33% from 2021 to 2024 — [unverified, widely cited in accounting press but primary AICPA source not confirmed]",
+      "Basis demos sub-24-hour month-end close — [unverified, from company marketing materials]",
+      "Vic.ai catches 3x more errors than statistical sampling — [unverified, company claim]"
+    ]
+  }
+}
