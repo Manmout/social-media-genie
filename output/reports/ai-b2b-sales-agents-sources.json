@@ -1,0 +1,87 @@
+[
+  {
+    "title": "AI SDR Market Size, Share | CAGR of 28.3% — $47B by 2034",
+    "url": "https://market.us/report/ai-sdr-market/",
+    "publisher": "Market.us",
+    "claim": "Market size $4.39B in 2025, growing at 28.3% CAGR to $47.12B by 2034",
+    "verified": true
+  },
+  {
+    "title": "AI SDR Market Size, Share | Forecast [2034]",
+    "url": "https://www.fortunebusinessinsights.com/ai-sdr-market-114112",
+    "publisher": "Fortune Business Insights",
+    "claim": "Global AI SDR market valued at $3.85B in 2024, projected $32.23B by 2033 at 26.7% CAGR",
+    "verified": true
+  },
+  {
+    "title": "Clay confirms it closed $100M round at $3.1B valuation",
+    "url": "https://techcrunch.com/2025/08/05/clay-confirms-it-closed-100m-round-at-3-1b-valuation/",
+    "publisher": "TechCrunch",
+    "claim": "Clay raised $100M Series C led by Alphabet GV at $3.1B valuation; 5,000+ customers including OpenAI and Anthropic",
+    "verified": true
+  },
+  {
+    "title": "AI sales agents in 2026: What 33M weekly interactions reveal",
+    "url": "https://www.outreach.io/resources/blog/ai-sales-agent",
+    "publisher": "Outreach",
+    "claim": "Outreach processes 33 million AI-powered sales interactions per week across 6,000+ customers",
+    "verified": true
+  },
+  {
+    "title": "AI SDR Security and Compliance Guide — GDPR, EU AI Act, CAN-SPAM",
+    "url": "https://instantly.ai/blog/ai-sdr-security-compliance-guide/",
+    "publisher": "Instantly.ai",
+    "claim": "EU AI Act full enforcement August 2, 2026; fines up to €35M or 7% of global annual revenue for non-compliance with AI transparency obligations in commercial outreach",
+    "verified": true
+  },
+  {
+    "title": "AI SDR Statistics 2026: Adoption, ROI & Benchmarks",
+    "url": "https://clarasdr.ai/blog/ai-sdr-statistics-2026-adoption-roi-and-benchmarks",
+    "publisher": "Clara SDR",
+    "claim": "41% of enterprise B2B teams running AI SDRs in production in Q1 2026 (up from 12% one year prior); 22% have fully replaced human SDRs; 81% of sales teams experimenting with or implementing AI",
+    "verified": true
+  },
+  {
+    "title": "Clay raises $46M Series B at $500M valuation to enhance AI-driven GTM platform",
+    "url": "https://siliconangle.com/2024/06/27/clay-raises-46m-500m-valuation-enhance-ai-driven-sales-marketing-platform/",
+    "publisher": "SiliconANGLE",
+    "claim": "Clay Series B June 2024: $46M at $500M valuation led by Meritech Capital; 5,000+ customers",
+    "verified": true
+  },
+  {
+    "title": "Artisan vs 11x: Best AI SDR Platform Comparison for 2026",
+    "url": "https://www.11x.ai/guides/artisan-vs-11x",
+    "publisher": "11x.ai",
+    "claim": "11x.ai raised Series B led by Andreessen Horowitz, bringing total funding past $74M; Artisan raised $25M Series A with YC and HubSpot Ventures, total $46M",
+    "verified": true
+  },
+  {
+    "title": "Cold Email Laws 2026: CAN-SPAM, GDPR, and AI transparency requirements",
+    "url": "https://emailferret.io/blog/cold-email-laws-2026",
+    "publisher": "Email Ferret",
+    "claim": "AI-generated cold emails to EU contacts must disclose AI origin under August 2026 EU AI Act enforcement; CAN-SPAM requires opt-out in all commercial emails including AI-generated",
+    "verified": true
+  },
+  {
+    "title": "Best AI Sales Agents in 2026: Top 9 Platforms Compared",
+    "url": "https://www.landbase.com/blog/best-ai-sales-agents",
+    "publisher": "Landbase",
+    "claim": "AI SDRs priced at $1,000–$3,000/month per agent; 3-stack (Apollo/Clay + Outreach/11x + Gong/Clari) is the dominant enterprise AI SDR architecture",
+    "verified": true
+  },
+  {
+    "title": "AI SDR Statistics, Market Overview and Adoption 2025",
+    "url": "https://www.marketsandmarkets.com/Market-Reports/ai-sdr-market-83561460.html",
+    "publisher": "MarketsandMarkets",
+    "claim": "AI SDR market growing from $4.12B in 2025 to $15.01B by 2030 at 29.5% CAGR; Asia Pacific fastest-growing region",
+    "verified": true
+  },
+  {
+    "title": "AI in Sales 2026: What Actually Works and What's Overhyped",
+    "url": "https://www.amplemarket.com/blog/ai-in-sales",
+    "publisher": "Amplemarket",
+    "claim": "Cold email reply rates declining industry-wide from 3% to 1.2% as AI SDR volume scales; 22% of teams have fully replaced human SDRs with AI; 75% of B2B teams will use AI sales agents by end of 2026 [unverified — industry projection]",
+    "verified": false,
+    "note": "Projection figures marked as unverified; adoption rate stats from Amplemarket's own customer data"
+  }
+]
