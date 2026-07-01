@@ -1,0 +1,177 @@
+{
+  "trend": "AI Agent Memory Systems",
+  "slug": "ai-agent-memory-systems",
+  "researched": "2026-07-01",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "TechCrunch",
+      "title": "Mem0 raises $24M from YC, Peak XV and Basis Set to build the memory layer for AI apps",
+      "url": "https://techcrunch.com/2025/10/28/mem0-raises-24m-from-yc-peak-xv-and-basis-set-to-build-the-memory-layer-for-ai-apps/",
+      "date": "2025-10-28",
+      "verified": true,
+      "claims_sourced": [
+        "Mem0 $24M Series A (Basis Set, Peak XV, YC, GitHub Fund)",
+        "Mem0 41,000 GitHub stars, 14M downloads, 100,000+ developers",
+        "Investors include Dharmesh Shah (HubSpot), Olivier Pomel (Datadog), Thomas Dohmke (ex-GitHub CEO)",
+        "API calls grew from 35M (Q1 2025) to 186M (Q3 2025)"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "SkyQuest Technology",
+      "title": "Agentic AI Orchestration and Memory Systems Market Size, Share | Industry Growth [2033]",
+      "url": "https://www.skyquestt.com/report/agentic-ai-orchestration-and-memory-systems-market",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "Market valued at USD 4.55 billion in 2024",
+        "Market projected from USD 6.16 billion (2025) to USD 69.13 billion by 2033",
+        "CAGR of 35.3% from 2026 to 2033"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "Mordor Intelligence",
+      "title": "Agentic AI Orchestration And Memory Systems Market Size, Share & 2030 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/agentic-artificial-intelligence-orchestration-and-memory-systems-market",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "Market estimated at USD 6.27 billion in 2025",
+        "Expected to reach USD 28.45 billion by 2030 at 35.32% CAGR",
+        "Cloud deployment captured 67.84% of market share in 2024 at 36.50% CAGR"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "The Business Research Company",
+      "title": "Agentic AI Orchestration And Memory Systems Global Market Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/agentic-artificial-intelligence-ai-orchestration-and-memory-systems-market-report",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "Market projected to grow from $6.49 billion (2025) to $9 billion in 2026 at 38.7% YoY",
+        "Cross-referenced with SkyQuest $6.16B baseline — consistent order of magnitude"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "Mem0 Research",
+      "title": "AI Agent Memory 2026: Progress, Benchmark Report & Evaluations",
+      "url": "https://mem0.ai/blog/state-of-ai-agent-memory-2026",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "Mem0 scores 93.4% on LongMemEval benchmark",
+        "Five memory frameworks now matter in 2026: Mem0, Letta, Zep, MemPalace, claude-mem",
+        "Graph-native memory frameworks expected to take share from pure-vector in 2027–2028",
+        "Vector DB market reached $3.2B in 2025, projected $8.95B by 2030"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "Preuve AI",
+      "title": "AI Memory Systems Statistics 2026: 60+ Sourced Stats",
+      "url": "https://preuve.ai/blog/ai-memory-systems-statistics-2026",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "Zep wins temporal knowledge graphs with up to 18.5% accuracy gain on LongMemEval",
+        "MemPalace leads local-first category at 96.6% Recall@5",
+        "Deloitte 2026: 50% of GenAI companies will run agentic pilots by 2027, up from 25% in 2025"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "Grand View Research",
+      "title": "AI Agents Market Size, Share And Trends Report, 2026–2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-agents-market-report",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "Global AI agents market estimated at USD 7.63 billion in 2025",
+        "Expected to reach USD 182.97 billion by 2033 at 49.6% CAGR from 2026",
+        "Gartner: 40% of enterprise applications will integrate task-specific AI agents by end of 2026"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "arXiv / UC Berkeley & Carnegie Mellon University",
+      "title": "MemGPT: Towards LLMs as Operating Systems",
+      "url": "https://arxiv.org/abs/2310.08560",
+      "date": "2023-10",
+      "verified": true,
+      "claims_sourced": [
+        "MemGPT introduces OS virtual memory metaphor for LLM context management",
+        "Packer et al. (UC Berkeley / CMU) — foundational paper for Letta startup",
+        "Introduces paging between main context and external archival storage for unbounded conversation memory"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "Cognee",
+      "title": "Cognee Raises $7.5M Seed to Build Memory for AI Agents",
+      "url": "https://www.cognee.ai/blog/cognee-news/cognee-raises-seven-million-five-hundred-thousand-dollars-seed",
+      "date": "2026-02",
+      "verified": true,
+      "claims_sourced": [
+        "Cognee raised $7.5M seed from Pebblebed, 42CAP, Vermilion Ventures",
+        "Angels from Google DeepMind, n8n, Snowplow",
+        "Pipeline volume grew 500x in 2025 (2,000 → 1M+ runs)",
+        "Running in production at 70+ companies"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "Kasowitz LLP",
+      "title": "Data Privacy, AI Regulatory, and Compliance Update: 2026",
+      "url": "https://www.kasowitz.com/media/viewpoints/data-privacy-ai-regulatory-and-compliance-update-2026/",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "145 AI laws passed globally in 2025",
+        "EU AI Act high-risk system requirements take effect August 2026",
+        "39% of AI deployments have a defined data retention policy (audit data)",
+        "47% lack explicit informed consent mechanisms before processing personal data"
+      ]
+    },
+    {
+      "id": 11,
+      "publisher": "Tribe AI / Atlan",
+      "title": "AI Memory System: Types, Architecture, and Enterprise Use Cases",
+      "url": "https://atlan.com/know/ai-memory-system/",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "30–60% reduction in LLM API costs through optimized memory (Tribe AI)",
+        "40–70% higher user retention in personalized AI applications (Tribe AI)",
+        "116% to 446% ROI for personalized AI deployments vs. stateless equivalents"
+      ]
+    },
+    {
+      "id": 12,
+      "publisher": "LangChain / Vectorize",
+      "title": "Best AI Agent Memory Systems in 2026: 8 Frameworks Compared",
+      "url": "https://vectorize.io/articles/best-ai-agent-memory-systems",
+      "date": "2026",
+      "verified": true,
+      "claims_sourced": [
+        "57% of organizations have AI agents in production (LangChain 2026 survey, 1,300+ professionals)",
+        "Quality (33%) and latency (20%) are top two production blockers",
+        "LangMem SDK supports episodic, semantic, and procedural memory simultaneously",
+        "Pinecone cut rates by 30% in 2025; $14M ARR, $750M valuation"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "~55,000/mo search volume for 'AI agent memory' and related terms",
+      "status": "[unverified — estimated from developer community size and GitHub traffic proxies; no direct Google Search Console data available]"
+    },
+    {
+      "claim": "Letta $10M seed led by Felicis backed by Jeff Dean and Clem Delangue",
+      "status": "[plausible — widely reported across multiple secondary sources; no primary press release URL confirmed]"
+    }
+  ]
+}
