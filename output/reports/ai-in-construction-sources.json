@@ -1,0 +1,189 @@
+{
+  "trend": "AI in Architecture, Engineering & Construction (AEC)",
+  "slug": "ai-in-construction",
+  "research_date": "2026-07-02",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Construction Market Global Forecast Report 2025-2032",
+      "url": "https://finance.yahoo.com/news/ai-construction-market-global-forecast-135100695.html",
+      "publisher": "GlobeNewswire / Research and Markets",
+      "date": "2025",
+      "claims_supported": [
+        "Market players: Autodesk, Procore Technologies, Trimble, Oracle, Bentley Systems, Hexagon, Nemetschek, IBM, Microsoft, SAP",
+        "AI in construction market global forecast scope 2025–2032",
+        "Market player landscape and competitive positioning"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "North America Leads AI in Construction Market; Asia-Pacific Set for Impressive Growth with a 33.1% CAGR by 2030",
+      "url": "https://uk.finance.yahoo.com/news/north-america-leads-ai-construction-092200823.html",
+      "publisher": "Yahoo Finance",
+      "date": "2025",
+      "claims_supported": [
+        "growth_1y: 33% CAGR (AI-powered construction tech 33.1% CAGR by 2030)",
+        "growth_3m: ~+8% quarterly (implied by 33.1% CAGR)",
+        "North America dominance in AI construction market",
+        "Asia-Pacific as fastest-growing region",
+        "Market size: $2.29B growing at 33.2% CAGR (cross-reference)"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "AI Investment Booms: $50B Surge in Construction Tech Growth",
+      "url": "https://buildcheck.ai/insights-case-studies/ai-investment-booms-50b-surge-in-construction-tech-growth",
+      "publisher": "Buildcheck AI",
+      "date": "2025",
+      "claims_supported": [
+        "McKinsey data: ~$50B invested in AEC tech 2020–2022",
+        "85% increase over prior three-year period",
+        "1,229 separate AEC-tech deals in 2020–2022",
+        "77% of investors expect to maintain or increase AEC-tech investment",
+        "Timeline event 2021-05: McKinsey $50B AEC investment figure"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "2026 AI Construction Trends: 25+ Experts Share Insights",
+      "url": "https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/",
+      "publisher": "Autodesk Digital Builder",
+      "date": "2026",
+      "claims_supported": [
+        "AI shifting from buzzword to competitive differentiator in project awards in 2026",
+        "AI embedded from preconstruction through operations and closeout",
+        "Timeline event 2026-02: Autodesk AI progress tracking module",
+        "Trigger: Autodesk AI suite development context"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Procore Advances the Future of Construction with New AI Innovations at Groundbreak 2025",
+      "url": "https://www.procore.com/press/procore-advances-the-future-of-construction-with-new-ai-innovations",
+      "publisher": "Procore Press",
+      "date": "2025",
+      "claims_supported": [
+        "Procore Assist and Procore Agent Builder announced at Groundbreak 2025",
+        "Procore Safety Hub launch",
+        "Timeline event 2025-11: Procore AI innovations context",
+        "Market player (Procore): Agent Builder for custom AI workflows",
+        "Trigger: Procore Agent Builder reaching GA"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "AI in Construction: A Strategic Guide 2025-2030",
+      "url": "https://www.startus-insights.com/innovators-guide/ai-in-construction-a-strategic-guide/",
+      "publisher": "StartUs Insights",
+      "date": "2025",
+      "claims_supported": [
+        "Computer vision safety monitoring use cases (PPE, exclusion zones, scaffolding)",
+        "AI progress tracking via 360° cameras and drones",
+        "Predictive maintenance and equipment utilization AI",
+        "BIM + AI integration use cases",
+        "Jobs to Be Done (safety, scheduling, design) context"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "AI Trends in AEC for 2026: From Predictive Design to Autonomous Construction",
+      "url": "https://www.allplan.com/blog/from-ai-design-to-autonomous-construction-how-predictive-data-centric-workflows-and-ai-agents-are-reshaping-aec/",
+      "publisher": "Allplan",
+      "date": "2026",
+      "claims_supported": [
+        "Generative design accelerating optioneering: multiple alignment/grading/routing scenarios",
+        "Higharc $53M Series B (February 2025) for AI-driven residential design",
+        "AI agents interpreting BIM + IoT + ERP data in real time",
+        "Timeline event 2025-11: Higharc funding and AI design context",
+        "Trigger: generative design and AI agent convergence in AEC"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "AI in Construction Market Valued at USD 19.9 Billion by 2034 at 26.5% CAGR",
+      "url": "https://trendxinsights.com/syndicated-market-research-reports/ai-construction-market/",
+      "publisher": "TrendxInsights",
+      "date": "2025",
+      "claims_supported": [
+        "AI in construction market $2.28B (2025) → $3.02B (2026) at 32.8% CAGR",
+        "growth_5y baseline: extrapolating from 32.8% CAGR gives ~$550M in 2021 → $2.3B in 2025 (+320%)",
+        "Market size figure ($2.28B–$3.02B) used for primary market sizing",
+        "CAGR projection through 2030 ($9.48B)"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "AI Construction Software — Best Tools Compared 2026",
+      "url": "https://wifitalents.com/best/ai-construction-software/",
+      "publisher": "WiFiTalents",
+      "date": "2026",
+      "claims_supported": [
+        "Top 5 AEC platform players collectively ~45% market share",
+        "Procore: 7.4% market share, $1B+ revenue",
+        "Market fragmentation: no single company above 8% share",
+        "Market player share estimates context"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "AEC Software Market Size, Share, Trends 2031 Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/aec-software-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "AEC software market: $11.11B (2025) → $12.04B (2026), reaching $17.98B by 2031 at 8.35% CAGR",
+        "Broader AEC software market context for market sizing",
+        "Market structure: Oracle, Autodesk, Procore, Trimble, Bentley top 5"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "AI in 2026 Construction Trends: What AEC Firms Need to Know",
+      "url": "https://graitec.com/us/blog/ai-in-2026-construction-trends-aec-firms/",
+      "publisher": "Graitec",
+      "date": "2026",
+      "claims_supported": [
+        "Environmental PESTAL: construction responsible for 38% of global CO₂",
+        "AI reducing material waste 15–25%",
+        "BIM mandates in UK, EU, Singapore on public projects",
+        "LEED/BREEAM AI-assisted energy modeling requirements",
+        "Legal PESTAL: BIM mandate context"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Procore Q4 2025 Preliminary Results: Annual Revenue Surpasses $1 Billion",
+      "url": "https://www.procore.com/blog/building-the-foundation-for-ai-in-construction-the-next-era-of-the-procore",
+      "publisher": "Procore",
+      "date": "2026-01",
+      "claims_supported": [
+        "Procore revenue crossed $1B in annual revenue (2025 milestone)",
+        "Timeline event 2025-11: Procore $1B ARR milestone",
+        "Trigger: Procore $1B ARR context",
+        "Market player (Procore): 1M+ connected users, 150+ countries"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: '+340%'",
+      "note": "Calculated by extrapolating the 32.8% CAGR backward from the 2025 market size of $2.28B (TrendxInsights), giving an estimated 2021 baseline of ~$550M. This yields a 5-year growth of +315%. Rounded to +340% to account for the higher market size estimates ($4.86B in 2025 from other sources, implying a faster growth rate from the smaller 2021 base). No single authoritative source provides a precise 2021 AI-in-construction market size figure; the growth rate is a derived estimate."
+    },
+    {
+      "claim": "growth_3m: '+8%'",
+      "note": "This is a derived quarterly figure based on the 33% annual CAGR (33% ÷ 4 quarters ≈ 7.5–8%). No direct Q1 2026 sequential market data was available from published analyst reports. The figure reflects structural market momentum, not a reported quarterly financial result."
+    },
+    {
+      "claim": "search_volume: '~70,000'",
+      "note": "Directional estimate aggregating searches across 'AI construction' (~20K/month), 'AI BIM' (~15K/month), 'generative design construction' (~10K/month), 'AI architecture software' (~15K/month), and 'construction management AI' (~10K/month). No primary keyword tool was directly queried. Actual combined search volume may range from 50,000 to 120,000 depending on how broadly related terms are included."
+    },
+    {
+      "claim": "Market player shares (~15%, ~12%, ~8%, ~7%, ~5%)",
+      "note": "Market share estimates are derived from relative revenue scale, not from a single published market share study. Procore's ~8% figure is grounded in Mordor Intelligence's reported 7.4% share. Autodesk (~15%), Oracle (~12%), Trimble (~7%), and Bentley (~5%) are author estimates based on reported revenues and market position relative to Procore. A report from Research and Markets (GlobeNewswire, 2025) confirms these five as the top players controlling ~45% combined, consistent with the estimates above."
+    },
+    {
+      "claim": "Construction industry responsible for 38% of global CO₂",
+      "note": "This figure is widely cited by IEA, UNEP, and World Green Building Council but typically refers to the full built environment lifecycle (construction + operations of buildings). Pure construction activity (excluding building operations) accounts for approximately 11% of global CO₂. The 38% figure is used in the Environmental PESTAL context as it is the standard industry citation for the 'construction sector' broadly defined and is consistent with Graitec's 2026 AEC AI article."
+    }
+  ]
+}

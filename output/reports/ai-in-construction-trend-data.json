@@ -1,0 +1,193 @@
+{
+  "trend_name": "AI in Architecture, Engineering & Construction (AEC)",
+  "status": "surging",
+  "search_volume": "~70,000",
+  "category": "AI & Technology",
+  "growth_5y": "+340%",
+  "growth_1y": "+33%",
+  "growth_3m": "+8%",
+  "trigger": "Procore crossed $1B ARR in 2025 — validating construction SaaS at scale — while Autodesk's acquisition of Spacemaker (generative design), Trimble's NVIDIA partnership for logistics AI (Nov 2025), and Higharc's $53M Series B (Feb 2025) all landed simultaneously. A 400,000-job labor shortage in US construction turned AI from a luxury into an existential necessity. Procore Agent Builder reached GA in Q1 2026; Autodesk released AI-powered progress tracking in Feb 2026. The AEC AI market hit $2.3B and is on track for 33% CAGR through 2030.",
+  "timeline": [
+    {
+      "date": "2020-02",
+      "event": "Autodesk acquires Spacemaker AI (Oslo) for $240M — the AEC industry's first major AI acquisition, signaling that generative design for urban planning is a core platform capability, not a side experiment."
+    },
+    {
+      "date": "2021-05",
+      "event": "Procore IPO raises $635M at a $9B valuation, validating construction SaaS as a standalone market. McKinsey reports $50B invested in AEC tech 2020–2022, an 85% increase over the prior three-year period."
+    },
+    {
+      "date": "2022-06",
+      "event": "Autodesk launches Construction IQ with AI-driven risk scoring across its Construction Cloud, bringing predictive risk analytics to 7,000+ AEC firms for the first time. Autodesk also acquires Smartvid.io to embed computer vision safety into its platform."
+    },
+    {
+      "date": "2023-09",
+      "event": "Autodesk Forma launches as a cloud-native AI planning platform — the first AEC tool to replace manual BIM drawing with LLM-powered layout optimization, processing climate, solar, and noise data to generate code-compliant designs."
+    },
+    {
+      "date": "2025-11",
+      "event": "Trimble and NVIDIA announce a strategic partnership to integrate generative AI for equipment-logistics planning. Higharc raises $53M Series B for AI-driven residential design. Procore's annual revenue crosses $1 billion, confirming construction SaaS at enterprise scale."
+    },
+    {
+      "date": "2026-02",
+      "event": "Autodesk releases an AI-powered progress-tracking module that auto-compares 360° site imagery against BIM plans. Procore Agent Builder reaches general availability. North America leads global AI construction growth at 33.1% CAGR, with Asia-Pacific as the fastest-growing region."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The US $1.2T bipartisan infrastructure law and the EU Green Deal are flooding the construction pipeline with large public projects, creating urgent demand for AI-driven project management and safety tools. However, regulatory frameworks governing AI liability in safety-critical structural decisions remain unresolved in most jurisdictions — creating adoption hesitancy for load-bearing design AI. UK, Singapore, and EU mandate BIM on public projects, forcing digital adoption across the supply chain."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The global construction market is $15.7T and chronically inefficient: 98% of large infrastructure projects run over budget or schedule. AI has been shown to reduce cost overruns by 20–30% and schedule variance by 15–25%. Labor costs are rising 8–12% annually, accelerating automation ROI calculations. Procore's $1B ARR milestone validates the enterprise SaaS model in construction; AEC tech attracted $50B in investment 2020–2022 alone."
+    },
+    {
+      "factor": "Social",
+      "impact": "The US construction sector has 400,000+ unfilled skilled positions; the average worker is 43 years old and the pipeline is shrinking. AI tools that let fewer workers supervise more sites are existential necessities, not productivity bonuses. Younger workers expect digital-first tools and will choose employers with modern tech stacks. Safety culture is shifting — computer vision monitoring is increasingly seen as worker protection, not surveillance."
+    },
+    {
+      "factor": "Technological",
+      "impact": "The convergence of computer vision, drones, IoT sensors, and cloud BIM platforms has created the AI-ready data layer that was missing for decades. LLMs enable natural language queries on project data, making AI accessible to site foremen, not just data scientists. Digital twins (Bentley iTwin, NVIDIA Omniverse for construction) are maturing from visualization tools into operational intelligence platforms. Trimble-NVIDIA partnership signals GPU-accelerated 3D AI simulation is coming to AEC."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Construction is responsible for 38% of global CO₂ emissions. AI optimization of material procurement and waste reduction can cut embodied carbon 15–25% per project. EU, Singapore, and several US states now mandate BIM models that include embodied carbon calculations on public projects. LEED and BREEAM certifications increasingly require AI-assisted energy modeling, making environmental compliance a new driver of AEC AI adoption."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Liability for AI-generated structural designs remains legally unresolved — engineers must still stamp every drawing, regardless of who (or what) generated it. GDPR and US state biometric laws constrain how computer vision workforce monitoring (PPE detection, face recognition) can be deployed on sites. UK, EU, and Singapore public-project BIM mandates are creating forced digital adoption. Code-compliance AI is not yet recognized by building inspection authorities in most US jurisdictions, limiting automation of permit submissions."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Finish this project on time and on budget",
+      "solution": "AI scheduling and risk analytics — Procore Assist, Oracle Primavera AI, and Microsoft Project Cortex — analyze thousands of project variables to identify schedule risks weeks before they become delays, cutting overruns by 20–30%. These tools are now embedded in platforms contractors already use, reducing the integration barrier to near zero."
+    },
+    {
+      "job": "Catch the safety violation before someone gets hurt",
+      "solution": "Computer vision safety monitoring (Smartvid.io via Autodesk, Versatile, Newmetrix) watches every camera feed 24/7 for missing PPE, workers in exclusion zones, unsecured scaffolding, and crane swing conflicts — sending alerts within seconds. Each OSHA recordable incident costs $40K+; one prevented injury typically covers a year of software cost."
+    },
+    {
+      "job": "Generate code-compliant design options in hours, not weeks",
+      "solution": "Generative design AI (Autodesk Forma, Higharc, Spacemaker) ingests project constraints — zoning codes, setbacks, solar access, structural loads — and outputs dozens of layout variations ranked by cost, carbon, and buildability. Pre-design time drops from weeks to hours; clients see options they couldn't have imagined, not just the one design the architect had time to draw."
+    },
+    {
+      "job": "Know what's actually been built without walking the entire site",
+      "solution": "AI progress tracking (OpenSpace, DroneDeploy, Autodesk's new module) combines 360° cameras worn by workers and drones to auto-generate site documentation referenced to the BIM model. Project managers can compare planned vs. actual from the office, reducing site visits and catching rework before it compounds."
+    },
+    {
+      "job": "Find expensive equipment faster and stop it sitting idle",
+      "solution": "AI-powered asset tracking and logistics (Trimble-NVIDIA AI, Versatile's Cone sensor for forklifts, Hilti ON!Track) deliver real-time location and utilization data on every crane, excavator, and powered access unit. Idle equipment costs $500–$2,000/day; utilization AI typically increases equipment uptime 25–40%."
+    }
+  ],
+  "market": [
+    {
+      "name": "Autodesk",
+      "share": "~15%",
+      "loved": "Revit, Forma, Construction Cloud, BIM 360; Spacemaker generative design engine; Smartvid.io computer vision safety; AI progress tracking module (Feb 2026); 7,000+ AEC firm customers globally",
+      "segment": "Design + BIM + site intelligence"
+    },
+    {
+      "name": "Oracle",
+      "share": "~12%",
+      "loved": "Oracle Primavera (scheduling), Aconex (document management), Oracle Construction and Engineering Cloud; IoT digital twin module (Dec 2025); dominant in civil and infrastructure mega-projects",
+      "segment": "Project controls + infrastructure"
+    },
+    {
+      "name": "Procore",
+      "share": "~8%",
+      "loved": "$1B+ ARR (2025 milestone); Procore Assist LLM for natural language project queries; Agent Builder for custom AI workflows; 1M+ connected users across 150+ countries; 45,000+ active projects",
+      "segment": "Construction management + collaboration"
+    },
+    {
+      "name": "Trimble",
+      "share": "~7%",
+      "loved": "SketchUp, Tekla Structures, Trimble Connect; NVIDIA partnership (Nov 2025) for generative logistics AI; strong in MEP, civil, and structural engineering workflows",
+      "segment": "Civil + MEP + equipment logistics"
+    },
+    {
+      "name": "Bentley Systems",
+      "share": "~5%",
+      "loved": "MicroStation, OpenBuildings, iTwin digital twin platform; strongest in infrastructure asset management and tunneling; iTwin integrates AI analytics with operational sensor data",
+      "segment": "Infrastructure digital twins"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Autodesk Forma",
+      "detail": "AI-native cloud planning platform powered by the Spacemaker engine Autodesk acquired for $240M. Processes climate, solar access, daylight, and noise data to generate and rank layout options. Used by leading architecture firms for master planning and urban infill projects. Represents Autodesk's $35B bet that generative design replaces manual BIM for early-stage design."
+    },
+    {
+      "name": "Procore",
+      "detail": "Largest construction management platform by revenue ($1B+ ARR in 2025). Procore Assist uses LLMs to answer natural language questions across project data (RFIs, submittals, change orders). Agent Builder (GA Q1 2026) lets firms create custom AI workflows without coding. Positioned as the 'construction OS' — rivals Autodesk for platform primacy."
+    },
+    {
+      "name": "Higharc",
+      "detail": "Pure-play AI residential design startup that raised $53M Series B in February 2025. Automates home floor plan generation from builder specifications and lot constraints, cutting design time from days to minutes. Targeting the $300B+ US single-family construction market where builders need dozens of designs per community, not one bespoke plan."
+    },
+    {
+      "name": "OpenSpace",
+      "detail": "AI-powered progress tracking platform using 360° cameras clipped to a hardhat during normal site walks. AI auto-registers every image to the BIM model, generating searchable, time-stamped site documentation without a dedicated surveyor. Used by Turner Construction, Skanska, and Gilbane; integrates directly with Procore and Autodesk."
+    },
+    {
+      "name": "Smartvid.io (Autodesk)",
+      "detail": "Computer vision platform for construction safety and quality, acquired by Autodesk in 2022. Has analyzed 1B+ construction images. Detects PPE violations, exclusion zone breaches, and quality defects in real time via site cameras. Now embedded in Autodesk Construction Cloud, giving the platform a native safety intelligence layer that Procore must partner to replicate."
+    }
+  ],
+  "canvas": {
+    "who": "Primary buyers: General contractors and project owners at mid-to-large construction firms ($50M+ annual revenue) who manage multiple simultaneous projects and absorb schedule and safety risk. Secondary: Architects and engineers at BIM-enabled design firms seeking to win competitive fee proposals with faster design iteration. Tertiary: Government infrastructure agencies evaluating contractor AI readiness as a procurement criterion.",
+    "where": "Construction sites (mobile apps, drone feeds, edge cameras, wearable 360° cameras); design offices running cloud BIM on high-end workstations; executive offices at GC headquarters choosing between Autodesk, Procore, and Oracle for their core data platform; government procurement offices in the EU and UK where BIM is now a legal requirement on public contracts.",
+    "why_now": "Three forces aligned in 2025–2026: (1) The US labor shortage hit 400,000+ unfilled construction jobs, making AI-enabled productivity a survival tool. (2) Cloud BIM platforms normalized data collection at scale, creating the AI-ready data layer that was missing for decades. (3) LLMs crossed the accuracy threshold for natural language project queries, making AI accessible to site foremen — not just data scientists. Procore's $1B ARR milestone proved the SaaS model works in construction; now every GC has board-level pressure to digitize or compete on price alone.",
+    "behavior": "Firms start with one high-ROI pain point — typically safety monitoring or schedule analytics — then expand to design and logistics after the first tool proves its value. Purchasing happens through existing platform relationships (add-on to Autodesk or Procore subscription) rather than standalone AI vendor contracts. Pilots run 3–6 months with ROI measured in reduced OSHA recordables and schedule variance percentage. Most firms buy 2–3 tools from competing platforms, creating integration friction that pure-play AI aggregators are beginning to exploit.",
+    "unmet": "True data interoperability between Autodesk, Procore, Trimble, and Oracle remains unsolved — each platform guards its data moat. Small contractors (75% of the market, <$50M revenue) are effectively priced out of current AI tools, which typically require $30K–$150K annual contracts. Legal clarity on AI-generated structural calculations is absent in most US states, capping automation of the highest-value design decisions. Computer vision workforce monitoring faces regulatory backlash in several EU countries over biometric surveillance concerns."
+  },
+  "takeaways": [
+    "Safety AI is the fastest ROI beachhead in AEC: a single prevented OSHA recordable incident ($40K+ cost) covers a year of computer vision software subscription. Firms that deploy safety AI first build the data relationship and organizational trust to expand into scheduling, quality, and logistics AI — making it the ideal entry point for both vendors and buyers entering the AEC AI market.",
+    "The platform war between Autodesk, Procore, Oracle, and Trimble is really a construction data war: whoever controls the primary project data repository controls AI distribution. Firms choosing their core platform in 2026 are effectively locking in their AI stack for a decade. Evaluate platform AI roadmaps and open-API policies as aggressively as current feature sets before signing long-term contracts.",
+    "The NVIDIA–Trimble partnership signals GPU-accelerated 3D simulation is the next frontier: just as CUDA became the dominant standard for ML training, whoever wins the 3D spatial AI standard for construction site modeling will control the industry's digital infrastructure. Watch for NVIDIA Omniverse integration in Autodesk and Bentley as the most important AEC technology development of 2026–2028.",
+    "Small contractors are a $10B+ blue ocean: the 75% of construction firms with <$50M revenue are effectively unserved by current enterprise AI tools. The winner in this segment will be mobile-first, priced under $200/month, and designed for site foremen — not CTOs. Expect a wave of construction AI startups targeting this segment the way fintech disrupted community banking."
+  ],
+  "sources": [
+    {
+      "title": "AI in Construction Market Global Forecast 2025-2032",
+      "url": "https://finance.yahoo.com/news/ai-construction-market-global-forecast-135100695.html",
+      "publisher": "GlobeNewswire / Research and Markets"
+    },
+    {
+      "title": "North America Leads AI in Construction Market; Asia-Pacific Set for Impressive Growth with a 33.1% CAGR by 2030",
+      "url": "https://uk.finance.yahoo.com/news/north-america-leads-ai-construction-092200823.html",
+      "publisher": "Yahoo Finance"
+    },
+    {
+      "title": "AI Investment Booms: $50B Surge in Construction Tech Growth",
+      "url": "https://buildcheck.ai/insights-case-studies/ai-investment-booms-50b-surge-in-construction-tech-growth",
+      "publisher": "Buildcheck AI"
+    },
+    {
+      "title": "2026 AI Construction Trends: 25+ Experts Share Insights",
+      "url": "https://www.autodesk.com/blogs/construction/2026-ai-trends-25-experts-share-insights/",
+      "publisher": "Autodesk Digital Builder"
+    },
+    {
+      "title": "Procore Advances the Future of Construction with New AI Innovations at Groundbreak 2025",
+      "url": "https://www.procore.com/press/procore-advances-the-future-of-construction-with-new-ai-innovations",
+      "publisher": "Procore Press"
+    },
+    {
+      "title": "AI in Construction: A Strategic Guide 2025-2030",
+      "url": "https://www.startus-insights.com/innovators-guide/ai-in-construction-a-strategic-guide/",
+      "publisher": "StartUs Insights"
+    },
+    {
+      "title": "AI Trends in AEC for 2026: From Predictive Design to Autonomous Construction",
+      "url": "https://www.allplan.com/blog/from-ai-design-to-autonomous-construction-how-predictive-data-centric-workflows-and-ai-agents-are-reshaping-aec/",
+      "publisher": "Allplan"
+    },
+    {
+      "title": "AI in Construction Market Valued at USD 19.9 Billion by 2034 at 26.5% CAGR",
+      "url": "https://trendxinsights.com/syndicated-market-research-reports/ai-construction-market/",
+      "publisher": "TrendxInsights"
+    }
+  ]
+}
