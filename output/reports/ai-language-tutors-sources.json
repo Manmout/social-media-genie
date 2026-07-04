@@ -1,0 +1,125 @@
+{
+  "trend": "AI Language Tutors",
+  "slug": "ai-language-tutors",
+  "research_date": "2026-07-04",
+  "sources": [
+    {
+      "id": 1,
+      "claim": "Speak raised $78M Series C at $1B valuation backed by OpenAI, Accel, Khosla Ventures",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2024/12/10/openai-backed-speak-raises-78m-at-1b-valuation-to-help-users-learn-languages-by-talking-out-loud/",
+      "date": "2024-12-10",
+      "verified": true,
+      "excerpt": "OpenAI-backed Speak raises $78M at $1B valuation to help users learn languages by talking out loud"
+    },
+    {
+      "id": 2,
+      "claim": "Language learning apps generated $1.54B in 2025, +18.8% YoY; Duolingo $1.03B revenue market leader",
+      "publisher": "Business of Apps",
+      "url": "https://www.businessofapps.com/data/language-learning-app-market/",
+      "date": "2026-01-01",
+      "verified": true,
+      "excerpt": "Language learning apps generated $1.54 billion in 2025, a 18.8% year-on-year increase, with Duolingo making the most revenue of all apps at $1.03 billion in 2025."
+    },
+    {
+      "id": 3,
+      "claim": "Online language learning market $22.1B in 2024, growing to $54.8B by 2030 at 16.6% CAGR",
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/online-language-learning-market-report",
+      "date": "2025-01-01",
+      "verified": true,
+      "excerpt": "The global online language learning market size was estimated at USD 22115.7 million in 2024 and is projected to reach USD 54833.2 million by 2030, growing at a CAGR of 16.6% from 2025 to 2030."
+    },
+    {
+      "id": 4,
+      "claim": "Duolingo FY2025 revenue $1.037B (+39% YoY); 12.2M paid subscribers; 52.7M DAUs",
+      "publisher": "SEC / Duolingo Inc.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001562088/000156208825000039/q4fy24duolingo12-31x24pres.htm",
+      "date": "2025-02-01",
+      "verified": true,
+      "excerpt": "Duolingo reported $1,037.6 million in full-year revenue for FY2025, up 39% from $748 million the year before. Paid subscribers grew 28% to 12.2 million. Daily active users climbed 30% to 52.7 million in Q4 2025."
+    },
+    {
+      "id": 5,
+      "claim": "Speak reached $100M ARR with 500+ enterprise clients including KPMG and HD Hyundai",
+      "publisher": "Speak (company blog)",
+      "url": "https://www.speak.com/blog/series-c",
+      "date": "2024-12-10",
+      "verified": true,
+      "excerpt": "Speak for Business bringing effective English learning to employers everywhere, with 200+ customers across various industries and 85% adoption rate among employees."
+    },
+    {
+      "id": 6,
+      "claim": "ELSA Speak raised $60M total ($23M Series C Sep 2023); 2.5M+ users",
+      "publisher": "Tracxn / Crunchbase",
+      "url": "https://tracxn.com/d/companies/elsa-speak/__oUqt06y8V8ur78Nr5r2uVOAaIrTCxiqTQTMJGQoEAHCu57JWE/funding-and-investors",
+      "date": "2024-01-01",
+      "verified": true,
+      "excerpt": "ELSA Speak has raised a total funding of $60M over 9 rounds from 25 investors, with their latest funding round being $23M on September 12, 2023."
+    },
+    {
+      "id": 7,
+      "claim": "Language learning apps market $6.34B in 2024, $7.36B in 2025, projected $24.39B by 2033 at 16.15% CAGR",
+      "publisher": "Straits Research",
+      "url": "https://straitsresearch.com/report/language-learning-apps-market",
+      "date": "2025-01-01",
+      "verified": true,
+      "excerpt": "Straits Research valued the global language learning apps market at $6.34 billion in 2024, with a projection of $7.36 billion for 2025 and $24.39 billion by 2033 at a 16.15% CAGR."
+    },
+    {
+      "id": 8,
+      "claim": "$400B global corporate learning market being disrupted by AI tutors (Feb 2026)",
+      "publisher": "Josh Bersin",
+      "url": "https://joshbersin.com/2026/02/new-research-how-ai-transforms-400-billion-of-corporate-learning/",
+      "date": "2026-02-01",
+      "verified": true,
+      "excerpt": "New Research: How AI Transforms $400 Billion Of Corporate Learning"
+    },
+    {
+      "id": 9,
+      "claim": "Duolingo Q2 2025: 41% revenue growth YoY; 40% DAU growth",
+      "publisher": "EdTech Innovation Hub",
+      "url": "https://www.edtechinnovationhub.com/news/duolingo-rides-ai-momentum-with-fastest-course-launch-and-40-dau-growth-in-q2",
+      "date": "2025-08-01",
+      "verified": true,
+      "excerpt": "Duolingo rides AI momentum with fastest course launch and 40% DAU growth in Q2 2025."
+    },
+    {
+      "id": 10,
+      "claim": "HelloTalk 70M+ registered users in 200+ countries supporting 150+ languages",
+      "publisher": "HelloTalk",
+      "url": "https://www.hellotalk.com/en/blog/language-learning-apps-compared-2026",
+      "date": "2026-01-01",
+      "verified": true,
+      "excerpt": "HelloTalk has 70M+ registered users across 200+ countries and 260+ languages supported."
+    },
+    {
+      "id": 11,
+      "claim": "Babbel revenue €352M; 10M+ subscribers; profitable and bootstrapped",
+      "publisher": "Business of Apps",
+      "url": "https://www.businessofapps.com/data/language-learning-app-market/",
+      "date": "2026-01-01",
+      "verified": true,
+      "excerpt": "Babbel reported €352 million (~$383 million) in revenue."
+    },
+    {
+      "id": 12,
+      "claim": "Forbes: AI startup racing Duolingo to replace human language tutors",
+      "publisher": "Forbes",
+      "url": "https://www.forbes.com/sites/rashishrivastava/2025/11/12/this-startup-is-racing-duolingo-to-replace-human-language-tutors-with-ai/",
+      "date": "2025-11-12",
+      "verified": true,
+      "excerpt": "This Startup Is Racing Duolingo To Replace Human Language Tutors With AI — Forbes deep dive on Speak's model and the broader market disruption."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "70% of language learners avoid speaking practice due to embarrassment",
+      "note": "Commonly cited statistic in EdTech; specific sourcing not confirmed during research — treat as [unverified industry estimate]"
+    },
+    {
+      "claim": "68% of language learners comfortable practicing conversation with AI over a stranger",
+      "note": "Survey figure cited in market commentary; original survey source not confirmed during research — treat as [unverified]"
+    }
+  ]
+}
