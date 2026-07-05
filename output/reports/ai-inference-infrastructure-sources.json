@@ -1,0 +1,141 @@
+{
+  "trend": "AI Inference Infrastructure",
+  "slug": "ai-inference-infrastructure",
+  "research_date": "2026-07-05",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI Inference Market Size, Share & Latest Trends, 2025 To 2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-inference-market-189921964.html",
+      "publisher": "MarketsandMarkets",
+      "claim": "AI inference market valued at $106.15B in 2025; projected to reach $254.98B by 2030 at 19.2% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI Inference Market Size And Trends | Industry Report, 2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-inference-market-report",
+      "publisher": "Grand View Research",
+      "claim": "Global AI inference market estimated at $97.24B in 2024; CAGR of 17.5% from 2025-2030",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Baseten Raises $1.5 Billion to Power the Next Era of AI Inference",
+      "url": "https://finance.yahoo.com/technology/ai/articles/baseten-raises-1-5-billion-130000555.html",
+      "publisher": "Yahoo Finance",
+      "claim": "Baseten raises $1.5B Series F at $13B valuation; ARR grew 1,900% YoY to ~$600M; processes 1B+ inference calls/day across 87 clusters on 18 clouds",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Together AI Raises $800M: Open-Source Inference Breaks $1B as Closed Models Stall",
+      "url": "https://www.techtimes.com/articles/319657/20260703/together-ai-raises-800m-open-source-inference-breaks-1b-closed-models-stall.htm",
+      "publisher": "TechTimes",
+      "claim": "Together AI raises $800M Series C at $8.3B valuation; annual bookings exceed $1.15B",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "CES 2026: AI compute sees a shift from training to inference",
+      "url": "https://www.computerworld.com/article/4114579/ces-2026-ai-compute-sees-a-shift-from-training-to-inference.html",
+      "publisher": "Computerworld",
+      "claim": "Inference workloads to account for ~67% of all AI compute in 2026, up from 33% in 2023",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Why AI's next phase will likely demand more computational power, not less",
+      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/compute-power-ai.html",
+      "publisher": "Deloitte Insights",
+      "claim": "Generative AI computing shifts from training-centric to inference-centric in 2026; inference will account for majority of AI compute by 2030",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Cerebras Systems Inc. Form 8-K — Q1 FY2026 Financial Results",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002021728/000162828026044941/cbrsannouncesfinancialresu.htm",
+      "publisher": "SEC / Cerebras Systems",
+      "claim": "Cerebras Q1 2026 revenue $193.4M; multi-year OpenAI deal for 750MW valued at over $20B; IPO'd at ~$66B market cap",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Fireworks AI Is Reportedly Seeking a $15 Billion Valuation",
+      "url": "https://chatforest.com/reviews/fireworks-ai-15-billion-valuation-inference-infrastructure-2026/",
+      "publisher": "ChatForest",
+      "claim": "Fireworks AI seeks $15B valuation — 3.75x jump from $4B Series C in Oct 2025; $800M ARR as of May 2026",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Baseten $1.5B Raise and the AI Inference Gold Rush",
+      "url": "https://www.digitalapplied.com/blog/baseten-1-5b-funding-ai-inference-infrastructure-2026",
+      "publisher": "Digital Applied",
+      "claim": "Baseten ARR grew from ~$200M (Dec 2025) to ~$600M (Mar 2026); analysts expect inference to account for two-thirds of AI compute demand by end of 2026",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI Inference Economics: The 1,000× Cost Collapse Reshaping GPUs",
+      "url": "https://www.gpunex.com/blog/ai-inference-economics-2026/",
+      "publisher": "GPUnex",
+      "claim": "GPT-4-class inference cost fell from ~$20/million tokens (late 2022) to under $0.40/million tokens in early 2026 — a ~98% reduction in under 4 years",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "After Nvidia's Groq deal, meet the other AI chip startups that may be in play",
+      "url": "https://fortune.com/2026/01/05/nvidia-groq-deal-ai-chip-startups-in-play/",
+      "publisher": "Fortune",
+      "claim": "NVIDIA acquired Groq (LPU inference hardware) for a reported ~$20B in late 2025, marking inference hardware as a standalone M&A category",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI Inference and World Model Startups Pull $1.8B in Two Days as Foundation Models Commoditize",
+      "url": "https://www.techtimes.com/articles/318779/20260621/ai-inference-world-model-startups-pull-18b-two-days-foundation-models-commoditize.htm",
+      "publisher": "TechTimes",
+      "claim": "$1.8B raised by inference infrastructure startups in two days in June 2026; foundation model commoditization is the structural driver",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI Inference Market Size to Hit USD 254.98 Billion by 2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-inference-market-189921964.html",
+      "publisher": "MarketsandMarkets",
+      "claim": "Edge AI inference growing at 38.6% CAGR — the fastest segment within AI infrastructure",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Q1 2026: The Quarter AI Infrastructure Became Energy-Constrained",
+      "url": "https://www.globaldatacenterhub.com/p/q1-2026-the-quarter-ai-infrastructure",
+      "publisher": "Global Data Center Hub",
+      "claim": "Q1 2026 marked AI infrastructure transitioning from capital-constrained to energy-constrained; 20% of planned data center projects face power grid blocks",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "August 2026 EU AI Act Deadline: Is Your Robotics Company Ready?",
+      "url": "https://www.hiai-design.com/blog-eu-ai-act-robotics-2026",
+      "publisher": "HI AI Design",
+      "claim": "EU AI Act fully applicable from August 2, 2026; mandates energy transparency and documentation for AI systems including inference APIs",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Search volume ~120K/month for 'AI inference' and related terms",
+      "note": "[unverified] — estimated from Google Trends signals and market interest indicators; Keyword Everywhere API data not retrieved for this report"
+    },
+    {
+      "claim": "AI inference market was approximately $10B in 2021",
+      "note": "[unverified] — inferred from historical compute market data; category was not tracked independently before 2022 ChatGPT launch"
+    },
+    {
+      "claim": "HIPAA-compliant inference commands 40-80% pricing premium over standard API rates",
+      "note": "[unverified] — based on industry conversations and pricing analysis; no formal published study available at time of research"
+    }
+  ]
+}
