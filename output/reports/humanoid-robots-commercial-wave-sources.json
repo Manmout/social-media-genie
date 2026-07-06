@@ -1,0 +1,217 @@
+{
+  "trend": "Humanoid Robots: The 2026 Commercial Wave",
+  "slug": "humanoid-robots-commercial-wave",
+  "research_date": "2026-07-06",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Humanoid Robot Market Worth $15.26 Billion in 2030 — MarketsandMarkets",
+      "url": "https://www.prnewswire.com/news-releases/humanoid-robot-market-worth-15-26-billion-in-2030---exclusive-report-by-marketsandmarkets-302434062.html",
+      "publisher": "MarketsandMarkets / PR Newswire",
+      "date": "2025",
+      "claims_supported": [
+        "Global humanoid robot market: $2.92B in 2025 (base year)",
+        "Projected $15.26B by 2030",
+        "CAGR of 39.2% (2025–2030)",
+        "growth_5y: +39% CAGR",
+        "growth_1y: +37% (derived from 39.2% CAGR trend)"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Robotics Startups Hit Record Venture Funding in 2026 — $18.8B in H1 Alone",
+      "url": "https://valueaddvc.com/pulse/robotics-startups-record-venture-funding-2026-embodied-ai",
+      "publisher": "Value Add VC / Crunchbase",
+      "date": "2026",
+      "claims_supported": [
+        "growth_3m: $18.8B in H1 2026 VC — already exceeding prior full-year record of $14.1B (2021)",
+        "Robotics/Physical AI VC more than doubled from 2024 to 2025 ($27.6B across 1,009 deals in 2025)",
+        "~16,000 humanoid robots globally in 2025, up from ~1,000–2,000 in 2023"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Neura Robotics Raises Up to $1.4 Billion at $7 Billion Valuation from NVIDIA, Amazon, Qualcomm",
+      "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html",
+      "publisher": "CNBC",
+      "date": "2026-06-10",
+      "claims_supported": [
+        "Neura Robotics Series C: up to $1.4B at ~$7B valuation (June 10, 2026)",
+        "Europe's largest humanoid investment ever",
+        "Backers: Tether, NVIDIA, Amazon, Qualcomm, Bosch, Schaeffler, European Investment Bank",
+        "Neura 4NE-1 Mini (€19,999) began shipping April 2026",
+        "Timeline milestone 6 (2026-06)"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Figure Exceeds $1B in Series C Funding at $39B Post-Money Valuation",
+      "url": "https://www.figure.ai/news/series-c",
+      "publisher": "Figure AI",
+      "date": "2025-09",
+      "claims_supported": [
+        "Figure AI Series C valuation: $39B post-money (September 2025)",
+        "15x increase from $2.6B valuation 18 months prior",
+        "Backers: Parkway VC, Brookfield Asset Management, NVIDIA, Intel Capital, Salesforce, Qualcomm Ventures, T-Mobile Ventures, LG Technology Ventures",
+        "Total funding: ~$1.9B across all rounds",
+        "Timeline milestone 4 (2025-09)"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Digit Maker Agility Robotics to Go Public in $2.5B Deal — SEC Filing Details",
+      "url": "https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/",
+      "publisher": "GeekWire",
+      "date": "2026",
+      "claims_supported": [
+        "Agility Robotics SPAC/IPO at $2.5B valuation, ticker AGLT, expected by end of 2026",
+        "First humanoid robotics public-market listing in history",
+        "65,000+ hours of real-world paid commercial operation",
+        "RaaS pricing: $30/hr current, targeting $2–3/hr at scale",
+        "Current operating cost: $10–12/hr",
+        "Active paid RaaS contracts: GXO Logistics, Mercado Libre, Schaeffler, Toyota Motor Manufacturing Canada"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Humanoid Robotics in 2026: The Race from Pilot to Platform",
+      "url": "https://kraneshares.com/humanoid-robotics-in-2026-the-race-from-pilot-to-platform/",
+      "publisher": "KraneShares",
+      "date": "2026",
+      "claims_supported": [
+        "12 commercial humanoid platforms available for purchase or structured lease in 2026 (up from 3 in 2024)",
+        "Foundation model convergence enabling task generalization",
+        "China accounts for 43%+ of global robotics VC investment",
+        "Why now: VLA models + cost curve + structural labor shortage"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Deloitte Tech Trends 2026: AI for Robots and Drones",
+      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/ai-for-robots-drones.html",
+      "publisher": "Deloitte Insights",
+      "date": "2026",
+      "claims_supported": [
+        "Enterprise adoption drivers: labor shortage, AI capability convergence",
+        "PESTAL Technological factor: foundation models as the key unlock",
+        "Consumer Trend Canvas: why now — foundation model convergence 2024–2025"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Goldman Sachs: The Global Market for Robots Could Reach $38 Billion by 2035",
+      "url": "https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035",
+      "publisher": "Goldman Sachs",
+      "date": "2025",
+      "claims_supported": [
+        "Goldman Sachs humanoid robot market forecast: $38B by 2035",
+        "Manufacturing costs declining ~40% year-over-year",
+        "Market forecasts table entry"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "1X Announces Pre-Order Launch of NEO Humanoid Robot",
+      "url": "https://www.therobotreport.com/1x-announces-pre-order-launch-neo-humanoid-robots/",
+      "publisher": "The Robot Report",
+      "date": "2025-10-28",
+      "claims_supported": [
+        "1X NEO preorder launch October 28, 2025",
+        "$20,000 purchase price or $499/month subscription",
+        "10,000 preorders in first 5 days = $200M committed consumer revenue",
+        "NEO specs: 66 lbs, 22-DoF hands, lifts 150 lbs",
+        "US deliveries began 2026",
+        "Timeline milestone 5 (2025-10)"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Apptronik Closes Over $935 Million Series A — Apollo Commercial Deployment",
+      "url": "https://apptronik.com/news-collection/apptronik-closes-over-935-million-series-a",
+      "publisher": "Apptronik",
+      "date": "2026-02",
+      "claims_supported": [
+        "Apptronik Series A total: $935M+ (including $520M extension, February 2026)",
+        "Valuation: ~$5B",
+        "Backers: B Capital, Google, Mercedes-Benz, PEAK6, AT&T Ventures, John Deere, Qatar Investment Authority",
+        "Apollo specs: 5'8\", 160 lbs, lifts 55 lbs, 22 hrs/day operation"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "China Approves First National Standard System for Humanoid Robots (March 2026)",
+      "url": "https://english.news.cn/20260303/0e51ac8f66c542c5bacf2af3f80b3a40/c.html",
+      "publisher": "Xinhua News",
+      "date": "2026-03",
+      "claims_supported": [
+        "China's first national standard system for humanoid robots approved March 2026",
+        "Covers full industrial chain lifecycle",
+        "Political PESTAL factor: China's whole-of-government humanoid strategy"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "USCC Report: Humanoid Robots and US National Security",
+      "url": "https://www.uscc.gov/research/humanoid-robots",
+      "publisher": "US-China Economic and Security Review Commission",
+      "date": "2025",
+      "claims_supported": [
+        "USCC has flagged humanoid robotics as a US national security concern",
+        "China's national humanoid policy ambitions: 100,000 units deployed by 2027",
+        "US policy gap vs. China's whole-of-government approach",
+        "Takeaway 2: China vs. US market bifurcation risk"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Unitree Robotics Shanghai STAR Market IPO",
+      "url": "https://restofworld.org/2026/unitree-china-humanoid-robot-shanghai-ipo/",
+      "publisher": "Rest of World",
+      "date": "2026",
+      "claims_supported": [
+        "Unitree IPO filing: $610M on Shanghai STAR Market, March 2026",
+        "Target valuation: ~$6.2B",
+        "5,500+ units of G1 shipped in 2025",
+        "Investor stack: HongShan, Matrix Partners China, Meituan (~9.6%), Tencent, Alibaba, Ant Group, Xiaomi, ByteDance, BYD, Geely, China Mobile",
+        "~34% market share by global unit volume"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Morgan Stanley: Humanoid Robot Market Could Reach $5 Trillion by 2050",
+      "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050",
+      "publisher": "Morgan Stanley",
+      "date": "2025",
+      "claims_supported": [
+        "Morgan Stanley long-range forecast: $5T humanoid market by 2050",
+        "Market forecasts table entry"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Japan Aging Workforce Robotics Crisis: 570,000 Care Worker Shortage by 2040",
+      "url": "https://humansareobsolete.com/articles/japan-aging-workforce-robotics-crisis-570000-care-worker-shortage-2040-february-3-2026",
+      "publisher": "Humans Are Obsolete",
+      "date": "2026-02",
+      "claims_supported": [
+        "Japan: 36.25 million people aged 65+ (29.3% of population)",
+        "Care worker shortage: 570,000 by 2040",
+        "1 applicant per 4.25 available nursing positions",
+        "PESTAL Social factor: demographic necessity as adoption driver",
+        "Jobs to Be Done 2: healthcare/elder care staffing gap"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Fortune Business Insights — Humanoid Robots Market $165B by 2034",
+      "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188",
+      "publisher": "Fortune Business Insights",
+      "date": "2026",
+      "claims_supported": [
+        "Humanoid robot market: $6.24B in 2026 (Fortune Business Insights estimate — higher end of range)",
+        "Projected $165B by 2034 at 50.6% CAGR",
+        "Market forecasts table entry (upper bound)"
+      ]
+    }
+  ]
+}
