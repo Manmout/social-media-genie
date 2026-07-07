@@ -1,0 +1,67 @@
+{
+  "trend": "Agentic QA: AI-Native Software Testing",
+  "slug": "agentic-qa-ai-testing",
+  "collected": "2026-07-07",
+  "sources": [
+    {
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-powered-software-testing-and-qa-market",
+      "publisher": "Mordor Intelligence",
+      "claim": "AI-Powered Software Testing & QA Market: $9.32B (2025) → $11.99B (2026) → $39.43B (2031) at 26.88% CAGR. Security testing fastest segment at 27.88% CAGR.",
+      "verified": true
+    },
+    {
+      "url": "https://www.congruencemarketinsights.com/report/agentic-ai-for-enterprise-application-testing-market",
+      "publisher": "Congruence Market Insights",
+      "claim": "Agentic AI For Enterprise Application Testing Market: $8.56B (2025) → $100.19B (2033) at 36% CAGR.",
+      "verified": true
+    },
+    {
+      "url": "https://www.coherentmarketinsights.com/industry-reports/software-testing-and-qa-services-market",
+      "publisher": "Coherent Market Insights",
+      "claim": "Software Testing and QA Services Market: $50.67B (2026) → $107.25B (2033) at 11.5% CAGR.",
+      "verified": true
+    },
+    {
+      "url": "https://agentmarketcap.ai/blog/2026/04/08/momentic-autonomous-qa-agent-testing-market-2026",
+      "publisher": "AgentMarketCap",
+      "claim": "$1.5B+ flowing into autonomous AI testing agents in 2026; Momentic customer roster (Notion, Webflow, Retool); autonomous QA market overview.",
+      "verified": true
+    },
+    {
+      "url": "https://www.calcalistech.com/ctech/articles/0,7340,L-3929092,00.html",
+      "publisher": "CTech / Calcalist",
+      "claim": "Tricentis acquires Testim for $200M (February 2022) — landmark M&A validating AI-powered testing category.",
+      "verified": true
+    },
+    {
+      "url": "https://witness.ai/blog/eu-ai-act-compliance-checklist-2026/",
+      "publisher": "Witness AI",
+      "claim": "EU AI Act Article 9 mandates adversarial robustness testing for high-risk AI systems by August 2, 2026; penalties up to €35M or 7% of global turnover.",
+      "verified": true
+    },
+    {
+      "url": "https://www.tricentis.com/blog/qa-trends-ai-agentic-testing",
+      "publisher": "Tricentis",
+      "claim": "72% of Fortune 500 enterprises deploying AI-driven or agent-based testing tools across ERP, CRM, and cloud-native platforms in 2026; agentic QE platform capabilities.",
+      "verified": true
+    },
+    {
+      "url": "https://momentic.ai/blog/ai-agents-in-qa-testing",
+      "publisher": "Momentic",
+      "claim": "Momentic total funding $22.8M ($500K pre-seed YC, $3.7M seed FundersClub Mar 2025, $15M Series A Standard Capital Nov 2025); customer base and platform positioning.",
+      "verified": true
+    },
+    {
+      "url": "https://www.shiplight.ai/blog/best-agentic-qa-tools-2026",
+      "publisher": "Shiplight AI",
+      "claim": "Platform comparison: Mabl $120M+ raised; BlinqIO BDD/Gherkin positioning; Katalon 30K+ users; Applitools visual AI leader; top 8 agentic QA tools compared.",
+      "verified": true
+    },
+    {
+      "url": "https://thinksys.com/qa-testing/qa-trends-report-2026/",
+      "publisher": "ThinkSys",
+      "claim": "QA Trends 2026: 89% of enterprises pilot GenAI in quality engineering; 40% of large enterprises have AI in CI/CD workflows; shift-left adoption 48% (2020) to 72% (2026).",
+      "verified": true
+    }
+  ]
+}

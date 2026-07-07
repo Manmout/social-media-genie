@@ -1,0 +1,163 @@
+{
+  "trend_name": "Agentic QA: AI-Native Software Testing",
+  "status": "surging",
+  "search_volume": "110K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+224%",
+  "growth_1y": "+29%",
+  "growth_3m": "+18%",
+  "trigger": "EU AI Act Article 9 mandates adversarial testing for high-risk AI by Aug 2026 (€35M fines). $1.5B+ poured into agentic QA in 2026 alone. AI-generated code is flooding CI/CD pipelines — traditional manual QA cannot keep pace with developer velocity.",
+  "timeline": [
+    {
+      "date": "2017",
+      "event": "Mabl founded in Boston — pioneers self-healing AI test automation, eliminating flaky tests through ML. Sets the conceptual foundation for AI-driven QA before the LLM era."
+    },
+    {
+      "date": "Feb 2022",
+      "event": "Tricentis acquires Testim for $200M — first major M&A signal that AI-powered testing is enterprise-ready and investable at scale. Category validation moment for VCs."
+    },
+    {
+      "date": "2023",
+      "event": "GPT-4 era: Natural language test generation goes from research prototype to production-ready. Teams generate test suites from Jira tickets and user stories in plain English for the first time."
+    },
+    {
+      "date": "Apr 2024",
+      "event": "Momentic (YC W24) launches AI-native E2E testing for web and mobile. Customers including Notion, Webflow, and Retool adopt it — plain English converts to automated test coverage in minutes."
+    },
+    {
+      "date": "Nov 2025",
+      "event": "Momentic raises $15M Series A (Standard Capital). Tricentis launches its agentic quality engineering platform. World Quality Report 2025: 89% of enterprises now pilot GenAI in QE — adoption tips from early majority to mainstream."
+    },
+    {
+      "date": "2026",
+      "event": "EU AI Act Article 9 mandates adversarial testing by Aug 2026. $1.5B+ flows into AI testing agents. 72% of Fortune 500 enterprises deploy AI-driven testing across ERP, CRM, and cloud-native platforms."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act Article 9 mandates risk management systems including adversarial robustness testing for high-risk AI systems by August 2, 2026. Penalties reach €35M or 7% of global turnover. US federal AI testing standards in committee — bipartisan pressure for mandatory pre-deployment validation."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Software testing market: $50.67B in 2026 → $107.25B by 2033. AI-powered QA segment: $11.99B in 2026 → $39.43B by 2031 at 26.88% CAGR. $1.5B+ poured into agentic testing startups in 2026. AI-generated code is the demand catalyst — more code ships, more automated testing needed."
+    },
+    {
+      "factor": "Social",
+      "impact": "89% of engineering orgs pilot GenAI in quality engineering (World Quality Report 2025). 72% of QA professionals use AI to generate or optimize test scripts in 2026. Shift-left culture accelerates: 48% of teams tested early in 2020 vs. 72% by 2026. QA engineers evolving from script writers to AI strategists."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Multi-agent architectures plan, execute, analyze, and self-heal tests without human prompting. LLMs generate test cases from natural language user stories. Visual AI validates UI correctness and WCAG accessibility with one prompt. Native CI/CD integration (GitHub Actions, GitLab, Jenkins) makes agentic testing a first-class DevOps citizen."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Cloud-native deployment (72.48% of market) eliminates on-premise testing labs and hardware infrastructure. Efficient AI test runners deliver more coverage at lower compute cost vs. human-operated test farms. Overall energy footprint per test case declining as AI optimizes test suite execution paths."
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU AI Act compliance drives mandatory testing budgets across Europe. GDPR interactions with AI test data create synthetic data mandates — teams must use AI-generated, non-personal test fixtures rather than production databases. ISO/IEC 29119 software testing standards updated for AI system validation requirements."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Generate test suites automatically from user stories and Jira tickets",
+      "solution": "Agentic QA platforms (Momentic, Tricentis Agentic QE) that convert plain English descriptions into complete test suites — eliminating the test authoring bottleneck without scripting or manual test case writing."
+    },
+    {
+      "job": "Eliminate broken test maintenance (40–60% of QA engineering time)",
+      "solution": "Self-healing AI agents (Mabl, Testim) that detect when UI elements change and automatically update selectors, locators, and assertions — zero manual intervention for routine maintenance as apps evolve."
+    },
+    {
+      "job": "Scale test coverage 5–10× without scaling QA headcount",
+      "solution": "Autonomous test generation and execution agents that run 24/7, covering edge cases and regression paths no human team has capacity to write — enabling coverage to grow proportionally with codebase size."
+    },
+    {
+      "job": "Validate accessibility and security compliance at every deploy",
+      "solution": "AI testers that check WCAG 2.0 standards and OWASP Top 10 with natural language prompts — 'verify this page is accessible' becomes an automated CI/CD gate, not a quarterly manual audit cycle."
+    },
+    {
+      "job": "Prove AI system compliance under EU AI Act adversarial testing requirements",
+      "solution": "Adversarial testing agents that systematically probe AI models for robustness failures, bias, and safety issues — generating the audit trail required by Article 9 for high-risk AI systems facing €35M fines."
+    }
+  ],
+  "market": [
+    {
+      "name": "Tricentis",
+      "share": "~18%",
+      "loved": "Enterprise-grade agentic QE platform; owns Testim ($200M acquisition 2022); powers SAP testing globally; AI generates test cases from natural language; deepest enterprise integrations",
+      "segment": "Enterprise QE"
+    },
+    {
+      "name": "Mabl",
+      "share": "~12%",
+      "loved": "$120M+ raised; pioneered self-healing auto-waiting test automation; low-code interface; web, mobile, API coverage; Vista Equity Partners-backed; Boston-based",
+      "segment": "Low-Code AI Testing"
+    },
+    {
+      "name": "Katalon",
+      "share": "~10%",
+      "loved": "30K+ users globally; free tier + enterprise; integrated API, web, mobile, desktop in one platform; strong community and IDE plugins; dominant in APAC",
+      "segment": "Mid-Market Unified Testing"
+    },
+    {
+      "name": "Applitools",
+      "share": "~8%",
+      "loved": "Visual AI testing leader; Eyes SDK integrates with any existing framework; pixel-perfect screenshot comparison; strong in e-commerce and media companies",
+      "segment": "Visual AI Testing"
+    },
+    {
+      "name": "Momentic",
+      "share": "~3%",
+      "loved": "YC W24; $22.8M raised; fastest-growing AI-native E2E testing; customers: Notion, Webflow, Retool; plain English → test suite in minutes; top developer NPS in category",
+      "segment": "AI-Native E2E"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Tricentis",
+      "detail": "Enterprise leader in agentic quality engineering. Owns Testim ($200M acquisition, Feb 2022). Powers testing for SAP systems globally. AI generates complete test cases from natural language prompts. Agentic load testing, quality intelligence, and conversational testing interface. Full enterprise stack — dominates regulated industries."
+    },
+    {
+      "name": "Mabl",
+      "detail": "$120M+ raised (Series C: Vista Equity Partners, Nov 2021 — $40M). Boston-based, founded 2016. Pioneered low-code AI testing with self-healing and auto-waiting. In 2026 added AI-driven test generation from user stories and Jira. Web, mobile, API coverage in one platform. Enterprise-grade SLAs."
+    },
+    {
+      "name": "Momentic",
+      "detail": "YC W24; total funding $22.8M ($500K YC pre-seed, $3.7M seed FundersClub, $15M Series A Standard Capital Nov 2025). Customers: Notion, Xero, Bilt, Webflow, Retool. Converts plain English into E2E tests that self-heal on app changes. Fastest developer adoption curve in the 2025-2026 cycle."
+    },
+    {
+      "name": "BlinqIO",
+      "detail": "Targets BDD/Gherkin teams (Cucumber, Behat). AI virtual testers work 24/7 on existing test suites with zero migration required. Strong in enterprises with large legacy Gherkin test libraries. Purpose-built for continuous autonomous testing without disrupting existing QA workflows or toolchain."
+    },
+    {
+      "name": "Katalon Studio",
+      "detail": "30K+ global users. Free tier drives developer adoption; enterprise plans fund growth. Single platform covering web, mobile, API, desktop testing. Extensive plugin ecosystem; strong in APAC. 2026 AI assistant generates and maintains tests from user behavior recordings and natural language descriptions."
+    }
+  ],
+  "canvas": {
+    "who": "Engineering leads and QA managers at Series B+ SaaS, fintech, and e-commerce companies; DevOps teams at Fortune 500s with large test maintenance backlogs; compliance officers at companies deploying high-risk AI under EU AI Act; developers at AI-native startups shipping code faster than human QA can follow",
+    "where": "In CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins); QA standups where test failures block releases; compliance meetings preparing EU AI Act audit evidence; developer desktops where AI coding tools (Cursor, GitHub Copilot) generate code that immediately needs testing",
+    "why_now": "AI coding tools (GitHub Copilot, Cursor) boost developer output 55% — but QA headcount is flat. EU AI Act mandates adversarial testing by August 2026, €35M fines creating urgency. Traditional SDET salaries ($150–200K) make scaling manual QA uneconomical. $1.5B+ in VC signals the category is graduating from niche to standard DevOps infrastructure.",
+    "behavior": "QA engineers writing prompts instead of Selenium scripts; budget shifting from SDET headcount to AI QA SaaS subscriptions; teams running AI test generation on every pull request; executives tracking test coverage as a product health KPI; procurement moving to agentic QA as the default DevOps tooling layer",
+    "unmet": "No single agent covers web + mobile + API + backend with full shared context; compliance documentation gap — AI tools generate results but not the audit trail EU regulators require; integration with legacy test suites is still painful; pricing opacity — consumption-based credit models that engineering teams cannot forecast accurately in budget planning"
+  },
+  "takeaways": [
+    "The 40–60% of QA time spent on broken test maintenance is the killer ROI case — any team with 10+ engineers maintaining a Selenium test suite is bleeding capacity. Agentic QA pays back within 90 days on maintenance savings alone; lead with this number in every sales conversation.",
+    "EU AI Act compliance is the non-optional enterprise forcing function for 2026 — high-risk AI system providers face €35M fines if they cannot demonstrate adversarial testing by August 2026. This turns agentic QA tooling from optional DevOps infrastructure into regulatory necessity.",
+    "AI-generated code creates a structural testing gap that cannot be closed with headcount — GitHub Copilot users ship 55% more code but testing capacity is flat. This delta is the market: every AI coding tool installed is a future agentic QA contract waiting to be signed.",
+    "Developer-first beats enterprise-first in the current cycle — Momentic's adoption at Notion, Webflow, and Retool shows that bottom-up developer acquisition, not top-down SDET procurement, is the winning motion. The platform that wins developer NPS in 2026 owns the enterprise renewal in 2028."
+  ],
+  "sources": [
+    "https://www.mordorintelligence.com/industry-reports/ai-powered-software-testing-and-qa-market",
+    "https://www.congruencemarketinsights.com/report/agentic-ai-for-enterprise-application-testing-market",
+    "https://www.coherentmarketinsights.com/industry-reports/software-testing-and-qa-services-market",
+    "https://agentmarketcap.ai/blog/2026/04/08/momentic-autonomous-qa-agent-testing-market-2026",
+    "https://www.calcalistech.com/ctech/articles/0,7340,L-3929092,00.html",
+    "https://witness.ai/blog/eu-ai-act-compliance-checklist-2026/",
+    "https://www.tricentis.com/blog/qa-trends-ai-agentic-testing",
+    "https://momentic.ai/blog/ai-agents-in-qa-testing",
+    "https://www.shiplight.ai/blog/best-agentic-qa-tools-2026",
+    "https://thinksys.com/qa-testing/qa-trends-report-2026/"
+  ]
+}
