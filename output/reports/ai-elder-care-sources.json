@@ -1,0 +1,132 @@
+{
+  "slug": "ai-elder-care",
+  "trend_name": "AI in Elder Care",
+  "research_date": "2026-07-08",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Aging and Elderly Care Market Deep Analysis Report 2026 to 2035",
+      "url": "https://www.insightaceanalytic.com/report/ai-in-aging-and-elderly-care-market/2696",
+      "publisher": "InsightAce Analytics",
+      "claim": "Market valued at $56.78B in 2025, projected to reach $387.52B by 2035 at 21.3% CAGR. Historical baseline: $21.8B in 2021, $38.5B in 2023 — used for 5-year growth calculation.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI In Elderly Care Market Size, Share & 2031 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-in-elderly-care-market",
+      "publisher": "Mordor Intelligence",
+      "claim": "Market worth $44.61B in 2026, growing at 15.16% CAGR to reach $90.35B by 2031. Key players: CarePredict, Intuition Robotics, Vayyar Imaging, Nobi, K4Connect, Sensi.AI.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "AI in Elderly Care Market Growth & Forecast 2026-2033",
+      "url": "https://www.datamintelligence.com/research-report/ai-in-elderly-care-market",
+      "publisher": "DataM Intelligence",
+      "claim": "Market growing from $54.36B in 2025 to $67.56B in 2026 at 24.3% CAGR. Provides basis for 1-year growth figure of +24%.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Sage secures $65M to scale AI monitoring platform for aging population",
+      "url": "https://www.mobihealthnews.com/news/sage-secures-65m-scale-ai-monitoring-platform-aging-population",
+      "publisher": "MobiHealthNews",
+      "claim": "Sage raised $65M in March 2026, bringing total capital raised to $124M. Platform scales AI monitoring across nursing homes and assisted living facilities.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Enzo Health Raises $26M to Deploy AI Across Home Health",
+      "url": "https://www.morningstar.com/news/pr-newswire/20260504la49521/enzo-health-raises-26m-to-deploy-ai-across-home-health-to-meet-unprecedented-nationwide-demand-for-post-acute-care",
+      "publisher": "PR Newswire / Morningstar",
+      "claim": "Enzo Health raised $26M in May 2026 (led by N47) to expand AI platform into skilled nursing and hospice care, targeting unprecedented demand from aging Americans.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "AI-enabled senior care company CarePredict scores $29M",
+      "url": "https://www.mobihealthnews.com/news/ai-enabled-senior-care-company-carepredict-scores-29m",
+      "publisher": "MobiHealthNews",
+      "claim": "CarePredict raised $29M Series A-3 co-led by Aspire Healthtech Partners and SV Health Investors. Tempo wearable uses ML to predict ADL decline 72 hours before a clinical event.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Navigating the future of artificial intelligence technologies for improving the care of older adults",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12742854/",
+      "publisher": "PubMed Central / Innovation in Aging (Oxford Academic)",
+      "claim": "Peer-reviewed analysis of AI in elder care. Documents PESTAL factors including Medicare's ~80% revenue share, HIPAA/GDPR compliance requirements, caregiver workforce shortages, and digital literacy barriers for the 75+ demographic.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI Companions Are Redefining Elder Care: 3 Ways They Fight Loneliness, Boost Safety And Scale Support",
+      "url": "https://www.forbes.com/sites/cathyrubin/2025/05/16/ai-companions-are-redefining-elder-care-3-ways-they-fight-loneliness-boost-safety-and-scale-support/",
+      "publisher": "Forbes",
+      "claim": "94% of ElliQ users report feeling healthier and more connected; 95% report reduced loneliness. AI companions engage seniors an average of 60 interactions per day.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "K4Connect and Vayyar Care Partner to Bring Next-Level Radar Fall Detection Technology to Senior Living",
+      "url": "https://www.k4connect.com/k4connect-and-vayyar-care-partner-to-bring-next-level-radar-fall-detection-technology-to-the-senior-living-industry/",
+      "publisher": "K4Connect",
+      "claim": "Vayyar Care's contactless radar sensing technology is installed in over 12,000 rooms across senior care facilities globally. K4Connect partnership extends U.S. senior living distribution.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "2026 Tech Trends Among 50+ Adults: From Texting to AI",
+      "url": "https://creatingresults.com/blog/2026/02/02/2026-tech-trends-among-50-adults-from-texting-to-ai/",
+      "publisher": "Creating Results",
+      "claim": "AI usage among adults 65+ nearly doubled from 2024 to 2025, with approximately 30% now reporting interactions with AI platforms or apps. Voice health tools and health monitoring AI rank as most appealing categories.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "A New Era of Physical AI Senior & Dementia Care",
+      "url": "https://www.morningstar.com/news/business-wire/20251215591957/a-new-era-of-physical-ai-senior-dementia-care",
+      "publisher": "Business Wire / Morningstar",
+      "claim": "Confirms physical AI and companion robotics entering dementia care facilities. Documents market momentum for AI in memory care settings.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Redefining Elderly Care with Agentic AI: Challenges and Opportunities",
+      "url": "https://arxiv.org/html/2507.14912v1",
+      "publisher": "arXiv (preprint)",
+      "claim": "Academic paper documenting agentic AI opportunities in elderly care including fall prevention, medication adherence, cognitive monitoring, and companion applications. Published July 2026.",
+      "verified": true,
+      "note": "Preprint — not peer-reviewed. Treat as directionally accurate for applications landscape, not for market size claims."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_3m: +5% quarterly growth",
+      "note": "No publicly available quarterly growth figure found for the AI elder care market. Derived from annualized CAGR estimates (~21%); actual quarterly pace is unverified. [unverified]"
+    },
+    {
+      "claim": "Market share percentages for individual companies",
+      "note": "No public third-party market share breakdown by company found. Percentages in market[] section are estimates derived from reported deployment scale and funding relative to total market. [unverified]"
+    },
+    {
+      "claim": "U.S. will reach 1:11 caregiver-to-senior ratio by 2030",
+      "note": "Widely cited in industry reports but primary government or academic source not confirmed. Directionally consistent with AHRQ and BLS workforce projections. [partially verified]"
+    },
+    {
+      "claim": "Adults 65+ will outnumber children in U.S. by 2034",
+      "note": "Sourced from U.S. Census Bureau projections widely reported in 2023–2024 but exact URL not retrieved in this research session. [partially verified]"
+    }
+  ],
+  "search_queries_used": [
+    "AI elder care aging-in-place technology 2026 market funding",
+    "AI elderly care market players companies Intuition Robotics ElliQ Care Predict 2026",
+    "AI senior care technology milestones timeline 2020 2021 2022 2023 2024 2025 2026",
+    "AI elderly care PESTAL regulatory political social economic factors 2026",
+    "AI elder care CarePredict Sage Enzo Health funding 2025 2026 market share competitors",
+    "AI elderly care market size 2021 2022 billion value historical growth CAGR",
+    "SafelyYou Nobi K4Connect Vayyar Care AI senior fall detection market share 2026",
+    "AI elderly care fall detection medication reminder loneliness companion use cases 2026"
+  ]
+}
