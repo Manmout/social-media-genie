@@ -1,0 +1,173 @@
+{
+  "trend": "AI Personalized Nutrition",
+  "slug": "ai-personalized-nutrition",
+  "research_date": "2026-07-09",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Personalized Nutrition Global Market Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-in-personalized-nutrition-global-market-report",
+      "publisher": "The Business Research Company",
+      "claim_supported": "AI in personalized nutrition market: $4.5B in 2025 growing to $5.55B in 2026 at 23.3% CAGR; projected $12.75B by 2030 at 23% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI In Personalized Nutrition Market Size, Share & 2031 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-in-personalized-nutrition-market",
+      "publisher": "Mordor Intelligence",
+      "claim_supported": "AI personalized nutrition market valued at $2.12B in 2026, growing at 28.15% CAGR to $7.35B by 2031",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Abbott's new Libre Assist app feature tackles in-the-moment food decisions — CES 2026",
+      "url": "https://abbott.mediaroom.com/2026-01-05-Abbotts-new-Libre-Assist-app-feature-tackles-a-top-need-for-people-living-with-diabetes-in-the-moment-food-decisions",
+      "publisher": "Abbott (official press release)",
+      "claim_supported": "Abbott launched Libre Assist at CES 2026 (January 5); generative AI meal guidance free for FreeStyle Libre users; 7M+ existing CGM user base; color-coded glucose impact prediction before eating",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Signos Secures $20M to Expand CGM Use Beyond Diabetes Into Weight Loss",
+      "url": "https://medcitynews.com/2026/05/signos-continuous-glucose-monitor-diabetes-dexcom/",
+      "publisher": "MedCity News",
+      "claim_supported": "Signos raised $20M in May 2026 from GV, Dexcom, Blue Cross Blue Shield of Alabama; first FDA-cleared OTC CGM for weight management; 10x growth in 6 months; partnership with Dexcom Stelo biosensor",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Signos grows foothold in weight-loss wave fueled by GLP-1s",
+      "url": "https://www.cnbc.com/2026/05/27/ai-health-tech-signos-dexcom.html",
+      "publisher": "CNBC",
+      "claim_supported": "Signos 10x growth, OTC CGM + AI expansion, GLP-1 market connection, Dexcom partnership details",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "GLP-1 Companion Products Market Size Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/glp-1-companion-products-market-report",
+      "publisher": "Grand View Research",
+      "claim_supported": "GLP-1 companion products market: $4.7B in 2025, $5.2B in 2026, growing to $14.4B by 2036 at 10.7% CAGR; US market holds 85.9% share in 2025",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Obesity GLP-1 Market Size to Hit USD 66.57 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/obesity-glp-1-market",
+      "publisher": "Precedence Research",
+      "claim_supported": "GLP-1 obesity drug market: $8.21B in 2025, $10.12B in 2026, growing to $66.57B by 2035 at 23.28% CAGR",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Viome microbiome startup raises $86.5M, inks distribution deal with CVS",
+      "url": "https://techcrunch.com/2023/08/18/viome-a-microbiome-startup-raises-86-5m-inks-distribution-deal-with-cvs/",
+      "publisher": "TechCrunch",
+      "claim_supported": "Viome raised $86.5M (August 2023); signed CVS distribution deal for 9,000+ pharmacy locations; $302M total raised; 350,000+ users across 106 countries",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "GLP-1 Statistics & Trends: Usage, Market Size, Pricing & Research 2026",
+      "url": "https://www.forbes.com/health/weight-loss/glp-1-statistics/",
+      "publisher": "Forbes Health",
+      "claim_supported": "GLP-1 prescription scale (21M+ US prescriptions), drug cost data ($12,000-$18,000/year), adoption statistics",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "2026 Health and Nutrition Trends: GLP-1s Ranked #1 Health Trend for 2026",
+      "url": "https://www.nutritioninsight.com/news/health-nutrition-trends-2026-us-news-glp1.html",
+      "publisher": "Nutrition Insight",
+      "claim_supported": "GLP-1 ranked #1 health trend for 2026 by industry experts; wearable tech, food as medicine as key co-trends",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Lumen scores $62M for handheld metabolism measurement device",
+      "url": "https://www.mobihealthnews.com/news/lumen-scores-62m-handheld-metabolism-measurement-device",
+      "publisher": "MobiHealthNews",
+      "claim_supported": "Lumen raised $62M for CO2 breathalyzer metabolic tracker; $299 device price; AI-powered daily macro recommendations",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI in Personalized Nutrition Market to Rise at 27.25% CAGR till 2035",
+      "url": "https://www.towardshealthcare.com/insights/ai-in-personalized-nutrition-market-sizing",
+      "publisher": "Towards Healthcare",
+      "claim_supported": "AI personalized nutrition market valued at $2.01B in 2026, growing to $17.59B by 2035 at 27.25% CAGR — alternative market sizing estimate",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Abbott launches AI-based Libre Assist, its new in-app feature for meal planning — HLTH.com",
+      "url": "https://hlth.com/insights/news/abbott-launches-ai-based-libre-assist-its-new-in-app-feature-for-meal-planning-2026-01-06",
+      "publisher": "HLTH.com",
+      "claim_supported": "Additional reporting on Libre Assist CES 2026 launch features and competitive context vs. Dexcom",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "GLP-1 Drugs, Digital Health & Obesity Trends in 2026",
+      "url": "https://hlth.com/insights/articles/glp-1-drugs-digital-health-and-obesity-trends-in-2026-2026-04-17",
+      "publisher": "HLTH.com",
+      "claim_supported": "GLP-1 digital health ecosystem context; AI nutrition companion market dynamics in 2026",
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "ZOE 2026 Company Profile: Valuation, Funding & Investors",
+      "url": "https://pitchbook.com/profiles/company/268580-17",
+      "publisher": "PitchBook",
+      "claim_supported": "ZOE $133M total funding; founded 2017; co-founded with Tim Spector (King's College London); latest funding April 2025",
+      "verified": true,
+      "notes": "PitchBook may require subscription access"
+    },
+    {
+      "id": 16,
+      "title": "Personalized Nutrition Market Set to Double by 2030: How Data and AI Are Redefining Wellness",
+      "url": "https://www.marketsandmarkets.com/blog/FB/personalized-nutrition-market-size",
+      "publisher": "MarketsandMarkets",
+      "claim_supported": "Broader personalized nutrition market valued at $16B in 2025, projected to reach $36B by 2031 at ~14% CAGR; AI-specific segment growing faster",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "78% of Noom users maintain food logging for 3+ months vs. 18% for static diet apps",
+      "reason": "Source is Noom company claims; no independent peer-reviewed study found",
+      "marked_in_data": true
+    },
+    {
+      "claim": "50-70% of GLP-1 users regain weight within 2 years of stopping the drug",
+      "reason": "Directional from clinical trials; specific percentage range varies by study population",
+      "marked_in_data": true
+    },
+    {
+      "claim": "AI food recognition models can identify 1M+ food items from a photograph in under 2 seconds",
+      "reason": "No single verified source for this specific capability claim",
+      "marked_in_data": true
+    },
+    {
+      "claim": "InsideTracker has raised ~$19M and partners with Boston Celtics / NFL teams",
+      "reason": "Older funding data; sports partnerships not independently confirmed in 2026",
+      "marked_in_data": true
+    },
+    {
+      "claim": "1 in 4 US adults report awareness of gut health as a nutrition factor",
+      "reason": "No specific survey source found for this statistic",
+      "marked_in_data": true
+    },
+    {
+      "claim": "Fay growing at 3x year-over-year",
+      "reason": "Not independently verified in available sources",
+      "marked_in_data": true
+    },
+    {
+      "claim": "10% of covered population on GLP-1 drugs by 2028",
+      "reason": "Projection estimate; employer survey data varies widely",
+      "marked_in_data": true
+    }
+  ]
+}
