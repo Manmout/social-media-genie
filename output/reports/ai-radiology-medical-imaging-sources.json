@@ -1,0 +1,120 @@
+{
+  "trend": "AI Radiology & Medical Imaging",
+  "slug": "ai-radiology-medical-imaging",
+  "research_date": "2026-07-10",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Radiology Market Size, Share & Forecast 2026–2031",
+      "url": "https://www.fortunebusinessinsights.com/ai-in-radiology-market-115732",
+      "publisher": "Fortune Business Insights",
+      "claim": "Market reached $2.16B in 2026, forecast $8.23B by 2031 at 30.7% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Numbers from the FDA: Radiology Maintaining Its Lead in AI Clearances",
+      "url": "https://theimagingwire.com/2026/03/11/numbers-from-the-fda-show-radiology-is-maintaining-its-lead/",
+      "publisher": "The Imaging Wire",
+      "claim": "1,524 total FDA AI device clearances as of March 30, 2026; 1,163 (76.31%) for radiology",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Aidoc Banks $150M Series E Backed by Goldman Sachs to Scale Clinical AI Foundation Model",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/aidoc-banks-150m-backed-goldman-sachs-scale-clinical-ai-foundation-model",
+      "publisher": "Fierce Healthcare",
+      "claim": "Aidoc $150M Series E closed April 2026; led by Goldman Sachs with NVIDIA NVentures; total funding exceeds $500M; 2,000 hospitals, 60M cases/year",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Aidoc Secures FDA Clearance for Healthcare's First Foundation Model-Powered Clinical AI Device",
+      "url": "https://www.aidoc.com/about/news/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai/",
+      "publisher": "Aidoc",
+      "claim": "January 2026 FDA clearance for single body CT covering 14 conditions, 97% mean sensitivity, 98% mean specificity",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Viz.ai Closes 2025 with Record Scale and Patient Impact, Achieving Profitability in Its Healthcare Business",
+      "url": "https://www.viz.ai/news/viz-ai-closes-2025-with-record-scale-and-patient-impact",
+      "publisher": "Viz.ai",
+      "claim": "Viz.ai reached profitability in healthcare business January 2026; deployed at ~2,000 hospitals; 13 life sciences partnerships (up from 7 in 2024)",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Radiology in 2026: The Workforce Crisis Meets the AI Revolution",
+      "url": "https://www.beckershospitalreview.com/radiology/radiology-in-2026-the-workforce-crisis-meets-the-ai-revolution/",
+      "publisher": "Becker's Hospital Review",
+      "claim": "Projected shortfall of 17,000–42,000 radiologists, pathologists, and psychiatrists in the US by 2033",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "AI Medical Imaging in 2026: Best Radiology AI Tools, FDA Clearances, and Diagnostic Accuracy",
+      "url": "https://pinggy.io/blog/ai_medical_imaging_diagnostics_2026/",
+      "publisher": "Pinggy",
+      "claim": "Overview of top FDA-cleared radiology AI tools and clinical accuracy benchmarks in 2026",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI in Medical Imaging Market — Global Opportunity Analysis and Industry Forecast 2026–2036",
+      "url": "https://www.meticulousresearch.com/product/ai-in-medical-imaging-market-6690",
+      "publisher": "Meticulous Research",
+      "claim": "Global AI in Medical Imaging market size and forecast 2026–2036",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Qure.ai Gets $65M Series D Funding to Expand Healthcare AI",
+      "url": "https://www.qure.ai/news-press-coverages/qure-ai-gets-series-d-funding-to-expand-healthcare-ai",
+      "publisher": "Qure.ai",
+      "claim": "Qure.ai $65M Series D, $123M total funding, deployed in 30+ countries for TB and pneumonia AI screening",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Top Imaging & Pathology AI Companies: 2025 Market Analysis",
+      "url": "https://intuitionlabs.ai/articles/imaging-pathology-ai-vendors",
+      "publisher": "IntuitionLabs",
+      "claim": "Competitive landscape: Aidoc, Viz.ai, PathAI, GE HealthCare, Siemens Healthineers positioning and market structure",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Radiology Workflow Optimization 2026: Solving Staff Shortages with AI & Agentic Systems",
+      "url": "https://www.satmed-health.com/workflow-optimization-in-radiology-amid-shortages-using-ai-in-2026/",
+      "publisher": "Satmed Health",
+      "claim": "AI can automate up to 75% of CT lung cancer screening workflow steps; EU AI Act high-risk classification for radiology AI",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Ethical AI in Radiology 2026: Navigating the EU AI Act, Bias & Governance",
+      "url": "https://www.satmed-health.com/scaling-radiology-ai-2026-moving-from-pilot-projects-to-core-infrastructure/",
+      "publisher": "Satmed Health",
+      "claim": "EU AI Act high-risk compliance requirements for radiology AI: bias checks, training data documentation, human oversight mandates",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "PathAI partnership with Quest Diagnostics bringing AI pathology to 3,500+ service centers",
+      "note": "Widely reported; verify exact date and service center count via PathAI press release or Quest Diagnostics investor materials",
+      "risk": "low"
+    },
+    {
+      "claim": "GE HealthCare ~20% market share estimate",
+      "note": "Derived from positioning as Tier I leader with integrated scanner AI; individual market share not separately disclosed; treat as directional",
+      "risk": "medium"
+    },
+    {
+      "claim": "AI lung nodule detection reduces read time by 26% and improves detection of missed nodules by 29%",
+      "note": "Figures circulate in vendor literature and secondary sources; verify against original peer-reviewed clinical trial",
+      "risk": "low"
+    }
+  ]
+}
