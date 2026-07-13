@@ -1,0 +1,163 @@
+{
+  "trend": "Agentic AI for Financial Crime Detection",
+  "slug": "agentic-ai-fincrime-detection",
+  "research_date": "2026-07-12",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "GlobeNewswire",
+      "title": "Agentic AI Drives Exponential Growth in Fraud Detection Market, Forecast to Reach $55.66 Billion by 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321697/28124/en/agentic-ai-drives-exponential-growth-in-fraud-detection-market-forecast-to-reach-55-66-billion-by-2030.html",
+      "date": "2026-07-03",
+      "verified": true,
+      "claims": [
+        "Agentic AI in fraud detection: $7.73B (2025) → $11.53B (2026), CAGR 49.1%",
+        "Market forecast: $55.66B by 2030",
+        "Growth driven by digitization of payments, deepfake fraud, and agentic AI deployment"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "FIS Global (Press Release)",
+      "title": "FIS Brings Agentic AI to Banking with Anthropic, Starting with Financial Crimes",
+      "url": "https://www.fisglobal.com/about-us/media-room/press-release/2026/fis-brings-agentic-ai-to-banking-with-anthropic-starting-with-financial-crimes",
+      "date": "2026-05-06",
+      "verified": true,
+      "claims": [
+        "FIS + Anthropic launch Financial Crimes AI Agent powered by Claude",
+        "BMO and Amalgamated Bank are pilot customers",
+        "General availability planned H2 2026",
+        "US financial institutions spend $35–40B annually on AML operations",
+        "Agent compresses AML case investigation from days to minutes"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "Nasdaq (Newsroom)",
+      "title": "Financial Crime Has Crossed $4.4 Trillion – AI Can Level the Playing Field",
+      "url": "https://www.nasdaq.com/newsroom/financial-crime-has-crossed-44-trillion-ai-can-level-playing-field",
+      "date": "2026-03",
+      "verified": true,
+      "claims": [
+        "Global illicit financial activity: $4.4 trillion (2025)",
+        "Increase of $1.3T since 2023 — 19.2% CAGR",
+        "Bank fraud + scam losses: $579.4B in 2025",
+        "70% of financial institutions plan to increase AI/ML investment in 2 years"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "Business Wire / NICE Actimize",
+      "title": "NICE Actimize X-Sight ActOne Platform Redefines Financial Crime Investigations with Agentic AI",
+      "url": "https://www.businesswire.com/news/home/20250402173967/en/NICE-Actimize-X-Sight-ActOne-Platform-Redefines-Financial-Crime-Investigations-with-Agentic-AI",
+      "date": "2025-04-02",
+      "verified": true,
+      "claims": [
+        "X-Sight ActOne launched April 2025",
+        "Agentic AI reduces AML investigation time by 50%+",
+        "Merges ML, NLP, and generative AI for automated evidence gathering and SAR drafting",
+        "Deployed at 650+ financial institutions"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "Business Wire / Sardine AI",
+      "title": "Sardine AI Raises $70M to Make Fraud and Compliance Teams More Productive",
+      "url": "https://www.businesswire.com/news/home/20250211169372/en/Sardine-AI-Raises-$70M-to-Make-Fraud-and-Compliance-Teams-More-Productive",
+      "date": "2025-02-11",
+      "verified": true,
+      "claims": [
+        "$70M Series C raised (February 2025)",
+        "$145M total funding",
+        "130% YoY ARR growth",
+        "Device intelligence + AML + sanctions screening in one platform"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "Fintech Global",
+      "title": "Can AI close the FinCrime investigation gap? Tangos bets $20m",
+      "url": "https://fintech.global/2026/07/09/can-ai-close-the-fincrime-investigation-gap-tangos-bets-20m/",
+      "date": "2026-07-09",
+      "verified": true,
+      "claims": [
+        "Tangos AI raises $20M seed (July 2026)",
+        "Focus: autonomous AI for financial crime investigations at mid-market banks",
+        "Most recent major funding event in the category"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "Unit21 Blog",
+      "title": "EU AI Act 2026 FAQs: What Fraud and AML Teams Need to Know",
+      "url": "https://www.unit21.ai/blog/eu-ai-act-2026-faqs-what-fraud-and-aml-teams-need-to-know",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "EU AI Act classifies AML and fraud detection as 'high-risk AI'",
+        "Requirements: technical documentation, bias testing, audit logs, human oversight",
+        "Fines up to €35M or 7% of global annual revenue for violations",
+        "Banks must retroactively document pre-Act ML fraud models"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "TrendXInsights (Market Research)",
+      "title": "AI-Powered Fraud Detection Market Valued at USD 49.52 Billion by 2034",
+      "url": "https://trendxinsights.com/syndicated-market-research-reports/ai-powered-fraud-detection-market/",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "AI-Powered Fraud Detection Market: $6.84B (2025) → $49.52B by 2034",
+        "CAGR 24.6% (2026–2034)",
+        "North America: 44.8% market share",
+        "Key players: NICE Actimize, Featurespace, BioCatch, FICO, SAS, Quantexa, Sardine"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "Grand View Research",
+      "title": "Fraud Detection and Prevention Market Report, 2026–2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/fraud-detection-prevention-market",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Fraud detection & prevention market: $40.4B (2026) → $129.4B by 2033",
+        "CAGR 18.1%",
+        "Top 5 vendors hold 60%+ of market revenue"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "Fintech Global",
+      "title": "How agentic AI is reshaping financial crime compliance",
+      "url": "https://fintech.global/2026/05/01/how-agentic-ai-is-reshaping-financial-crime-compliance/",
+      "date": "2026-05-01",
+      "verified": true,
+      "claims": [
+        "Agentic AI can reduce total investigation time by up to 60%",
+        "Automates data gathering, transaction analysis, and SAR summarisation",
+        "Nearly 75% of anti-financial crime professionals plan to increase AI use"
+      ]
+    },
+    {
+      "id": 11,
+      "publisher": "ID-Pal / Fintech Global",
+      "title": "Identity fraud trends in 2026: AI deepfakes, synthetic identities and the new pressure on digital onboarding",
+      "url": "https://www.id-pal.com/blog/identity-fraud-trends-in-2026-ai-deepfakes-synthetic-identities-and-the-new-pressure-on-digital-onboarding/",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Synthetic identity document fraud up 311% in Q1 2024 to Q1 2025",
+        "98% of businesses plan to adopt AI for financial crime screening by 2026",
+        "UK financial services compliance spend: £38.3B/yr, up 12%",
+        "Global synthetic identity fraud losses: $20–40B annually"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    "Quantexa valuation ~$800M — based on Series E press reports; exact figure not confirmed in public filings",
+    "Hawk AI serving 70+ banks — from company marketing materials, not independently audited",
+    "BioCatch $1.3B acquisition price by Permira — widely reported but not officially confirmed in regulatory filings"
+  ]
+}

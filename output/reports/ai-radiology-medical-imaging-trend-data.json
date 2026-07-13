@@ -1,0 +1,213 @@
+{
+  "trend_name": "AI Radiology & Medical Imaging",
+  "status": "surging",
+  "search_volume": "~65,000",
+  "category": "AI & Technology",
+  "growth_5y": "+279%",
+  "growth_1y": "+31%",
+  "growth_3m": "+7%",
+  "trigger": "Three simultaneous catalysts pushed radiology AI past the tipping point in 2025–2026: (1) The FDA crossed 1,524 total AI medical device clearances by March 2026 — with 1,163 (76.3%) for radiology — signaling that AI is now the regulatory standard, not an experimental exception; (2) Aidoc received clearance for healthcare's first foundation model-powered AI device in January 2026, covering 14 conditions on a single body CT with 97% mean sensitivity — ending the era of single-disease algorithms; (3) a structural radiologist workforce crisis (projected 17,000–42,000-person shortfall by 2033) made AI adoption a mathematical necessity, not a preference. Backed by Aidoc's $150M Series E from Goldman Sachs and NVIDIA in April 2026, the category has crossed from pilot software to core clinical infrastructure.",
+  "timeline": [
+    {
+      "date": "2018-02",
+      "event": "Viz.ai receives the world's first FDA de novo clearance for AI-assisted stroke triage — creating a new class of device called Computer Assisted Triage (CADt). This single clearance establishes the regulatory blueprint used by every subsequent radiology AI product and legitimizes deep learning as a category in clinical medicine."
+    },
+    {
+      "date": "2018-08",
+      "event": "Aidoc receives FDA clearance for AI detection of acute intracranial hemorrhage (ICH) on head CT — the first deep learning algorithm designed explicitly to assist radiologists in workflow triage. Within months, hospitals deploy it to automatically flag critical brain bleeds, reducing time-to-treatment for stroke patients overnight."
+    },
+    {
+      "date": "2020-03",
+      "event": "COVID-19 forces emergency-scale global deployment of chest X-ray and CT AI triage tools across hundreds of hospitals within weeks. Qure.ai's qXR lung AI deploys across India, Africa, and Southeast Asia. The pandemic compresses a 5-year adoption curve into 6 months, proving AI radiology tools can achieve clinical scale in true emergency conditions."
+    },
+    {
+      "date": "2024-06",
+      "event": "PathAI partners with Quest Diagnostics — the largest reference lab network in the US — to deploy AI pathology interpretation across 3,500+ patient service centers. The first time AI-powered pathology reading scales to a nationwide commercial lab rather than isolated hospital systems, opening a new commercial pathway beyond hospital PACS integration."
+    },
+    {
+      "date": "2026-01",
+      "event": "Aidoc receives FDA clearance for healthcare's first foundation model-powered clinical AI device: a single body CT triage platform covering 14 conditions simultaneously with 97% mean sensitivity and 98% mean specificity. This ends the single-disease algorithm era — radiologists can now deploy one model that handles the entire emergent CT differential."
+    },
+    {
+      "date": "2026-04",
+      "event": "Aidoc closes $150M Series E led by Goldman Sachs with NVIDIA NVentures, bringing total funding past $500M. At the same time, Viz.ai announces profitability in its healthcare business and ~2,000-hospital deployment. The two largest pure-play radiology AI companies simultaneously achieve financial sustainability — the category has reached escape velocity."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The FDA's AI/ML action plan accelerated clearances to roughly 30 per month by 2026, and CMS is developing reimbursement codes for AI-augmented radiology reads — the political shift that converts AI from an IT cost center to a billable clinical service. In Europe, the EU AI Act classifies radiology AI as 'high-risk', mandating bias audits, training data documentation, and human oversight — raising the compliance bar but also legitimizing the category for public hospital procurement across 27 member states."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The AI in Medical Imaging market reached $2.16B in 2026 and is forecast to hit $8.23B by 2031 at a 30.7% CAGR (Mordor Intelligence / Fortune Business Insights). The economic logic is unambiguous: AI can automate up to 75% of CT workflow steps (lung cancer screening), effectively multiplying each radiologist's throughput. With radiology departments under intense cost pressure from payer reimbursement compression and staff shortages, AI is shifting from 'nice to have' to the only scalable cost containment strategy. Aidoc's $500M+ funding and Viz.ai's profitability confirm institutional investors see this as infrastructure, not software."
+    },
+    {
+      "factor": "Social",
+      "impact": "A projected shortfall of 17,000–42,000 radiologists, pathologists, and psychiatrists in the US alone by 2033 — driven by an aging specialist population, rising scan volumes, and insufficient training pipeline — creates an existential clinical access crisis. AI is the only realistic bridge. Simultaneously, global health equity advocates see radiology AI (especially chest X-ray tools for TB and pneumonia) as the fastest path to diagnostic access in Sub-Saharan Africa and South Asia, where trained radiologists are absent in most district hospitals. Qure.ai's 30+ country deployment demonstrates this is not hypothetical."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Foundation models have ended the single-disease era. Aidoc's January 2026 FDA clearance for a 14-condition CT model is the inflection event — the same architecture shift that made GPT-4 more useful than 100 narrow NLP models is now happening in clinical imaging. Simultaneously, federated learning enables hospitals to train AI collaboratively across millions of scans without sharing patient data, resolving the HIPAA/GDPR training barrier. Multimodal models that fuse imaging with genomic, lab, and EHR data are entering clinical trials, pointing toward AI-powered longitudinal patient monitoring rather than single-scan diagnosis."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI-powered portable and point-of-care ultrasound (Butterfly Network, GE HealthCare VScan) reduces the need for patient transport to centralized imaging centers, lowering healthcare's transport-related carbon footprint. Remote AI-assisted teleradiology platforms allow images taken at rural clinics to be read remotely, further reducing travel. On the other side, training large foundation imaging models carries significant GPU compute cost — a carbon debt that grows as the number of parameters and training datasets scale."
+    },
+    {
+      "factor": "Legal",
+      "impact": "The EU AI Act's 'high-risk' classification for radiology AI (effective 2026) requires manufacturers to document training data curation, bias testing across demographic groups, and continuous post-market performance monitoring — substantially raising the barrier to entry and creating defensible moats for compliant incumbents like Aidoc and Viz.ai. In the US, the FDA's predetermined change control plan (PCCP) framework allows AI models to be updated in production without a new 510(k) — a significant workflow advantage that incumbent platforms are moving to exploit. Liability allocation when AI contributes to a missed diagnosis remains unresolved, with traditional malpractice models holding the radiologist accountable while manufacturer liability is tested under EU MDR."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Emergency physician receiving a stroke patient at 2am with no on-call neurologist, needing to determine within minutes whether a large vessel occlusion is present and intervention is warranted",
+      "solution": "Viz.ai and Aidoc's LVO detection algorithms analyze the CT angiogram in seconds, automatically alert the on-call neurologist and interventional radiologist via mobile app, and reduce door-to-treatment time from an average of 90+ minutes toward the 60-minute clinical target — in hospitals where manual neurology escalation previously took hours."
+    },
+    {
+      "job": "Radiologist reviewing 200+ chest CTs per shift for a high-volume lung cancer screening program, needing to identify sub-5mm nodules without burning out or missing malignant findings in the noise",
+      "solution": "AI lung nodule detection tools (Aidoc, iCAD, Veracyte) triage scans by malignancy likelihood, automatically measure nodule volume and growth rate against prior studies, and surface only flagged cases for manual review — reducing read time by 26% and improving detection of previously missed nodules by 29%, per published clinical studies."
+    },
+    {
+      "job": "Hospital pathology department processing thousands of cancer biopsy slides annually, where each manual read takes 10–45 minutes and pathologist opinion varies significantly across institutions",
+      "solution": "PathAI's AISight and Paige.AI's prostate cancer detection platform analyze whole-slide pathology images in under 60 seconds, flagging Gleason pattern abnormalities with sub-specialist precision — reducing inter-pathologist variability, cutting turnaround from days to hours, and enabling Quest Diagnostics to offer AI-assisted pathology at 3,500+ service centers nationally."
+    },
+    {
+      "job": "District hospital in rural Nigeria or Bangladesh with one generalist physician but no trained radiologist, where hundreds of patients with suspected TB and pneumonia present weekly and go undiagnosed due to lack of specialist readers",
+      "solution": "Qure.ai's qXR processes chest X-rays on commodity hardware in under 60 seconds, detecting TB, pneumonia, cardiomegaly, and COVID with radiologist-level accuracy. Deployed across 30+ countries, qXR has screened millions of patients in low-resource settings where AI is the only practical diagnostic tool — not a supplement to a specialist, but a substitute for one who does not exist."
+    },
+    {
+      "job": "Radiologist trying to detect and severity-score pulmonary embolism (PE) on chest CT — a time-critical finding where missed diagnosis carries 30% mortality risk but manual review of every CT chest for PE is not operationally feasible at volume",
+      "solution": "Aidoc's PE detection tool runs automatically on every chest CT in background, flags suspected PE cases to the top of the reading queue, and surfaces right ventricular (RV/LV) strain ratio as an automated severity indicator — enabling risk stratification without the radiologist needing to manually scroll every scan for a finding that appears in roughly 2–3% of chest CTs."
+    }
+  ],
+  "market": [
+    {
+      "name": "GE HealthCare",
+      "share": "~20%",
+      "loved": "Integrated AI directly into CT, MRI, and X-ray scanners via the Edison AI platform — the only player that eliminates the PACS integration problem entirely; AI is already running when the scan is acquired, not bolted on afterward",
+      "segment": "Hospital systems / integrated imaging OEM"
+    },
+    {
+      "name": "Aidoc",
+      "share": "~15%",
+      "loved": "$500M+ funded, 2,000 hospitals, 31+ FDA clearances, first foundation model clearance for 14-condition CT platform with 97% sensitivity — the leading pure-play AI radiology platform by clinical breadth and regulatory depth",
+      "segment": "Emergency radiology / AI triage platform"
+    },
+    {
+      "name": "Viz.ai",
+      "share": "~12%",
+      "loved": "$289M funded, profitability achieved Jan 2026, ~2,000 hospitals, 50+ FDA-cleared algorithms — the market creator (first FDA clearance 2018) and strongest position in stroke/neurovascular AI and life sciences pharma partnerships",
+      "segment": "Neurovascular / stroke / life sciences pharma"
+    },
+    {
+      "name": "Siemens Healthineers",
+      "share": "~13%",
+      "loved": "AI-Rad Companion platform spans MRI, CT, and X-ray with deep hospital EHR integration; benefits from 100+ years of radiology equipment relationships and the only vendor that bundles AI with scanner maintenance contracts",
+      "segment": "Enterprise hospital / multimodal imaging AI"
+    },
+    {
+      "name": "Qure.ai",
+      "share": "~5%",
+      "loved": "$123M funded, 30+ country deployments, FDA-cleared qXR and qER platforms — the dominant force in emerging market and global health radiology AI, with a TB and pneumonia screening scale that no US-centric competitor comes close to matching",
+      "segment": "Global health / low-resource settings / chest AI"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Aidoc",
+      "detail": "Israel-based, $500M+ total funded, $150M Series E (April 2026, Goldman Sachs + NVIDIA NVentures). 31+ FDA clearances, ~2,000 hospital deployments processing 60M cases/year. The platform-level play: a foundation model covering 14 CT conditions with a single clearance — the regulatory breakthrough that signals the shift from narrow algorithms to radiology AI infrastructure."
+    },
+    {
+      "name": "Viz.ai",
+      "detail": "San Francisco, $289M raised (Tiger Global, GV, Kleiner Perkins). Founded 2016; creator of the CADt device category with the first-ever FDA de novo clearance for clinical AI (2018). 50+ FDA-cleared algorithms, ~2,000 hospitals, achieved healthcare business profitability in January 2026. Growing life sciences business (13 pharma/device partnerships) gives dual revenue stream — clinical AI + pharmaceutical trial patient identification."
+    },
+    {
+      "name": "Qure.ai",
+      "detail": "Mumbai, India. $123M total raised, $65M Series D. Founded 2016 by Prashant Warier. FDA-cleared qXR (chest X-ray AI) and qER (head CT AI). Revenue ₹190Cr (~$23M) as of March 2025. Deployed in 30+ countries for TB, COVID, and pneumonia screening — serves a fundamentally different market than US hospital-focused competitors, with WHO and government health ministry contracts that scale to national screening programs."
+    },
+    {
+      "name": "PathAI",
+      "detail": "Boston. $240M+ funded. Specializes in computational pathology — AI analysis of whole-slide biopsy images for oncology, including prostate, breast, and colorectal cancer. Partnership with Quest Diagnostics brings AI pathology to 3,500+ service centers. Positioned at the adjacent boundary of radiology AI into lab diagnostics — the convergence of imaging + pathology under a single AI platform."
+    },
+    {
+      "name": "GE HealthCare (Edison AI)",
+      "detail": "Spun off from GE in 2023; Edison AI marketplace has 20+ AI applications integrated directly into CT, MRI, and X-ray scanners. The competitive moat: AI runs at image acquisition time inside GE hardware, not as a downstream PACS plug-in — eliminating integration friction entirely. Partnerships with Microsoft for cloud-scale analytics and Nvidia for accelerated inference on-scanner. Estimated $5B+ healthcare AI segment revenue (embedded in imaging system sales)."
+    }
+  ],
+  "canvas": {
+    "who": "Primary adopters are hospital radiology department heads, Chief Medical Informatics Officers (CMIOs), and health system IT procurement teams at mid-to-large acute care hospitals (200+ beds). Secondary adopters include teleradiology groups and imaging center networks that read high volumes of studies remotely. In global health contexts, the buyer is WHO, national health ministries, and NGOs deploying mobile chest X-ray AI for TB screening programs. The common thread: institutions where scan volume growth has outpaced radiologist hiring, and where a missed critical finding carries serious clinical or liability consequences.",
+    "where": "Hospital procurement happens through PACS/RIS vendors and imaging OEM sales cycles (12–18 months), increasingly via AI marketplace platforms (Epic AI, NVIDIA Clara, AWS HealthLake). Discovery happens through radiology society conferences (RSNA, ECR), FDA clearance announcement channels, and peer-reviewed publications in AJR and Radiology. C-suite decisions are driven by ROI analysis (radiologist throughput improvement) and liability reduction arguments more than clinical accuracy alone. Emerging purchase pathway: bundled AI contracts alongside scanner upgrades from GE, Siemens, and Philips.",
+    "why_now": "Four forces converged simultaneously in 2025–2026: (1) The radiologist workforce crisis became undeniable — the 17,000–42,000 US shortfall projection ended any argument that the gap could be closed by training more physicians; (2) Foundation model clearances (Aidoc, January 2026) proved that one AI platform can handle the full emergency CT differential, making ROI calculations dramatically more favorable; (3) Viz.ai reaching profitability demonstrated that pure-play radiology AI is a sustainable business model, not just a startup experiment; (4) Payer reimbursement for AI-augmented reads is emerging from CMS — the final commercial unlock that transforms AI from a cost-center tool to a revenue-generating service.",
+    "behavior": "Hospital radiology departments are shifting from isolated algorithm pilots (one PE tool, one ICH tool, different vendor each) to platform procurement — buying an AI triage platform that handles the full case mix. The behavior mirrors enterprise SaaS adoption: early adopters ran 3–5 tool POCs over 18 months; now procurement teams demand a single integrated vendor with multi-condition coverage, PACS integration, and a clinical evidence portfolio before signing. Radiologists' day-to-day behavior is also changing: AI-generated worklists have replaced manual queue management, and the expectation that every critical finding generates an automatic alert has become standard-of-care in leading institutions.",
+    "unmet": "The core unmet need is explainability and trust: when AI flags a finding, radiologists need to understand why — not just see a bounding box. Current systems produce outputs without mechanistic reasoning, making it difficult for physicians to decide whether to trust the AI's prioritization in edge cases. A secondary unmet need is fair reimbursement: no consistent CPT code framework yet exists for AI-augmented reads, leaving hospitals unable to capture the value they deliver. The third unmet need is demographic bias documentation: FDA clearances do not require performance stratification by age, sex, race, or body type, meaning AI tools trained predominantly on high-income country populations may underperform in global health deployments — a gap Qure.ai has identified but the industry has not systematically addressed."
+  },
+  "takeaways": [
+    "The workforce crisis makes AI mandatory, not optional. You cannot hire your way out of a 42,000-radiologist shortfall. Health systems that treat AI as a luxury digital health investment will face a clinical quality and turnaround time crisis within 3–5 years. The strategic imperative is not to evaluate AI — it is to build the internal clinical governance, PACS integration, and radiologist change management infrastructure to deploy it at scale before competitors do.",
+    "Platform beats algorithm: buy or build for the full CT differential. The era of single-disease algorithms is ending. Aidoc's foundation model clearance covering 14 conditions is the proof point — hospitals should be demanding multi-condition platform contracts from vendors, not assembling fragmented point solutions. Vendors who cannot offer a comprehensive AI triage platform (stroke + PE + ICH + aorta + lung in one integration) will lose the next procurement cycle.",
+    "The global health opportunity is as large as the hospital market. Qure.ai's 30-country deployment and national-scale TB programs reveal a second market the US/Europe-focused AI companies largely ignore: 1 billion+ patients in South Asia, Africa, and Southeast Asia who have zero access to specialist radiology. The company that owns AI chest X-ray at scale in these markets will process more clinical images annually than any US hospital network, at near-zero marginal cost and with government-backed contract structures.",
+    "Reimbursement is the last unlock. Viz.ai's profitability and Aidoc's $500M+ funding are evidence the business model works at hospital pricing. The next inflection will come when CMS establishes consistent CPT reimbursement for AI-augmented reads — at that point, every hospital CFO's AI investment calculation shifts from 'cost avoidance' to 'revenue generation'. The vendors with the broadest FDA clearance portfolios and the deepest clinical evidence will capture the reimbursement windfall when it arrives."
+  ],
+  "sources": [
+    {
+      "title": "AI in Radiology Market Size, Share & Forecast 2026–2031 — $2.16B in 2026, 30.7% CAGR to $8.23B",
+      "url": "https://www.fortunebusinessinsights.com/ai-in-radiology-market-115732",
+      "publisher": "Fortune Business Insights"
+    },
+    {
+      "title": "FDA Data: 1,524 AI Medical Devices Cleared as of March 2026 — Radiology Leads at 76.3%",
+      "url": "https://theimagingwire.com/2026/03/11/numbers-from-the-fda-show-radiology-is-maintaining-its-lead/",
+      "publisher": "The Imaging Wire"
+    },
+    {
+      "title": "Aidoc Banks $150M Series E Backed by Goldman Sachs to Scale Clinical AI Foundation Model",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/aidoc-banks-150m-backed-goldman-sachs-scale-clinical-ai-foundation-model",
+      "publisher": "Fierce Healthcare"
+    },
+    {
+      "title": "Aidoc Secures FDA Clearance for Healthcare's First Foundation Model-Powered Clinical AI Device",
+      "url": "https://www.aidoc.com/about/news/aidoc-secures-fda-clearance-for-healthcares-first-comprehensive-foundation-model-ai/",
+      "publisher": "Aidoc"
+    },
+    {
+      "title": "Viz.ai Closes 2025 with Record Scale and Patient Impact, Achieving Profitability in Its Healthcare Business",
+      "url": "https://www.viz.ai/news/viz-ai-closes-2025-with-record-scale-and-patient-impact",
+      "publisher": "Viz.ai"
+    },
+    {
+      "title": "Radiology in 2026: The Workforce Crisis Meets the AI Revolution",
+      "url": "https://www.beckershospitalreview.com/radiology/radiology-in-2026-the-workforce-crisis-meets-the-ai-revolution/",
+      "publisher": "Becker's Hospital Review"
+    },
+    {
+      "title": "AI Medical Imaging in 2026: Best Radiology AI Tools, FDA Clearances, and Diagnostic Accuracy",
+      "url": "https://pinggy.io/blog/ai_medical_imaging_diagnostics_2026/",
+      "publisher": "Pinggy"
+    },
+    {
+      "title": "AI in Medical Imaging Market — Global Opportunity Analysis and Industry Forecast 2026–2036",
+      "url": "https://www.meticulousresearch.com/product/ai-in-medical-imaging-market-6690",
+      "publisher": "Meticulous Research"
+    },
+    {
+      "title": "Qure.ai Gets $65M Series D Funding to Expand Healthcare AI in 30+ Countries",
+      "url": "https://www.qure.ai/news-press-coverages/qure-ai-gets-series-d-funding-to-expand-healthcare-ai",
+      "publisher": "Qure.ai"
+    },
+    {
+      "title": "Top Imaging & Pathology AI Companies: 2025 Market Analysis",
+      "url": "https://intuitionlabs.ai/articles/imaging-pathology-ai-vendors",
+      "publisher": "IntuitionLabs"
+    },
+    {
+      "title": "Radiology Workflow Optimization 2026: Solving Staff Shortages with AI & Agentic Systems",
+      "url": "https://www.satmed-health.com/workflow-optimization-in-radiology-amid-shortages-using-ai-in-2026/",
+      "publisher": "Satmed Health"
+    },
+    {
+      "title": "FDA Clears CT-Based AI Triage Platform from Aidoc | Diagnostic Imaging",
+      "url": "https://www.diagnosticimaging.com/view/fda-clears-ct-based-ai-triage-platform-aidoc",
+      "publisher": "Diagnostic Imaging"
+    }
+  ]
+}

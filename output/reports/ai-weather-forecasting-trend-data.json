@@ -1,0 +1,163 @@
+{
+  "trend_name": "AI Weather Forecasting",
+  "status": "surging",
+  "search_volume": 45000,
+  "category": "AI & Technology",
+  "growth_5y": "+850%",
+  "growth_1y": "+26%",
+  "growth_3m": "+7%",
+  "trigger": "Huawei's Pangu-Weather (Nature, July 2023) and DeepMind's GraphCast (Science, December 2023) proved AI models beat conventional supercomputers on 90% of forecast metrics at 10,000× the speed. NVIDIA's Earth-2 open platform (January 2026) and Tomorrow.io's $210M AI satellite constellation (DeepSky) crystallised a commercial market that had been purely research just 3 years earlier. Climate-driven extreme weather is making accurate long-range forecasting a critical infrastructure need.",
+  "timeline": [
+    {
+      "date": "2022-11",
+      "event": "Huawei publishes the Pangu-Weather paper on arXiv — first AI model shown to rival numerical weather prediction (NWP) accuracy at radically lower compute cost, triggering an academic gold rush in AI meteorology."
+    },
+    {
+      "date": "2023-07",
+      "event": "Pangu-Weather published in Nature (July 5, 2023). Peer-reviewed proof that a 3D transformer model forecasts 10 days of global weather in 1 second on a single GPU — 10,000× faster than ensemble NWP systems."
+    },
+    {
+      "date": "2023-12",
+      "event": "Google DeepMind's GraphCast published in Science: beats ECMWF's flagship HRES model on 90% of 1,380 verification targets. Runs a 10-day global forecast in under 1 minute on a single TPU. Industry inflection point."
+    },
+    {
+      "date": "2024-09",
+      "event": "ECMWF deploys its AI Integrated Forecasting System (AIFS) to full operational status — the first major national meteorological agency in history to run an AI model in production alongside its traditional NWP suite."
+    },
+    {
+      "date": "2025-11",
+      "event": "Google DeepMind unveils WeatherNext 2: 8× faster than WeatherNext 1, sub-1-hour temporal resolution, ensemble probabilistic outputs. Commercialised via Google Cloud BigQuery and Earth Engine for energy traders and enterprises."
+    },
+    {
+      "date": "2026-01",
+      "event": "NVIDIA launches Earth-2 — the world's first fully open, GPU-accelerated AI weather stack (Medium Range + Nowcasting models on Hugging Face). Two weeks later, Tomorrow.io raises $175M for DeepSky, the first AI-native weather satellite constellation, hitting $1B+ valuation and $100M ARR."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The World Meteorological Organization (WMO) formally endorsed AI for operational weather forecasts at its 2025 congress, allocating $138.7M in the 2026/2027 budget to AI integration. NOAA deployed a new generation of operational AI-driven global weather models in 2026. G7 nations are funding national AI meteorology strategies to reduce dependence on ECMWF and US hyperscalers."
+    },
+    {
+      "factor": "Economic",
+      "impact": "IRENA estimates that improving 24-hour wind forecasts by just 10% saves €1.5–3B per year in European grid balancing costs. The AI-based weather modelling market is valued at $1.10B in 2025, growing to $7.20B by 2033 (CAGR 26.4%). Tomorrow.io's $100M ARR proves the commercial model; energy and agriculture sectors drive 60%+ of demand."
+    },
+    {
+      "factor": "Social",
+      "impact": "Extreme weather events (wildfires, floods, hurricanes) are increasing in frequency and severity due to climate change, creating societal urgency for longer-lead early warnings. AI models that extend useful forecast range by even 1 day save lives and billions in economic damage. AI also democratises forecasting for the Global South — nations that could never afford NWP supercomputers can now run AI models on consumer cloud."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Transformer architectures trained on 40+ years of ECMWF ERA5 reanalysis data have fundamentally disrupted NWP. NVIDIA's Earth-2 Medium Range model outperforms DeepMind's GenCast on 70+ weather variables. Generative AI nowcasting (0–6h, sub-km resolution) enables real-time storm tracking at country scale. Next frontier: AI global data assimilation replacing the costliest step in the traditional pipeline."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Climate change is making the forecast problem harder (more non-stationarity) while simultaneously raising the stakes. AI weather models, by running on a single GPU vs a supercomputer, reduce the carbon footprint of meteorology by orders of magnitude. Climate attribution models powered by AI can now link individual extreme events to human-caused climate change within hours of occurrence."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Liability for AI forecast errors in safety-critical industries (aviation, insurance underwriting, disaster response) remains legally unresolved. ECMWF's open-weight model policy is reshaping IP norms for meteorological data. The EU AI Act (fully applicable August 2026) classifies safety-critical AI systems — potentially including aviation weather tools — as high-risk, triggering conformity assessments."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Renewable Energy Grid Integration",
+      "solution": "AI models forecast solar irradiance and wind output 1–15 days ahead with sub-field resolution, enabling grid operators to schedule battery dispatch, reduce curtailment, and cut balancing costs. IRENA estimates 10% better wind forecasts alone save €1.5–3B/yr in the EU grid."
+    },
+    {
+      "job": "Precision Agriculture Planning",
+      "solution": "Sub-field frost, rainfall, drought, and humidity outlooks let farmers time irrigation, pesticide spraying, and harvests with 72-hour precision — reducing crop loss from weather surprises and cutting unnecessary water and chemical use."
+    },
+    {
+      "job": "Aviation Safety & Route Optimization",
+      "solution": "Real-time AI turbulence prediction, icing alerts, and severe-weather routing reduce fuel burn and increase on-time performance across 25,000+ daily commercial flights. Purpose-built aviation weather tools (Tomorrow.io Altitude) integrate directly with flight management systems."
+    },
+    {
+      "job": "Disaster Early Warning & Emergency Response",
+      "solution": "AI extends useful hurricane, flood, and wildfire forecast lead time by 1–3 days versus NWP, giving communities more time to evacuate and emergency services more time to pre-position assets. WMO's CREWS initiative uses AI seasonal forecasts in Sub-Saharan Africa."
+    },
+    {
+      "job": "Insurance Risk & Catastrophe Pricing",
+      "solution": "Hyperlocal hail, wind, and lightning nowcasting enables P&C insurers to price weather risk at the address level, deploy rapid-response claims teams in real time, and build AI-driven parametric insurance products that pay out automatically on weather triggers."
+    }
+  ],
+  "market": [
+    {
+      "name": "The Weather Company (IBM)",
+      "share": "~22%",
+      "loved": "Enterprise-grade SLA, deep aviation and logistics integrations, trusted brand with 50-year data history",
+      "segment": "B2B enterprise, government, media"
+    },
+    {
+      "name": "AccuWeather",
+      "share": "~18%",
+      "loved": "Consumer brand trust, hyperlocal MinuteCast precision, strong US media partnerships",
+      "segment": "Consumer, media, SMB"
+    },
+    {
+      "name": "Google DeepMind (WeatherNext)",
+      "share": "~15%",
+      "loved": "WeatherNext 2 is 8× faster with 1-hour resolution; cloud-native via BigQuery and Earth Engine",
+      "segment": "Enterprise, energy trading, research"
+    },
+    {
+      "name": "Tomorrow.io",
+      "share": "~8%",
+      "loved": "$210M DeepSky AI satellite constellation; $100M ARR; full-stack weather intelligence API",
+      "segment": "Enterprise, aviation, defense, logistics"
+    },
+    {
+      "name": "NVIDIA Earth-2",
+      "share": "Platform",
+      "loved": "First fully open-source accelerated AI weather stack; three production models on Hugging Face",
+      "segment": "Research, national agencies, enterprise AI builders"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Tomorrow.io",
+      "detail": "AI-native weather intelligence unicorn ($1B+ valuation, Feb 2026); $210M raised for DeepSky — first AI-native weather satellite constellation; $100M ARR; NVIDIA Earth-2 partner. Full-stack: from satellite data acquisition to enterprise decision automation."
+    },
+    {
+      "name": "Google DeepMind WeatherNext",
+      "detail": "WeatherNext 2 (Nov 2025): 8× faster than predecessor, sub-1-hour temporal resolution, ensemble probabilistic forecasts. Commercialised via Google Cloud (BigQuery, Earth Engine) targeting energy traders and enterprise clients with 15-day probabilistic outlooks."
+    },
+    {
+      "name": "NVIDIA Earth-2",
+      "detail": "Open-source AI weather platform launched Jan 2026; three models: Medium Range (70+ variables, beats GenCast on 70 metrics), Nowcasting (0–6h, km-scale generative), Global Data Assimilation (2026 release). Available on Hugging Face and GitHub."
+    },
+    {
+      "name": "Climavision",
+      "detail": "$100M PE-backed; proprietary low-altitude gap-filling radar network + AI forecasting. Energy sector specialist (CenterPoint Energy, Enverus partnerships). Acquired Intersphere (Apr 2024) to expand AI-powered prediction capabilities. 56 employees as of April 2026."
+    },
+    {
+      "name": "ECMWF AIFS",
+      "detail": "First major national meteorological agency to run an AI model in full operational production (2024). Open-weight model for research community. Benchmarked against HRES NWP on 1,380+ metrics; now used alongside traditional ensemble models by member states."
+    }
+  ],
+  "canvas": {
+    "who": "Energy grid operators and renewable developers, agricultural enterprises (>$50M revenue), commercial aviation operators, P&C insurers and cat bond issuers, national meteorological agencies, and logistics/retail chains where weather directly drives $1M+ daily revenue swings",
+    "where": "Cloud APIs embedded in SCADA/ERP/EMS systems, SaaS enterprise dashboards, developer platforms (Hugging Face, GitHub for open models), and direct integrations into flight management and grid-dispatch software",
+    "why_now": "The 2023–2026 breakthrough period (Pangu-Weather, GraphCast, WeatherNext 2, Earth-2) reduced the time and cost to run a global 10-day forecast from hours on a supercomputer to seconds on a GPU. Simultaneously, climate change is making extreme weather more frequent and costly — raising the ROI on better forecasting to a boardroom-level concern",
+    "behavior": "Enterprises are moving from static point forecasts purchased monthly to real-time weather intelligence subscriptions that power automated operational decisions: grid dispatch triggers, irrigation valve automation, flight rerouting algorithms, and parametric insurance payouts",
+    "unmet": "Sub-kilometer hyperlocal resolution at affordable prices for SMBs and rural markets; reliable probabilistic signals beyond 14 days for seasonal planning; trusted legal/liability frameworks for AI forecast errors in aviation and critical infrastructure; and accurate seasonal outlooks for the Global South where training data is sparse"
+  },
+  "takeaways": [
+    "Embed AI weather intelligence APIs into your operational workflows now — energy, logistics, and agribusiness leaders already automate decisions (grid dispatch, irrigation, routing) on real-time weather signals from Tomorrow.io, Google WeatherNext, and NVIDIA Earth-2.",
+    "Invest in proprietary observation data as your moat: AI models commoditise fast, but unique sensor networks (radar, IoT, satellite) create defensible data advantages — Climavision's radar network and Tomorrow.io's DeepSky constellation are the templates.",
+    "Target the Global South opportunity: AI models (especially NVIDIA's open Earth-2) make professional-grade weather forecasting accessible to countries that never had NWP infrastructure — a $500M+ underserved market in agriculture, disaster risk, and energy.",
+    "Engage EU AI Act conformity processes early: AI forecasting tools used in aviation, insurance, and disaster response likely qualify as high-risk systems under the Act (fully applicable August 2026), and early compliance certification is a competitive advantage in enterprise procurement."
+  ],
+  "sources": [
+    "https://www.transpireinsight.com/press-details/ai-based-weather-modelling-market",
+    "https://www.mordorintelligence.com/industry-reports/weather-forecasting-services-market",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2/",
+    "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/",
+    "https://www.tomorrow.io/blog/tomorrow-io-announces-175m-financing-to-deploy-deepsky-the-worlds-first-ai-native-weather-satellite-constellation/",
+    "https://www.noaa.gov/news-release/noaa-deploys-new-generation-of-ai-driven-global-weather-models",
+    "https://etcjournal.com/2026/02/10/the-ai-revolution-in-weather-forecasting-five-transformative-innovations/",
+    "https://wmo.int/news/media-centre/world-meteorological-congress-endorses-actions-promote-ai-forecasts-and-warnings",
+    "https://www.meteorologicaltechnologyinternational.com/news/radar/climavision-receives-us100m-investment-for-growth-of-high-resolution-weather-platform.html",
+    "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/"
+  ]
+}
