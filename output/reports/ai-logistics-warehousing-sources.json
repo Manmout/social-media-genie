@@ -1,0 +1,104 @@
+{
+  "trend": "AI in Logistics & Warehousing",
+  "slug": "ai-logistics-warehousing",
+  "research_date": "2026-07-13",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "OpenPR / DataM Intelligence",
+      "title": "Future of AI in Logistics Market 2026: Market Set to Reach US$ 435.61 Billion by 2033, Led by North America with 38% Share",
+      "url": "https://www.openpr.com/news/4527058/future-of-ai-in-logistics-market-2026-market-set-to-reach-us",
+      "claim": "AI in Logistics Market reached US$ 21.70 billion in 2025; projected US$ 435.61 billion by 2033 at 42% CAGR",
+      "verified": true,
+      "notes": "Primary market size source. DataM Intelligence report accessed via OpenPR syndication."
+    },
+    {
+      "id": 2,
+      "publisher": "SNS Insider via Business Upturn",
+      "title": "AI in Warehousing Market Projected to Reach $127.66 Billion by 2035 as E-Commerce Automation and Intelligent Logistics Accelerate Worldwide",
+      "url": "https://www.businessupturn.com/brand-post/ai-in-warehousing-market-projected-to-reach-127-66-billion-by-2035-as-e-commerce-automation-and-intelligent-logistics-accelerate-worldwide-report-by-sns-insider",
+      "claim": "Warehouse automation market projected to reach $127.66 billion by 2035",
+      "verified": true,
+      "notes": "SNS Insider market research report on AI in warehousing specifically."
+    },
+    {
+      "id": 3,
+      "publisher": "Boston Consulting Group (BCG)",
+      "title": "AI Is Already Moving the Logistics Industry Forward",
+      "url": "https://www.bcg.com/publications/2026/ai-is-already-moving-the-logistics-industry-forward",
+      "claim": "AI implementation delivers 20-30% cost reduction, 25-35% improvement in delivery accuracy; 72% logistics employee AI adoption",
+      "verified": true,
+      "notes": "BCG 2026 logistics report. High credibility primary consulting source."
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "title": "How Robotics is Driving Warehouse Revenue in 2026 — Physical AI Warehouse Robotics",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/physical-ai-warehouse-robotics.asp",
+      "claim": "Symbotic led with 8.7% market share in 2025; top 5 players hold 31.7% combined market share",
+      "verified": true,
+      "notes": "MarketsandMarkets industry report. Competitor market share data."
+    },
+    {
+      "id": 5,
+      "publisher": "International Federation of Robotics (IFR)",
+      "title": "AI-Equipped Robots Help Logistics Industry Fight Labor Shortages",
+      "url": "https://ifr.org/ifr-press-releases/news/ai-equipped-robots-help-logistics-industry-to-fight-labor-shortages",
+      "claim": "78% of facilities report difficulty hiring warehouse staff; 500,000 warehouse jobs unfilled in the U.S.",
+      "verified": true,
+      "notes": "IFR is the authoritative global source on robotics deployment statistics."
+    },
+    {
+      "id": 6,
+      "publisher": "SPS Commerce",
+      "title": "2026 Supply Chain Trends: Problem Solving Labor Shortages, Robotics, and Warehouse Constraints",
+      "url": "https://www.spscommerce.com/community/articles/2026-supply-chain-trends-labor-robotics-warehousing",
+      "claim": "Order processing volumes have increased 95% since 2019",
+      "verified": true,
+      "notes": "SPS Commerce industry survey data on warehouse volume trends."
+    },
+    {
+      "id": 7,
+      "publisher": "Standard Bots",
+      "title": "Top 12 Warehouse Robotics Companies in 2026: Leaders, Startups, and Competitors",
+      "url": "https://standardbots.com/blog/warehouse-robotics-companies",
+      "claim": "GreyOrange $545M total funding; Geek+ $438M FY2025 revenue; Locus Robotics $180M ARR (June 2026)",
+      "verified": true,
+      "notes": "Competitor overview with funding and revenue data. Cross-referenced with Sacra and Tracxn."
+    },
+    {
+      "id": 8,
+      "publisher": "Inbound Logistics",
+      "title": "2026 Logistics IT Trends: AI, Investment & Integration Challenges Accelerate",
+      "url": "https://www.inboundlogistics.com/articles/2026-perspectives-and-market-research-logistics-it-accelerates/",
+      "claim": "85% of executives plan to increase AI spending in logistics in 2026",
+      "verified": true,
+      "notes": "Inbound Logistics annual industry survey. High practitioner credibility."
+    },
+    {
+      "id": 9,
+      "publisher": "Fortune Business Insights",
+      "title": "AI In Warehousing Market Size, Share & Growth Report, 2034",
+      "url": "https://www.fortunebusinessinsights.com/ai-in-warehousing-market-113682",
+      "claim": "AI in warehousing market projected to grow from $6.34 billion in 2026 to $25.1 billion by 2034 at 17.3% CAGR",
+      "verified": true,
+      "notes": "Fortune Business Insights primary market research report. Warehousing-specific market sizing."
+    },
+    {
+      "id": 10,
+      "publisher": "REVOIC / Amazon News",
+      "title": "Record Q1, Logistics Push, and AI Partnerships — Amazon News May 2026",
+      "url": "https://www.revoic.com/en-US/blog/amazon-news/mai-1-2026",
+      "claim": "Amazon officially launched Amazon Supply Chain Services (ASCS) on May 5, 2026, opening its full logistics network to all businesses",
+      "verified": true,
+      "notes": "Amazon ASCS launch event documentation. Key industry milestone."
+    }
+  ],
+  "data_quality_notes": {
+    "growth_5y_note": "+380% is estimated from AI in logistics market expanding from ~$4.5B in 2020 to $21.7B in 2025. Exact 2020 baseline varies by report definition. Treat as directional.",
+    "growth_1y_note": "+42% matches the published CAGR and is consistent with Symbotic's 65% growth (highest performer) and the sector average.",
+    "growth_3m_note": "+18% is estimated based on Q1-Q2 2026 deployment momentum (Amazon ASCS, AutoStore CubeVerse, Symbotic expansions). No single authoritative source provides quarterly market data; mark as [estimated].",
+    "search_volume_note": "~74,000/mo estimated across 'AI logistics,' 'warehouse automation,' 'autonomous mobile robots,' and adjacent terms. Not from Keywords Everywhere — treat as an order-of-magnitude estimate.",
+    "competitor_revenue_note": "Symbotic $2.4B revenue is fiscal 2025 per company investor relations. Geek+ $438M and Locus $180M ARR per Standard Bots aggregation and Sacra."
+  }
+}
