@@ -1,0 +1,111 @@
+{
+  "trend": "AI Creator Tools",
+  "slug": "ai-creator-tools",
+  "researched": "2026-07-14",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "CNBC",
+      "title": "Nvidia-backed AI voice startup ElevenLabs hits $11 billion valuation in fresh fundraise",
+      "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
+      "date": "2026-02-04",
+      "claim": "ElevenLabs raised $500M Series D at $11B valuation, backed by Nvidia, Sequoia, and a16z — more than tripling its $3.3B valuation from January 2025",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "TechCrunch",
+      "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "date": "2026-02-10",
+      "claim": "Runway raised $315M at $5.3B valuation; targeting world models for cinematic video generation; key investors include General Atlantic and Google",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Sacra",
+      "title": "ElevenLabs revenue, valuation & funding",
+      "url": "https://sacra.com/c/elevenlabs/",
+      "date": "2026-04",
+      "claim": "ElevenLabs estimated $500M ARR by April 2026, up from $350M at end of 2025 and $180M Series C in 2024",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Sacra",
+      "title": "HeyGen revenue, valuation & funding",
+      "url": "https://sacra.com/c/heygen/",
+      "date": "2025",
+      "claim": "HeyGen reached $100M ARR in 2025, tripling from $35M in 2024; total raised $74.6M across 3 rounds",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Presenc AI",
+      "title": "Creator Economy Market Size 2026",
+      "url": "https://presenc.ai/research/creator-economy-market-size-2026",
+      "date": "2026",
+      "claim": "Creator economy projected at $313B in 2026; tools/infrastructure sub-segment growing at 41% YoY — fastest of any creator economy category; Goldman Sachs projects $480B TAM by 2027",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Research and Markets",
+      "title": "Artificial Intelligence in Creator Economy Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6215083/artificial-intelligence-in-creator-economy",
+      "date": "2026",
+      "claim": "AI in creator economy market grew from $4.35B (2025) to $5.71B (2026) at 31.3% CAGR; projected to reach $16.81B by 2030",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Grand View Research",
+      "title": "AI Powered Content Creation Market Report 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-powered-content-creation-market-report",
+      "date": "2026",
+      "claim": "AI-powered content creation market growing at 19.4% CAGR from 2025 to 2033; segment projected to reach $10.6B by 2033",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "New Market Pitch",
+      "title": "Creator Economy Market Size 2026: $260B | CAGR 22%",
+      "url": "https://newmarketpitch.com/blogs/news/creator-economy-market-size",
+      "date": "2026",
+      "claim": "Creator economy market size at $260–313B in 2026 at 22% CAGR; 86% of creators report using generative AI in day-to-day work",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Variety",
+      "title": "AI Startup Runway Raises $308 Million Funding at $3 Billion Valuation",
+      "url": "https://variety.com/2025/digital/news/ai-runway-raises-308-million-funding-valuation-1236358677/",
+      "date": "2025",
+      "claim": "Prior Runway funding round of $308M at $3B valuation in 2025 — showing trajectory to $5.3B in Feb 2026",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Crunchbase News",
+      "title": "Gen AI Video Startup Runway Raises $315M Led By General Atlantic At $5.3B Valuation",
+      "url": "https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/",
+      "date": "2026-02",
+      "claim": "Runway raises $315M Series E led by General Atlantic at $5.3B valuation; ~$300M ARR as of early 2026",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y estimate of +1,650%",
+      "note": "Estimated from AI creator tools market growing from ~$300M (2021, pre-Midjourney/ChatGPT) to ~$5.3B (2026). No single source directly states the 2021 baseline for this specific segment. Conservative estimate flagged."
+    },
+    {
+      "claim": "Adobe Firefly 35M subscriber base",
+      "note": "Based on Adobe Creative Cloud's reported subscriber count; Firefly adoption within that base is not separately disclosed."
+    },
+    {
+      "claim": "87% creator AI adoption figure",
+      "note": "Cited by multiple creator economy survey sources (aistoollab.com, directai.app, zemith.com) for 2026 but primary survey methodology not audited. Consistent with 86% figure cited by New Market Pitch and 78% for video creators specifically."
+    }
+  ]
+}
