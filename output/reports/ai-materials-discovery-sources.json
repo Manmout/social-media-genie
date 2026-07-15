@@ -1,0 +1,132 @@
+{
+  "trend": "AI Materials Discovery",
+  "slug": "ai-materials-discovery",
+  "generated": "2026-07-15",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Materials Discovery Market to Reach $2.77 Billion by 2030: High CAGR of 30% Expected",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322188/28124/en/AI-in-Materials-Discovery-Market-to-Reach-2.77-Billion-by-2030-High-CAGR-of-30-Expected.html",
+      "publisher": "GlobeNewswire / Research and Markets",
+      "date": "2026-07-06",
+      "accessed": "2026-07-15",
+      "key_data": "Market at $0.74B (2025) → $0.97B (2026); CAGR 30.3%; projected $2.77B by 2030",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Global Materials Informatics Market 2026-2036: Microsoft, Google DeepMind, Meta FAIR, IBM Research, and NVIDIA Have Entered the Field As Direct Competitors and Infrastructure Providers",
+      "url": "https://www.globenewswire.com/news-release/2026/05/20/3298243/28124/en/Global-Materials-Informatics-Market-2026-2036-Microsoft-Google-DeepMind-Meta-FAIR-IBM-Research-and-NVIDIA-Have-Entered-the-Field-As-Direct-Competitors-and-Infrastructure-Providers.html",
+      "publisher": "GlobeNewswire / Future Markets Inc.",
+      "date": "2026-05-20",
+      "accessed": "2026-07-15",
+      "key_data": "Big Tech entry: Microsoft, Google DeepMind, Meta FAIR, IBM Research, NVIDIA all in materials informatics as of May 2026",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Jeff Bezos backs CuspAI in reported $400M raise that could value it at $2.6B",
+      "url": "https://techfundingnews.com/cuspai-520m-to-2-6b-jeff-bezos-materials-science-bet/",
+      "publisher": "Tech Funding News",
+      "date": "2026-06-17",
+      "accessed": "2026-07-15",
+      "key_data": "CuspAI $400M raise at $2.6B valuation (from $520M 9 months prior); Bezos Expeditions + Kleiner Perkins; Geoffrey Hinton + Yann LeCun advisory board",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "CuspAI to hit $2.6bn valuation with backing from Jeff Bezos, reports say",
+      "url": "https://sifted.eu/articles/cuspai-to-hit-2-6bn-valuation-with-backing-from-jeff-bezos-reports-say",
+      "publisher": "Sifted",
+      "date": "2026-06-17",
+      "accessed": "2026-07-15",
+      "key_data": "CuspAI founded 2024, Cambridge UK; Dr Chad Edwards + Prof Max Welling; term sheets signed for $400M round",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI materials now needs to move into the real world",
+      "url": "https://www.technologyreview.com/2025/12/15/1129210/ai-materials-science-discovery-startups-investment/",
+      "publisher": "MIT Technology Review",
+      "date": "2025-12-15",
+      "accessed": "2026-07-15",
+      "key_data": "Total 2025 VC in AI materials exceeds $1.2B; includes Lila Sciences $200M seed (Flagship Pioneering) and CuspAI $130M Series A",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Google DeepMind's new AI tool helped create more than 700 new materials",
+      "url": "https://www.technologyreview.com/2023/11/29/1084061/deepmind-ai-tool-for-new-materials-discovery/",
+      "publisher": "MIT Technology Review",
+      "date": "2023-11-29",
+      "accessed": "2026-07-15",
+      "key_data": "GNoME: 2.2M stable crystal structures discovered; 380,000 stable; 52,000 novel lithium-ion conductors; 736 already synthesized by external researchers",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Google DeepMind and Isomorphic Labs introduce AlphaFold 3",
+      "url": "https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/",
+      "publisher": "Google DeepMind Blog",
+      "date": "2024-05-08",
+      "accessed": "2026-07-15",
+      "key_data": "AlphaFold 3 extends molecular prediction to DNA, RNA, ligands; 50%+ improvement over existing methods; jointly developed with Isomorphic Labs",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AlphaFold is five years old — these charts show how it revolutionized science",
+      "url": "https://www.nature.com/articles/d41586-025-03886-9",
+      "publisher": "Nature",
+      "date": "2025-11",
+      "accessed": "2026-07-15",
+      "key_data": "Nobel Prize in Chemistry 2024 awarded for AlphaFold methodology — first Nobel primarily for an AI system",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Nobel Chemist Omar Yaghi Bets the Future of Science in AI — Thinks It Can Discover Next Miracle Material",
+      "url": "https://www.natureworldnews.com/articles/73063/20260714/nobel-chemist-omar-yaghi-bets-future-science-ai-thinks-it-can-discover-next-miracle-material.htm",
+      "publisher": "Nature World News",
+      "date": "2026-07-14",
+      "accessed": "2026-07-15",
+      "key_data": "Nobel laureate chemist Omar Yaghi public endorsement of AI materials discovery as path to next miracle material (July 2026)",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Berkeley Lab Leads Effort to Build AI Assistant for Energy Materials Discovery",
+      "url": "https://newscenter.lbl.gov/2026/02/03/berkeley-lab-leads-effort-to-build-ai-assistant-for-energy-materials-discovery/",
+      "publisher": "Berkeley Lab News Center / US DOE",
+      "date": "2026-02-03",
+      "accessed": "2026-07-15",
+      "key_data": "FORUM-AI: DOE-funded multi-institution project to use AI and supercomputers for battery and semiconductor materials discovery",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "AI in Materials Discovery Market Size, Share | CAGR of 26.4%",
+      "url": "https://market.us/report/ai-in-materials-discovery-market/",
+      "publisher": "Market.us",
+      "date": "2026",
+      "accessed": "2026-07-15",
+      "key_data": "Supporting market size and CAGR data; key players include Google, Microsoft, BASF, IBM, Schrödinger, Citrine Informatics",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Why AI and circularity are key to the future of materials",
+      "url": "https://www.weforum.org/stories/2026/01/circularity-artificial-intelligence-enabled-materials-innovation/",
+      "publisher": "World Economic Forum",
+      "date": "2026-01",
+      "accessed": "2026-07-15",
+      "key_data": "Climate urgency and circularity driving AI materials discovery; WEF endorsement of AI as materials sustainability tool",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Market share percentages for individual Big Tech players (Google ~25%, Microsoft ~20%, NVIDIA ~15%, CuspAI ~8%, Schrödinger ~10%) are estimates based on market reports and do not reflect audited revenue figures",
+    "3M growth estimate of +45% Q2 2026 is inferred from CuspAI valuation jump and Big Tech market entry signals, not a directly measured search or revenue metric",
+    "Search volume estimate of 60K+ per month is inferred from trend signals; not sourced from a keyword research tool in this report"
+  ]
+}
