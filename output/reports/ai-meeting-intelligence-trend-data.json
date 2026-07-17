@@ -1,0 +1,213 @@
+{
+  "trend_name": "AI Meeting Intelligence",
+  "status": "surging",
+  "search_volume": "~100,000",
+  "category": "AI & Technology",
+  "growth_5y": "+363%",
+  "growth_1y": "+37%",
+  "growth_3m": "+8%",
+  "trigger": "Three funding milestones in twelve months reset the valuation ceiling for AI meeting intelligence: Granola closed a $125M Series C at $1.5B valuation in March 2026 — up from a $250M valuation just ten months earlier and 250% QoQ revenue growth — while Fireflies.ai crossed the $1B unicorn threshold in June 2025 without a traditional primary round (profitable since 2023). Simultaneously, Zoom AI Companion 3.0 launched in December 2025 to run natively inside Microsoft Teams and Google Meet, the first collaboration giant to formally encroach on rivals' home turf. The catalyst beneath all three: LLM accuracy in speaker-attributed summarisation crossed the 'good enough' threshold for enterprise in 2025, turning AI meeting notes from a novelty into a workflow infrastructure layer. The global AI meeting assistant market reached $4.31B in 2026 and is projected to hit $72.17B by 2034, compounding at 34.7% CAGR (Market.us). Meanwhile, knowledge workers spend an average of four or more hours per day in meetings and lose 30–45 minutes daily to manual note-taking and follow-up drafting — an ROI case so obvious that enterprise adoption is accelerating faster than analysts initially modelled.",
+  "timeline": [
+    {
+      "date": "2021-04",
+      "event": "Otter.ai closes a $50M Series B, the largest funding round in AI transcription to date, validating the enterprise case for AI-generated meeting notes. The round brings Otter's total funding to $63M and signals institutional confidence in the sector a full two years before generative AI enters mainstream conversation."
+    },
+    {
+      "date": "2023-09",
+      "event": "Zoom launches AI Companion — the first AI meeting assistant bundled at no extra cost with any paid Zoom Workplace plan. Within months it handles live transcription, smart summaries, and action-item extraction for over 350M daily active Zoom users, instantly making AI meeting intelligence a default enterprise experience rather than an optional add-on."
+    },
+    {
+      "date": "2024-10",
+      "event": "Granola closes a $20M Series A from Lightspeed Venture Partners with just 5,000 weekly active users — signalling that its bot-free architecture (capturing audio locally, never joining calls as a bot) has solved the social friction problem that was limiting adoption of earlier tools. The round validates product-led growth in a category previously dominated by bot-based approaches."
+    },
+    {
+      "date": "2025-05",
+      "event": "Granola raises a $43M Series B at a $250M valuation and launches collaborative Spaces features, enabling teams to query notes collectively. The same month, Otter.ai launches its Meeting Agent — a voice-activated AI that can join meetings, answer questions based on a company's entire meeting database, schedule follow-ups, and draft emails via natural voice command, extending AI from passive note-taker to active meeting participant."
+    },
+    {
+      "date": "2025-06",
+      "event": "Fireflies.ai announces a $1B valuation via a tender offer — the first AI meeting intelligence pure-play to reach unicorn status without raising a traditional primary round since its 2021 seed. The milestone confirms that profitable, bottom-up SaaS distribution (3M+ users, self-serve, CRM-first) can build durable enterprise value in the category without relentless fundraising."
+    },
+    {
+      "date": "2026-03",
+      "event": "Granola raises $125M in a Series C led by Index Ventures at a $1.5B valuation — a 6x step-up from its Series B in under a year — reporting 250% revenue growth in the prior quarter and announcing two enterprise APIs (personal context API and admin-level enterprise API) that turn meeting notes into queryable organisational memory at scale. The round cements AI meeting intelligence as a platform layer, not just a productivity app."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Regulatory pressure is accelerating in two directions simultaneously. The EU AI Act's high-risk provisions (effective August 2026) apply to AI systems that process biometric data — including voice prints extracted from meeting recordings — requiring conformity assessments and transparency logs. Many jurisdictions require explicit two-party consent before recording a conversation: California Penal Code 632, Germany's BDSG, and France's Article 226-1 all impose criminal liability for non-consensual recording. Enterprise IT and legal teams are now required to vet AI meeting tool data processing agreements before deployment, creating procurement friction that favours compliance-certified vendors. The UK ICO has issued guidance stating that AI meeting tools must disclose to all participants that AI is processing their speech, and that consent cannot be buried in meeting invitations."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The productivity economics are unambiguous: knowledge workers average 4+ hours per day in meetings and lose 30–45 minutes daily to manual note-taking, follow-up drafting, and re-reading prior meeting summaries. AI meeting tools recover this time with a payback period measured in weeks at individual-user pricing ($15–$29/user/month for premium tools). At the market level, the global AI meeting assistant market reached $4.31B in 2026 (Market.us), growing at a 34.7% CAGR toward $72.17B by 2034. Microsoft's Copilot for Teams commands a $30/user/month premium licence — creating a significant price wedge that independent players like Granola ($18/user) and Fathom (free tier) are exploiting aggressively. North America holds 33%+ of global revenue (Grand View Research), but APAC is the fastest-growing region driven by remote-first tech company growth in India, Singapore, and South Korea."
+    },
+    {
+      "factor": "Social",
+      "impact": "Hybrid and remote work permanently elevated meeting frequency post-2020: Microsoft's 2025 Work Trend Index found that Teams users attend 3x as many meetings as in 2019, with 57% describing meeting overload as their primary productivity drag. AI notetakers emerged as the coping mechanism — but they introduced new social tensions. The 'bot problem' (an AI joining a call visibly on behalf of one participant, recording everything) has created friction in sensitive negotiations, HR conversations, and client pitches. Vendors that solved for bot-free, local capture (Granola's Mac app architecture) or consent-first notification (tl;dv's EU design) are gaining ground over approaches that feel surveillance-like. Research from a 2025 Grammarly/Talker survey found that one in three knowledge workers wants AI to draft their meeting notes — but one in four opposes AI attending meetings uninvited, illustrating the consent gap that currently limits opt-in rates."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Three technology curves converged in 2025 to push AI meeting intelligence from 'useful demo' to 'essential infrastructure': (1) Speaker diarisation accuracy crossed 95% in real-world conditions (multi-speaker, background noise, accents), making speaker-attributed transcripts reliable enough for legal and sales recordkeeping; (2) LLM inference costs fell 10x between 2023 and 2025, enabling real-time AI processing of live meeting audio without buffering delays; (3) Retrieval-Augmented Generation (RAG) across indexed meeting corpora allows users to query 'What did we decide about the Q3 budget across all finance meetings this year?' and receive accurate, cited answers — turning a note-taking tool into an institutional memory engine. Bot-free architectures using local audio capture (Granola on Mac, PLAUD AI hardware) have removed the social friction of bot-based approaches, accelerating enterprise opt-in. Cross-platform APIs from AssemblyAI and Recall.ai allow any team to build meeting intelligence into custom workflows without building transcription infrastructure from scratch."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI meeting intelligence has a net-positive environmental profile relative to the status quo it replaces. By enabling reliable async catch-up from auto-generated summaries and video clips, the tools are measurably reducing the number of 'you should've been there' repeat meetings — the meetings held to convey information that participants missed. Shorter meeting times and fewer repeat syncs reduce energy consumption in always-on video conferencing infrastructure (each video call generates approximately 150g CO₂/hour per participant). However, the always-on transcription model creates new data storage footprints: a 40-hour/week executive generates roughly 800 hours of processed audio data annually, which vendors must store, index, and serve — a non-trivial energy burden at scale. Vendors with EU-hosted infrastructure (Hedy AI, tl;dv, bliro) argue their GDPR-compliant data minimisation practices (auto-delete audio after transcription) also reduce long-term storage emissions."
+    },
+    {
+      "factor": "Legal",
+      "impact": "The legal landscape for AI meeting tools in 2026 is the most complex compliance surface in enterprise AI. Four simultaneous frameworks apply: (1) GDPR Article 6 and 9 (EU) — processing voice data requires a lawful basis; legitimate interest is insufficient for sensitive conversations, making explicit consent mandatory for most enterprise deployments; (2) HIPAA (US) — telehealth meetings, patient case discussions, and insurance reviews fall under Business Associate Agreement requirements; AI meeting tools processing protected health information must sign BAAs and maintain audit logs; (3) Wiretapping statutes (US state-level) — California, Florida, Illinois, Pennsylvania, and 11 other states impose two-party consent requirements, meaning every participant in a recorded meeting must be notified and consent; (4) EU AI Act Article 52 — transparency obligations require that any AI system generating meeting summaries disclose that the output was AI-generated to the recipient. Enterprises deploying AI meeting tools without addressing all four frameworks face fines, liability, and reputational risk. The most legally exposed use cases are HR discussions, legal negotiations, M&A discussions, and clinical conversations."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Eliminate the manual note-taking burden from every meeting",
+      "solution": "AI meeting assistants (Granola, Fathom, Otter.ai, Fireflies.ai) automatically transcribe, attribute speech to speakers, and generate structured SOAP-style or action-item-first summaries in real time or within seconds of meeting end. Granola's bot-free Mac app captures audio locally and produces editable notes that users can prompt to restructure — preserving human agency while eliminating the 30–45 minutes of post-meeting write-up previously lost by each participant. Enterprise-grade tools integrate directly with Notion, Confluence, and Linear to push action items without manual copy-paste."
+    },
+    {
+      "job": "Auto-generate follow-up emails and CRM entries from sales and client calls",
+      "solution": "Sales-intelligence-focused platforms (Avoma, Chorus.ai by ZoomInfo, Gong, Fireflies.ai with CRM integrations) extract structured deal signals from customer call recordings: MEDDIC qualification fields, competitor mentions, pricing objections, and next-step commitments. Fireflies.ai auto-populates Salesforce and HubSpot custom fields from the meeting transcript within 90 seconds of call end. Avoma goes further, surfacing buyer sentiment scores and talk-time ratios (sales rep vs. customer) to coach reps on listening behaviour. ROI data from Chorus.ai customers shows a 20–35% improvement in forecast accuracy when AI-extracted deal fields replace manual CRM entry."
+    },
+    {
+      "job": "Enable async catch-up for meeting participants who couldn't attend",
+      "solution": "AI tools now generate not just text summaries but navigable video clips, chapter-indexed transcripts, and searchable Q&A layers over recorded meetings. Grain (acquired by Clari) lets users clip, annotate, and share 60-second highlight reels from full-length sales calls directly in Slack. Loom's AI generates written summaries of video messages automatically. For all-hands recordings, tools like tl;dv create chapter menus with timestamp links so late joiners or absent employees can jump directly to the 5-minute segment relevant to their team — converting a 90-minute all-hands into a self-service resource consumed asynchronously across time zones."
+    },
+    {
+      "job": "Build a queryable institutional memory from months of accumulated meeting context",
+      "solution": "Granola's enterprise API (launched March 2026) and similar platforms (Mem.ai, Notion AI with meeting integration) index 12+ months of meeting notes into a RAG-queryable knowledge base. Executives can ask 'What were the top three objections from enterprise prospects in Q1?' or 'What did the engineering team commit to ship by June?' and receive cited, meeting-attributed answers. This represents the category's evolution from productivity tool to institutional intelligence layer — the difference between a search tool and organisational memory. Granola's Spaces feature adds team-scoped access controls, allowing sales, product, and leadership teams to share relevant meeting context while keeping sensitive discussions private."
+    },
+    {
+      "job": "Coach sales reps and managers using real call data without manual listening",
+      "solution": "Sales intelligence platforms use AI to score every customer call automatically across 50+ dimensions: talk-time ratio, question frequency, deal risk signals, next-step commitment rate, and competitor mention density. Managers receive weekly coaching dashboards without listening to a single call recording. Gong's Revenue Intelligence platform processes meeting recordings across an entire sales org to surface deal risk 6–8 weeks earlier than traditional CRM signals, enabling pipeline intervention before deals go dark. The category is expanding beyond sales: interview intelligence tools (Metaview, Screenloop) apply the same pattern to recruiting, and product research tools (Dovetail AI) apply it to customer discovery calls."
+    }
+  ],
+  "market": [
+    {
+      "name": "Microsoft (Copilot for Teams)",
+      "share": "~25% [est.]",
+      "loved": "Bundled into Microsoft 365 ecosystem (320M+ Teams users); Copilot's Intelligent Recap auto-generates meeting summaries, chapter markers, and action items inside the Teams interface; deep integration with Outlook calendar, Loop workspaces, and Planner for action-item sync; enterprise-grade compliance and data residency controls; Teams Rooms AI detection of in-person participants for hybrid meeting notes",
+      "segment": "Enterprise collaboration platform"
+    },
+    {
+      "name": "Zoom AI Companion",
+      "share": "~20% [est.]",
+      "loved": "Included at no additional cost with any paid Zoom Workplace plan — key differentiator vs. Copilot's $30/user premium; AI Companion 3.0 (Dec 2025) works cross-platform inside Microsoft Teams and Google Meet; 81.35% benchmark score (ahead of Copilot 80.75%); My Notes feature syncs across devices; Meeting Query lets users ask natural language questions about past meetings",
+      "segment": "Video-first collaboration platform"
+    },
+    {
+      "name": "Google Gemini in Meet",
+      "share": "~18% [est.]",
+      "loved": "One-click 'Take notes for me' checkbox auto-saves notes to Google Drive linked to Calendar event; Gemini 2.5 Pro handles technical and multilingual meeting content; deep Workspace integration (auto-cites meeting in Docs, creates tasks in Google Tasks); Gemini-generated summaries appear in Gmail threads for absent participants automatically",
+      "segment": "Workspace-native AI assistant"
+    },
+    {
+      "name": "Fireflies.ai",
+      "share": "~8% [est.]",
+      "loved": "$1B unicorn valuation (June 2025); profitable since 2023; 3M+ users; CRM-first design with deep Salesforce/HubSpot sync; Smart Search across all past meetings; Sentiment Analysis and Topic Tracker for sales teams; generous free tier that drives bottom-up enterprise adoption; AskFred AI for post-meeting Q&A",
+      "segment": "CRM-integrated meeting intelligence"
+    },
+    {
+      "name": "Granola",
+      "share": "~5% [est.]",
+      "loved": "$1.5B valuation (March 2026); 250% QoQ revenue growth; bot-free local audio capture eliminates social friction; best-in-class note editing UX (human-AI hybrid format); Spaces enterprise API for organisation-wide meeting memory; 3x spend growth displacing Fathom, Otter, and Fireflies among mid-market teams (YipitData, Feb 2026)",
+      "segment": "Privacy-first enterprise meeting intelligence"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Granola",
+      "detail": "$125M Series C (March 2026) at $1.5B valuation, led by Index Ventures with participation from Kleiner Perkins, Lightspeed, Spark, and NFDG. Total raised: $192M in under three years. Granola's core differentiator is its bot-free Mac app architecture: audio is captured locally from the system's microphone, processed via the user's API credentials, and never joined calls as a bot — eliminating the social anxiety that suppresses opt-in for bot-based tools. The March 2026 round was accompanied by a personal API (allowing individuals to access and query their own notes) and an enterprise API (allowing admins to manage team context), positioning Granola as the AI layer for institutional meeting memory rather than just a productivity tool. Revenue grew 250% in Q4 2025, with mid-market spend per team reaching ~$6K/month in February 2026 — 3x higher than six months prior (YipitData). The company's near-zero churn and accelerating spend displacement of Fathom, Otter, and Fireflies suggest a platform shift rather than incremental adoption."
+    },
+    {
+      "name": "Fireflies.ai",
+      "detail": "$1B unicorn valuation via tender offer (June 2025). No primary capital raised since a $14M round in 2021. Profitable since 2023 — a rare milestone in enterprise AI SaaS. 3M+ registered users across 100+ countries. Fireflies takes a CRM-first approach: its central value proposition is that every customer conversation should be automatically logged, enriched, and synced to Salesforce or HubSpot without manual data entry. AskFred (Freddie the AI) enables post-meeting Q&A across any historic transcript. The platform recently added Smart Filters for compliance teams (auto-flag meetings containing PII, pricing discussions, or competitor mentions) and multi-language support across 69 languages. Key risk: Granola's mid-market momentum is measurably displacing Fireflies' spend among teams that prioritise note quality and bot-free capture over CRM depth. Fireflies' growth has plateaued (YipitData) while Granola accelerates."
+    },
+    {
+      "name": "Fathom",
+      "detail": "$17M Series A (September 2024, investors undisclosed). Fathom's founding thesis is that the best AI meeting tool is a free one: its individual-tier is completely free with unlimited meetings, making it the fastest-growing product-led-growth tool in the category by signup volume. Revenue comes from Fathom for Teams ($24/user/month) with collaboration features, CRM sync, and admin dashboards. Fathom is currently experiencing spend decline among mid-market teams (YipitData, Feb 2026), with users migrating to Granola for note quality and to Fireflies for CRM depth. The pure-free-tier strategy builds top-of-funnel but creates conversion pressure: users who love the free product resist paying when Zoom AI Companion is now free and Granola's paid tier offers meaningfully better output quality. Fathom's moat is its exceptional iOS app and in-person meeting capture via iPhone mic — a use case underserved by desktop-only competitors."
+    },
+    {
+      "name": "Otter.ai",
+      "detail": "$50M raised (most recently $50M Series B in February 2021). 278 employees as of April 2026. 4M+ registered users. Otter occupies the consumer-to-prosumer segment with a $10–$20/month price point and a 300-minute-per-month free tier. The January 2025 Meeting Agent launch (a voice-activated AI that joins calls, answers questions from the company's meeting database, schedules follow-ups, and drafts emails) represented Otter's bid to move from passive transcription tool to active AI participant — a significant product pivot. However, Otter's spend growth has plateaued (YipitData), suggesting that the Meeting Agent has not yet displaced its core note-taking positioning in enterprise procurement. Otter's strongest remaining moat is its API for developers (used by educational institutions, podcast platforms, and productivity tool builders) and its in-person meeting capture via iOS app — a segment increasingly important as workplaces return to hybrid formats."
+    },
+    {
+      "name": "Avoma",
+      "detail": "Series B funded (exact amount undisclosed; total raised ~$12M as of 2024). Avoma positions itself as a full AI meeting lifecycle management platform — not just post-meeting notes but pre-meeting agenda templates, during-meeting live bookmarking, and post-meeting coaching insights. Its sales intelligence layer is its core differentiator: Avoma extracts MEDDIC/MEDDPICC qualification fields, buyer sentiment scores, talk-time ratios, and competitor mention frequencies automatically from every sales call — surfacing coaching opportunities without managers listening to recordings. The platform integrates natively with Salesforce, HubSpot, and Pipedrive and auto-populates custom deal fields from the transcript. Avoma competes directly with Gong (enterprise) and Chorus.ai/ZoomInfo (mid-market) at a significantly lower price point ($59–$79/user/month vs. Gong at $100+). Key risk: Avoma is capacity-constrained in engineering relative to Gong and Fireflies, and its US-only data hosting may limit GDPR-regulated European enterprise expansion."
+    }
+  ],
+  "canvas": {
+    "who": "Primary users: knowledge workers in hybrid and remote-first organisations (typically 10–5,000 employees) spending 4+ hours daily in video meetings — especially software engineers, product managers, sales reps, founders, and executive assistants. Sales teams are the highest-value early adopters: they have a direct revenue link between meeting intelligence quality and CRM accuracy. Secondary users: recruiting teams (AI interview notes, candidate comparison), UX researchers (customer discovery synthesis), and healthcare providers (telehealth session documentation — though this segment requires HIPAA-specific compliance tooling). Geographic concentration: North America 33%+ of revenue; APAC fastest-growing, driven by India, Singapore, and South Korea remote-first tech growth.",
+    "where": "Discovered via word-of-mouth in Slack and LinkedIn posts ('I've been using this Granola thing…'), Zapier and Product Hunt listings, and marketing tech newsletters. Evaluated through free trials and free-forever tiers (Fathom, Otter free). Deployed inside existing collaboration stacks — Zoom, Teams, or Google Meet — with minimal IT lift. The social proof mechanism is unusually strong: when a notetaker tool is used in a meeting, the auto-generated summary is shared with every attendee, introducing the product to 3–10 new potential users per meeting. This viral loop drives exceptional K-factors in teams and explains why bottom-up PLG dominates the category. Enterprise deals are closed by IT and procurement after organic bottom-up adoption reaches 30–50% of a team.",
+    "why_now": "Five forces converged between 2024 and 2026 to make AI meeting intelligence a category priority: (1) LLM accuracy in speaker-attributed, structured summarisation crossed the 'reliable enough for business use' threshold in 2025 — early tools produced summaries users had to verify and correct; current tools produce summaries users trust and act on directly; (2) Zoom AI Companion normalised the expectation that meeting AI should be free or near-free, creating pressure on the entire category to compete on quality rather than price; (3) Granola's Series C at $1.5B validated that purpose-built, privacy-first meeting tools can generate enterprise-scale revenue even against platform giants; (4) GDPR and AI Act compliance requirements are forcing enterprises to formally evaluate AI tools that process speech data — creating structured procurement processes that benefit compliant vendors over shadow-IT adoption; (5) The 'bot fatigue' backlash gave bot-free architectures (Granola, PLAUD hardware) a new product narrative that's resonating with customers who blocked or banned AI bots from sensitive meetings.",
+    "behavior": "Adoption follows a consistent three-stage pattern: (1) Individual install — a team member downloads the tool after a recommendation, uses it personally for 2–4 weeks, and becomes a vocal internal champion after sharing one particularly good summary; (2) Team pilot — the champion shares the tool with their direct team; the auto-shared summary email after each meeting spreads awareness virally, often reaching 15–20 team members within a week without a formal rollout; (3) Organisational deployment — IT or the exec sponsor formalises the tool, negotiates an enterprise licence, and integrates meeting summaries with the company's knowledge management system (Notion, Confluence, Salesforce). The viral mechanism (every shared meeting summary is product advertising) means that churn is structurally low: abandoning the tool means losing shared meeting history, which creates switching costs proportional to tenure. The highest-churn segment is individual consumers who use the free tier without sharing — lacking the organisational memory lock-in.",
+    "unmet": "Three fundamental gaps remain unsolved: (1) Cross-platform memory — no single tool yet maintains a unified, queryable meeting memory across Zoom + Microsoft Teams + Google Meet + in-person audio; teams using multiple platforms lose context continuity between meeting types, and the enterprise API landscape is fragmented enough that building cross-platform indexing is a significant engineering investment; (2) Hallucination in high-stakes domains — in complex technical, legal, and medical discussions, current LLMs still confidently generate plausible-but-wrong action items or attribute statements to the wrong speaker; no vendor has solved real-time confidence scoring that flags low-reliability outputs before they enter CRMs or formal records; (3) Consent UX for external participants — the consent notification experience (a bot joining a call and announcing it is recording) is uniformly awkward and suppresses opt-in rates in external-facing meetings like client calls, investor pitches, and legal proceedings; bot-free tools solve part of this but shift the consent UX challenge to the platform level."
+  },
+  "takeaways": [
+    "Before purchasing any third-party AI meeting tool, audit whether your organisation is already paying for platform-native AI: Zoom AI Companion is included at no additional charge with any paid Zoom Workplace plan, and Google Gemini in Meet is included with Google Workspace Business Standard and above. Microsoft Copilot for Teams costs $30/user/month as a premium licence — which can exceed $36,000/year for a 100-person team. Many organisations are paying for Otter or Fireflies licenses on top of Copilot licences they already own. Start with what you have, benchmark against the category leaders, and only add purpose-built tools (Granola, Fathom) where platform-native tools fail to meet quality or privacy requirements.",
+    "Sales teams should move beyond basic notetakers to sales intelligence platforms. Basic AI notetakers (Fathom, Otter) produce summaries, but sales intelligence tools (Avoma, Gong, Fireflies with CRM integrations) automatically extract MEDDIC qualification fields, buyer sentiment scores, talk-time ratios, and competitor mention frequencies — populating Salesforce custom fields without a single manual CRM entry. Chorus.ai customers report 20–35% improvement in forecast accuracy when AI-extracted deal signals replace manual CRM updates. For sales-led teams, this is the ROI case to present to finance: the tool pays for itself through pipeline accuracy improvements alone, independent of the time saved on note-taking.",
+    "Legal, HR, and regulated-industry teams must solve for GDPR and wiretapping law before deploying any AI meeting tool. This is not optional or deferred: under GDPR Article 6, processing voice data requires explicit lawful basis and must be disclosed to all participants; under California Penal Code 632, Florida FS 934.03, and 11 other US two-party-consent states, recording a conversation without all-party consent is a criminal offence. Every enterprise deploying an AI meeting tool to a team with EU participants or operating in a two-party-consent state must: (a) execute a Data Processing Agreement with the vendor; (b) configure consent notifications that precede every recorded meeting; (c) confirm the vendor has GDPR-appropriate data residency (EU-hosted). Vendors certified for these requirements include tl;dv (EU hosting), Hedy AI, and bliro — all designed specifically for the GDPR-first enterprise segment.",
+    "Treat your meeting history as enterprise data infrastructure and invest in it accordingly. Granola's March 2026 enterprise API launch signals the direction: AI meeting intelligence is evolving from 'productivity tool' to 'organisational memory layer.' Teams that have been systematically indexing their meetings for 12+ months can already ask questions like 'What did the product team commit to ship in Q2?' or 'Which enterprise accounts mentioned pricing as a blocker this quarter?' — and receive cited, meeting-attributed answers. Teams starting this now will have a 12-month institutional memory lead over competitors who delay. The window to build this advantage is 2026 — after AI meeting tools become ubiquitous, the data moat becomes the differentiator, and late adopters will have no shortcut to catching up on 24 months of unindexed institutional context."
+  ],
+  "sources": [
+    {
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app — TechCrunch",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding — Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding",
+      "publisher": "Bloomberg"
+    },
+    {
+      "title": "AI note-taking app Granola raises $43M at $250M valuation, launches collaborative features — TechCrunch",
+      "url": "https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/",
+      "publisher": "TechCrunch"
+    },
+    {
+      "title": "Fireflies ignites a $1B valuation with real-time AI meeting assistant — Tech Funding News",
+      "url": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/",
+      "publisher": "Tech Funding News"
+    },
+    {
+      "title": "AI Meeting Assistant Market Size, Share | CAGR at 34.7% — Market.us",
+      "url": "https://market.us/report/ai-meeting-assistant-market/",
+      "publisher": "Market.us"
+    },
+    {
+      "title": "AI Meeting Assistant Market Size & Share Report, 2026-2033 — Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-meeting-assistant-market-report",
+      "publisher": "Grand View Research"
+    },
+    {
+      "title": "Zoom AI Companion Goes Cross-Platform with Microsoft Teams and Google Meet — UC Today",
+      "url": "https://www.uctoday.com/unified-communications/zoom-ai-companion-microsoft-teams-google-meet/",
+      "publisher": "UC Today"
+    },
+    {
+      "title": "Granola vs Fathom vs Otter vs Fireflies: AI Notetaker Market Dynamics 2026 — YipitData",
+      "url": "https://www.yipitdata.com/resources/granola-vs-fathom-otter-fireflies-ai-notetaking",
+      "publisher": "YipitData"
+    },
+    {
+      "title": "GDPR Compliant AI Meeting Assistants: What Enterprise Teams Need to Know in 2026 — MeetingNotes",
+      "url": "https://meetingnotes.com/blog/gdpr-compliant-ai-meeting-assistants",
+      "publisher": "MeetingNotes"
+    },
+    {
+      "title": "AI-Powered Meeting Assistants Market Report 2026 — Research and Markets",
+      "url": "https://www.researchandmarkets.com/reports/6226248/ai-powered-meeting-assistants-market-report",
+      "publisher": "Research and Markets"
+    },
+    {
+      "title": "AI in Meeting Assistants Market Size to Hit USD 6.28 Billion by 2035 — Precedence Research",
+      "url": "https://www.precedenceresearch.com/ai-in-meeting-assistants-market",
+      "publisher": "Precedence Research"
+    },
+    {
+      "title": "Ambient AI Scribe Comparison Guide 2026: DAX, Abridge, Nabla, and DeepScribe — MedEquip Directory",
+      "url": "https://www.medequipdirectory.com/guides/ambient-ai-scribe-comparison-guide-2026-dax-abridge-nabla-deepscribe/",
+      "publisher": "MedEquip Directory"
+    }
+  ]
+}

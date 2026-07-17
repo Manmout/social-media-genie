@@ -1,0 +1,145 @@
+{
+  "trend_name": "AI Meeting Intelligence",
+  "slug": "ai-meeting-intelligence",
+  "research_date": "2026-07-17",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "publisher": "TechCrunch",
+      "date": "2026-03-25",
+      "key_claim": "Granola Series C at $1.5B valuation; 250% QoQ revenue growth; enterprise APIs launched",
+      "verified": true,
+      "notes": "Primary source for Granola Series C funding milestone and enterprise API product launch"
+    },
+    {
+      "id": 2,
+      "title": "AI Notetaker Granola Hits $1.5 Billion Value in $125 Million Funding",
+      "url": "https://www.bloomberg.com/news/articles/2026-03-25/ai-notetaker-granola-hits-1-5-billion-value-in-125-million-funding",
+      "publisher": "Bloomberg",
+      "date": "2026-03-25",
+      "key_claim": "Bloomberg confirmation of Granola $1.5B valuation; index Ventures led; Kleiner Perkins participated",
+      "verified": true,
+      "notes": "Secondary confirmation of funding round details and investor names"
+    },
+    {
+      "id": 3,
+      "title": "AI note-taking app Granola raises $43M at $250M valuation, launches collaborative features",
+      "url": "https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m-at-250m-valuation-launches-collaborative-features/",
+      "publisher": "TechCrunch",
+      "date": "2025-05-14",
+      "key_claim": "Granola Series B at $250M valuation; Spaces and collaborative note-sharing features launched",
+      "verified": true,
+      "notes": "Source for Series B milestone in the timeline; documents the $250M to $1.5B valuation trajectory"
+    },
+    {
+      "id": 4,
+      "title": "Fireflies ignites a $1B valuation with real-time AI meeting assistant",
+      "url": "https://techfundingnews.com/fireflies-ai-unicorn-status-ai-meeting/",
+      "publisher": "Tech Funding News",
+      "date": "2025-06",
+      "key_claim": "Fireflies.ai reached $1B unicorn valuation via tender offer; profitable since 2023; no primary capital since 2021",
+      "verified": true,
+      "notes": "Primary source for Fireflies unicorn milestone; confirms profitability and bootstrapped growth thesis"
+    },
+    {
+      "id": 5,
+      "title": "AI Meeting Assistant Market Size, Share | CAGR at 34.7%",
+      "url": "https://market.us/report/ai-meeting-assistant-market/",
+      "publisher": "Market.us",
+      "date": "2026",
+      "key_claim": "Global AI meeting assistant market at $4.31B in 2026; projected $72.17B by 2034 at 34.7% CAGR",
+      "verified": true,
+      "notes": "Primary market sizing source; used for growth_1y (+37%), growth_5y (+363%), and trigger paragraph market figures"
+    },
+    {
+      "id": 6,
+      "title": "AI Meeting Assistant Market Size & Share Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-meeting-assistant-market-report",
+      "publisher": "Grand View Research",
+      "date": "2026",
+      "key_claim": "CAGR of 25.8% from 2026 to 2033; North America 33%+ market share; generative AI adoption as primary driver",
+      "verified": true,
+      "notes": "Secondary market sizing corroboration; used for regional breakdown and CAGR range"
+    },
+    {
+      "id": 7,
+      "title": "Zoom AI Companion Goes Cross-Platform with Microsoft Teams and Google Meet",
+      "url": "https://www.uctoday.com/unified-communications/zoom-ai-companion-microsoft-teams-google-meet/",
+      "publisher": "UC Today",
+      "date": "2025-12",
+      "key_claim": "Zoom AI Companion 3.0 expands to run inside Microsoft Teams and Google Meet; My Notes feature cross-platform",
+      "verified": true,
+      "notes": "Source for December 2025 timeline milestone; documents Zoom's cross-platform strategy"
+    },
+    {
+      "id": 8,
+      "title": "Granola vs Fathom vs Otter vs Fireflies: AI Notetaker Market Dynamics 2026",
+      "url": "https://www.yipitdata.com/resources/granola-vs-fathom-otter-fireflies-ai-notetaking",
+      "publisher": "YipitData",
+      "date": "2026-02",
+      "key_claim": "Granola mid-market spend reached ~$6K/month in February 2026 — 3x increase over prior 6 months; Fathom and Fireflies spend declining",
+      "verified": true,
+      "notes": "Key source for competitor market share dynamics and spend growth data"
+    },
+    {
+      "id": 9,
+      "title": "GDPR Compliant AI Meeting Assistants: What Enterprise Teams Need to Know in 2026",
+      "url": "https://meetingnotes.com/blog/gdpr-compliant-ai-meeting-assistants",
+      "publisher": "MeetingNotes",
+      "date": "2026",
+      "key_claim": "GDPR requirements for AI meeting tools: explicit consent, EU hosting, data deletion after transcription, BAAs for HIPAA-scope meetings",
+      "verified": true,
+      "notes": "Source for Legal PESTAL section and enterprise compliance requirements in Takeaway 3"
+    },
+    {
+      "id": 10,
+      "title": "AI-Powered Meeting Assistants Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226248/ai-powered-meeting-assistants-market-report",
+      "publisher": "Research and Markets",
+      "date": "2026",
+      "key_claim": "Market at $3.14B in 2025, growing to $3.91B in 2026 at 24.6% CAGR (conservative estimate)",
+      "verified": true,
+      "notes": "Secondary market sizing; used to validate 2025 baseline figure for 1Y growth calculation"
+    },
+    {
+      "id": 11,
+      "title": "AI in Meeting Assistants Market Size to Hit USD 6.28 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/ai-in-meeting-assistants-market",
+      "publisher": "Precedence Research",
+      "date": "2026",
+      "key_claim": "Market to reach $6.28B by 2035; North America dominant; generative AI and enterprise adoption main growth drivers",
+      "verified": true,
+      "notes": "Tertiary market size validation source"
+    },
+    {
+      "id": 12,
+      "title": "Best AI Meeting Notetakers 2026: Tested (Bot-Free Picks)",
+      "url": "https://get-alfred.ai/blog/best-ai-meeting-notetakers",
+      "publisher": "Alfred",
+      "date": "2026",
+      "key_claim": "Granola, Fathom, Otter.ai, Fireflies comparative review; bot-free architecture emerging as enterprise preference",
+      "verified": true,
+      "notes": "Used to verify product differentiation claims in competitor section"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share estimates for Microsoft Copilot, Zoom AI Companion, and Google Gemini (~25%, ~20%, ~18%)",
+      "reason": "No independent analyst has published official market share data for AI meeting intelligence by vendor; estimates are derived from user base size and strategic fit",
+      "flagged_as": "[est.]"
+    },
+    {
+      "claim": "search_volume ~100,000/month",
+      "reason": "No Keyword Everywhere or Google Trends export run; estimate based on category size and related term volumes",
+      "flagged_as": "[est.]"
+    },
+    {
+      "claim": "Knowledge workers average 4+ hours/day in meetings",
+      "reason": "Microsoft Work Trend Index 2025 cited but URL not directly retrieved in this research session; figure widely reported across industry sources",
+      "flagged_as": "[widely cited; verify against Microsoft Work Trend Index 2025]"
+    }
+  ],
+  "research_notes": "Topic selected after auditing 90+ existing hemle.blog trend data files to confirm 'ai-meeting-intelligence' not previously covered. Three competing topics evaluated (agentic AI in healthcare, AI predictive maintenance, AI BI analytics) before selecting AI Meeting Intelligence based on: (1) CAGR 34.7% qualifies as surging; (2) three fresh funding milestones in 2025-2026 (Granola Series B + C, Fireflies unicorn); (3) universal relevance across all knowledge worker segments; (4) active regulatory development creating PESTAL richness; (5) not on hemle.blog topic exclusion list."
+}
