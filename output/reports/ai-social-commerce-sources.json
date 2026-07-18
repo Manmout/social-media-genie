@@ -1,0 +1,109 @@
+{
+  "trend": "AI Social Commerce",
+  "slug": "ai-social-commerce",
+  "researched": "2026-07-18",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/social-commerce-market",
+      "type": "market-research",
+      "claim": "Global social commerce market valued at $2.11 trillion in 2026, growing at 29.12% CAGR to $7.55T by 2031",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/social-commerce-market",
+      "type": "market-research",
+      "claim": "Social Commerce Market $1,925.3 billion in 2026, CAGR 37.4% through 2033; global market projected at $8.5T by 2030",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Digital Applied",
+      "url": "https://www.digitalapplied.com/blog/tiktok-shop-2026-social-commerce-guide",
+      "type": "industry-analysis",
+      "claim": "TikTok Shop $23.4B US GMV, $87B globally in 2026; 4.7% conversion rate vs Instagram 2.1%",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "eMarketer",
+      "url": "https://www.emarketer.com/content/faq-on-social-commerce--how-creators--platforms-power-shopping-2026",
+      "type": "industry-analysis",
+      "claim": "US social commerce crosses $100B for first time in 2026 (up 48% YoY); Amazon Rufus expanding to social platforms; 46.8M Instagram shoppers in US",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "eMarketer",
+      "url": "https://www.emarketer.com/content/meta-readies-ai-shopping-agents-instagram-rival-tiktok-shop",
+      "type": "news",
+      "claim": "Meta preparing AI shopping agents for Instagram to rival TikTok Shop, 2026",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "ringly.io",
+      "url": "https://www.ringly.io/blog/social-commerce-statistics-2026",
+      "type": "statistics",
+      "claim": "60%+ product discovery on TikTok, Instagram, YouTube; 62% of social shoppers cite creator content as decisive for purchase",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Short Form Nation",
+      "url": "https://www.shortformnation.com/blog/social-commerce-trends-2026-what-s-actually-working-on-tiktok-shop-and-what-s-not",
+      "type": "industry-analysis",
+      "claim": "Live commerce hitting 42% YoY growth; live sessions convert at 12-18%; TikTok Shop grew 407% in 2024; live stream average conversion 12-18%",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "alhena.ai",
+      "url": "https://alhena.ai/blog/ai-social-commerce-strategy/",
+      "type": "industry-analysis",
+      "claim": "Creator deals tied to sales see 4-8× ROAS vs flat-fee models; AI-powered storefronts reshape personalization",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/22/3300058/28124/en/United-States-Social-Commerce-Intelligence-Databook-Report-2026-A-1.81-Trillion-Market-by-2031-Led-by-TikTok-Shop-YouTube-Shopping-and-Pinterest-as-Specialist-Platforms-Gain-Moment.html",
+      "type": "market-research",
+      "claim": "US social commerce intelligence report: $1.81T market by 2031, led by TikTok Shop, YouTube Shopping, Pinterest",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/article/pii/S3051064326001780",
+      "type": "academic",
+      "claim": "AI and social commerce ecosystems: algorithmic fairness, data privacy, and governance are central concerns as recommendation AI scales",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Statista",
+      "url": "https://www.statista.com/statistics/1231944/social-commerce-global-market-size/",
+      "type": "statistics",
+      "claim": "Social commerce global revenue 2020-2030; 2021 baseline ~$492-620B establishing 5Y growth baseline",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Search Engine Land",
+      "url": "https://searchengineland.com/guide/top-ecommerce-trends-2026",
+      "type": "industry-analysis",
+      "claim": "Amazon Rufus generated $12B in incremental ecommerce value in 2025; expanding to social commerce integrations in 2026",
+      "verified": true
+    }
+  ],
+  "notes": [
+    "Platform market share percentages (TikTok ~20% US, Meta ~35% US) are sourced from ringly.io statistics compilation; exact figures vary by research methodology.",
+    "Global market size estimates range from $1.9T (Grand View Research) to $2.6T (other sources) in 2026 — variations reflect scope definitions (some include China's WeChat/Douyin natively).",
+    "5Y growth of +240% calculated from ~$620B global baseline in 2021 (Statista/Straits Research) to $2.1T in 2026 (Mordor Intelligence).",
+    "Live commerce conversion rates (12-18%) refer specifically to managed live shopping events, not passive shoppable video."
+  ]
+}
