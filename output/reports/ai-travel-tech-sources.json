@@ -1,0 +1,122 @@
+{
+  "trend": "AI in Travel & Tourism",
+  "slug": "ai-travel-tech",
+  "research_date": "2026-07-19",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Tourism Market Size, Share & Trends Report 2024–2030",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-in-tourism-market-114969018.html",
+      "publisher": "MarketsandMarkets",
+      "type": "market-research",
+      "key_claim": "Global AI in tourism market valued at $2.95B in 2024, projected to reach $13.38B by 2030 at a CAGR of 28.7%",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "State of Travel AI 2026: Market Map, Funding & Adoption",
+      "url": "https://www.travelaiagent.com/research/state-of-travel-ai-2026",
+      "publisher": "TravelAI Research",
+      "type": "industry-report",
+      "key_claim": "Total disclosed funding in travel AI exceeds $12 billion as of mid-2026; late-stage rounds dominate as investor sentiment shifts from experimentation to execution",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Expedia Group Explore 2026 in Las Vegas — AI Highlighted as Growth Engine for Travel Industry",
+      "url": "https://www.travelandtourworld.com/news/article/rgv16ofap2sg/",
+      "publisher": "Travel and Tour World",
+      "type": "news",
+      "key_claim": "Expedia unveils AI agents inside Partner Central to help partners identify problems, strengthen content, and speed onboarding; AI positioned as primary growth engine for all Expedia brands",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Navan Launches AI Travel Assistant (Navan Edge) for Unmanaged Business Travellers",
+      "url": "https://www.phocuswire.com/news/technology/navan-launches-ai-travel-assistant-business-travelers",
+      "publisher": "PhocusWire",
+      "type": "news",
+      "key_claim": "Navan Edge is an AI-powered personalized travel assistant for business travellers without Navan through their employer; covers hotels initially, expanding to flights and restaurants",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Mindtrip Unveils New AI Travel and Events Features, Announces Investments from Amex Ventures, Capital One Ventures and United Airlines Ventures",
+      "url": "https://finance.yahoo.com/news/mindtrip-unveils-ai-travel-events-140300012.html",
+      "publisher": "Yahoo Finance / Mindtrip",
+      "type": "funding-news",
+      "key_claim": "Mindtrip secures institutional backing from three major financial and travel brands — Amex Ventures, Capital One Ventures, United Airlines Ventures — giving consumer AI trip planning platform direct rails into loyalty and booking ecosystems",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "AI in Tourism Market Report 2024–2030 — Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-tourism-market-report",
+      "publisher": "Grand View Research",
+      "type": "market-research",
+      "key_claim": "Global AI in tourism market estimated at $3,373.0M in 2024, projected to reach $13,868.8M by 2030 at a CAGR of 26.7% (corroborates MarketsandMarkets estimate)",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "AI in Travel Market — CAGR of 36.2%, broader market definition",
+      "url": "https://market.us/report/ai-in-travel-market/",
+      "publisher": "Market.us",
+      "type": "market-research",
+      "key_claim": "Broader AI-in-travel market (including all AI-touched travel commerce) growing at 36.2% CAGR — higher figure includes OTA algorithmic pricing, airline revenue management, and fraud detection AI",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Hot 25 Travel Startups for 2026",
+      "url": "https://www.phocuswire.com/hot-25-travel-startups-2026",
+      "publisher": "PhocusWire",
+      "type": "industry-report",
+      "key_claim": "At least 60% of Hot 25 travel startups for 2026 are leaning heavily on AI; includes Mindtrip, FLYR, and sector-specific AI plays across visa tech, rentals, and business travel",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Top 17 Business Travel Startups to Watch in 2026",
+      "url": "https://www.failory.com/startups/business-travel",
+      "publisher": "Failory",
+      "type": "industry-report",
+      "key_claim": "Navan ($9.2B valuation), FLYR ($300M+ raised), TravelPerk ($2.7B valuation) named as class of proven travel AI platforms scaling toward market dominance",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Artificial Intelligence (AI) in Travel Market Report 2026 — $222.4B market",
+      "url": "https://www.researchandmarkets.com/reports/6035331/artificial-intelligence-ai-in-travel-market",
+      "publisher": "Research and Markets",
+      "type": "market-research",
+      "key_claim": "Broadest market definition: AI in Travel valued at $222.4B in 2026 (includes all AI-enabled travel commerce — OTA platforms, airline systems, hotel tech, and loyalty AI); projected $710.57B by 2030 at 33.7% CAGR",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "8 Leading AI Agents That Are Redefining Travel in 2026",
+      "url": "https://thunderbit.com/blog/ai-travel-agent",
+      "publisher": "Thunderbit",
+      "type": "editorial",
+      "key_claim": "Profiles of leading AI travel agents in 2026: Booking.com AI, Expedia Romie, Google Gemini Travel, Navan, Mindtrip, and specialized itinerary builders — qualitative product landscape overview",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Navan Smart Ring Maker Files Confidentially for IPO — NASDAQ: NAVN October 2025",
+      "url": "https://www.businesstravelnews.com/Technology/Navan-Launches-AI-Assistant-for-Unmanaged-Business-Travelers",
+      "publisher": "Business Travel News",
+      "type": "news",
+      "key_claim": "Navan went public on NASDAQ in October 2025; AI assistant for business travellers demonstrates platform expansion beyond managed corporate accounts",
+      "verified": true
+    }
+  ],
+  "data_gaps": [
+    "Precise 2020 AI in tourism market size not directly sourced — 5Y growth estimate derived from backward CAGR projection from 2024 baseline",
+    "3M growth (+38%) is estimated from quarterly extrapolation of annual CAGR; no direct quarterly market data was found for Q2 2026 AI in tourism",
+    "FLYR exact revenue or ARR figure not publicly disclosed — company is private; funding ($300M+) used as proxy for scale",
+    "Navan IPO share price, market cap at IPO, and current trading data not verified — $9.2B figure is pre-IPO valuation from last private round",
+    "Google Travel AI market share (63% of travel research) cited from general travel research statistics — specific Gemini travel query share figure is [unverified]"
+  ]
+}
