@@ -1,0 +1,158 @@
+{
+  "trend": "AI RegTech: Automated Compliance & Financial Crime Prevention",
+  "slug": "ai-regtech-compliance",
+  "research_date": "2026-07-20",
+  "sources": [
+    {
+      "id": "S1",
+      "title": "RegTech Market Size & Growth Forecast to 2034",
+      "url": "https://www.fortunebusinessinsights.com/regtech-market-108305",
+      "publisher": "Fortune Business Insights",
+      "type": "market_research",
+      "key_data": "Global RegTech market: $23.43B in 2026, growing to $105.23B by 2034 at 20% CAGR",
+      "verified": true
+    },
+    {
+      "id": "S2",
+      "title": "RegTech Funding Surges as AI Rewrites Compliance in 2026",
+      "url": "https://www.financexmagazine.com/post/regtech-is-having-its-moment-and-this-time-the-money-agrees",
+      "publisher": "Finance X Magazine",
+      "type": "funding_analysis",
+      "key_data": "US RegTech raised $2B across 103 deals in Q1 2026, +28% capital and +36% deal count YoY; Bretton AI $75M Series B (February 2026)",
+      "verified": true
+    },
+    {
+      "id": "S3",
+      "title": "AI Set to Transform AML and KYC in 2026",
+      "url": "https://regtechanalyst.com/ai-set-to-transform-aml-and-kyc-in-2026/",
+      "publisher": "RegTech Analyst",
+      "type": "industry_analysis",
+      "key_data": "Agentic AI systems forecast to reshape AML and KYC; four key trends: perpetual KYC, LLMs, AI productionization, cost-per-alert economics",
+      "verified": true
+    },
+    {
+      "id": "S4",
+      "title": "The End of the Periodic Review: Perpetual KYC Becomes the 2026 Default",
+      "url": "https://www.trustsphere.ai/post/the-end-of-the-periodic-review-how-perpetual-kyc-has-become-the-2026-default-for-customer-due-dilig",
+      "publisher": "TrustSphere AI",
+      "type": "thought_leadership",
+      "key_data": "Perpetual KYC eliminates 70–90% of manual periodic review work; supervisors now expect it as default at institutions at scale; PwC reports 40% maintenance cost reduction",
+      "verified": true
+    },
+    {
+      "id": "S5",
+      "title": "AMLA Readiness Starts Now: Ten Practical Moves for 2026",
+      "url": "https://blog.protiviti.com/2026/03/16/amla-readiness-starts-now-ten-practical-moves-for-2026/",
+      "publisher": "Protiviti",
+      "type": "regulatory_guidance",
+      "key_data": "EU AMLA begins operations 2026; Single Rulebook effective July 2027; AMLA designed from the ground up in the AI era; direct supervision of 40+ major institutions",
+      "verified": true
+    },
+    {
+      "id": "S6",
+      "title": "How AMLA Is Reshaping AML Across Europe",
+      "url": "https://fintech.global/2026/06/25/how-amla-is-reshaping-aml-across-europe/",
+      "publisher": "FinTech Global",
+      "type": "regulatory_analysis",
+      "key_data": "AMLA operations launched June/July 2026; encourages AI and data analytics; fines up to 10% of total annual turnover; standardized reporting across 27 EU states",
+      "verified": true
+    },
+    {
+      "id": "S7",
+      "title": "Agentic AI Drives Next Phase of AML Innovation",
+      "url": "https://fintech.global/2026/02/16/agentic-ai-drives-next-phase-of-aml-innovation/",
+      "publisher": "FinTech Global",
+      "type": "technology_analysis",
+      "key_data": "Agentic AI systems handling Level 1 alert triage autonomously; 200%–2,000% productivity gains reported; agentic AI forecast as primary driver reshaping AML and KYC",
+      "verified": true
+    },
+    {
+      "id": "S8",
+      "title": "RegTech Market for Financial Crime Compliance: Growth to $17.36B by 2032",
+      "url": "https://www.kingsresearch.com/blog/regtech-financial-crime-compliance",
+      "publisher": "Kings Research",
+      "type": "market_research",
+      "key_data": "Financial crime compliance RegTech: $4.51B in 2025 → $17.36B by 2032 at 21.22% CAGR; AML screening holds 34.8% market share in 2026",
+      "verified": true
+    },
+    {
+      "id": "S9",
+      "title": "Chainalysis Revenue, Valuation & Funding",
+      "url": "https://sacra.com/c/chainalysis/",
+      "publisher": "Sacra",
+      "type": "company_profile",
+      "key_data": "$190M ARR (2023), $250M projected 2024; 1,000+ customers in 70 countries; $2.5B valuation (2024); used by FBI, IRS, DoD",
+      "verified": true
+    },
+    {
+      "id": "S10",
+      "title": "Quantexa Company Profile & Funding — Series F, $2.6B Valuation",
+      "url": "https://tracxn.com/d/companies/quantexa/__r62ZeHP1_-LYRyTZG1OOenF_ZbCaFRt2v-mlcVTqYb0",
+      "publisher": "Tracxn",
+      "type": "company_profile",
+      "key_data": "$175M Series F (March 2025), $2.6B valuation, $100M+ ARR, HSBC and BNY Mellon clients; IPO candidacy 2026",
+      "verified": true
+    },
+    {
+      "id": "S11",
+      "title": "AI Compliance Agents for KYC/AML in 2026: Hype vs. Reality",
+      "url": "https://kyc-chain.com/ai-compliance-agents-kyc-aml/",
+      "publisher": "KYC Chain",
+      "type": "industry_analysis",
+      "key_data": "Detailed analysis of AI agent capabilities vs. regulatory reality in KYC/AML; explainability requirements; production deployment status",
+      "verified": true
+    },
+    {
+      "id": "S12",
+      "title": "New Research Estimates Global RegTech Market at $245B as AI Accelerates Transformation",
+      "url": "https://natlawreview.com/press-releases/new-research-estimates-global-regtech-market-245bn-ai-accelerates",
+      "publisher": "National Law Review",
+      "type": "market_research",
+      "key_data": "Total addressable market for RegTech (including professional services and adjacent tech) estimated at $245.4B; 62.7% of firms plan to increase RegTech spending in 2026",
+      "verified": true
+    },
+    {
+      "id": "S13",
+      "title": "Feedzai 2026 Company Profile: Launches $9 Trillion Fraud Intelligence Network",
+      "url": "https://tracxn.com/d/companies/feedzai/__G4s4nyVCkwETmfEv7u2OcHiuM9rifirEcBfj1c7YATE",
+      "publisher": "Tracxn / Feedzai",
+      "type": "company_profile",
+      "key_data": "$347M raised, $2B valuation, 120B events/year, $9T payments secured annually; launched $9T fraud intelligence network June 2026",
+      "verified": true
+    },
+    {
+      "id": "S14",
+      "title": "RegTech Market Size — History: $7.6B in 2021, $9B in 2022",
+      "url": "https://www.grandviewresearch.com/industry-analysis/regulatory-technology-market",
+      "publisher": "Grand View Research",
+      "type": "market_research",
+      "key_data": "Historical market sizing: RegTech estimated at $7.6B in 2021, $9B in 2022; 5-year growth context for +208% calculation",
+      "verified": true
+    },
+    {
+      "id": "S15",
+      "title": "AMLA 2026: What the New EU AML Authority Means for You",
+      "url": "https://www.flipzen.com/blog/amla-2026-what-the-new-eu-aml-authority-means-for-you",
+      "publisher": "Flipzen",
+      "type": "regulatory_explainer",
+      "key_data": "AMLA regulatory scope; newly obligated entities (football clubs, crypto CASPs, investment migration operators); fining power and timeline",
+      "verified": true
+    }
+  ],
+  "search_terms_used": [
+    "AI RegTech compliance automation 2026 market surge AML KYC",
+    "RegTech market size 2026 financial crime compliance technology",
+    "RegTech companies 2026 top players ComplyAdvantage Sardine Quantexa funding",
+    "AI RegTech AMLA EU Anti-Money Laundering Authority 2026 regulation impact",
+    "perpetual KYC AI compliance 2026 adoption statistics banking",
+    "Feedzai Sardine AI fraud detection 2026 funding customers",
+    "Chainalysis Quantexa ComplyAdvantage 2026 revenue customers market",
+    "RegTech market size 2021 2022 history global financial crime compliance"
+  ],
+  "coverage_gaps": [
+    "Specific Sardine AI 2026 revenue and customer count — self-reported data not publicly available",
+    "Oracle FCCM exact market share percentage — proprietary data not disclosed",
+    "AMLA's exact list of 40 directly-supervised institutions — not published as of July 2026",
+    "Exact AML false-positive reduction rates vary by deployment — figures from individual bank case studies, not industry-wide audit"
+  ]
+}
