@@ -1,0 +1,120 @@
+{
+  "trend": "AI Autonomous Trucking",
+  "slug": "ai-autonomous-trucking",
+  "research_date": "2026-07-21",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "TechCrunch",
+      "title": "Self-driving truck startup Einride raises $113M PIPE ahead of public debut",
+      "claim": "Einride raises $113M PIPE oversubscribed; IPO expected H1 2026; $500M+ total raised; electric autonomous pod fleet",
+      "url": "https://techcrunch.com/2026/02/26/self-driving-truck-startup-einride-raises-113m-pipe-ahead-of-public-debut/",
+      "date": "2026-02-26",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Aurora Innovation — SEC Form 10-K FY2025",
+      "title": "Aurora Innovation Annual Report FY2025",
+      "claim": "Commercial driverless launch April 2025; 250,000+ driverless miles; zero Aurora Driver-attributed collisions; $14-16M 2026 revenue guidance; 200+ trucks target by year-end; customers include Uber Freight, FedEx, Werner, Schneider",
+      "url": "https://www.sec.gov/Archives/edgar/data/1828108/000182810826000016/aur-20251231.htm",
+      "date": "2026-02-01",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Aurora Innovation — Investor Relations",
+      "title": "Autonomous trucking to put $9 billion back in U.S. consumers' pockets annually by 2035",
+      "claim": "Independent study: autonomous freight delivers $9B annual consumer savings, 490 deaths prevented, 82% fewer injury crashes vs human drivers by 2035",
+      "url": "https://ir.aurora.tech/news-events/press-releases/detail/134/autonomous-trucking-to-put-9-billion-back-in-u-s-consumers-pockets-annually-by-2035",
+      "date": "2026-03-01",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Aurora Innovation — Investor Relations",
+      "title": "Aurora Expands Driverless Trucking Service from Fort Worth to El Paso",
+      "claim": "Aurora triples driverless network to 10 Sun Belt routes in February 2026; validates 1,000-mile Fort Worth–Phoenix lane; 4.5M+ cumulative commercial miles",
+      "url": "https://ir.aurora.tech/news-events/press-releases/detail/128/aurora-expands-driverless-trucking-service-from-fort-worth-to-el-paso",
+      "date": "2026-02-01",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "iDispatchHub",
+      "title": "The 2026 SELF DRIVE Act Heads to Committee Markup This Week",
+      "claim": "Bipartisan SELF DRIVE Act (Latta/Dingell) preempts state restrictions; creates first national autonomous truck safety framework; allows revenue freight during evaluation period",
+      "url": "https://idispatchhub.com/the-2026-self-drive-act-heads-to-committee-markup-this-week-how-the-bipartisan-federal-av-bill-preempts-state-restrictions-creates-a-national-autonomous-truck-safety-framework-and-what-independent-carriers-should-watch-before-it-becomes-law/",
+      "date": "2026-07-01",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Future Market Insights",
+      "title": "Autonomous Trucks Market (2025-2035)",
+      "claim": "Global autonomous truck market $47.5B in 2025, projected $185.5B by 2035 at 14.6% CAGR; North America dominant market",
+      "url": "https://www.futuremarketinsights.com/reports/autonomous-trucks-market",
+      "date": "2025-01-01",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "GM Insights",
+      "title": "Autonomous Truck Market Size, Growth Forecasts 2025-2034",
+      "claim": "Autonomous truck market $33B in 2023, $35.51B in 2024, growing to $47.5B by 2025; 62% of demand from logistics and freight operations",
+      "url": "https://www.gminsights.com/industry-analysis/autonomous-truck-market",
+      "date": "2025-01-01",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Equipment Finance News",
+      "title": "Kodiak AI, Aurora Innovation see Q3 growth in autonomous truck market",
+      "claim": "Kodiak operates largest driverless fleet in Permian Basin; Aurora and Kodiak both show Q3 2025 commercial revenue growth; Kodiak targets long-haul highway deployment H2 2026",
+      "url": "https://equipmentfinancenews.com/news/transportation/kodiak-ai-aurora-innovation-see-q3-growth-in-autonomous-truck-market/",
+      "date": "2025-11-01",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "The Heartlander",
+      "title": "Can driverless trucks overcome union opposition, revolutionize transportation industry?",
+      "claim": "Teamsters President O'Brien Congressional testimony 2025; Colorado referendum threat; 80,000 driver shortage growing to 160,000 by 2030; 17,000 jobs created by autonomous trucking in early commercial phase",
+      "url": "https://heartlandernews.com/2026/06/23/analysis-can-driverless-trucks-overcome-union-opposition-revolutionize-transportation-industry/",
+      "date": "2026-06-23",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "ACT News",
+      "title": "How Autonomous Trucks Could Reshape Freight Costs — and Consumer Prices",
+      "claim": "Autonomous trucks generate 32% fuel savings per route; 1.6B gallons fuel conservation projected annually at scale; $3.3B US economic output from AV trucking in early 2026",
+      "url": "https://www.act-news.com/news/autonomous-trucks-could-reshape-costs/",
+      "date": "2026-01-01",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Primary Ignition",
+      "title": "The Autonomous Trucking Catalyst: Why Freight Tech Stocks Are 2026's Best Kept Secret",
+      "claim": "Aurora 10 Sun Belt routes; Kodiak Permian Basin; Einride IPO; 80K+ driver shortage structural driver; freight tech positioning as 2026 investment theme",
+      "url": "https://primaryignition.com/2026/05/03/the-autonomous-trucking-catalyst-why-freight-tech-stocks-are-2026s-best-kept-secret/",
+      "date": "2026-05-03",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "FleetOwner",
+      "title": "Trucking regulations forecast 2026: NOx, Motus, IC, autonomous rules",
+      "claim": "FMCSA finalizing ADS inspection and maintenance standards by May 2026; FMCSA AV rulemaking not expected before 2027; 2026 regulatory landscape for autonomous commercial vehicles",
+      "url": "https://www.fleetowner.com/perspectives/blog/55390920/trucking-regulations-forecast-2026-nox-motus-ic-autonomous-rules",
+      "date": "2026-01-01",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "Market share percentages for Aurora, Kodiak, Gatik, Einride, and Plus.ai are author estimates based on publicly available operational data — no independent market share breakdowns were found for the autonomous trucking ADS segment specifically.",
+    "Search volume of ~65K/mo is an estimate; no public Google Trends API data was accessed for exact monthly search volume verification.",
+    "2021 market size baseline used to calculate growth_5y (+280%) is estimated at ~$12-15B based on industry growth trajectory — exact 2021 standalone ADS market size was not confirmed by a single source."
+  ]
+}
