@@ -1,0 +1,203 @@
+{
+  "trend_name": "AI Carbon Intelligence",
+  "status": "surging",
+  "search_volume": "~110,000",
+  "category": "AI & Technology",
+  "growth_5y": "+245%",
+  "growth_1y": "+29%",
+  "growth_3m": "+7%",
+  "trigger": "50,000+ EU companies face their first mandatory CSRD sustainability filings in 2026 (covering FY2025 data), making AI-powered carbon tracking non-optional for large enterprises. Climate-tech VC funding surged 55% YoY in H1 2026 to $26.1B — the strongest H1 since 2022. Scope 3 emissions (80–90% of a company's total footprint) remain unmonitorable for 91% of organizations, creating urgent demand for AI automation. AI data centers themselves are triggering new carbon disclosure requirements, creating a feedback loop where the AI industry funds the tools that must track its own footprint.",
+  "timeline": [
+    {
+      "date": "2021-09",
+      "event": "G7 endorses TCFD framework as the global standard for corporate climate disclosure; first wave of voluntary carbon accounting software emerges with Watershed, Persefoni, and Normative all founded or scaling; global climate-tech VC investment reaches $40B."
+    },
+    {
+      "date": "2022-04",
+      "event": "EU Taxonomy Regulation activates, forcing financial institutions to classify sustainable investments — requiring verifiable emissions data from portfolio companies for the first time. Climate-tech VC surges 30%+ YoY; CSRD formally proposed, setting the regulatory trajectory that will define the decade."
+    },
+    {
+      "date": "2023-11",
+      "event": "CSRD formally enacted by EU Parliament — mandatory for large EU companies from FY2025 reporting year (first filings in 2026) covering 1,100+ sustainability datapoints initially; California passes SB 253 and SB 261 requiring Scope 1–3 reporting for companies with $1B+ revenue operating in the state."
+    },
+    {
+      "date": "2024-02",
+      "event": "Watershed raises $100M Series C at a $1.8B valuation (led by Greenoaks), becoming the first carbon management specialist to reach unicorn status, validating the sector. The broader carbon management software market crosses $10B; SEC finalizes climate disclosure rules (then promptly issues a voluntary stay)."
+    },
+    {
+      "date": "2025-10",
+      "event": "Persefoni acquires Diligent's ESG business and launches PersefoniGPT for natural-language emissions queries; carbon analytics AI market reaches $2.66B; California SB 253 enforcement begins; Scope 3 automation becomes the dominant product battleground across all carbon intelligence platforms."
+    },
+    {
+      "date": "2026-06",
+      "event": "Makersite acquires Siemens' SiGREEN platform (product-level carbon data for industrial supply chains); Watershed launches AI-powered Product Carbon Footprint solution; Persefoni launches Analytics Agent; VC climate tech H1 2026 hits $26.1B (+55% YoY); 50,000+ EU companies begin first mandatory CSRD reporting wave; CSRD simplified to ~430 mandatory datapoints from original 1,100."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The EU's CSRD remains the most comprehensive mandatory corporate sustainability disclosure framework globally, now covering companies with 1,000+ employees and €450M+ turnover — roughly 50,000 entities filing in 2026. The EU has simplified mandatory datapoints by 61% (from ~1,100 to ~430) amid political pressure from business lobbying, but mandatory Scope 3 disclosure remains. The US SEC's climate disclosure rules are effectively paused (voluntary stay in effect since April 2024, formal review launched in 2026), creating a transatlantic regulatory gap that benefits EU-based carbon intelligence vendors. California SB 253/261 fills the US vacuum, requiring Scope 1–3 disclosure from $1B+ revenue companies operating in California — effectively a de facto national standard for large US corporations."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The carbon analytics AI market grew from $2.66B (2025) to $3.42B (2026) at 28.3% CAGR, projected to reach $9.18B by 2030. The broader carbon management software market sits at $18.17B in 2026 growing at 11.63% CAGR to $31.5B by 2031. Non-compliance cost is a powerful adoption driver: CSRD violations can carry fines up to 10% of annual turnover in some EU member states. The $700B AI infrastructure buildout is simultaneously driving a carbon offset boom, as hyperscalers seek to offset massive new data center emissions — creating an entirely new corporate carbon credit demand pool. VC climate tech H1 2026 investment reached $26.1B, with average round size jumping from $18M to $27M."
+    },
+    {
+      "factor": "Social",
+      "impact": "Despite 96% of S&P 500 companies publishing sustainability reports, only 9% of organizations can comprehensively monitor their Scope 3 (indirect) emissions — the 80–90% of a company's footprint that comes from supply chains, purchased goods, and product use. Consumer pressure is intensifying: greenwashing litigation has increased 300%+ since 2021, making unverified claims legally risky. Chief Sustainability Officers have gained board-level authority at Fortune 500 companies, with average CSO compensation now on par with CFOs at large manufacturers. The AI industry itself faces growing reputational pressure as a major carbon emitter — an H100 GPU draws 700W — driving AI companies to be early adopters of carbon intelligence tools."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Generative AI is transforming the carbon intelligence stack: LLMs now auto-match millions of activity data points to emission factors in minutes (vs weeks manually), draft audit-ready regulatory reports, and enable sustainability teams to query emissions databases in plain language (Persefoni Analytics Agent, Watershed AI). Real-time satellite and IoT sensor integration is enabling continuous emissions monitoring vs annual snapshot accounting. Product Carbon Footprint (PCF) AI using bill-of-materials ingestion calculates emissions at the individual SKU level — a breakthrough for consumer goods and automotive OEMs managing complex global supply chains. Sustainability teams report 70% time savings on emissions tracking and reporting with AI platforms."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "The AI industry's own carbon footprint is becoming a material disclosure item: a single NVIDIA H100 draws 700W; a GB200 NVL72 rack requires ~120kW; global data center energy consumption is projected to 10x by 2026 vs 2023 (IEA). Hyperscalers (Microsoft, Google, Amazon) are simultaneously the largest buyers of carbon credits AND the largest new carbon emitters — creating a $700B+ demand for carbon offset markets. Scope 3 emissions represent 80–90% of typical corporate footprints and span hundreds of global suppliers — impossible to track without AI automation. North America holds 38%+ of carbon analytics AI market revenue, with Asia-Pacific growing fastest at 27.1% CAGR through 2033."
+    },
+    {
+      "factor": "Legal",
+      "impact": "CSRD (EU): 50,000+ companies must file first CSRD-aligned sustainability reports covering FY2025 data in 2026, with mandatory third-party limited assurance. ISSB standards (IFRS S1/S2) adopted across 36+ jurisdictions, covering financial climate risk disclosure. California SB 253: Scope 1–3 disclosure mandatory for $1B+ revenue companies in California (enforcement 2026+). EU Carbon Border Adjustment Mechanism (CBAM): importers must report embedded carbon in steel, aluminum, cement, fertilizers, electricity, and hydrogen from 2026. The EU Digital Product Passport (DPP) regulation, coming 2026–2027, will require product-level carbon data for textiles, electronics, and batteries — driving PCF platform adoption."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Automate Scope 3 supplier emissions data collection",
+      "solution": "AI platforms (Watershed, Normative, Greenly) deploy supplier portals and automated questionnaire workflows to collect primary activity data from hundreds or thousands of supply chain partners. LLMs match supplier-provided data to emission factors automatically, with anomaly detection flagging outliers. This reduces Scope 3 data collection from 6-month annual exercises to continuous real-time tracking — with sustainability teams reporting 70% time savings. Critical for CSRD and California SB 253 compliance where Scope 3 is mandatory."
+    },
+    {
+      "job": "Generate audit-ready regulatory compliance reports",
+      "solution": "AI report generators (Persefoni Analytics Agent, Watershed AI, CO2 AI) auto-populate CSRD, ISSB S2, GHG Protocol, PCAF, and CDP disclosure templates using verified emissions calculations. AI drafts narrative disclosure sections, cross-references regulatory requirements, flags incomplete data, and maintains audit trails with source traceability. Reduces annual disclosure cycle from months to weeks, and enables continuous rolling reporting rather than year-end scrambles."
+    },
+    {
+      "job": "Calculate product-level carbon footprints (PCF) at SKU scale",
+      "solution": "Watershed Product Footprints and Makersite (post-SiGREEN acquisition) use AI to ingest bills of materials (BOMs), map materials and processes to emission factors, and calculate lifecycle carbon data at individual product level. Essential for EU Digital Product Passport compliance (2026–2027), green marketing claims defense, and automotive OEMs whose supply chains span 30,000+ parts. Replaces manual lifecycle assessment (LCA) studies that cost $50,000–$200,000 each."
+    },
+    {
+      "job": "Monitor and detect anomalies in real-time emissions data",
+      "solution": "AI-powered carbon monitoring platforms integrate with IoT sensors, smart meters, satellite data, and ERP systems to track Scope 1 and 2 emissions in real time rather than annually. Machine learning models flag anomalous readings, identify sudden emission spikes from equipment failures or process changes, and send alerts to operations teams. Financial services firms (banks, asset managers) use this for portfolio carbon monitoring under PCAF alignment requirements."
+    },
+    {
+      "job": "Model decarbonization pathways and reduction scenarios",
+      "solution": "AI scenario-modeling tools (Watershed Decarbonize, Persefoni Climate Pathways) let CSOs and strategy teams run what-if analyses: 'If we switch supplier X to renewable energy, what is our 3M Scope 3 reduction?' Models integrate carbon pricing signals, abatement cost curves, and regulatory timelines to build credible net-zero roadmaps aligned with Science Based Targets initiative (SBTi) criteria. Replaces expensive McKinsey/BCG sustainability consulting engagements with self-serve AI."
+    }
+  ],
+  "market": [
+    {
+      "name": "IBM (Envizi)",
+      "share": "~11%",
+      "loved": "Deep enterprise ERP integration; Envizi ESG Suite is embedded in IBM Consulting sustainability engagements; strong in utilities and manufacturing; $18.17B total carbon management software market leader by revenue",
+      "segment": "Large enterprise ESG reporting"
+    },
+    {
+      "name": "Microsoft (Cloud for Sustainability)",
+      "share": "~10%",
+      "loved": "Native Azure integration; Sustainability Manager embedded in Microsoft 365 ecosystem; ESG reporting templates for CSRD and ISSB; preferred by Microsoft-stack enterprises; Azure AI powers embedded analytics",
+      "segment": "Enterprise cloud + M365 ecosystem"
+    },
+    {
+      "name": "SAP (Sustainability Cloud)",
+      "share": "~9%",
+      "loved": "Deep SAP S/4HANA integration reaches 400M+ SAP users; Scope 3 data from procurement module native; dominant in manufacturing and automotive supply chains; SAP acquired sustainability AI capabilities in 2024",
+      "segment": "Manufacturing + ERP-integrated"
+    },
+    {
+      "name": "Salesforce (Net Zero Cloud)",
+      "share": "~8%",
+      "loved": "CRM-native carbon tracking connecting customer and emissions data; Scope 1–3 dashboards; strong in financial services and retail; Einstein AI embedded for emissions forecasting; 2026 CSRD compliance templates",
+      "segment": "CRM-integrated + financial services"
+    },
+    {
+      "name": "Schneider Electric (EcoStruxure)",
+      "share": "~7%",
+      "loved": "IoT sensor integration for real-time Scope 1 and 2 monitoring; energy management + carbon combined; preferred by industrial manufacturers with owned facilities; SE Sustainability Business division",
+      "segment": "Industrial + energy management"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Watershed",
+      "detail": "The undisputed enterprise carbon intelligence leader: 800+ corporate buyers including 90 Fortune 500 companies and five of the top six US banks; $1.8B valuation with $225M raised; named a Leader in the 2026 Verdantix Green Quadrant. Watershed launched AI-powered Product Carbon Footprint (PCF) solution in 2026, enabling SKU-level emissions calculations via bill-of-materials AI ingestion — the most significant platform expansion in the company's history. Differentiator: CFO-grade financial rigor applied to carbon data, making emissions data auditable at the same standard as financial statements."
+    },
+    {
+      "name": "Persefoni",
+      "detail": "Leading carbon platform for financial institutions and large enterprises: GHGP- and PCAF-aligned calculation engine trusted by asset managers and banks for portfolio carbon reporting. Launched PersefoniGPT and Analytics Agent in 2025–2026, enabling natural-language queries across emissions records and auditable AI-generated analysis. Named a TIME Top GreenTech Company of 2026. Acquired Diligent's ESG reporting business in October 2025, expanding its governance and disclosure capabilities."
+    },
+    {
+      "name": "Greenly",
+      "detail": "AI carbon platform built for SMEs and mid-market companies: $75M raised (Series B led by Fidelity International Strategic Ventures + $23M Series A); clients include LVMH and L'Oréal; $10M+ annual revenue (2023, doubling in 2024). EcoPilot AI gives SME customers on-demand climate expertise and handles repetitive reporting tasks. Greenly's competitive advantage is speed-to-compliance: companies can complete their first CSRD-aligned report in weeks, not months."
+    },
+    {
+      "name": "Normative",
+      "detail": "Sweden-based Scope 3 automation specialist: $31.84M raised (July 2022); focuses on AI-powered supplier engagement and data collection workflows. Differentiates on data quality — Normative applies spend-based, activity-based, and hybrid emission factor methodologies in a single platform, with AI selecting the most accurate approach per data point. Strong in European manufacturing and retail supply chains; provides net-zero advisory services alongside software."
+    },
+    {
+      "name": "Plan A",
+      "detail": "Berlin-based CSRD-specialist with TÜV-certified methodologies: built specifically for EU regulatory compliance with deep CSRD, ESRS, and EU Taxonomy alignment. Offers decarbonization roadmap tools with Science Based Targets initiative (SBTi) pathway modeling, giving companies a credible net-zero plan alongside their disclosure. Growing rapidly in German-speaking markets and across EU manufacturing; positions against Watershed by leading with regulatory certainty rather than data engineering depth."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: Chief Sustainability Officers (CSOs) and ESG Directors at Fortune 500 and large EU-regulated companies in manufacturing, banking, retail, construction, and energy — under mandatory CSRD or California SB 253 reporting obligations. Secondary: CFOs and Finance Directors at large enterprises treating carbon as a financial risk disclosure item (ISSB S2, SEC future rules) and seeking audit-grade emissions data. Tertiary: Supply chain managers at multinational companies responsible for collecting Scope 3 data from hundreds of global suppliers — and sustainability consultants at Big 4 firms advising clients on CSRD implementation.",
+    "where": "Accessed as SaaS platforms integrated into enterprise ERP stacks (SAP S/4HANA, Oracle, Microsoft Dynamics); embedded in procurement workflows for real-time supplier data collection; connected to financial reporting systems (Workiva, Diligent) for disclosure filing; deployed via API into custom sustainability dashboards. Decision made at CSO + CFO level; implemented by sustainability ops teams and IT departments. ESG reporting portals (CDP, GRI, ISSB filing systems) are key workflow destinations.",
+    "why_now": "CSRD is mandatory in 2026 for 50,000+ EU companies covering FY2025 data — non-compliance carries fines up to 10% of annual turnover in some member states. Scope 3 emissions represent 80–90% of the typical corporate footprint but only 9% of organizations can monitor them comprehensively. AI has for the first time made Scope 3 automation economically viable: platforms now match millions of data points to emission factors in minutes vs months of manual work, at 70% lower cost. The AI industry's own $700B infrastructure buildout is both a major new carbon source and a demand driver for offset markets — creating a feedback loop that makes carbon intelligence an AI-era necessity.",
+    "behavior": "Organizations are shifting from once-a-year carbon reporting scrambles to continuous real-time emissions dashboards. Procurement teams are building structured supplier portal workflows to replace email-based data collection. CFOs are embedding carbon KPIs into quarterly financial reporting for investor relations. Sustainability teams are using AI to draft regulatory report narrative sections rather than writing from scratch. Product managers at consumer goods companies are calculating product-level PCFs to defend against greenwashing litigation and meet emerging EU Digital Product Passport requirements.",
+    "unmet": "91% of companies still cannot comprehensively monitor Scope 3 emissions — AI is helping but supplier data quality remains highly inconsistent, with many SME suppliers lacking the systems to provide primary activity data at all. AI-generated compliance reports face auditability challenges: regulators and auditors want human-verifiable reasoning chains, not black-box AI outputs. There is no universal standard for product lifecycle carbon data, making PCF comparisons across vendors unreliable. SMBs (under 250 employees) remain largely underserved — enterprise-grade platforms cost €30,000–€200,000/year, pricing out the long tail of supply chain companies that collectively represent billions in uncaptured Scope 3 data."
+  },
+  "takeaways": [
+    "Scope 3 automation is the $9B white space — 91% of organizations cannot comprehensively monitor their supplier emissions, and manual collection does not scale to CSRD's mandatory requirements. AI platforms automating supplier portals, spend-based emission factor matching, and anomaly detection will capture the majority of 2026–2030 market growth. Any enterprise with a global supply chain should begin a Scope 3 automation vendor evaluation in Q3 2026 before CSRD audit cycles begin.",
+    "Auditability is the new competitive moat — regulatory frameworks demand audit-ready, assurance-ready emissions data. Platforms with explainable AI (traceable data lineage from supplier activity → emission factor → final Scope 3 figure), GHGP/PCAF-aligned methodologies, and third-party assurance workflows will win large enterprise mandates over pure automation plays. Build your carbon data stack for the auditor, not the dashboard.",
+    "Product Carbon Footprint (PCF) is the 2027 differentiator — EU's Digital Product Passport (DPP) regulation will require product-level carbon data for textiles, electronics, and batteries by 2027; automotive OEMs are already mandating PCFs from Tier 1 suppliers. Companies that implement AI bill-of-materials carbon ingestion now will be regulation-ready 18 months ahead of competitors — and able to use PCF data as a green marketing differentiator before compliance becomes mandatory.",
+    "Integrate into ERP or fail to scale — standalone carbon management tools face adoption resistance from enterprise IT teams managing hundreds of software integrations. The vendors that build native SAP S/4HANA, Salesforce, and Microsoft Dynamics connectors (like Watershed and Normative already have) will achieve 3–5x faster enterprise deployment, lower churn, and access to embedded data pipelines that make Scope 3 collection structurally automatic rather than a quarterly manual exercise."
+  ],
+  "sources": [
+    {
+      "title": "Carbon Analytics AI Global Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226226/carbon-analytics-ai-global-market-report",
+      "publisher": "Research and Markets"
+    },
+    {
+      "title": "AI Carbon Footprint Management Software Market Size, Share & 2031 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-carbon-footprint-management-software-market",
+      "publisher": "Mordor Intelligence"
+    },
+    {
+      "title": "Climate Tech Funding Surges in H1 2026 on Growing Data Center Demand for Low-Carbon Power",
+      "url": "https://www.esgtoday.com/climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report/",
+      "publisher": "ESG Today"
+    },
+    {
+      "title": "Carbon Management Software Vendor Watershed Raises $100 Million in Series C Funding",
+      "url": "https://www.verdantix.com/client-portal/blog/carbon-management-software-vendor-watershed-raises-100-million-dollars-in-series-c-funding",
+      "publisher": "Verdantix"
+    },
+    {
+      "title": "CSRD Explained (2026): Requirements, Scope & How to Comply",
+      "url": "https://normative.io/insight/csrd-explained/",
+      "publisher": "Normative"
+    },
+    {
+      "title": "Watershed Launches AI-Powered Product Carbon Footprint Solution",
+      "url": "https://www.esgtoday.com/watershed-launches-ai-powered-product-carbon-footprint-solution/",
+      "publisher": "ESG Today"
+    },
+    {
+      "title": "Carbon Intelligence Platforms Market Share, Size, Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/carbon-intelligence-platforms-market-report",
+      "publisher": "The Business Research Company"
+    },
+    {
+      "title": "Carbon Management Software Market Size & Share Analysis",
+      "url": "https://www.mordorintelligence.com/industry-reports/carbon-management-software-market",
+      "publisher": "Mordor Intelligence"
+    },
+    {
+      "title": "The CSRD by 2026: Regulatory Evolution, Political Tensions, and the Future of Sustainable Finance",
+      "url": "https://blog.iese.edu/finance-and-nature/2026/the-corporate-sustainability-reporting-directive-csrd-by-2026-regulatory-evolution-political-tensions-and-the-future-of-sustainable-finance/",
+      "publisher": "IESE Finance and Nature Blog"
+    },
+    {
+      "title": "How the 2026 Climate Tech Market is Shaping Up So Far",
+      "url": "https://www.latitudemedia.com/news/how-the-2026-climate-tech-market-is-shaping-up-so-far/",
+      "publisher": "Latitude Media"
+    }
+  ]
+}

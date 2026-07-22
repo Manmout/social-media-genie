@@ -1,0 +1,117 @@
+{
+  "trend": "AI Carbon Intelligence",
+  "slug": "ai-carbon-intelligence",
+  "research_date": "2026-07-22",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Research and Markets",
+      "title": "Carbon Analytics AI Global Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226226/carbon-analytics-ai-global-market-report",
+      "key_claim": "Carbon Analytics AI market grew from $2.66B (2025) to $3.42B (2026) at 28.3% CAGR; projected to reach $9.18B by 2030",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Mordor Intelligence",
+      "title": "AI Carbon Footprint Management Software Market Size, Share & 2031 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-carbon-footprint-management-software-market",
+      "key_claim": "AI Carbon Footprint Management Software Market worth USD 2.17 billion in 2026, growing at CAGR of 20.70% to reach USD 5.56 billion by 2031",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "ESG Today",
+      "title": "Climate Tech Funding Surges in H1 2026 on Growing Data Center Demand for Low-Carbon Power",
+      "url": "https://www.esgtoday.com/climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report/",
+      "key_claim": "VC climate tech investment reached $26.1 billion in H1 2026, up 55% over H1 2025; average round size jumped from $18M to $27M",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Verdantix",
+      "title": "Carbon Management Software Vendor Watershed Raises $100 Million in Series C Funding",
+      "url": "https://www.verdantix.com/client-portal/blog/carbon-management-software-vendor-watershed-raises-100-million-dollars-in-series-c-funding",
+      "key_claim": "Watershed raised $100M Series C in February 2024 at $1.8B valuation; 800+ corporate buyers including 90 Fortune 500 companies; $225M total raised; named Leader in 2026 Verdantix Green Quadrant",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Normative",
+      "title": "CSRD Explained (2026): Requirements, Scope & How to Comply",
+      "url": "https://normative.io/insight/csrd-explained/",
+      "key_claim": "CSRD mandatory for companies with 1,000+ employees and €450M+ turnover (first filings 2026 covering FY2025 data); 61% reduction in mandatory datapoints from ~1,100 to ~430",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "ESG Today",
+      "title": "Watershed Launches AI-Powered Product Carbon Footprint Solution",
+      "url": "https://www.esgtoday.com/watershed-launches-ai-powered-product-carbon-footprint-solution/",
+      "key_claim": "Watershed Product Footprints uses AI to calculate emissions at the SKU level via bill-of-materials ingestion; replaces manual lifecycle assessment studies costing $50K–$200K each",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "The Business Research Company",
+      "title": "Carbon Intelligence Platforms Market Share, Size, Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/carbon-intelligence-platforms-market-report",
+      "key_claim": "Carbon Intelligence Platforms market size reached $2.91B in 2025; projected to reach $7.95B by 2030 at CAGR of 22.3%",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Mordor Intelligence",
+      "title": "Carbon Management Software Market Size & Share Analysis",
+      "url": "https://www.mordorintelligence.com/industry-reports/carbon-management-software-market",
+      "key_claim": "Carbon Management Software Market worth USD 18.17 billion in 2026; growing at CAGR of 11.63% to reach USD 31.5 billion by 2031; IBM leads with ~11% market share; top 5 players hold ~45%",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "IESE Business School — Finance and Nature Blog",
+      "title": "The CSRD by 2026: Regulatory Evolution, Political Tensions, and the Future of Sustainable Finance",
+      "url": "https://blog.iese.edu/finance-and-nature/2026/the-corporate-sustainability-reporting-directive-csrd-by-2026-regulatory-evolution-political-tensions-and-the-future-of-sustainable-finance/",
+      "key_claim": "50,000+ EU companies subject to CSRD; only 9% of organisations can comprehensively monitor Scope 3 emissions; Scope 3 = 80-90% of typical corporate footprint",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Latitude Media",
+      "title": "How the 2026 Climate Tech Market is Shaping Up So Far",
+      "url": "https://www.latitudemedia.com/news/how-the-2026-climate-tech-market-is-shaping-up-so-far/",
+      "key_claim": "Climate-tech VC H1 2026 records strongest fundraising H1 since 2022; power solutions targeting data center market experienced record growth in private and public markets",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Fiegenbaum Solutions",
+      "title": "AI Scope 3 Tracking 2026: Real-Time Emissions Monitoring",
+      "url": "https://www.fiegenbaum.solutions/en/blog/ai-real-time-tracking-scope-3-emissions-supply-chains",
+      "key_claim": "Sustainability teams report up to 70% time savings on emissions tracking and reporting with AI platforms vs manual processes",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "CB Insights / ESG Today",
+      "title": "Greenly raises $52M Series B for AI carbon accounting platform",
+      "url": "https://greenly.earth/en-us/blog/greenly-news/greenly-raises-23m-to-scale-carbon-management-accounting",
+      "key_claim": "Greenly has raised $75M total ($23M Series A + $52M Series B); clients include LVMH and L'Oréal; $10M+ revenue (2023); EcoPilot AI feature for SME carbon reporting",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Greenly 2025/2026 revenue figure — last confirmed revenue data is $10M (2023); 2024-2026 figures estimated",
+      "status": "[unverified]"
+    },
+    {
+      "claim": "Exact SAP carbon management market share — IBM ~11%, SAP ~9%, Microsoft ~10% figures sourced from aggregate market reports; individual company confirmation unavailable",
+      "status": "[unverified — estimated from aggregate]"
+    },
+    {
+      "claim": "Specific 3-month growth figure of +7% — calculated as quarterly approximation of 28.3% annual CAGR; not a directly sourced quarterly figure",
+      "status": "[unverified — calculated estimate]"
+    }
+  ]
+}
