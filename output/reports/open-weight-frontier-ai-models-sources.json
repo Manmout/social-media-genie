@@ -1,0 +1,198 @@
+{
+  "slug": "open-weight-frontier-ai-models",
+  "trend_name": "Open-Weight Frontier AI Models",
+  "research_date": "2026-07-25",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Thinking Machines Lab",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "title": "Inkling: Our Open-Weights Model",
+      "type": "primary / company announcement",
+      "claims": [
+        "975B total / 41B active parameters, Mixture-of-Experts architecture",
+        "Trained from scratch on 45 trillion tokens: text, image, audio, video",
+        "Apache 2.0 license",
+        "1M token context window via open weights (256K on hosted API)",
+        "Tinker fine-tuning platform launched same day (July 15, 2026)",
+        "First model built entirely from scratch by Thinking Machines Lab"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/mira-muratis-thinking-machines-drops-inkling-open-weights-model-anyone-can-access/",
+      "title": "Mira Murati's Thinking Machines drops Inkling, an open-weights model anyone can access",
+      "type": "news coverage",
+      "claims": [
+        "Inkling released July 15, 2026",
+        "Positioned as enterprise fine-tuning base rather than consumer product",
+        "Differentiates from Anthropic and OpenAI by releasing open weights"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
+      "title": "Thinking Machines Lab Releases Inkling: 975B-Parameter Open-Weights Multimodal MoE",
+      "type": "technical analysis",
+      "claims": [
+        "97.1% on AIME 2026",
+        "87.2% on GPQA Diamond",
+        "77.6% on SWEBench Verified (agentic coding)",
+        "73.5% on MMMU Pro (vision)",
+        "91.4% on VoiceBench (audio)",
+        "78.0% on FORTRESS adversarial safety (highest among open-weight models)",
+        "98.6% on StrongREJECT",
+        "Bridgewater Associates fine-tuned Inkling via Tinker: 84.7% on financial reasoning benchmarks at <10% cost of proprietary models"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "GlobeNewswire / Research and Markets",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273706/28124/en/Open-Source-AI-Model-Market-Research-Report-2026-50-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "title": "Open-Source AI Model Market Research Report 2026: $50+ Bn Opportunities",
+      "type": "market research",
+      "claims": [
+        "Market size: $19.05B in 2025 → $23.08B in 2026",
+        "CAGR: 21.1% (2025–2026), 21.3% through 2030",
+        "Forecast: $50.03B by 2030",
+        "Growth drivers: enterprise demand for vendor-neutral solutions, regulatory pressures for transparency, edge AI, generative AI"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
+      "title": "Mira Murati's Thinking Machines Lab is worth $12B in seed round",
+      "type": "funding news",
+      "claims": [
+        "Raised ~$2B in seed round at $12B valuation",
+        "Led by Andreessen Horowitz",
+        "Investors: Nvidia, Accel, ServiceNow, Cisco, AMD, Jane Street",
+        "Round closed July 2025",
+        "Company founded February 2025 by Mira Murati"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2025-11-13/murati-s-thinking-machines-in-funding-talks-at-50-billion-value",
+      "title": "Murati's Thinking Machines in Funding Talks at $50 Billion Value",
+      "type": "funding news",
+      "claims": [
+        "Thinking Machines Lab in talks for new funding round at $50B–$60B valuation (as of Nov 2025)",
+        "Would quadruple valuation from July 2025 seed round"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "OpenAI (official)",
+      "url": "https://openai.com/index/introducing-gpt-oss/",
+      "title": "Introducing gpt-oss",
+      "type": "primary / company announcement",
+      "claims": [
+        "gpt-oss-120b and gpt-oss-20b released under Apache 2.0",
+        "gpt-oss-120b achieves near-parity with o4-mini on reasoning benchmarks, runs on single 80 GB GPU",
+        "gpt-oss-20b matches or exceeds o3-mini",
+        "Trained using RL and distillation from o3 and frontier models",
+        "Supports function calling and structured outputs"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "DigitalApplied",
+      "url": "https://www.digitalapplied.com/blog/open-weight-models-h1-2026-retrospective-deepseek-qwen-llama",
+      "title": "Open-Weight Models H1 2026: DeepSeek, Qwen, Llama Recap",
+      "type": "industry analysis",
+      "claims": [
+        "Meta holds 23.2% of downloads in 1B+ parameter segment",
+        "Alibaba/Qwen at 20% of downloads",
+        "Mistral at 6.8%, DeepSeek at 3.8%",
+        "Chinese labs account for 41% of all Hugging Face downloads in 2026",
+        "DeepSeek V4 (Feb 2026) powers 23% of all open-weight production AI applications",
+        "Open-weight models processed 29% of AI tokens in April 2026, crossing 50% by mid-2026",
+        "Open-weight models represent <4% of AI spending despite 50%+ token volume"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "GetLatka",
+      "url": "https://getlatka.com/companies/mistral-ai",
+      "title": "Mistral AI Revenue 2026: $400M ARR, $23B Valuation",
+      "type": "financial data",
+      "claims": [
+        "$400M ARR in 2026 (up from $100M in 2025)",
+        "Targeting $1B ARR by end 2026",
+        "$5.5B total funding across 6 rounds",
+        "$830M debt round March 2026 for data center build-out and 13,800 Nvidia chips",
+        "Rumored $23.15B valuation in ongoing funding round",
+        "~350 employees"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Regumatrix",
+      "url": "https://regumatrix.eu/compliance/open-source-ai",
+      "title": "Open-Source AI Compliance: EU AI Act Exemptions Explained",
+      "type": "legal / regulatory analysis",
+      "claims": [
+        "EU AI Act entered into force August 1, 2024; GPAI obligations began August 2, 2025",
+        "European Commission enforcement powers apply from August 2, 2026",
+        "Open-source exemption (Article 53(2)): partial exemption for GPAI models under open licenses",
+        "Exemption disappears entirely for models with systemic risk (≥10²⁵ FLOPs)",
+        "Copyright policy and training data summary obligations remain regardless of open-source status",
+        "April 2026 EC guidance: exemption interpreted narrowly; documentation and provenance still required"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "type": "profile / analysis",
+      "claims": [
+        "Mistral AI founded 2023 by researchers from Google DeepMind and Meta",
+        "Mistral Small 4 released March 2026; Mistral Medium 3.5 April 2026",
+        "European data governance and GDPR-compliant positioning"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Meta AI (official)",
+      "url": "https://ai.meta.com/blog/llama-4-multimodal-intelligence/",
+      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation",
+      "type": "primary / company announcement",
+      "claims": [
+        "Llama 4 Scout and Maverick released April 5, 2025",
+        "First open-weight natively multimodal MoE model family",
+        "Llama ecosystem reached 1.2 billion total downloads by early 2026",
+        "Averaging approximately 1 million downloads per day"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "self-hosting Llama models delivers 88% cost reduction vs proprietary API providers",
+      "source": "https://techjacksolutions.com/ai-tools/meta-llama/llama-for-enterprise/ [unverified — enterprise deployment guide, methodology not stated]",
+      "status": "plausible but unverified — treat as indicative range, not precise figure"
+    },
+    {
+      "claim": "open-weight token share crossed 50% by mid-2026",
+      "source": "https://www.digitalapplied.com/blog/open-weight-models-h1-2026-retrospective-deepseek-qwen-llama [industry analysis, not primary source data]",
+      "status": "plausible, referenced by multiple industry sources, but exact figure is approximate"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "trend_name": "Open-Weight Frontier AI Models",
+  "status": "surging",
+  "search_volume": "90K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "∞",
+  "growth_1y": "+21%",
+  "growth_3m": "+28%",
+  "trigger": "On July 15, 2026, Thinking Machines Lab — founded by former OpenAI CTO Mira Murati — released Inkling: a 975B-parameter, Apache 2.0 open-weight multimodal MoE model trained from scratch on 45 trillion tokens. The same day OpenAI released gpt-oss-120b, its first open-weight reasoning model. These two launches signal a fundamental shift: the frontier of AI is now open. Open-weight models crossed 50% of all AI token volume by mid-2026 (up from 29% in April), yet represent only 4% of AI spending — the biggest cost arbitrage in enterprise software today.",
+  "timeline": [
+    {
+      "date": "Feb 2023",
+      "event": "Meta releases LLaMA 1 (7B–65B) — the first major open-weight LLM. Weights leak within days, sparking a global community fine-tuning movement that establishes open-weight models as a legitimate alternative to closed APIs"
+    },
+    {
+      "date": "Jul 2023",
+      "event": "Meta releases Llama 2 under a commercial license — legitimizing open-weight models for enterprise use. Llama 2 70B becomes the benchmark challenger to GPT-3.5, triggering dozens of derivative fine-tunes for code, medical, legal, and multilingual applications"
+    },
+    {
+      "date": "Jan 2025",
+      "event": "DeepSeek releases R1 under Apache 2.0 — a full reasoning model at 1/20th the cost of GPT-o1. The app reaches #1 on the US App Store in 24 hours; NVIDIA stock drops 17% in one day. Open-weight reasoning is now a proven commodity, not a research experiment"
+    },
+    {
+      "date": "Apr 2025",
+      "event": "Meta releases Llama 4 Scout and Maverick — the first natively multimodal open-weight MoE family. By early 2026, the Llama ecosystem reaches 1.2 billion total downloads averaging 1 million/day, the most widely deployed open-weight AI ecosystem in history"
+    },
+    {
+      "date": "Jun 2026",
+      "event": "OpenAI releases gpt-oss-120b and gpt-oss-20b under Apache 2.0 — its first open-weight models. gpt-oss-120b achieves near-parity with o4-mini on reasoning benchmarks while running on a single 80 GB GPU. A closed-model lab crossing to open weights validates the category at the highest level"
+    },
+    {
+      "date": "Jul 2026",
+      "event": "Thinking Machines Lab releases Inkling (975B total / 41B active parameters, Apache 2.0, multimodal, 1M context, Tinker fine-tuning platform). Open-weight models cross 50% of all AI token volume globally. The frontier open-weight category is officially born"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act enforcement began August 2, 2026 — open-weight models get a partial compliance exemption, but models exceeding 10²⁵ FLOPs lose the exemption entirely. April 2026 EC guidance narrowed the exemption: documentation, provenance, and downstream risk analysis remain mandatory regardless of open-weight status. US national security debate intensifies over Chinese open-weight model adoption: DeepSeek V4 and Qwen3.6 now power 41% of all Hugging Face downloads, prompting Senate hearings on AI export controls."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Open-source AI model market grows from $19.05B in 2025 to $23.08B in 2026 (+21.1% YoY), on track for $50B by 2030 (CAGR 21.3%). Mistral AI reached $400M ARR in 2026 targeting $1B by year-end, at a rumored $23B valuation. Thinking Machines Lab raised $2B seed at $12B valuation in July 2025; now in talks for $50B+ valuation. Self-hosting open-weight models delivers 88% cost reduction vs proprietary APIs — yet these models represent only 4% of AI spending despite handling 50%+ of tokens."
+    },
+    {
+      "factor": "Social",
+      "impact": "89% of organizations that adopted AI used open-source AI in some form in 2025. Growing geopolitical anxiety: Chinese labs (Alibaba/Qwen, DeepSeek, Zhipu) account for 41% of all Hugging Face downloads in 2026 — a reversal from 2024 when Meta's Llama dominated. Nations without AI sovereignty feel exposed; open-weight models are the primary mechanism for countries to build sovereign AI capability without depending on US or Chinese tech companies."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Mixture-of-Experts (MoE) architectures — used by Inkling (975B total / 41B active), Llama 4, and DeepSeek V4 — allow frontier-scale models to run on single GPUs with only a fraction of parameters active per inference. Context windows reached 1M tokens for open weights. Tinker-class fine-tuning platforms lower customization to a no-code workflow. Inkling benchmarks: 97.1% AIME 2026, 87.2% GPQA Diamond, 77.6% SWEbench Verified — rivaling closed frontier models."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "MoE-based open-weight models activate only 41B of 975B parameters per inference, dramatically reducing per-query energy versus dense models at similar capability. Edge and on-premise deployment eliminates data center round-trips. Quantized open-weight variants (GGUF, AWQ) run on consumer GPUs and CPUs, further distributing and reducing compute footprint compared to centralized cloud API inference at hyperscaler data centers."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Apache 2.0 licensing — adopted by Inkling, gpt-oss, DeepSeek R1 — allows unrestricted commercial use, modification, and redistribution, making open-weight models legally safe for enterprise deployment. EU AI Act's open-source exemption is narrower than expected: April 2026 EC guidance requires all GPAI providers (open or closed) to provide copyright summaries and training data documentation. US export control discussions target Chinese open-weight models specifically, creating legal uncertainty for enterprises deploying DeepSeek or Qwen in regulated industries."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Enterprise data sovereignty and compliance",
+      "solution": "Healthcare, finance, legal, and defense organizations that cannot send proprietary data to external APIs deploy fine-tuned open-weight models on-premise. Inkling + Tinker lets a hospital fine-tune on patient records without a single token leaving its own servers — enabling HIPAA compliance impossible with OpenAI or Anthropic APIs."
+    },
+    {
+      "job": "Radically reducing AI inference costs at scale",
+      "solution": "Self-hosting Llama 4 or DeepSeek V4 on owned GPU infrastructure delivers 88% cost reduction vs proprietary API pricing. Startups and high-volume enterprise deployments use open-weight models for classification, summarization, and routing tasks — reserving closed APIs for complex reasoning only. Open-weight models handle 50%+ of all AI tokens globally at 4% of total AI spending."
+    },
+    {
+      "job": "Building proprietary domain-specialized AI",
+      "solution": "Fine-tuning an open-weight base on proprietary data creates domain-specific performance no API can replicate. Bridgewater Associates fine-tuned Inkling via Tinker on specialized financial data and achieved 84.7% on financial reasoning benchmarks — beating frontier proprietary models at under 10% of the cost. The fine-tuned model is now a competitive moat."
+    },
+    {
+      "job": "Government and national AI sovereignty",
+      "solution": "Countries and public institutions download open-weight models, run them on local servers, and fine-tune on locally relevant data — covering local languages, legal systems, and policy contexts — without routing sensitive data through foreign cloud APIs. A government ministry can build a sovereign AI stack entirely on open-weight models with no dependency on US or Chinese tech companies."
+    },
+    {
+      "job": "AI research, auditing, and safety verification",
+      "solution": "Open weights allow academic researchers, independent safety auditors, and red-teamers to inspect model internals, reproduce behaviors, and publish findings — impossible with black-box closed models. The AI safety community uses open weights to develop alignment techniques and benchmark safety properties that improve the entire field, including closed-model providers who study open-weight research."
+    }
+  ],
+  "market": [
+    {
+      "name": "Meta (Llama 4)",
+      "share": "23.2%",
+      "loved": "74%",
+      "segment": "Broad ecosystem — Scout, Maverick, Behemoth; 1.2B total downloads; most deployed open-weight family"
+    },
+    {
+      "name": "Alibaba (Qwen)",
+      "share": "20.0%",
+      "loved": "71%",
+      "segment": "Multilingual + coding — Qwen3.6 top-ranked by download share among Chinese labs; 41% of HF downloads from Chinese labs overall"
+    },
+    {
+      "name": "DeepSeek",
+      "share": "23.0%",
+      "loved": "88%",
+      "segment": "Production deployments — DeepSeek V4 powers 23% of all open-weight production AI apps; reasoning at $0.14/M tokens"
+    },
+    {
+      "name": "Mistral AI",
+      "share": "6.8%",
+      "loved": "79%",
+      "segment": "European sovereignty — Mistral Large 3 + Small 4; $400M ARR; strong agentic tooling and EU data governance"
+    },
+    {
+      "name": "Thinking Machines (Inkling)",
+      "share": "1.0%",
+      "loved": "91%",
+      "segment": "Frontier fine-tuning — brand new (Jul 2026), 975B MoE, Tinker platform, $50B+ valuation target, designed to be customized"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Meta Llama 4 (Scout + Maverick)",
+      "detail": "Most widely deployed open-weight ecosystem globally: 1.2 billion total downloads averaging 1M/day by early 2026. Scout (17B active/109B total) and Maverick (17B active/400B total) use MoE architecture. Self-hosted Llama delivers 88% cost reduction vs proprietary APIs. Meta's strategic goal: extend platform influence and prevent OpenAI/Anthropic lock-in. Llama 4 Behemoth (2T+ parameters) in development targeting frontier closed-model performance."
+    },
+    {
+      "name": "DeepSeek V4",
+      "detail": "Powers 23% of all open-weight production AI applications globally — the top deployment-share open-weight model despite only 3.8% of download volume. Apache 2.0 license. Released February 2026 with a 'thinking mode' toggle for reasoning. Priced at $0.14/M input tokens via hosted API — 20x cheaper than comparable closed models. Used by 26,000+ enterprises; appeared in 58% of new AI startup stacks in 2025. Facing US export control scrutiny due to Chinese origin."
+    },
+    {
+      "name": "Thinking Machines Inkling",
+      "detail": "Released July 15, 2026. 975B total / 41B active parameters (MoE), Apache 2.0, trained from scratch on 45 trillion tokens (text + image + audio + video). Benchmarks: 97.1% AIME 2026, 87.2% GPQA Diamond, 77.6% SWEbench Verified, 78.0% FORTRESS (highest safety score among open-weight models). 1M token context window. Fine-tuning via Tinker platform from day one. Founded by Mira Murati (ex-OpenAI CTO), $2B raised at $12B seed valuation, in talks for $50B+ next round."
+    },
+    {
+      "name": "Mistral Large 3 / Small 4",
+      "detail": "European champion of open-weight AI: $400M ARR in 2026 targeting $1B by year-end; $23B valuation in funding talks; $830M debt round in March 2026 for GPU infrastructure. 350 employees. Mistral Small 4 (March 2026) and Medium 3.5 (April 2026) target cost-efficient enterprise segments. Differentiators: EU data governance, strong agent tooling, multimodal input, and a commercial-friendly license that won't face US export control. GDPR-compliant sovereign AI option for European enterprises."
+    },
+    {
+      "name": "OpenAI gpt-oss-120b",
+      "detail": "Released June 2026 under Apache 2.0 — OpenAI's first open-weight models. gpt-oss-120b achieves near-parity with o4-mini on core reasoning benchmarks while running on a single 80 GB GPU. gpt-oss-20b matches o3-mini despite its small size. Trained using RL and distillation from o3 and other frontier models. Text-only, supports function calling and structured outputs. Strategic significance: a closed-model lab releasing open weights signals the model layer is commoditizing and the value is shifting to products, fine-tuning, and infrastructure."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: CTOs, ML engineers, and AI platform leads at enterprises with data sovereignty requirements (healthcare, finance, legal, government, defense) — predominantly 28–50, North America and EU. Secondary: AI researchers at universities and independent labs who need access to weights for safety auditing and reproducibility. Tertiary: startup founders building cost-efficient AI-native products who can't afford frontier API costs at scale.",
+    "where": "Hugging Face (primary model distribution hub — 41% of downloads now from Chinese labs); AWS Bedrock, Azure AI, and GCP Vertex for managed open-weight hosting; GitHub for community fine-tunes and quantized variants; Tinker (Thinking Machines) and similar fine-tuning platforms; on-premise GPU clusters (H100, A100) for air-gapped deployments; Vercel, Fireworks.ai, Together.ai for serverless open-weight inference.",
+    "why_now": "Three forces converged in July 2026: (1) MoE architectures made frontier-scale models (975B parameters) run on single GPUs with only 41B active — eliminating the infrastructure barrier; (2) Inkling and gpt-oss proved open-weight models can match closed frontier performance on key benchmarks; (3) EU AI Act enforcement began August 2026, creating legal and competitive pressure for organizations to own their model stack. The cost arbitrage (88% cheaper than APIs, <4% of spending for 50%+ of tokens) has never been more compelling.",
+    "behavior": "Evaluating open-weight models against closed APIs on benchmark suites before deployment decisions; fine-tuning on proprietary datasets using Tinker or LoRA/QLoRA pipelines; building model routing layers that send routine tasks to open-weight models and complex reasoning to closed APIs; deploying quantized (GGUF/AWQ) variants on edge hardware for latency-sensitive applications; contributing derivative fine-tunes back to Hugging Face as community models.",
+    "unmet": "Reliable safety guarantees for fine-tuned open-weight models at production scale (fine-tuning can degrade safety alignment). Clear legal liability framework when a fine-tuned open-weight model causes harm — Apache 2.0 disclaims all warranties. Update and security patch lifecycle for open models (no vendor to push security fixes). Enterprise-grade SLA and support absent from Apache-licensed models. Tooling for non-technical domain experts to fine-tune without ML engineering resources."
+  },
+  "takeaways": [
+    "The 50% token-volume threshold is the strategic signal of 2026: open-weight models now handle more AI inference than all closed models combined, at 4% of spending. Every AI product team should immediately audit their API spend and identify which workloads — classification, summarization, routing, customer service — can migrate to self-hosted open-weight models. The cost arbitrage compounds rapidly at scale.",
+    "Fine-tuning on proprietary data is the new competitive moat that no closed-model API can replicate. The Bridgewater/Inkling result — 84.7% on financial reasoning benchmarks at under 10% the cost of frontier proprietary models — is the template. Identify the two or three workflows where your organization has irreplaceable domain data, build a fine-tuning pipeline on Tinker or LoRA, and transform that data advantage into a performance advantage.",
+    "AI sovereignty is now a B2B procurement criterion: EU enterprises, healthcare organizations, governments, and defense contractors are beginning to mandate on-premise models with verifiable weights as a baseline requirement — not an option. Products and services built on open-weight infrastructure will win these contracts; those locked to external API calls will be filtered out at the RFP stage. The Thinking Machines Lab valuation ($50B+ in talks) proves this market is real and large.",
+    "Design your AI stack for model routing from day one: the optimal architecture in 2026 is hybrid — frontier closed models (Claude Opus, GPT-o3) for complex reasoning and customer-facing generation; fine-tuned open-weight models for high-volume, latency-sensitive, or data-sensitive workloads. Companies that architect around a single provider today will face expensive migrations in 12–18 months as the open vs. closed cost gap widens further."
+  ],
+  "sources": [
+    {
+      "publisher": "Thinking Machines Lab",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "claim": "Inkling: Our Open-Weights Model — official announcement, architecture details (975B/41B MoE, 45T tokens, Apache 2.0, 1M context, Tinker fine-tuning)"
+    },
+    {
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/07/15/mira-muratis-thinking-machines-drops-inkling-open-weights-model-anyone-can-access/",
+      "claim": "Mira Murati's Thinking Machines drops Inkling, an open-weights model anyone can access — launch day coverage"
+    },
+    {
+      "publisher": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
+      "claim": "Technical breakdown: Inkling benchmark performance — 97.1% AIME 2026, 87.2% GPQA Diamond, 77.6% SWEbench, 78.0% FORTRESS safety score"
+    },
+    {
+      "publisher": "GlobeNewswire / Research and Markets",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273706/28124/en/Open-Source-AI-Model-Market-Research-Report-2026-50-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "claim": "Open-Source AI Model Market: $19.05B in 2025 → $23.08B in 2026 (+21.1%), on track for $50.03B by 2030 (CAGR 21.3%)"
+    },
+    {
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
+      "claim": "Thinking Machines Lab raised $2B at $12B seed valuation, led by Andreessen Horowitz, with Nvidia, Accel, ServiceNow, AMD, and Jane Street participating"
+    },
+    {
+      "publisher": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-oss/",
+      "claim": "Introducing gpt-oss: open-weight reasoning models gpt-oss-120b and gpt-oss-20b under Apache 2.0, near-parity with o4-mini/o3-mini on reasoning benchmarks"
+    },
+    {
+      "publisher": "DigitalApplied",
+      "url": "https://www.digitalapplied.com/blog/open-weight-models-h1-2026-retrospective-deepseek-qwen-llama",
+      "claim": "Open-Weight Models H1 2026: Meta 23.2% download share, Alibaba/Qwen 20%, Mistral 6.8%, DeepSeek 3.8%; Chinese labs account for 41% of Hugging Face downloads"
+    },
+    {
+      "publisher": "GetLatka / Mistral AI",
+      "url": "https://getlatka.com/companies/mistral-ai",
+      "claim": "Mistral AI: $400M ARR in 2026, $5.5B raised, $23B valuation target, $830M debt round March 2026 for GPU infrastructure"
+    },
+    {
+      "publisher": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/07/16/former-openai-cto-does-what-altman-wont-releases-a-frontier-ai-model-thats-actually-open/",
+      "claim": "Former OpenAI CTO releases a frontier AI model that's actually open — editorial on Inkling's significance vs Altman's closed approach"
+    },
+    {
+      "publisher": "Regumatrix / EU AI Act",
+      "url": "https://regumatrix.eu/compliance/open-source-ai",
+      "claim": "Open-Source AI Compliance: EU AI Act exemption is partial — models ≥10²⁵ FLOPs lose exemption entirely; April 2026 EC guidance narrowed open-source carve-outs"
+    }
+  ]
+}
