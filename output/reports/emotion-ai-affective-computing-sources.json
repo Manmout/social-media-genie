@@ -1,0 +1,183 @@
+{
+  "slug": "emotion-ai-affective-computing",
+  "trend_name": "Emotion AI (Affective Computing)",
+  "research_date": "2026-07-26",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Emotion AI Market Size, Share, Trends, Forecast 2034",
+      "url": "https://www.fortunebusinessinsights.com/emotion-ai-market-112136",
+      "publisher": "Fortune Business Insights",
+      "data_points": [
+        "Global emotion AI market valued at USD 3.4 billion in 2025",
+        "Projected to grow from USD 4.15 billion in 2026 to USD 20.77 billion by 2034",
+        "CAGR of 22.29% during 2026-2034"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Emotion AI Market Size & Share, Industry Report 2026-2034",
+      "url": "https://www.gminsights.com/industry-analysis/emotion-ai-market",
+      "publisher": "GM Insights",
+      "data_points": [
+        "Emotion AI market grew from $4.71 billion in 2025 to $5.99 billion in 2026",
+        "CAGR of 27.2%",
+        "North America holds 38% regional share; Asia Pacific 35%; Europe 15%"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "The Prohibition of AI Emotion Recognition Technologies in the Workplace under the AI Act",
+      "url": "https://legalblogs.wolterskluwer.com/global-workplace-law-and-policy/the-prohibition-of-ai-emotion-recognition-technologies-in-the-workplace-under-the-ai-act/",
+      "publisher": "Wolters Kluwer — Global Workplace Law & Policy",
+      "data_points": [
+        "EU AI Act Article 5(1)(f) prohibits AI systems inferring emotions in workplace and education from February 2, 2025",
+        "Fines reach EUR 35 million or 7% of global annual turnover",
+        "Applies to all EU-based employers regardless of headquarters",
+        "Text-based sentiment analysis is explicitly exempt"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Hume AI Announces $50 Million Fundraise and Empathic Voice Interface",
+      "url": "https://www.businesswire.com/news/home/20240326359639/en/Hume-AI-Announces-$50-Million-Fundraise-and-Empathic-Voice-Interface",
+      "publisher": "BusinessWire",
+      "data_points": [
+        "Hume AI closed $50M Series B in March 2024",
+        "Round led by EQT Ventures with Union Square Ventures, Nat Friedman & Daniel Gross, Comcast Ventures, LG Technology Ventures",
+        "Funding supports Empathic Voice Interface (EVI) development",
+        "EVI analyzes human emotional tone in real-time voice"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Smart Eye Completes Acquisition of Affectiva",
+      "url": "https://go.smarteye.se/smarteye-acquires-affectiva",
+      "publisher": "Smart Eye",
+      "data_points": [
+        "Smart Eye acquired Affectiva for approximately USD 73.5 million",
+        "Acquisition completed June 2021",
+        "Affectiva founded 2009 as MIT Media Lab spin-off by Dr. Rana el Kaliouby and Dr. Rosalind Picard",
+        "Combined company focused on emotion AI + eye-tracking for automotive and media analytics"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Emotion AI Market Projected to Reach $311.99 Billion by 2035 — SNS Insider",
+      "url": "https://www.globenewswire.com/news-release/2026/07/06/3322244/0/en/Emotion-AI-Market-Projected-to-Reach-311-99-Billion-by-2035-as-AI-Powered-Emotion-Recognition-Transforms-Healthcare-and-Customer-Experience-Research-by-SNS-Insider.html",
+      "publisher": "GlobeNewswire / SNS Insider",
+      "data_points": [
+        "Global emotion AI market valued at USD 9.10 billion in 2025",
+        "Projected to reach USD 311.99 billion by 2035",
+        "CAGR of 42.40%",
+        "Published July 6, 2026"
+      ],
+      "verified": true,
+      "note": "SNS Insider uses broader scope definition than Fortune Business Insights — includes embedded sentiment analytics, voice AI, and affective wearables"
+    },
+    {
+      "id": 7,
+      "title": "Google DeepMind Acquires Hume AI's Elite Voice Engineering Team",
+      "url": "https://www.sci-tech-today.com/news/google-deepmind-hume-ai-acquisition/",
+      "publisher": "Sci-Tech Today",
+      "data_points": [
+        "Google DeepMind brought on CEO Alan Cowen and ~7 senior engineers from Hume AI via licensing deal",
+        "Deal to integrate Hume AI's emotional intelligence into Gemini assistant",
+        "Hume AI maintains independence under new CEO Andrew Ettinger",
+        "Hume projected to achieve $100M in revenue by 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Red Lines under EU AI Act: Prohibition of Emotion Recognition in Workplace and Education",
+      "url": "https://fpf.org/blog/red-lines-under-eu-ai-act-unpacking-the-prohibition-of-emotion-recognition-in-the-workplace-and-education-institutions/",
+      "publisher": "Future of Privacy Forum (FPF)",
+      "data_points": [
+        "Article 5(1)(f) bans AI systems that infer emotions based on biometric data in workplaces and education",
+        "Narrow medical/safety exception available if it passes a proportionality test",
+        "Text-based sentiment analysis from written text is explicitly NOT covered by the prohibition",
+        "Ban has been enforceable since February 2, 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Cogito — 2024 Revenue Profile",
+      "url": "https://getlatka.com/companies/cogito",
+      "publisher": "Latka",
+      "data_points": [
+        "Cogito reached $44.7M ARR in 2024",
+        "Grew from $15.1M ARR in 2020",
+        "Serves 1M customers",
+        "Acquired by Verint Systems in October 2024",
+        "Total cumulative funding: $194.37M"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Emotional AI Market Forecast Report 2024-2029: Affectiva, Uniphore, Realeyes, SmartEye, Woebot",
+      "url": "https://www.globenewswire.com/news-release/2024/09/23/2951267/28124/en/Emotional-AI-Market-Forecast-Report-2024-2029-Featuring-Profiles-of-Entropik-Tech-Hopelab-Emotibot-Affectiva-MorphCast-Uniphore-Imentiv-iMotions-Realeyes-MorphCast-SmartEye-Woebot-.html",
+      "publisher": "GlobeNewswire / Research and Markets",
+      "data_points": [
+        "Key players: Entropik Tech, Hopelab, Emotibot, Affectiva, MorphCast, Uniphore, iMotions, Realeyes, SmartEye, Woebot Health",
+        "Realeyes launched marketing analytics platform analyzing 10,000 simultaneous viewer emotional reactions",
+        "Uniphore increased services via U-Assist and U-Analyze platforms (2023)",
+        "Covers 2024-2029 forecast period"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Affectiva in 400+ Vehicle Models — Automotive DMS Deployment",
+      "url": "https://smarteye.se/about-us/affectiva/",
+      "publisher": "Smart Eye",
+      "data_points": [
+        "Affectiva's automotive DMS in 400+ vehicle models globally by 2025",
+        "EU General Safety Regulation mandates driver drowsiness and attention warning systems from July 2024",
+        "Porsche and BMW introduced Affectiva Emotion AI measuring real-time emotional states of drivers and occupants"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Europe Banned Workplace Emotion AI. The US Is Letting It Scale.",
+      "url": "https://www.iamethanward.com/briefing/workplace-emotion-ai-banned",
+      "publisher": "Ethan Ward Briefing",
+      "data_points": [
+        "EU AI Act creates regulatory divergence between EU (banned in workplaces) and US (no federal restriction)",
+        "US companies scaling emotion AI in employment contexts facing no federal barriers",
+        "China actively promotes emotion AI in public safety and education"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "5Y growth of +205% (2021→2026)",
+      "note": "Calculated from CAGR backcast using 22-27% CAGR data. Exact 2021 market size not directly sourced — treat as estimated range (+150% to +250%).",
+      "status": "[estimated]"
+    },
+    {
+      "claim": "3M growth of +18%",
+      "note": "Extrapolated from Q2 2026 acceleration signals (SNS Insider July 2026 report + Google DeepMind deal). Not directly sourced from a quarterly growth report.",
+      "status": "[estimated]"
+    },
+    {
+      "claim": "Realeyes market share ~20% ad testing",
+      "note": "Realeyes is widely cited as leader in advertising emotion testing vertical but exact market share percentage is not available from public sources.",
+      "status": "[estimated]"
+    },
+    {
+      "claim": "Wearables achieving 99.3% emotion recognition accuracy",
+      "note": "Cited from wellness market research summary; controlled lab conditions only — real-world accuracy is substantially lower.",
+      "status": "[unverified — lab conditions only]"
+    }
+  ]
+}
