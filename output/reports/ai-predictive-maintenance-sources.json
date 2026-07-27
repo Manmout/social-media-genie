@@ -1,0 +1,171 @@
+{
+  "trend": "AI Predictive Maintenance",
+  "slug": "ai-predictive-maintenance",
+  "research_date": "2026-07-27",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune Business Insights",
+      "title": "Predictive Maintenance Market Size, Share | Report, 2034",
+      "url": "https://www.fortunebusinessinsights.com/predictive-maintenance-market-102104",
+      "key_claims": [
+        "Market valued at $10.93B in 2024",
+        "Projected to grow from $13.65B in 2025 to $70.73B by 2032",
+        "CAGR of 26.5% over 2025–2032",
+        "Manufacturing segment accounts for 33.2% share in 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "MarketsandMarkets",
+      "title": "AI Driven Predictive Maintenance Market Report 2026–2032",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-driven-predictive-maintenance-market-56600288.html",
+      "key_claims": [
+        "AI-driven PdM market estimated at $2.61B in 2026",
+        "Expected to reach $19.27B by 2032",
+        "CAGR of 39.5% from 2026 to 2032",
+        "IBM (US), Siemens (Germany), and GE Vernova (US) are leading players",
+        "Top 5 companies hold 44–54% market share"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "BusinessWire / Augury",
+      "title": "Augury Announces $75 Million of Funding and Maintains $1B+ Valuation — February 2025",
+      "url": "https://www.businesswire.com/news/home/20250219700559/en/Augury-Announces-$75-Million-of-Funding-and-Maintains-$1B-Valuation-as-it-Accelerates-Leadership-in-Industrial-AI-Solutions",
+      "key_claims": [
+        "Augury raised $75M in February 2025",
+        "Maintains $1B+ valuation (unicorn)",
+        "Clients include Colgate-Palmolive, General Mills, Heineken",
+        "Previously raised $180M Series E in October 2021"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Siemens Press",
+      "title": "Generative Artificial Intelligence Takes Siemens' Predictive Maintenance Solution to the Next Level",
+      "url": "https://press.siemens.com/global/en/pressrelease/generative-artificial-intelligence-takes-siemens-predictive-maintenance-solution-next",
+      "key_claims": [
+        "Siemens integrated GenAI into Senseye Predictive Maintenance under Industrial Copilot portfolio",
+        "Makes maintenance conversational through natural-language fault diagnosis",
+        "Helps counter skilled technician shortage",
+        "Launched March 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "ANYbotics",
+      "title": "ANYbotics & GE Vernova: Advancing AI-Powered Robotic Energy Inspections",
+      "url": "https://www.anybotics.com/news/anybotics-ge-vernova-ai-robotic-energy-inspections/",
+      "key_claims": [
+        "GE Vernova APM SmartSignal integrates with ANYbotics ANYmal autonomous robot for visual inspection",
+        "AWS SageMaker processes unstructured image data from robots in real time",
+        "Enables move from reactive to predictive/prescriptive maintenance",
+        "Collaboration announced in 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Certivo",
+      "title": "EU AI Act August 2026: Compliance Guide for Manufacturers Integrating AI Into Products",
+      "url": "https://www.certivo.com/blog-details/eu-ai-act-august-2026-compliance-guide-for-manufacturers-integrating-ai-into-products",
+      "key_claims": [
+        "EU AI Act fully applicable August 2, 2026",
+        "AI systems performing safety functions in industrial machinery classified as high-risk",
+        "Requires conformity assessments, audit trails, human oversight mechanisms",
+        "Manufacturers must document AI components including model versioning and training data"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Maintenance Online",
+      "title": "AI Predictive Maintenance Guide 2026: ROI & Implementation",
+      "url": "https://maintenanceonline.org/ai-powered-predictive-maintenance-implementation-guide-2026/",
+      "key_claims": [
+        "AI PdM reduces unplanned downtime by 30–50%",
+        "Cuts maintenance costs by up to 40%",
+        "Average payback period 8–14 months",
+        "SME pay-as-you-go pricing starts at $50–100/asset/month"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "MaintainX",
+      "title": "25 Maintenance Stats, Trends, and Insights for 2026",
+      "url": "https://www.getmaintainx.com/blog/maintenance-stats-trends-and-insights",
+      "key_claims": [
+        "Two-thirds of maintenance teams plan to adopt AI by end of 2026",
+        "Top barriers: budget (25%), lack of expertise (24%), cybersecurity concerns (22%)",
+        "SME segment growing at 36.2% CAGR through 2031",
+        "58% of 2022 PdM pilots abandoned or showed no ROI after 18 months"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "ifactoryapp.com",
+      "title": "AI Predictive Maintenance ROI in Oil & Gas: Real Case Studies",
+      "url": "https://ifactoryapp.com/industries/oil-and-gas/ai-predictive-maintenance-roi-real-world-oil-and-gas-case-studies",
+      "key_claims": [
+        "Documented annual savings of $1.2M–$4.8M per oil & gas facility",
+        "72% reduction in unplanned downtime events",
+        "38% reduction in maintenance costs",
+        "Average payback period of 8–14 months in oil & gas",
+        "Wind farm case: €420K investment, payback 14 months, 67% fewer emergency repairs",
+        "Best case wind: $6.8M annual savings, 420% ROI, 7-month payback"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "GrandView Research",
+      "title": "Predictive Maintenance Market Size & Share Report, 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/predictive-maintenance-market",
+      "key_claims": [
+        "Market projected at $17.5B in 2026 (broader definition)",
+        "Strong double-digit CAGR through 2033",
+        "IIoT and cloud computing cost democratization driving adoption"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "SparkCognition / TexAu",
+      "title": "SparkCognition Funding Profile",
+      "url": "https://www.texau.com/profiles/spark-cognition",
+      "key_claims": [
+        "SparkCognition raised $300M total funding",
+        "$123M Series D in January 2022 led by March Capital",
+        "Valuation $1.4B at Series D (unicorn)",
+        "Industrial AI platform deployed for oil & gas, wind turbines, aerospace engines"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Nemko Digital / Inkog Labs / TechWorks AI",
+      "title": "EU Machinery Regulation 2023/1230: AI Compliance Before January 2027",
+      "url": "https://inkog.io/labs/eu-machinery-regulation-ai-agents",
+      "key_claims": [
+        "EU Machinery Regulation 2023/1230 effective January 2027",
+        "AI systems performing safety functions (including autonomous shutdowns) classified as high-risk under Annex I",
+        "Requires Trustable AI Bills of Materials (TAIBOM) documentation",
+        "Cyber Resilience Act applies mid-2026 for all connected industrial products"
+      ],
+      "verified": true
+    }
+  ],
+  "data_quality_notes": {
+    "market_size_variance": "Market size figures vary across research firms due to different scope definitions (AI-driven PdM alone vs. overall predictive maintenance vs. AI in manufacturing). MarketsandMarkets AI-driven PdM ($2.61B in 2026) and Fortune Business Insights broader PdM market ($13.65B in 2025) are both credible; we use Fortune Business Insights as the primary reference for market size and MarketsandMarkets for CAGR of the AI-specific segment.",
+    "market_share_estimates": "Company market share percentages (IBM ~20%, Siemens ~17%, GE Vernova ~14%, C3.ai ~8%, Augury ~5%) are approximate estimates based on MarketsandMarkets qualitative competitive positioning ('IBM and Siemens are leading players') and publicly reported revenue/funding data. Exact percentages are [unverified] — treat as directional.",
+    "roi_figures": "ROI figures (30–50% downtime reduction, 8–14 month payback) are sourced from vendor-adjacent publications and case studies. Independent third-party validation is limited; actual results vary significantly by industry, equipment type, and implementation quality.",
+    "growth_3m": "The growth_3m value of '+39% CAGR' reflects the MarketsandMarkets AI-driven PdM projected CAGR, used as a proxy for recent momentum. No quarterly PdM-specific revenue reporting exists to calculate a true 3-month growth rate [partially unverified]."
+  }
+}
