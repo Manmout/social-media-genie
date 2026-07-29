@@ -1,0 +1,213 @@
+{
+  "trend_name": "AI in Genomics",
+  "status": "surging",
+  "search_volume": "~40,000",
+  "category": "AI & Technology",
+  "growth_5y": "+351%",
+  "growth_1y": "+15%",
+  "growth_3m": "+7%",
+  "trigger": "Three forces converged to make AI genomics a clinical reality in 2025–2026: (1) DeepMind launched AlphaGenome (2026), extending AlphaFold's revolutionary architecture to decode gene regulation in the non-coding 98% of the human genome — opening a frontier as large as the protein-folding breakthrough itself; (2) Tempus AI — the largest pure-play clinical genomics company — reported $1.59B in 2025 revenue (+25% YoY), validating that AI-powered hospital genomics is now a scalable B2B SaaS market; (3) Illumina launched Connected Multiomics (January 2026), the first cloud platform to analyze DNA, RNA, and protein data simultaneously at clinical scale. Together, these moved AI genomics from a research tool to standard-of-care infrastructure, with the AI in genomics market reaching $1.56B in 2026 and projected at a 29.85% CAGR to $12.57B by 2034.",
+  "timeline": [
+    {
+      "date": "2020-11",
+      "event": "DeepMind AlphaFold 2 wins CASP14 competition by predicting protein structures with atomic accuracy — the '50-year grand challenge' is solved, making AI-first biology a practical discipline and the AI genomics market crosses $191.9M globally."
+    },
+    {
+      "date": "2021-07",
+      "event": "AlphaFold Protein Database launches in partnership with EMBL-EBI, releasing structures for 350,000+ proteins including the entire human proteome — freely accessible globally; AI in genomics market reaches $346.3M."
+    },
+    {
+      "date": "2022-07",
+      "event": "AlphaFold 2 expands to 200M+ protein structures across virtually every known organism; AI genomics market crosses $497.9M; genomics AI startups raise record venture capital as the field transitions from academic to commercial."
+    },
+    {
+      "date": "2024-05",
+      "event": "AlphaFold 3 launches, extending structure predictions to protein-DNA, protein-RNA, and protein-small molecule interactions; DeepMind team wins Nobel Prize in Chemistry in October 2024; QIAGEN acquires Genoox adding Franklin AI genomics platform."
+    },
+    {
+      "date": "2025-02",
+      "event": "Tempus AI acquires Ambry Genetics, creating the largest AI-powered clinical genomics platform; genomics startups globally raise $4.2B in 2025, up 38% YoY; AI in genomics market reaches $1.36B."
+    },
+    {
+      "date": "2026-01",
+      "event": "Illumina launches Connected Multiomics cloud platform; DeepMind releases AlphaGenome to decode non-coding DNA for the first time; market reaches $1.56B with 29.85% CAGR projected through 2034 to $12.57B."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The US, EU, and China are running parallel national genomics AI strategies. NIH's All of Us program has assembled 1M+ diverse genomes as a public AI training corpus. FDA's January 2025 AI medical device guidance creates regulatory pathways for AI-assisted variant interpretation. China's state-funded BGI Group raises geopolitical tensions over cross-border genomic data sovereignty — the US has proposed restricting BGI access to American patient data."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The AI in genomics market grows from $1.56B (2026) to $12.57B by 2034 (CAGR 29.85%, Fortune Business Insights). DNA sequencing costs have collapsed from $100M per genome in 2001 to under $200 today, removing the primary barrier for mass clinical deployment. Genomics startups raised $4.2B in 2025 (+38% YoY). Tempus AI's $1.59B 2025 revenue demonstrates that the B2B hospital SaaS model is already working at scale."
+    },
+    {
+      "factor": "Social",
+      "impact": "Cancer kills 10M people per year globally — AI-powered early detection via liquid biopsy is the primary demand driver for genomics AI. Aging populations in OECD countries are driving demand for personalized prevention and earlier disease detection. The direct-to-consumer genetics wave (23andMe era) is evolving into AI-interpreted personal genomes. Public trust is growing as real clinical outcomes (not just predictions) emerge from AI genomics platforms like Tempus and Paige AI."
+    },
+    {
+      "factor": "Technological",
+      "impact": "AlphaGenome and AlphaFold 3 enable structure prediction for virtually any protein-gene interaction. Multiomics integration (DNA + RNA + protein + metabolomics) allows AI to model disease at single-cell resolution. Foundation models trained on millions of diverse genomes can identify pathogenic variants across any population ancestry. On-device AI and cloud-native platforms (Illumina Connected Multiomics) enable real-time variant calling without in-house bioinformaticians."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Large-scale genomic AI requires significant cloud compute infrastructure, with Illumina and Tempus running multi-region cloud platforms. Sequencing instrument manufacturing uses rare earth metals and generates electronic waste. However, AI-precision medicine reduces unnecessary treatments, surgeries, and failed clinical trials — the pharmaceutical industry's highest-carbon activities — producing a net environmental benefit when models are clinically accurate."
+    },
+    {
+      "factor": "Legal",
+      "impact": "HIPAA and GDPR classify genomic data as the highest sensitivity tier of personal data. The US Genetic Information Non-Discrimination Act (GINA) prohibits genetic discrimination in employment and insurance but has enforcement gaps. EU AI Act categorizes AI-assisted genomic diagnostic tools as high-risk AI systems requiring conformity assessment. IP ownership of AI-discovered genetic insights (variant databases, drug target structures) is actively contested between platform companies, hospital systems, and patient advocacy groups."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Detect cancer earlier from a routine blood draw",
+      "solution": "AI-powered liquid biopsy platforms (Tempus Next, Grail Galleri) analyze circulating tumor DNA in blood samples, detecting cancer signals up to 4 years before symptoms appear — transforming oncology from reactive to preventive care. AI in oncology has demonstrated ability to identify tumor genomic drivers in hours vs. the weeks required for traditional sequencing interpretation."
+    },
+    {
+      "job": "Diagnose rare diseases that currently take 7+ years to identify",
+      "solution": "AI genomics platforms match patient phenotype (symptoms) + whole exome sequencing against 10,000+ known disease signatures, compressing rare disease diagnosis from years to days. GeneDx, SOPHiA GENETICS, and QIAGEN Franklin are already deployed in pediatric hospitals globally, catching diseases that would otherwise go undiagnosed for a child's entire life."
+    },
+    {
+      "job": "Select the right drug for this patient — not the average patient",
+      "solution": "AI pharmacogenomics tools analyze individual genome data to predict drug metabolism, toxicity risk, and therapeutic response — enabling oncologists to select chemotherapy regimens with significantly better response rates than population-average protocols. IBM's analysis showed AI can propose a treatment plan in 10 minutes where expert teams need 160+ hours."
+    },
+    {
+      "job": "Identify previously undruggable protein targets for new therapies",
+      "solution": "AlphaFold 3 and AlphaGenome reveal binding pockets in proteins previously considered undruggable. Tempus AI and Recursion use these structural insights to open therapeutic windows for abandoned disease targets — a potential drug targeting liver cancer was developed in 30 days using AlphaFold, a process that would previously have taken years."
+    },
+    {
+      "job": "Run clinical genomics diagnostics without specialist bioinformaticians on staff",
+      "solution": "Cloud-based genomics interpretation platforms (DNAnexus, Illumina Connected Multiomics, QIAGEN Franklin) allow community hospitals to submit sequencing data and receive AI-interpreted clinical reports without in-house bioinformaticians — democratizing precision medicine beyond top academic medical centers to regional and international health systems."
+    }
+  ],
+  "market": [
+    {
+      "name": "Illumina",
+      "share": "~30%",
+      "loved": "Dominant sequencing hardware + Connected Multiomics cloud (launched Jan 2026); $4.34B total revenue 2025; partnerships with virtually every genomics AI company; gold-standard short-read NGS technology",
+      "segment": "Sequencing hardware & bioinformatics cloud"
+    },
+    {
+      "name": "Tempus AI",
+      "share": "~14%",
+      "loved": "Largest clinical genomics AI SaaS platform; $1.59B 2025 revenue (+25% YoY); Ambry Genetics acquisition; real-world evidence platform for oncology; publicly traded (TEM)",
+      "segment": "Clinical genomics AI platform (oncology)"
+    },
+    {
+      "name": "NVIDIA",
+      "share": "~12%",
+      "loved": "AI compute backbone for genomics; Clara Parabricks enables GPU-accelerated whole genome sequencing in 22 minutes; DGX systems power most genomics foundation model training; essential infrastructure layer",
+      "segment": "AI infrastructure & GPU compute for genomics"
+    },
+    {
+      "name": "QIAGEN",
+      "share": "~10%",
+      "loved": "Genoox Franklin AI platform (acquired May 2025) for clinical genomics interpretation; deployed at 1,000+ hospitals; regulatory-grade variant databases; strong European clinical market presence",
+      "segment": "Clinical bioinformatics SaaS"
+    },
+    {
+      "name": "SOPHiA GENETICS",
+      "share": "~6%",
+      "loved": "Hospital-first AI genomics SaaS; 680+ hospital clients; multimodal clinical data + genomics integration; Swiss-based, EU AI Act compliant; democratizing genomics for mid-size hospitals",
+      "segment": "Hospital-focused AI genomics platform"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Recursion Pharmaceuticals",
+      "detail": "AI-native drug discovery using phenomics + genomics; RXRX publicly traded; conducts 2.2M biological experiments per week on its GPU cluster; merged with Exscientia to create the largest AI drug discovery pipeline; now applying genomic data to map all biology at cellular resolution — making it a dual threat in genomics and drug discovery."
+    },
+    {
+      "name": "GeneDx",
+      "detail": "Rare disease genomic testing leader (formerly Sema4); pivoted from DTC to B2B hospital market; AI-powered whole exome and whole genome interpretation for pediatric rare disease; NASDAQ listed; processes 500K+ genomic tests annually across 80+ countries with AI-assisted variant interpretation."
+    },
+    {
+      "name": "Paige AI",
+      "detail": "First FDA-authorized AI oncology pathology tool (prostate cancer detection); expanding to multi-cancer AI pathology + genomic biomarker integration; backed by major cancer centers including Memorial Sloan Kettering; bridging digital pathology and genomics into unified cancer diagnostics."
+    },
+    {
+      "name": "DNAnexus",
+      "detail": "Cloud genomics data platform used by UK Biobank, NIH All of Us, and major pharma consortia; handles petabyte-scale genomic datasets with regulatory-grade security; enables multi-institution AI model training across sensitive patient data through federated compute — a critical infrastructure layer as genomic datasets scale to billions of genomes."
+    },
+    {
+      "name": "BGI Group (China)",
+      "detail": "World's largest genomics company by sequencing volume; BGI Genomics listed on Shenzhen exchange; MGI sequencing technology competes with Illumina at lower cost; processing an estimated 10M+ genomes annually; raises geopolitical concerns in the US and EU over genomic data sovereignty and military-civil fusion policies."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: Oncologists and clinical geneticists in academic medical centers and cancer hospitals seeking AI-assisted variant interpretation and treatment selection. Secondary: Hospital CFOs and genomics lab directors at community hospitals deploying precision medicine without specialist bioinformaticians. Tertiary: Life sciences R&D teams (pharma CROs, biotech) needing genomic AI for drug target validation and clinical trial patient stratification. Emerging: health-conscious consumers seeking AI-interpreted personal genome analysis for prevention and pharmacogenomics.",
+    "where": "Discovered through Nature Genetics, Cell, NEJM publications and conferences (ASHG, ASCO, JPMorgan Healthcare); deployed in hospital genomics labs, cancer centers, and pharma R&D sites; consumer touchpoint through digital health apps and direct-to-consumer sequencing services (evolving from 23andMe's basic ancestry to AI-interpreted precision health); evaluated through hospital procurement cycles of 6–18 months.",
+    "why_now": "Four catalysts converged in 2025–2026: (1) AlphaFold 3 and AlphaGenome made protein-gene prediction accurate enough for clinical use — opening the non-coding genome for the first time; (2) DNA sequencing costs fell below $200 per genome, making mass clinical deployment economically viable for any hospital system; (3) Tempus AI's $1.59B revenue proved hospitals will pay for AI genomics at scale; (4) FDA created a regulatory pathway for AI-assisted genomic diagnostics, reducing institutional adoption risk.",
+    "behavior": "Healthcare systems start with oncology (highest ROI, clearest clinical evidence), then expand to rare disease, then pharmacogenomics. Typical adoption curve: pilot 50–100 cases with AI variant interpretation → validate against manual expert review → deploy hospital-wide with bioinformatics staff reskilling. Consumer behavior: health-conscious early adopters pay $100–500 for genome sequencing, then subscribe to AI-interpreted health updates as evidence accumulates over their lifetime. Pharma R&D teams run parallel genomic AI vs. traditional target identification on 2–3 programs before committing platform-wide.",
+    "unmet": "Clinical validation across diverse ancestries: most AI genomics models were trained predominantly on European-ancestry genomes, creating accuracy gaps for Asian, African, and Hispanic patients — a major equity and clinical risk issue. EHR interoperability remains manual and fragmented — genomic reports do not automatically flow into Epic or Cerner patient records. Bioinformaticians are a global bottleneck: fewer than 20,000 clinical bioinformaticians exist worldwide for 5,000+ hospitals needing precision medicine capability. Real-time reimbursement codes for AI-assisted genomic interpretation are still evolving in most markets outside the US."
+  },
+  "takeaways": [
+    "Anchor your AI genomics strategy in oncology first: cancer genomics has the clearest ROI, the most clinical evidence, and the fastest reimbursement path — Tempus AI's $1.59B revenue built almost entirely on oncology proves the B2B hospital model works. AI startups, content creators, and investors should lead with cancer, then expand to rare disease and pharmacogenomics once the platform and clinical credibility are established.",
+    "AlphaGenome is the next AlphaFold moment — move on it now: DeepMind's 2026 launch of AlphaGenome (decoding the non-coding 98% of the genome) opens a new category of gene regulation AI that is 5 years behind protein structure prediction but on the same explosive trajectory. Companies building genomic AI tools on AlphaGenome data today will own the regulatory genomics and gene therapy targeting markets by 2030.",
+    "The bioinformatics democratization gap is the mass-market opportunity: the bottleneck is no longer sequencing cost (under $200/genome) — it's bioinformatics expertise. AI platforms that let community hospitals and international health systems run clinical genomics without specialist teams are targeting a $10B+ unmet market. SOPHiA GENETICS, DNAnexus, and QIAGEN Franklin are proving the model works, but global hospital coverage remains below 15%.",
+    "Genomic data sovereignty will be the regulatory battleground of 2027–2028: as AI genomics platforms accumulate millions of patient genomes, legislators in the EU, US, and Asia-Pacific are drafting genomic data localization requirements — and BGI's market position is accelerating Western regulatory response. Companies and investors should model scenarios where cross-border genomic data flows are restricted and design compliant data architectures now, before localization mandates make retrofitting prohibitively expensive."
+  ],
+  "sources": [
+    {
+      "title": "AI in Genomics Market Size, Share & Trends Forecast [2034] — Fortune Business Insights",
+      "url": "https://www.fortunebusinessinsights.com/artificial-intelligence-in-genomics-market-107737",
+      "publisher": "Fortune Business Insights"
+    },
+    {
+      "title": "Rising Precision Medicine Fuels AI in Genomics Market Growth: Industry to Reach $9.32 Billion by 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/06/25/3317791/28124/en/Rising-Precision-Medicine-Fuels-AI-in-Genomics-Market-Growth-Industry-to-Reach-9-32-Billion-by-2030.html",
+      "publisher": "GlobeNewsWire"
+    },
+    {
+      "title": "Global AI and Omics Sector Fueled by Precision Medicine and Deep Learning Innovations",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321696/28124/en/Global-AI-and-Omics-Sector-Fueled-by-Precision-Medicine-and-Deep-Learning-Innovations.html",
+      "publisher": "GlobeNewsWire"
+    },
+    {
+      "title": "AlphaFold: Five Years of Impact — Google DeepMind",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "publisher": "Google DeepMind"
+    },
+    {
+      "title": "How AlphaGenome Is Changing the Genomic Research Landscape",
+      "url": "https://spectrum.ieee.org/alphagenome-ai-gene-regulation",
+      "publisher": "IEEE Spectrum"
+    },
+    {
+      "title": "Tempus AI Reports First Quarter 2026 Results",
+      "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-first-quarter-2026-results",
+      "publisher": "Tempus AI Investor Relations"
+    },
+    {
+      "title": "The impact of AI on modern oncology from early detection to personalized cancer treatment",
+      "url": "https://www.nature.com/articles/s41698-026-01276-6",
+      "publisher": "npj Precision Oncology (Nature)"
+    },
+    {
+      "title": "Increasing use of artificial intelligence in genomic medicine for cancer care — promise and potential pitfalls",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11962076/",
+      "publisher": "BJC Reports / PubMed Central"
+    },
+    {
+      "title": "AI in Genomics Market Size to Grow USD 9,859.7 Million by 2031 at 40.6% CAGR — Valuates Reports",
+      "url": "https://www.prnewswire.com/news-releases/ai-in-genomics-market-size-to-grow-usd-9-859-7-million-by-2031-registering-a-cagr-of-40-6--valuates-reports-301933617.html",
+      "publisher": "PR Newswire / Valuates Reports"
+    },
+    {
+      "title": "AI in Genomics Market Overview, Key Trends, and Insights on Leading Companies",
+      "url": "https://www.openpr.com/news/4502958/ai-in-genomics-market-overview-key-trends-and-insights",
+      "publisher": "OpenPR / Market Research"
+    },
+    {
+      "title": "JPM26: Tempus AI and the push toward precision medicine",
+      "url": "https://www.medicaldevice-network.com/analyst-comment/jpm26-tempus-ai-push-toward-precision-medicine/",
+      "publisher": "Medical Device Network"
+    },
+    {
+      "title": "AI for Personalized Medicine: Startup Opportunities in 2026",
+      "url": "https://kanopylabs.com/blog/ai-for-personalized-medicine-genomics",
+      "publisher": "Kanopy Labs"
+    }
+  ]
+}

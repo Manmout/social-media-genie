@@ -1,0 +1,127 @@
+{
+  "trend_name": "AI in Genomics",
+  "slug": "ai-genomics",
+  "research_date": "2026-07-29",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Genomics Market Size, Share & Trends Forecast [2034]",
+      "url": "https://www.fortunebusinessinsights.com/artificial-intelligence-in-genomics-market-107737",
+      "publisher": "Fortune Business Insights",
+      "claim": "Market valued at $1.36B (2025) → $1.56B (2026) → $12.57B (2034) at 29.85% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Rising Precision Medicine Fuels AI in Genomics Market Growth: Industry to Reach $9.32 Billion by 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/06/25/3317791/28124/en/Rising-Precision-Medicine-Fuels-AI-in-Genomics-Market-Growth-Industry-to-Reach-9-32-Billion-by-2030.html",
+      "publisher": "GlobeNewsWire (June 25, 2026)",
+      "claim": "AI in genomics market growing from $1.51B (2025) to $2.18B (2026); CAGR 44.6%",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Global AI and Omics Sector Fueled by Precision Medicine and Deep Learning Innovations",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321696/28124/en/Global-AI-and-Omics-Sector-Fueled-by-Precision-Medicine-and-Deep-Learning-Innovations.html",
+      "publisher": "GlobeNewsWire (July 3, 2026)",
+      "claim": "AI and multiomics sector growth driven by precision medicine adoption; genomics startups raised $4.2B in 2025 (+38% YoY)",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "AlphaFold: Five Years of Impact",
+      "url": "https://deepmind.google/blog/alphafold-five-years-of-impact/",
+      "publisher": "Google DeepMind",
+      "claim": "AlphaFold 2 won CASP14 in 2020; AlphaFold Protein Database launched 2021 with 350,000+ structures; expanded to 200M+ structures in 2022; Nobel Prize in Chemistry 2024",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "How AlphaGenome Is Changing the Genomic Research Landscape",
+      "url": "https://spectrum.ieee.org/alphagenome-ai-gene-regulation",
+      "publisher": "IEEE Spectrum",
+      "claim": "AlphaGenome (2026) decodes the non-coding 98% of the human genome for gene regulation insights — the next frontier after AlphaFold",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Tempus AI Reports First Quarter 2026 Results",
+      "url": "https://investors.tempus.com/news-releases/news-release-details/tempus-reports-first-quarter-2026-results",
+      "publisher": "Tempus AI Investor Relations",
+      "claim": "Tempus AI generated $1.59B in 2025 revenue with 25% YoY growth expected in 2026; expanding Next platform for oncology in May 2026",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "JPM26: Tempus AI and the push toward precision medicine",
+      "url": "https://www.medicaldevice-network.com/analyst-comment/jpm26-tempus-ai-push-toward-precision-medicine/",
+      "publisher": "Medical Device Network",
+      "claim": "Tempus AI positioning as largest AI-powered clinical genomics platform; oncology-first strategy; Ambry Genetics acquisition Feb 2025",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "The impact of AI on modern oncology from early detection to personalized cancer treatment",
+      "url": "https://www.nature.com/articles/s41698-026-01276-6",
+      "publisher": "npj Precision Oncology (Nature)",
+      "claim": "AI enables liquid biopsy cancer detection up to 4 years before symptoms; tumor genomic driver identification in hours vs. weeks",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Increasing use of artificial intelligence in genomic medicine for cancer care — promise and potential pitfalls",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11962076/",
+      "publisher": "BJC Reports / PubMed Central",
+      "claim": "IBM Watson analyzed genomes and proposed treatment plans in 10 minutes vs. 160 hours for expert teams; AI genomics in active clinical use across major cancer centers",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "AI in Genomics Market Size to Grow USD 9,859.7 Million by 2031 at 40.6% CAGR",
+      "url": "https://www.prnewswire.com/news-releases/ai-in-genomics-market-size-to-grow-usd-9-859-7-million-by-2031-registering-a-cagr-of-40-6--valuates-reports-301933617.html",
+      "publisher": "PR Newswire / Valuates Reports",
+      "claim": "AI in genomics CAGR of 40.6% (2022–2031); market growing across oncology, rare disease, pharmacogenomics segments",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Artificial Intelligence In Genomics Market size worth $5,628.19 Million by 2028 at 52.60% CAGR",
+      "url": "https://www.prnewswire.com/news-releases/artificial-intelligence-in-genomics-market-size-worth--5628-19-million-globally-by-2028-at-52-60-cagr-verified-market-research-301484608.html",
+      "publisher": "PR Newswire / Verified Market Research",
+      "claim": "Historical baseline: AI in genomics market valued at $346.3M in 2021 (used to calculate 5Y growth of +351% to 2026)",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI in Genomics Market Overview, Key Trends, and Insights on Leading Companies",
+      "url": "https://www.openpr.com/news/4502958/ai-in-genomics-market-overview-key-trends-and-insights",
+      "publisher": "OpenPR / Market Research",
+      "claim": "Key players: Illumina, Tempus, QIAGEN, SOPHiA GENETICS, DNAnexus, Fabric Genomics; Tempus acquisition of Ambry Genetics; QIAGEN acquisition of Genoox (Franklin platform)",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI for Personalized Medicine: Startup Opportunities in 2026",
+      "url": "https://kanopylabs.com/blog/ai-for-personalized-medicine-genomics",
+      "publisher": "Kanopy Labs",
+      "claim": "AI genomics production patterns including rare-disease diagnostic AI; overview of startup landscape and clinical deployment patterns",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Artificial Intelligence in the Diagnosis of Pediatric Rare Diseases: From Real-World Data Toward a Personalized Medicine Approach",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12470782/",
+      "publisher": "PubMed Central",
+      "claim": "AI compresses rare disease diagnosis from 7+ year average to days; AI matching phenotype + genomic variants against 10,000+ disease signatures",
+      "verified": true
+    }
+  ],
+  "data_notes": {
+    "market_size_variance": "Multiple market research firms report different figures for AI in genomics market size due to varying scope definitions (clinical genomics only vs. research genomics vs. including AI infrastructure). Range in 2026: $1.56B (Fortune BI, clinical focus) to $2.18B (GlobeNewsWire, broader scope). Trend data uses Fortune Business Insights as primary source.",
+    "growth_5y_calculation": "5Y growth (+351%) calculated from 2021 baseline of $346.3M (Verified Market Research via PRNewswire) to 2026 value of $1.56B (Fortune Business Insights). Cross-checked against 40.6% CAGR (Valuates Reports) which implies similar trajectory.",
+    "growth_1y_calculation": "1Y growth (+15%) calculated from 2025 value of $1.36B to 2026 value of $1.56B per Fortune Business Insights.",
+    "growth_3m_calculation": "3M growth (+7%) approximated from quarterly extrapolation of 29.85% annual CAGR: (1.2985)^0.25 - 1 ≈ 6.8%.",
+    "market_share_note": "Market share percentages for individual players are estimates based on publicly available revenue data and analyst commentary, not exact figures from a single source. Treated as approximate ranges.",
+    "search_volume_note": "Search volume of ~40,000/month is an estimate based on keyword research patterns for 'AI genomics' and related terms. Not sourced from a verified SEO tool due to tool limitations in this research session. [unverified]"
+  }
+}
