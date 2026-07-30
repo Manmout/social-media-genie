@@ -1,0 +1,105 @@
+{
+  "trend": "Neuromorphic Computing",
+  "slug": "neuromorphic-computing",
+  "research_date": "2026-07-30",
+  "sources": [
+    {
+      "id": 1,
+      "claim": "Neuromorphic computing market worth $1,325.2 million by 2030 at 89.7% CAGR from 2024 base of $28.5M",
+      "url": "https://www.prnewswire.com/news-releases/neuromorphic-computing-market-worth-1-325-2-million-by-2030---exclusive-report-by-marketsandmarkets-302287126.html",
+      "publisher": "MarketsandMarkets / PRNewswire",
+      "verified": true,
+      "notes": "Primary market size source. MarketsandMarkets is a Tier 1 analyst firm. Used for growth_5y and absolute market size figures."
+    },
+    {
+      "id": 2,
+      "claim": "Neuromorphic chip market $0.51B in 2026 growing to $4.08B by 2031 at 51.57% CAGR",
+      "url": "https://www.mordorintelligence.com/industry-reports/neuromorphic-chip-market",
+      "publisher": "Mordor Intelligence",
+      "verified": true,
+      "notes": "Used for growth_1y calculation ($0.34B in 2025 → $0.51B in 2026 = +50%). Mordor is Tier 1 analyst firm."
+    },
+    {
+      "id": 3,
+      "claim": "Intel deploys Hala Point at Sandia National Laboratories with 1.15 billion neurons across 1,152 Loihi 2 processors, capable of 20 quadrillion operations per second at 15+ TOPS/W efficiency — April 2024",
+      "url": "https://newsroom.intel.com/artificial-intelligence/intel-builds-worlds-largest-neuromorphic-system-to-enable-more-sustainable-ai",
+      "publisher": "Intel Newsroom",
+      "verified": true,
+      "notes": "Primary source direct from Intel. Used in timeline (2024-04) and PESTAL Technological factor."
+    },
+    {
+      "id": 4,
+      "claim": "Innatera raises $21M Series A in 2024 for T1 Spiking Neural Processor; high-volume deliveries slated for Q2 2025",
+      "url": "https://www.datacenterdynamics.com/en/news/neuromorphic-processor-startup-innatera-raises-21m/",
+      "publisher": "Data Center Dynamics",
+      "verified": true,
+      "notes": "Used in timeline (2025-01), competitors section, and market players. Data Center Dynamics is a reliable industry publication."
+    },
+    {
+      "id": 5,
+      "claim": "Global neuromorphic computing and sensing market overview including Intel Hala Point, IBM TrueNorth, BrainChip Akida commercial scale 2026-2036",
+      "url": "https://finance.yahoo.com/news/global-neuromorphic-computing-sensing-market-093000515.html",
+      "publisher": "Yahoo Finance / Globe Newswire",
+      "verified": true,
+      "notes": "Used for overview market context, BrainChip commercial sample data. Globe Newswire is a reputable press release wire service."
+    },
+    {
+      "id": 6,
+      "claim": "Neuromorphic computing sector 2025 breakthrough year narrative; key startups overview including Prophesee (€126M raised, €50M Series C)",
+      "url": "https://markets.financialcontent.com/wral/article/tokenring-2025-10-2-neuromorphic-dawn-brain-inspired-chips-ignite-a-new-era-for-ai-hardware",
+      "publisher": "Financial Content / TokenRing",
+      "verified": true,
+      "notes": "Used for trigger narrative, Prophesee funding figures, and 2025 commercial momentum. Secondary source — Prophesee funding cross-checked with Conscium neuromorphic startups data."
+    },
+    {
+      "id": 7,
+      "claim": "Sandia National Laboratories deployment of Hala Point described as neuromorphic AI supercomputer — April 2024",
+      "url": "https://www.nextplatform.com/ai/2024/04/24/sandia-pushes-the-neuromorphic-ai-envelope-with-hala-point-supercomputer/1634843",
+      "publisher": "The Next Platform",
+      "verified": true,
+      "notes": "Technical detail source for Hala Point capabilities. The Next Platform covers HPC and advanced computing with high editorial standards."
+    },
+    {
+      "id": 8,
+      "claim": "Top neuromorphic computing companies in 2026: Intel, IBM, BrainChip, SpiNNcloud, Innatera, GrAI Matter Labs, Applied Brain Research",
+      "url": "https://www.startus-insights.com/innovators-guide/neuromorphic-computing-companies/",
+      "publisher": "StartUs Insights",
+      "verified": true,
+      "notes": "Used for competitors section and market players. StartUs Insights is a technology intelligence platform tracking startup ecosystems."
+    },
+    {
+      "id": 9,
+      "claim": "IBM NorthPole delivers 25x better energy-per-inference and 22x faster frame rate than GPU on ResNet-50 — published Science 2023",
+      "url": "https://www.science.org/doi/10.1126/science.adh1174",
+      "publisher": "Science Magazine / AAAS",
+      "verified": true,
+      "notes": "Peer-reviewed primary source for IBM NorthPole claims. Science is the world's most prestigious multidisciplinary journal. Used in timeline (2023-08) and competitors section."
+    },
+    {
+      "id": 10,
+      "claim": "Neuromorphic computing energy efficiency: 0.001x the energy of conventional computing for perception-cognition tasks; applications in edge AI, IoT, robotics",
+      "url": "https://www.cio.com/article/4052223/neuromorphic-computing-and-the-future-of-edge-ai.html",
+      "publisher": "CIO Magazine",
+      "verified": true,
+      "notes": "Used for PESTAL Environmental factor and Jobs-to-Be-Done edge AI use cases. CIO Magazine is a reputable enterprise technology publication."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share percentages for Intel (~35%), BrainChip (~25%), IBM (~20%), SpiNNcloud (~10%), Innatera (~5%)",
+      "reason": "No independently verified market share breakdown by vendor for the neuromorphic chip market exists as of 2026; figures are estimates based on relative company sizes, funding, and reported deployments",
+      "marked_in_data": true
+    },
+    {
+      "claim": "growth_3m of +12%",
+      "reason": "Quarterly granular neuromorphic market data is not publicly available; figure derived from annualizing the 51.57% CAGR (Mordor Intelligence)",
+      "marked_in_data": true
+    },
+    {
+      "claim": "BrainChip AKD1500 shipping commercial samples in 2026",
+      "reason": "Referenced in Yahoo Finance/Globe Newswire market report but not confirmed by BrainChip's own investor releases at time of research",
+      "marked_in_data": false,
+      "note": "Should be verified against BrainChip ASX investor updates before publication"
+    }
+  ]
+}
