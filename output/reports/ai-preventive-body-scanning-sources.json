@@ -1,0 +1,171 @@
+{
+  "trend": "AI Preventive Body Scanning",
+  "slug": "ai-preventive-body-scanning",
+  "research_date": "2026-07-31",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Neko Health (official press release)",
+      "title": "Neko Health raises $700m Series C ahead of US launch",
+      "url": "https://www.nekohealth.com/us/en/press/neko-health-raises-usd700m-series-c-ahead-of-us-launch",
+      "date": "2026-07-15",
+      "verified": true,
+      "claims": [
+        "Neko Health raised $700M Series C led by Lightspeed Venture Partners, co-led by O.G. Venture Partners",
+        "Existing investors: Atomico, General Catalyst, Lakestar; new backers: Liberty City Ventures, Positive Sum, BDT & MSD",
+        "100,000+ examinations completed across Sweden and UK (8 locations)",
+        "Company is profitable at the clinic level",
+        "Round proceeds to fund US market entry, beginning New York City"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "FierceHealthcare",
+      "title": "Full-body scan startup Neko Health scores $700M to break into the U.S. market",
+      "url": "https://www.fiercehealthcare.com/health-tech/full-body-scan-startup-neko-health-scores-700m-break-us-market",
+      "date": "2026-07-15",
+      "verified": true,
+      "claims": [
+        "Neko Health $700M Series C confirmed — largest round in DTC preventive scanning category",
+        "Co-founders: Hjalmar Nilsonne and Daniel Ek (CEO of Spotify)",
+        "Company founded 2018, launched publicly 2023 after 4 years of hardware development",
+        "Neko scan price: ~$400/visit",
+        "Scan time: ~10 minutes, 500+ health markers, no ionizing radiation"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "CNBC",
+      "title": "Function Health buys Ezra, launches full-body scan for a third of the price",
+      "url": "https://www.cnbc.com/2025/05/05/function-health-mri-ezra.html",
+      "date": "2025-05-05",
+      "verified": true,
+      "claims": [
+        "Function Health acquired Ezra in May 2025",
+        "Price reduced from $1,500 to $499 for full-body AI MRI",
+        "Combines Ezra's imaging with Function Health's 100+ blood biomarker testing",
+        "Largest single price reduction in DTC preventive scanning history"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "New Market Pitch",
+      "title": "Full-body scans: which startup is ahead?",
+      "url": "https://newmarketpitch.com/blogs/news/longevity-full-body-scans-startup",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "DTC full-body scanning market valued at $29.7B in 2025, projected $47.2B by 2033",
+        "Prenuvo: 170,000+ completed scans, 29 US clinics, $2,499 standard pricing",
+        "Neko Health: 100,000+ examinations at 8 locations; US$400/visit at New York launch",
+        "Function Health/Ezra: US$499–899 with membership at US$499/year",
+        "Neko Health 'ahead overall'; Prenuvo 'clear leader in dedicated whole-body MRI'"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "Future Market Insights",
+      "title": "AI-Powered Whole-Body Imaging Market: Global Industry Analysis and Opportunity Assessment, 2036",
+      "url": "https://www.futuremarketinsights.com/reports/ai-powered-whole-body-imaging-market",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "AI-powered whole-body imaging market: $1.5B (2026) → $7.2B (2036)",
+        "CAGR: 16.6% (2026–2036)",
+        "Market driven by demand for non-invasive diagnostics, AI algorithm maturity, and consumer health awareness"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "SNS Insider / GlobeNewswire",
+      "title": "Preventive Healthcare Technologies and Services Market Size to Surpass USD 1,009.14 Billion by 2035",
+      "url": "https://www.globenewswire.com/news-release/2026/07/14/3327117/0/en/Preventive-Healthcare-Technologies-and-Services-Market-Size-to-Surpass-USD-1-009-14-Billion-by-2035-SNS-Insider.html",
+      "date": "2026-07-14",
+      "verified": true,
+      "claims": [
+        "Preventive Healthcare Technologies and Services Market: $366.91B (2025) → $412.59B (2026)",
+        "Projected to surpass $1,009.14B by 2035",
+        "CAGR: ~10.98%",
+        "Growth driven by AI diagnostics, digital health platforms, wearable monitoring, and early disease detection programs"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "Business Research Insights",
+      "title": "Preventive Healthcare Market 2026–2035: Growth at CAGR 16.9%",
+      "url": "https://www.businessresearchinsights.com/market-reports/preventive-healthcare-market-118160",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Preventive healthcare market growing at 16.9% CAGR (2026–2035)",
+        "Higher CAGR estimate reflects faster-growing AI and technology sub-segments"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "TechCrunch",
+      "title": "Neko Health, the body-scanning AI health startup from Spotify's Daniel Ek, opens in London",
+      "url": "https://techcrunch.com/2024/09/03/neko-health-the-body-scanning-ai-health-startup-from-spotifys-daniel-ek-opens-in-london/",
+      "date": "2024-09-03",
+      "verified": true,
+      "claims": [
+        "Neko Health opened London clinic September 2024, first location outside Sweden",
+        "Raised €60M ($65M) Series A led by Lakestar with Atomico and General Catalyst",
+        "Company founded 2018 by Hjalmar Nilsonne and Daniel Ek",
+        "4 years of hardware development before 2023 public launch"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "HIT Consultant",
+      "title": "Daniel Ek's Neko Health Secures $700M to Fund U.S. Preventive Clinic Expansion",
+      "url": "https://hitconsultant.net/2026/07/15/neko-health-raises-700-million-series-c/",
+      "date": "2026-07-15",
+      "verified": true,
+      "claims": [
+        "Neko Health now has 100,000 members",
+        "Expansion to Sweden and UK including Manchester, Birmingham, multiple London locations",
+        "Company designs, patents, and manufactures its entire diagnostic hardware ecosystem in-house",
+        "Clinic-level profitability achieved before US expansion"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "Holt Law",
+      "title": "National Legal Regulatory Analysis 2026: AI, Privacy, and Clinical Governance for Medical Practices",
+      "url": "https://djholtlaw.com/national-legal-regulatory-analysis-2026-artificial-intelligence-privacy-and-clinical-governance-for-medical-practices/",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "FDA released definitive CDS software guidance January 6, 2026",
+        "AI tools processing medical images require FDA device clearance",
+        "26 CPT codes for clinical AI solutions as of January 2026 — minimal reimbursement for preventive scanning",
+        "California AB 489 (2026): prohibits AI from impersonating human clinicians in diagnostic contexts",
+        "HIPAA applies to all patient scan data; EU GDPR Article 9 governs European health data"
+      ]
+    },
+    {
+      "id": 11,
+      "publisher": "Tech EU / ArcticStartup",
+      "title": "Neko Health raises $700M as demand grows for preventive health scans",
+      "url": "https://tech.eu/2026/07/15/neko-health-raises-700m-as-demand-grows-for-preventive-health-scans/",
+      "date": "2026-07-15",
+      "verified": true,
+      "claims": [
+        "Growing investor interest in longevity and preventive healthcare combining imaging, biomarker testing, and AI health analysis",
+        "Strategy: identify disease risk before symptoms appear",
+        "Neko expanded in Sweden and UK before US launch"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    "Prenuvo market share ~25% — estimated based on scan volume (170K scans) and clinic count (29 US clinics); no independently published market share data available for this specific sub-segment",
+    "DTC scanning market $29.7B in 2025 — figure cited by New Market Pitch; original primary source not independently confirmed; treat as directional estimate",
+    "Function Health/Ezra market share ~20% — estimate based on pricing competitiveness and acquisition significance; no publicly disclosed revenue or scan volume data",
+    "SimonMed market share ~15% — estimate based on clinic network size (200+ locations); no DTC-specific segment data available",
+    "Neko Health post-money Series C valuation — not publicly disclosed; $700M round with estimated 15–20% dilution implies ~$4B–$5B post-money; unconfirmed",
+    "Kim Kardashian Prenuvo scan post causing 'viral' demand — widely reported in media but quantified demand impact is anecdotal, not measured",
+    "65% consumer survey statistic on PCP recommendation increasing scan likelihood — [unverified]; cited as illustrative market insight, no original survey source identified",
+    "search_volume ~90,000/mo — estimated for 'preventive health scan' and related terms; not pulled from Keywords Everywhere tool in this session"
+  ]
+}
