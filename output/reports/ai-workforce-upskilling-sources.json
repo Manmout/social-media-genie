@@ -1,0 +1,122 @@
+{
+  "slug": "ai-workforce-upskilling",
+  "trend_name": "AI Workforce Upskilling",
+  "research_date": "2026-08-01",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI-Powered Corporate Training Market Size, Share & 2031 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-powered-corporate-training-market",
+      "publisher": "Mordor Intelligence",
+      "claim": "AI-Powered Corporate Training Market valued at USD 7.49 billion in 2026, growing at 19.43% CAGR to reach USD 18.19 billion by 2031. Market was USD 6.27 billion in 2025.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "New Research: How AI Transforms $400 Billion of Corporate Learning",
+      "url": "https://joshbersin.com/2026/02/new-research-how-ai-transforms-400-billion-of-corporate-learning/",
+      "publisher": "Josh Bersin",
+      "claim": "The global corporate training market is $400B+. AI is restructuring all major L&D platforms — from content catalogs to personalized learning paths — making AI the dominant growth driver in the sector from 2025 onward.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "US Department of Commerce $25M AI Upskill Accelerator Pilot Program",
+      "url": "https://www.eda.gov/news/press-release/2026/05/11/us-department-commerce-announces-25-million-notice-funding",
+      "publisher": "US Economic Development Administration (EDA)",
+      "claim": "EDA announced approximately $25 million in funding for the AI Upskill Accelerator Pilot Program in May 2026 — the first federal grant program dedicated to AI workforce training, using a sectoral partnership approach.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "AI Upskilling 2026: Stay Relevant as 80% Must Retrain",
+      "url": "https://www.digitalapplied.com/blog/ai-upskilling-workforce-guide-stay-relevant-2026",
+      "publisher": "Digital Applied",
+      "claim": "80% of the global workforce must undergo some form of AI reskilling or upskilling within the next four years (WEF-sourced). Workers with AI proficiency earn on average 56% more than peers in comparable roles.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI Corporate Training Statistics 2026",
+      "url": "https://careertrainer.ai/en/reports/ai-corporate-training-statistics/",
+      "publisher": "CareerTrainer.ai",
+      "claim": "Demand for AI literacy training increased 320% on corporate learning platforms in 2025. AI training technology vendors raised $5.3 billion in 2023, with 127% year-over-year investment growth vs 2022. 1 in 10 job postings now require AI skills.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Workforce and Learning Trends 2026",
+      "url": "https://www.comptia.org/en-us/resources/research/workforce-and-learning-trends-2026/",
+      "publisher": "CompTIA Research",
+      "claim": "70% of organizations actively using AI (up from 63% in 2025). 85% of employers plan to prioritize reskilling and upskilling over hiring to meet AI-driven skill demand.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Job Skills Report 2026 — Future Job Skills & AI Insights",
+      "url": "https://www.coursera.org/skills-reports/job-skills",
+      "publisher": "Coursera",
+      "claim": "AI literacy named #1 in-demand skill globally for 2026. 140+ Fortune 500 companies purchased Coursera enterprise AI training packages. University credential moat drives adoption in regulated industries.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI Growth Acceleration Versus Distributional Fairness",
+      "url": "https://www.brookings.edu/articles/ai-growth-acceleration-versus-distributional-fairness/",
+      "publisher": "Brookings Institution",
+      "claim": "AI adoption distributional effects require parallel investment in workforce training to prevent widening skills inequality. Policy frameworks must address both AI acceleration and workforce transition simultaneously.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Global Economic and Financial Implications of Artificial Intelligence",
+      "url": "https://www.imf.org/-/media/files/publications/imf-notes/2026/english/insea2026002.pdf",
+      "publisher": "International Monetary Fund",
+      "claim": "Under rapid AI adoption assumptions, US GDP could increase by approximately $2.48 trillion by 2030. AI should be treated as a macro-critical transition requiring coordinated workforce and fiscal policy responses.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Corporate Reskilling 2026: The $215B EdTech Push",
+      "url": "https://www.globalbrandsmagazine.com/corporate-reskilling-2026/",
+      "publisher": "Global Brands Magazine",
+      "claim": "Global EdTech market valued at approximately $214 billion in 2026, projected to grow to $588 billion by 2034 at 13.5% CAGR. Corporate reskilling is the highest-growth segment of the global education economy in 2026.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "The Enterprise Learning Tech Market Quickly Transforms Around AI",
+      "url": "https://joshbersin.com/2026/02/the-enterprise-learning-tech-market-quickly-transforms-around-ai/",
+      "publisher": "Josh Bersin",
+      "claim": "All major L&D platform vendors (LinkedIn Learning, Coursera, Udemy Business, Degreed, Skillsoft, Pluralsight) have pivoted to AI-first feature sets in 2025-2026. The market is consolidating around platforms that offer skills intelligence plus AI-generated personalized paths.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI and the Future of Work in 2026: The WEF Report",
+      "url": "https://www.aimagicx.com/blog/wef-ai-future-of-work-manager-guide-2026",
+      "publisher": "AI Magicx (WEF-sourced analysis)",
+      "claim": "WEF predicts 60% of all jobs will require significant AI skills by end of 2027. More than half the global workforce needs reskilling within four years. WEF names AI & Machine Learning Specialists as #1 fastest-growing role globally.",
+      "verified": true,
+      "note": "Secondary source summarizing WEF data — directionally accurate but cross-check original WEF Future of Jobs report for exact figures"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "LinkedIn Learning holds ~25% enterprise market share by learner seat count",
+      "note": "No public enterprise L&D market share breakdown available for 2026. Estimate based on reported 22M+ enterprise learners and Microsoft 365's 300M+ seat distribution advantage. [unverified — internal estimate]"
+    },
+    {
+      "claim": "Workflow-embedded microlearning achieves 3x the completion rate of scheduled LMS courses",
+      "note": "Widely cited industry benchmark; attribution varies across vendors. Original source appears to be a Salesforce Trailhead internal study. Cross-check with Axonify and 360Learning published data. [partially verified]"
+    },
+    {
+      "claim": "AI-powered course content generation reduces authoring time from weeks to hours",
+      "note": "Specific timing claims (weeks to hours) sourced from vendor case studies (Synthesia, Articulate AI). Independent third-party validation not found. [unverified — directionally credible]"
+    },
+    {
+      "claim": "Search volume ~90,000/mo for AI workforce upskilling related terms",
+      "note": "Estimated aggregate of 'AI training,' 'AI upskilling,' 'AI reskilling,' and 'AI courses for business' — not a single keyword measurement. [unverified — estimate from aggregated related terms]"
+    }
+  ]
+}
