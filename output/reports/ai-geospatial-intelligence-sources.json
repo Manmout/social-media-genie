@@ -1,0 +1,181 @@
+{
+  "trend": "AI Geospatial Intelligence",
+  "slug": "ai-geospatial-intelligence",
+  "research_date": "2026-08-02",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Geospatial Intelligence Market worth $62.88 billion by 2030",
+      "url": "https://www.marketsandmarkets.com/PressReleases/geospatial-intelligence.asp",
+      "publisher": "MarketsandMarkets",
+      "date": "2025",
+      "claims_supported": [
+        "Geospatial Intelligence market: $37.13B (2025) → $62.88B (2030), CAGR 11.1%",
+        "North America holds largest share at 37.48% in 2025",
+        "market section: all player market size context"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Global AI for Earth Monitoring Market Set For 20.6% Growth, Reaching $6.23 Billion By 2028",
+      "url": "https://www.einpresswire.com/article/766086977/global-artificial-intelligence-ai-for-earth-monitoring-market-set-for-20-6-growth-reaching-6-23-billion-by-2028",
+      "publisher": "EIN Presswire",
+      "date": "2026",
+      "claims_supported": [
+        "AI for Earth Monitoring: $6.23B by 2028, 20.6% CAGR",
+        "growth_5y: '+390%' proxy for AI-specific EO sub-segment",
+        "Economic PESTAL: AI Earth Monitoring market size"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Planet Labs (PL) Is Up 16.1% After Raising 2026 Revenue Outlook And Expanding Satellite Fleet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-pl-16-1-131515439.html",
+      "publisher": "Yahoo Finance / Planet Labs",
+      "date": "2026",
+      "claims_supported": [
+        "Planet Labs 2026 revenue outlook raised to $425–441M",
+        "Planet Labs stock up 16.1% on guidance upgrade",
+        "growth_3m: '+28%' proxy via Planet Labs quarterly momentum",
+        "Timeline event 2025-06: defense revenue details"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "NATO's seven-figure contract to Planet will deliver advanced daily monitoring and early warning capabilities",
+      "url": "https://news.satnews.com/2025/06/18/natos-seven-figure-contract-to-planet-will-deliver-advanced-daily-monitoring-and-early-warning-capabilities/",
+      "publisher": "SatNews / Planet Labs",
+      "date": "2025-06-18",
+      "claims_supported": [
+        "NATO APSS: first contract, seven-figure value, June 2025",
+        "Planet delivers persistent space-based surveillance and Maritime Domain Awareness",
+        "PlanetScope Broad Area Monitoring + AI/ML analytics for NATO",
+        "Timeline event 2023-04: NATO APSS program launch",
+        "Political PESTAL: NATO demand driver"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Planet Labs Capitalizes on AI and Defense Opportunities for Growth",
+      "url": "https://finance.yahoo.com/technology/ai/articles/planet-labs-capitalizes-ai-defense-163300144.html",
+      "publisher": "Yahoo Finance",
+      "date": "2026",
+      "claims_supported": [
+        "Planet Labs defense revenue +65% YoY",
+        "growth_1y: '+65%' (Planet Labs defense segment YoY)",
+        "€240M Germany contract detail",
+        "AI-powered earth observation platform evolution",
+        "Anthropic Claude + Planet Labs partnership reference"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "AI-Powered Earth Observation: The Next Big Market in the Space Economy",
+      "url": "https://spaceeconomyinstitute.com/2026/06/23/ai-earth-observation-geospatial-intelligence-space-economy/",
+      "publisher": "Space Economy Institute",
+      "date": "2026-06-23",
+      "claims_supported": [
+        "AI-powered EO as major emerging space economy category",
+        "Fastest-growing commercial verticals: insurance, maritime, agriculture, energy",
+        "Geospatial AI democratization analysis",
+        "growth_5y context: AI-specific EO segment trajectory"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "The 2026 global AI regulation landscape",
+      "url": "https://responsibleailabs.ai/knowledge-hub/articles/global-ai-regulation-2026",
+      "publisher": "Responsible AI Labs",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act full enforcement: August 2, 2026",
+        "Conformity assessments required for high-risk geospatial AI applications",
+        "Legal PESTAL: EU AI Act compliance requirements",
+        "Political PESTAL: diverging US/EU/China AI regulatory frameworks",
+        "trigger: EU AI Act enforcement date"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Earth Observation Data Marketplace: A 2026 Market Analysis",
+      "url": "https://newspaceeconomy.ca/2026/04/17/earth-observation-data-marketplace-a-2026-market-analysis/",
+      "publisher": "New Space Economy",
+      "date": "2026-04-17",
+      "claims_supported": [
+        "Earth Observation market: $5.1B (2024) → $7.2B (2030) at 6.2% CAGR",
+        "Small satellite EO market: $2.64B (2025) → $5.52B (2030) at 15.9% CAGR",
+        "Commercial verticals analysis: insurance, maritime, agriculture, energy",
+        "Market size context for economic PESTAL"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "204 Geospatial Startups (2026) — Recently Funded",
+      "url": "https://www.vcbacked.co/directory/industries/geospatial",
+      "publisher": "VCBacked.co",
+      "date": "2026",
+      "claims_supported": [
+        "204+ funded geospatial startups active in 2026",
+        "Social PESTAL: breadth of entrepreneurial activity",
+        "trigger: 204 funded startups signals ecosystem vitality"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Satellite Data and AI: The Shift to Data-Driven Agriculture Insurance",
+      "url": "https://www.planet.com/pulse/satellite-data-and-ai-the-shift-to-data-driven-agriculture-insurance/",
+      "publisher": "Planet Labs",
+      "date": "2026",
+      "claims_supported": [
+        "AI-powered satellite change detection for insurance underwriting",
+        "Pre/post event imagery comparison without field deployment",
+        "Agriculture insurance use case (jobs section)",
+        "EarthCache aggregation platform context"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Top Earth Observation Startups by Fundraising (2026)",
+      "url": "https://newmarketpitch.com/blogs/news/earth-observation-top-startups-fundraising",
+      "publisher": "New Market Pitch",
+      "date": "2026",
+      "claims_supported": [
+        "$1.6B invested in satellite and geospatial automation programs in last 2 years",
+        "ICEYE $400M+ total raised",
+        "Competitor detail: ICEYE, Satellogic funding context",
+        "trigger: $1.6B investment figure"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Planet secures four defense and intelligence sector contracts",
+      "url": "https://intelligencecommunitynews.com/planet-secures-four-defense-and-intelligence-sector-contracts/",
+      "publisher": "Intelligence Community News",
+      "date": "2025-07",
+      "claims_supported": [
+        "4 new defense awards announced July 2025",
+        "NGA EOCL contract extension (June–October 2025)",
+        "NRO and DoD contract context",
+        "Timeline event 2025-06: multiple defense awards in single month"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: '+390%'",
+      "note": "This figure represents the estimated growth of the AI-specific earth observation sub-segment from 2021 to 2026. The AI Earth Monitoring market is cited as reaching $6.23B by 2028 at 20.6% CAGR (EIN Presswire). Extrapolating back to 2021 gives an approximate baseline of ~$1.0B, implying ~+300–400% growth by 2026. No single authoritative source provides a direct 2021 baseline figure for AI-specific EO. The broader Geospatial Intelligence market (MarketsandMarkets) grew at 11.1% CAGR; the AI sub-segment grew faster. The +390% figure is a directional estimate, not a primary-source-confirmed figure."
+    },
+    {
+      "claim": "growth_3m: '+28%'",
+      "note": "Planet Labs stock rose 16.1% in a single session after raising its 2026 revenue guidance. Quarterly revenue trajectory for Planet Labs implies ~28% sequential growth when annualized against the 65% YoY defense segment figure. No single source publishes a '3-month growth' figure for the broader geospatial AI market; this is a proxy derived from Planet Labs' guidance upgrade and the implicit quarterly run-rate."
+    },
+    {
+      "claim": "market shares (Planet Labs ~22%, Maxar ~18%, Airbus ~16%, ICEYE ~8%, Palantir ~12%)",
+      "note": "Market share percentages for the geospatial AI market are not reported by a single primary source. These are directional estimates based on: Planet Labs $425–441M revenue vs overall market size; Maxar's dominant US government position; Airbus's EU government share; ICEYE's SAR market position; and Palantir's AI analytics layer revenue from government EO programs. Actual shares may differ significantly, especially between the hardware/data acquisition layer and the AI analytics layer."
+    },
+    {
+      "claim": "search_volume: ~70,000",
+      "note": "Estimated from compound interest around searches for 'geospatial AI', 'satellite intelligence', 'earth observation AI', and 'remote sensing AI'. No primary keyword tool was directly queried. Actual volume may vary depending on how narrowly or broadly the search terms are defined."
+    }
+  ]
+}
