@@ -1,0 +1,114 @@
+{
+  "trend": "AI Video Editing Tools",
+  "slug": "ai-video-editing-tools",
+  "researched": "2026-08-03",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Meticulous Research",
+      "title": "AI Video Generation & Editing Software Market — Global Opportunity Analysis and Industry Forecast (2026–2036)",
+      "url": "https://www.meticulousresearch.com/product/ai-video-generation-and-editing-software-market-forecast-6359",
+      "claims": [
+        "Market size: $3.67 billion in 2026",
+        "Forecast: $24.89 billion by 2036 at 21.4% CAGR",
+        "Fastest-growing segment: enterprise AI video editing at 36.2% CAGR"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "TechCrunch",
+      "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "claims": [
+        "Runway $315M Series E closed February 10, 2026",
+        "Valuation: $5.3 billion",
+        "Lead investor: General Atlantic",
+        "Other investors: NVIDIA, Fidelity, Adobe Ventures, AMD Ventures",
+        "$300M annualized revenue by October 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Pictory / AI Video Statistics",
+      "title": "AI Video Statistics 2026: 50+ Numbers Every Marketer Needs",
+      "url": "https://pictory.ai/blog/ai-video-statistics-2026",
+      "claims": [
+        "124 million monthly active users across AI video platforms (January 2026)",
+        "Video production costs down 97% since 2020 — from $1,500/project to under $15",
+        "61% of freelance content creators use AI video tools at least weekly"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Tellers.ai",
+      "title": "AI Video Compliance: EU AI Act Kicks In August 2026",
+      "url": "https://tellers.ai/blog/ai_video_eu_ai_act_compliance_august_2026_2026-04-27.mdx/",
+      "claims": [
+        "EU AI Act Article 50 enforced 2 August 2026: AI-generated video must carry machine-readable disclosure",
+        "Article 52 mandates both visible and metadata-based markings on AI-generated content",
+        "Article 53 requires providers to publish training data summaries (copyright opt-outs, sources)",
+        "Penalties: up to €15 million or 3% of global annual turnover"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Skillademia",
+      "title": "Video Editing Statistics 2026: $4.7B Market, AI Tools & Salary Data",
+      "url": "https://www.skillademia.com/statistics/video-editing-statistics",
+      "claims": [
+        "Adobe Premiere Pro: 35% professional market share (42% among professional video editors)",
+        "AI-powered video editing tools growing at 42% CAGR toward $9.3 billion by 2030",
+        "SMBs under 50 employees represent 46% of AI video platform sign-ups"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Morphed",
+      "title": "AI Video Generation Statistics 2026: Market Size & Adoption",
+      "url": "https://morphed.app/stats/ai-video-generation-statistics",
+      "claims": [
+        "AI video generation volume grew 840% between January 2024 and January 2026",
+        "Teams combining AI and human editing produce up to 11x more video per month without headcount growth"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Medium / Natalie David",
+      "title": "CapCut in Late 2025: The AI Powerhouse That Survived the Ban Scare",
+      "url": "https://medium.com/@natalie.david382/capcut-in-late-2025-the-ai-powerhouse-that-survived-the-ban-scare-917b3fd97c33",
+      "claims": [
+        "CapCut: 300 million monthly active users (December 2025)",
+        "1B+ total downloads globally",
+        "CapCut briefly banned from US app stores January 19, 2025; reinstated via 75-day executive extension January 20, 2025",
+        "AI-based features used by 500M+ users (auto-captions, background removal, AI effects)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "New Market Pitch",
+      "title": "AI Creative Tools Funding Trends (2026)",
+      "url": "https://newmarketpitch.com/blogs/news/ai-creative-tools-funding-trends",
+      "claims": [
+        "Global AI video startup funding: $3.08B in 2025, up 94.6% from $1.58B in 2024",
+        "In 2026, $843M raised across 13 disclosed deals through early July",
+        "Top 5 deals account for 83.2% of all capital raised — highly concentrated market",
+        "Series D+ rounds alone account for 71.2% of 2026 capital",
+        "Luma AI and Runway together raised approximately $1.96B"
+      ],
+      "verified": true
+    }
+  ],
+  "notes": [
+    "Market share percentages (Adobe 35%, CapCut 27%, Runway 14%, Descript 8%, others 16%) are synthesized from multiple analyst sources and competitive analyses — treat as estimates, not audited figures.",
+    "Descript $55M ARR figure is from late 2024 (Sacra/Tracxn); 2026 figure unavailable publicly.",
+    "growth_5y (+1,200%) is an estimate for the AI-native video editing segment emergence (2021→2026); the traditional video editing software market grew at a lower rate. Mark as [unverified] if cited independently.",
+    "All EU AI Act details cross-referenced with official EU digital strategy page: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
+  ]
+}

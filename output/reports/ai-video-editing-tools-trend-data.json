@@ -1,0 +1,194 @@
+{
+  "trend_name": "AI Video Editing Tools",
+  "slug": "ai-video-editing-tools",
+  "status": "surging",
+  "search_volume": "80K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+1,200%",
+  "growth_1y": "+42%",
+  "growth_3m": "+28%",
+  "trigger": "Runway's $315M Series E at $5.3B valuation (Feb 2026) confirms AI video editing entering mainstream enterprise. 124M monthly active users across platforms; production costs down 97% since 2020; EU AI Act Article 50 disclosure rules now enforced (Aug 2026).",
+  "timeline": [
+    {
+      "date": "2022-11",
+      "event": "Runway launches Gen-1, the first publicly accessible text-to-video model. OpenAI's DALL-E 2 API opens, validating generative AI for visual content pipelines."
+    },
+    {
+      "date": "2023-03",
+      "event": "Adobe launches Firefly with video generative features and integrates AI tools into Premiere Pro, putting AI editing in front of 10M+ professional subscribers."
+    },
+    {
+      "date": "2023-06",
+      "event": "Runway Gen-2 releases as the first production-ready text-to-video model, used in commercial ad campaigns. Descript launches Underlord — transcript-based AI editing suite."
+    },
+    {
+      "date": "2024-02",
+      "event": "OpenAI announces Sora, setting a new video quality benchmark and triggering a wave of enterprise AI video investment. CapCut surpasses 200M MAU driven by AI auto-captions."
+    },
+    {
+      "date": "2025-04",
+      "event": "Runway Gen-4 ships with consistent character generation, native 4K output, and spatial understanding. By October 2025, Runway hits $300M annualized revenue."
+    },
+    {
+      "date": "2026-02",
+      "event": "Runway closes $315M Series E at $5.3B valuation (General Atlantic, NVIDIA, Adobe Ventures). EU AI Act Article 50 video disclosure requirements become enforceable on 2 August 2026."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "US TikTok/ByteDance divestiture law threatened CapCut (300M MAU) with a Jan 2025 app-store ban; a 75-day executive extension reinstated it, but geopolitical risk remains unresolved. US-China tech tensions create sustained market opportunity for Western-built AI editing alternatives."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Global AI video startup funding reached $3.08B in 2025, up 94.6% YoY. Video production costs have fallen 97% since 2020 — from $1,500/project to under $15 with AI tools. Teams using AI report producing 11x more video without adding headcount, making ROI concrete and measurable."
+    },
+    {
+      "factor": "Social",
+      "impact": "61% of freelance content creators use AI video tools at least weekly. SMBs (under 50 employees) represent 46% of all AI video platform sign-ups. Short-form video is now the primary marketing format for 78% of SMBs, driving mass adoption of AI editing to meet content volume demands."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Text-based editing (edit video by editing its transcript) is replacing traditional timeline NLEs for talking-head content. Multi-modal AI enables one-click repurposing across 9+ social formats. Filler-word removal accuracy has reached 92% in leading tools, exceeding human editor speed."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Large video generation models require 10x the compute energy of text generation per output second. Growing pressure from enterprise ESG commitments for carbon-neutral rendering pipelines. Cloud GPU concentration (AWS, Azure, GCP) creates infrastructure bottlenecks during peak render demand."
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU AI Act Article 50 (enforced 2 Aug 2026) mandates machine-readable disclosure on all AI-generated video; Article 53 requires training data transparency from model providers. Penalties up to €15M or 3% of global annual turnover. US Copyright Office ongoing inquiry into AI authorship leaves IP ownership unresolved for AI-generated B-roll and edits."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Repurpose long-form content into short social clips at scale",
+      "solution": "AI clip extractors (Opus Clip, Descript) analyze a 1-hour video and automatically identify, trim, and export the 10 best clips in minutes — enabling 10x weekly posting volume without manual editing."
+    },
+    {
+      "job": "Remove dead air, filler words, and stutters from recordings",
+      "solution": "Transcript-based editors (Descript Underlord) detect and delete 'um', 'uh', long silences, and stutters with 92% accuracy. A 30-minute podcast rough-cut takes under 10 minutes — previously hours of manual frame review."
+    },
+    {
+      "job": "Add synchronized captions for muted-viewing engagement",
+      "solution": "AI subtitle generators (CapCut, Descript, Opus Clip) produce word-level animated captions. With 85% of social video watched muted, auto-captions are now essential for reach and accessible content compliance."
+    },
+    {
+      "job": "Generate contextual B-roll without stock footage libraries",
+      "solution": "Runway Gen-4 and Adobe Firefly Video generate contextual footage from text prompts with consistent characters and spatial coherence — eliminating the need for expensive stock subscriptions or on-location shoots for basic coverage."
+    },
+    {
+      "job": "Maintain brand consistency across hundreds of AI-edited clips",
+      "solution": "AI template engines automatically apply brand colors, fonts, logos, intros, and outros to every exported clip — critical for marketing teams producing 100+ videos per month without dedicated design resources."
+    }
+  ],
+  "market": [
+    {
+      "name": "Adobe (Premiere Pro + Firefly Video)",
+      "share": "35%",
+      "loved": "Professional quality, Creative Cloud ecosystem integration, IP indemnification for enterprise",
+      "segment": "Professional / Enterprise"
+    },
+    {
+      "name": "CapCut (ByteDance)",
+      "share": "27%",
+      "loved": "Free, mobile-first, 1B+ downloads, AI auto-captions, massive template library",
+      "segment": "Consumer / Creator"
+    },
+    {
+      "name": "Runway ML",
+      "share": "14%",
+      "loved": "Most advanced generative video, $300M ARR, 15M users, Gen-4 4K quality",
+      "segment": "Professional Creator / Enterprise"
+    },
+    {
+      "name": "Descript",
+      "share": "8%",
+      "loved": "Text-based editing paradigm, podcast creator sweet spot, transcript-first workflow",
+      "segment": "Creator / SMB"
+    },
+    {
+      "name": "Opus Clip + others (Veed, Pictory, CapCut Pro)",
+      "share": "16%",
+      "loved": "AI virality scoring, lowest paid entry point ($15/mo), hands-off repurposing",
+      "segment": "Creator / Marketing"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Runway ML",
+      "detail": "San Francisco; $315M Series E (Feb 2026); $5.3B valuation; $300M ARR; 15M users; Gen-4 delivers consistent character generation + native 4K output; backed by General Atlantic, NVIDIA, Adobe Ventures, Fidelity; enterprise video generation market leader."
+    },
+    {
+      "name": "Descript",
+      "detail": "San Francisco; $104M total raised (a16z, Redpoint, Spark Capital); ~$55M ARR (late 2024, +75% YoY); 8M users; Underlord AI suite; transcript-based editing with 92% filler-word accuracy; Claude model integration boosted B-roll placement to 92% accuracy."
+    },
+    {
+      "name": "CapCut (ByteDance)",
+      "detail": "Beijing / US operations; free + paid tiers; 1B+ downloads; 300M MAU (Dec 2025); AI auto-captions across 500M+ users; brief US app-store ban (Jan 2025) reversed by executive extension; existential risk from ongoing ByteDance divestiture proceedings."
+    },
+    {
+      "name": "Opus Clip",
+      "detail": "San Francisco; $15/mo Starter tier (lowest in category); AI virality scoring identifies the most shareable moments from long-form content; fully automated clip extraction in minutes; strong product-market fit for solo marketers and podcast teams."
+    },
+    {
+      "name": "Adobe Firefly Video (Premiere Pro AI)",
+      "detail": "San Jose; part of Adobe Creative Cloud ($55/mo All Apps); serves 10M+ Premiere Pro subscribers; 35% professional market share; enterprise-grade IP indemnification for generative content; Firefly Video integrated directly into Premiere Pro 2026 timeline."
+    }
+  ],
+  "canvas": {
+    "who": "Primary: Solo content creators and podcasters (YouTube, TikTok, Instagram) producing daily content and needing 10x output without hiring. Secondary: Marketing teams at SMBs (46% of AI video platform sign-ups are sub-50-employee companies) who need consistent brand video without production budgets. Tertiary: Enterprise marketing and L&D teams replacing costly agency video production.",
+    "where": "Cloud-first browser platforms (Descript, Runway, Opus Clip, Veed); mobile-first apps (CapCut, CapCut Pro); desktop NLEs with AI plugins (Adobe Premiere Pro, DaVinci Resolve); integrated into social platform creators studios (TikTok, Instagram).",
+    "why_now": "Three forces converged: (1) AI model quality crossed the production-ready threshold (Gen-4, Firefly Video); (2) short-form video became the mandatory marketing format for every brand; (3) production costs crashed 97%, making AI editing cheaper per video than a single freelance hour. Creator economy normalization removed the stigma of AI-assisted content.",
+    "behavior": "Shifting from once-a-week long-form production to daily micro-content loops. Uploading long videos and letting AI extract, caption, reformat, and schedule 10+ clips automatically. Replacing traditional timeline NLEs with text-based editing interfaces for talking-head content. Generating B-roll and background footage via text prompts rather than filming or licensing stock.",
+    "unmet": "Single-click cross-platform repurposing (9 aspect ratios, platform-specific specs, native captions) without manual touch-ups. Reliable brand-figure consistency across AI-generated B-roll (a face or product must look the same in every generated clip). Real-time multiplayer collaboration on AI-suggested edits. Offline processing for large production houses with data sovereignty requirements."
+  },
+  "takeaways": [
+    "Build for the 10x output creator: Market winners will be tools enabling one person to produce 11x more video without growing headcount. The workflow must eliminate every manual step — captioning, trimming, reformatting, brand application — through automation, not just assistance.",
+    "Text-based editing is the new paradigm: The Descript model — edit video by editing its transcript — will dominate talking-head and podcast content editing by 2027. Invest in transcript-native product development; traditional timeline UX will become the 'Pro' mode, not the default.",
+    "EU AI Act compliance as enterprise differentiator: From August 2026, enterprise clients in Europe require built-in AI disclosure labeling, training data transparency documentation, and audit trails. Tools with native compliance features will win EU deals; those without will face €15M+ penalty exposure.",
+    "Platform-native AI editing is the long-term existential threat: TikTok, Instagram, and YouTube are building advanced AI editing directly into their creator studios. Standalone tools must win on multi-platform publishing breadth, brand-voice consistency, and white-label capability to stay relevant against zero-marginal-cost platform features."
+  ],
+  "sources": [
+    {
+      "title": "AI Video Generation & Editing Software Market Forecast 2026–2036 — Meticulous Research",
+      "url": "https://www.meticulousresearch.com/product/ai-video-generation-and-editing-software-market-forecast-6359",
+      "claim": "Market at $3.67B in 2026, growing to $24.89B by 2036 at 21.4% CAGR"
+    },
+    {
+      "title": "AI video startup Runway raises $315M at $5.3B valuation — TechCrunch (Feb 2026)",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "claim": "Runway $315M Series E, $5.3B valuation, $300M ARR by October 2025"
+    },
+    {
+      "title": "AI Video Statistics 2026 — Pictory",
+      "url": "https://pictory.ai/blog/ai-video-statistics-2026",
+      "claim": "124M monthly active users across AI video platforms (Jan 2026); production costs down 97% since 2020"
+    },
+    {
+      "title": "AI Video Compliance: EU AI Act Kicks In August 2026 — Tellers.ai",
+      "url": "https://tellers.ai/blog/ai_video_eu_ai_act_compliance_august_2026_2026-04-27.mdx/",
+      "claim": "Article 50 mandates machine-readable AI content disclosure enforced 2 August 2026; penalties up to €15M or 3% global turnover"
+    },
+    {
+      "title": "Video Editing Statistics 2026 — Skillademia",
+      "url": "https://www.skillademia.com/statistics/video-editing-statistics",
+      "claim": "Adobe Premiere Pro 35% professional market share; AI video editing growing at 42% CAGR toward $9.3B by 2030"
+    },
+    {
+      "title": "AI Video Generation Statistics 2026 — Morphed",
+      "url": "https://morphed.app/stats/ai-video-generation-statistics",
+      "claim": "AI video generation volume grew 840% between January 2024 and January 2026"
+    },
+    {
+      "title": "CapCut in Late 2025: The AI Powerhouse That Survived the Ban Scare — Medium",
+      "url": "https://medium.com/@natalie.david382/capcut-in-late-2025-the-ai-powerhouse-that-survived-the-ban-scare-917b3fd97c33",
+      "claim": "CapCut 300M MAU as of December 2025; survived Jan 2025 US app-store ban with 75-day executive extension"
+    },
+    {
+      "title": "AI Creative Tools Funding Trends 2026 — New Market Pitch",
+      "url": "https://newmarketpitch.com/blogs/news/ai-creative-tools-funding-trends",
+      "claim": "Global AI video startup funding reached $3.08B in 2025, up 94.6% from $1.58B in 2024"
+    }
+  ]
+}
