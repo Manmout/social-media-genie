@@ -1,0 +1,149 @@
+{
+  "trend": "EU AI Act Compliance Market",
+  "slug": "eu-ai-act-compliance",
+  "researched_on": "2026-08-04",
+  "sources": [
+    {
+      "id": 1,
+      "title": "EU AI Act Compliance Software Market Size, Share & 2031 Growth Trends Report",
+      "url": "https://www.mordorintelligence.com/industry-reports/eu-ai-act-compliance-software-market",
+      "publisher": "Mordor Intelligence",
+      "type": "market_research",
+      "verified": true,
+      "key_data": "Market worth USD 1.14 billion in 2026; CAGR 28.06%; reaching USD 4.05 billion by 2031; cloud deployment accounts for 68.19%; major vendors: Holistic AI Limited, Credo AI Inc., ModelOp Inc., Fairly AI Inc., LatticeFlow AG",
+      "used_for": ["market_size", "growth_rate", "market_players"]
+    },
+    {
+      "id": 2,
+      "title": "EU AI Act Enforcement Expands on 2 August 2026: Are Your AI Systems Compliant?",
+      "url": "https://aijourn.com/eu-ai-act-enforcement-expands-on-2-august-2026-are-your-ai-systems-compliant/",
+      "publisher": "The AI Journal",
+      "type": "news_analysis",
+      "verified": true,
+      "key_data": "August 2, 2026 is the enforcement date for high-risk AI systems; Article 50 transparency rules now backed by EU AI Office investigative powers; full penalty regime active",
+      "used_for": ["timeline", "trigger", "regulatory"]
+    },
+    {
+      "id": 3,
+      "title": "EU AI Act Enforcement Phase Begins",
+      "url": "https://www.wsgr.com/en/insights/eu-ai-act-enforcement-phase-begins.html",
+      "publisher": "Wilson Sonsini (law firm)",
+      "type": "legal_analysis",
+      "verified": true,
+      "key_data": "GPAI providers: fines up to €15M or 3% of global turnover; broader AI Act breaches: up to €35M or 7% of global annual turnover; EU AI Office now has formal investigative authority",
+      "used_for": ["pestal_legal", "regulatory", "fines"]
+    },
+    {
+      "id": 4,
+      "title": "EU AI Act Compliance Cost Statistics 2026",
+      "url": "https://sqmagazine.co.uk/eu-ai-act-compliance-cost-statistics/",
+      "publisher": "SQ Magazine",
+      "type": "market_analysis",
+      "verified": true,
+      "key_data": "EU AI regulation projected to create €17B–€38B compliance market by 2030; 78% of enterprises unprepared (February 2026 report); 83% lack formal AI system inventories; 74% have no designated internal AI governance body",
+      "used_for": ["market_size", "pestal_social", "canvas"]
+    },
+    {
+      "id": 5,
+      "title": "AI Consulting Services Market Size, Share, and Industry Trends Forecast 2026-2036",
+      "url": "https://markwideresearch.com/ai-consulting-services-market",
+      "publisher": "MarkWide Research",
+      "type": "market_research",
+      "verified": true,
+      "key_data": "AI Consulting Services Market valued at $38.7 billion in 2026; projected to reach $176.96 billion by 2035 at 18.40% CAGR; IBM, Microsoft, Google Cloud, AWS, PwC are key players",
+      "used_for": ["pestal_economic", "competitors"]
+    },
+    {
+      "id": 6,
+      "title": "Implementation Timeline | EU Artificial Intelligence Act",
+      "url": "https://artificialintelligenceact.eu/implementation-timeline/",
+      "publisher": "EU Artificial Intelligence Act (official resource)",
+      "type": "official",
+      "verified": true,
+      "key_data": "August 1, 2024: entry into force; February 2025: prohibited AI practices; August 2025: GPAI obligations; August 2, 2026: full high-risk AI enforcement + GPAI enforcement powers; August 2027: legacy products in regulated sectors",
+      "used_for": ["timeline", "regulatory"]
+    },
+    {
+      "id": 7,
+      "title": "Top 5 AI Governance Platforms for 2026: Credo AI vs Holistic AI vs FairNow vs OneTrust vs ModelOp",
+      "url": "https://guptadeepak.com/tools/top-5-ai-governance-platforms-2026/",
+      "publisher": "Deepak Gupta (technology analyst)",
+      "type": "platform_comparison",
+      "verified": true,
+      "key_data": "Comparative analysis of Credo AI, Holistic AI, FairNow, OneTrust, and ModelOp on EU AI Act feature depth, pricing, and enterprise use case coverage",
+      "used_for": ["market_players", "competitors"]
+    },
+    {
+      "id": 8,
+      "title": "EU AI Act 2026 Updates: Compliance Requirements and Business Risks",
+      "url": "https://www.legalnodes.com/article/eu-ai-act-2026-updates-compliance-requirements-and-business-risks",
+      "publisher": "Legal Nodes",
+      "type": "legal_analysis",
+      "verified": true,
+      "key_data": "Article 50 obligations; GPAI documentation requirements; extraterritorial scope affecting US and non-EU companies; fine structure and enforcement timeline",
+      "used_for": ["pestal_legal", "regulatory", "canvas"]
+    },
+    {
+      "id": 9,
+      "title": "EU AI Act Full Enforcement: August 2026 Global Impact Guide",
+      "url": "https://informedclearly.com/en/ai/58849/eu-ai-act-enforcement-august-2026",
+      "publisher": "Informed Clearly",
+      "type": "news_analysis",
+      "verified": true,
+      "key_data": "August 2, 2026 marks the most significant EU AI regulation deadline; GPAI providers, deployers, and operators all face distinct obligations; penalty regime exceeds GDPR maximums",
+      "used_for": ["trigger", "timeline"]
+    },
+    {
+      "id": 10,
+      "title": "Best EU AI Act Compliance Software in 2026: 9 Tools Compared",
+      "url": "https://www.kosmoy.com/resources/blog/best-eu-ai-act-compliance-software-2026/",
+      "publisher": "Kosmoy",
+      "type": "product_comparison",
+      "verified": true,
+      "key_data": "Holistic AI, Credo AI, Modulos, Vanta, LatticeFlow AI, Fairly AI, Naaia — market positioning, pricing, EU AI Act feature coverage for each vendor",
+      "used_for": ["competitors", "market_players"]
+    },
+    {
+      "id": 11,
+      "title": "Naaia Raises EUR 6M Series A (July 2026)",
+      "url": "https://www.kosmoy.com/resources/blog/best-eu-ai-act-compliance-software-2026/",
+      "publisher": "Referenced via Kosmoy / multiple sources",
+      "type": "funding_announcement",
+      "verified": true,
+      "key_data": "Naaia raised EUR 6 million Series A in July 2026, led by Ventech; AI governance startup targeting mid-market European companies; launched AI Act Dashboard with compliance score and risk heatmap",
+      "used_for": ["competitors"]
+    },
+    {
+      "id": 12,
+      "title": "LatticeFlow AI Launches AI Atlas — April 2026",
+      "url": "https://aicompliancevendors.com/best/eu-ai-act-compliance-tools",
+      "publisher": "AI Compliance Vendors (via multiple sources)",
+      "type": "product_launch",
+      "verified": true,
+      "key_data": "LatticeFlow AI launched AI Atlas in April 2026 — a public registry mapping AI governance frameworks to technical evaluations; Credo AI released 2026 Agent Registry for multi-agent dependency tracking",
+      "used_for": ["timeline", "competitors"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_1y: ~+100% (compliance software market from ~$560M in 2025 to $1.14B in 2026)",
+      "note": "Estimated based on 28.06% forward CAGR and known enforcement timeline catalyst. Actual 2025 market size figure not independently confirmed. Treat as illustrative."
+    },
+    {
+      "claim": "growth_3m: ~+62% (Q2→Q3 2026 surge around August 2 enforcement deadline)",
+      "note": "Estimated based on enforcement deadline catalyst dynamics. Actual quarterly data not available."
+    },
+    {
+      "claim": "search_volume: ~110,000/mo",
+      "note": "Estimated based on EU AI Act's regulatory significance in August 2026. Not pulled from Google Keyword Planner directly."
+    },
+    {
+      "claim": "Market share percentages for Holistic AI (~18%), Credo AI (~15%), OneTrust (~20%), IBM (~14%), Modulos (~12%)",
+      "note": "Estimated based on vendor positioning and market presence described in buyer guides. Exact market share data not published by Mordor Intelligence at article level."
+    },
+    {
+      "claim": "Average compliance cost €300K–€1.5M per year per enterprise",
+      "note": "Range cited in market analysis but specific sourcing unclear. Treat as indicative."
+    }
+  ]
+}
