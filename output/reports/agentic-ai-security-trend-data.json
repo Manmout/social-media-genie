@@ -1,0 +1,163 @@
+{
+  "trend_name": "Agentic AI Security",
+  "status": "surging",
+  "search_volume": "60K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "∞",
+  "growth_1y": "+33%",
+  "growth_3m": "+41%",
+  "trigger": "Aug 3 2026: Zenity raises $125M Series C backed by SoftBank, Hitachi & LG to 'secure the era of 1 billion AI agents.' CrowdStrike launches Agentic SOC (Mar 2026). With AI agents now outnumbering humans 45:1 in enterprise environments and prompt injection succeeding in 86% of audited workflows, securing autonomous agents has become the defining security challenge of the AI era.",
+  "timeline": [
+    {
+      "date": "May 2023",
+      "event": "OWASP launches the Generative AI Security Project — first industry framework for LLM risks. Identifies prompt injection as the #1 threat. ChatGPT Plugins ship, letting AI take real-world actions; researchers immediately demonstrate data-theft via injected instructions."
+    },
+    {
+      "date": "2024 Q1",
+      "event": "AI prompt security market reaches $1.51B. Critical CVEs disclosed in Microsoft Copilot (CVSS 9.3), GitHub Copilot (CVSS 9.6), and Cursor IDE (CVSS 9.8) prove AI agents are exploitable in production. NIST adds AI-specific guidance to its Risk Management Framework."
+    },
+    {
+      "date": "Aug 2024",
+      "event": "EU AI Act enacted — first legal framework imposing auditability and transparency requirements on high-risk autonomous AI systems. Art. 9 and Art. 25 directly implicate agentic AI taking consequential decisions without human review."
+    },
+    {
+      "date": "Feb 2026",
+      "event": "NIST launches AI Agent Standards Initiative — first US government framework specifically addressing AI agent governance. OWASP names prompt injection LLM01:2025, highest-priority vulnerability in its updated Top 10, as 53% of companies now rely on RAG and agentic pipelines."
+    },
+    {
+      "date": "Mar 2026",
+      "event": "Consolidation accelerates: SentinelOne acquires Prompt Security; Cato Networks acquires Aim Security; Check Point acquires Lakera. CrowdStrike launches Agentic MDR and SOC Transformation Services. EU AI Act high-risk enforcement window opens."
+    },
+    {
+      "date": "Aug 3, 2026",
+      "event": "Zenity closes $125M Series C led by Norwest — SoftBank Vision Fund 2, Hitachi Ventures, and LG Technology Ventures join. Total funding reaches $185M. The round is the largest single investment in AI agent governance, validating the category is crossing from early adopter to mainstream enterprise."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "NIST AI Agent Standards Initiative (Feb 2026) — first US government guidance specifically addressing AI agent governance. EU AI Act enforcement for high-risk AI systems began August 2026, requiring auditability of autonomous agent actions. US FedRAMP is developing an AI agent addendum for federal procurement, creating compliance pressure across the defense supply chain."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Agentic AI security market valued at $1.9B in 2026, projected to reach $52.3B by 2035 at a 44.5% CAGR (Globe Market Research). Information security spending hits $244.2B in 2026 as agentic AI outpaces defenses 8 to 1. Zenity's $125M Series C (Aug 2026) is the largest single funding event in the AI agent security category."
+    },
+    {
+      "factor": "Social",
+      "impact": "Non-human identities (AI agents, bots, service accounts) now outnumber human enterprise users 45:1 — in cloud-native environments the ratio reaches 144:1. 73% of enterprises are using or developing agentic AI, but only 34% have deployed AI-specific security controls. Shadow AI agents — agents deployed by employees outside of IT knowledge — represent the largest unseen attack surface in the modern enterprise."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Prompt injection succeeds in up to 86% of agent workflows in the 2025 WASP security benchmark. AI agents now autonomously read emails, approve transactions, modify configurations, and access customer databases — expanding the blast radius of a single attack from embarrassing to catastrophic. Multi-agent systems add a new attack vector: a compromised agent can poison instructions passed to downstream agents."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Continuous observability of AI agent activity requires purpose-built monitoring infrastructure running alongside production agent workloads — adding to the energy footprint of already power-intensive AI deployments. Vendors are exploring lightweight, on-device inference for security classifiers to reduce compute overhead. [unverified quantification on energy impact]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU AI Act Art. 9 (high-risk AI systems) and Art. 25 (general-purpose AI with systemic risk) directly apply to autonomous AI agents. GDPR Art. 22 creates liability for AI agents making decisions about individuals without human review. In the US, SEC guidance on AI model risk management (Feb 2026) requires financial institutions to document and audit autonomous AI decision-making processes."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Discover and inventory every AI agent running in our environment — including shadow agents employees deployed without IT approval",
+      "solution": "AI Agent Discovery platforms (Zenity, Astrix Security, Entro Security) that continuously scan Microsoft 365, Salesforce, ServiceNow, and low-code environments (Power Platform, Copilot Studio) to surface every agent, its data access scopes, and its creator."
+    },
+    {
+      "job": "Prevent AI agents from being manipulated via prompt injection into leaking data or taking unauthorized actions",
+      "solution": "Runtime prompt injection defense and real-time behavioral monitoring (Lakera/Check Point, Prompt Security/SentinelOne, Mindgard) that intercept malicious instructions before agents execute them — the agentic equivalent of a next-gen firewall."
+    },
+    {
+      "job": "Apply least-privilege access to AI agents without breaking the workflows they were built to automate",
+      "solution": "Non-Human Identity (NHI) governance platforms (Oasis Security, Entro Security, CyberArk Conjur) that manage AI agent credentials, API tokens, and OAuth scopes throughout their lifecycle — provisioning, rotation, and deprovisioning — with zero-standing privilege enforcement."
+    },
+    {
+      "job": "Generate a tamper-proof audit trail of every AI agent decision for EU AI Act, GDPR, and SOX compliance",
+      "solution": "Agentic AI observability and forensics platforms that log every agent action, tool call, and data access in immutable, structured logs. Compliance teams can reconstruct any agent decision pathway for regulators — without relying on the AI model to explain itself."
+    },
+    {
+      "job": "Continuously red-team our AI agent stack before attackers discover the vulnerabilities first",
+      "solution": "AI-native adversarial testing platforms (Mindgard, Garak, HiddenLayer) that automatically probe deployed AI agents for jailbreaks, data exfiltration paths, privilege escalation vectors, and model inversion attacks — shifting agent security left into the CI/CD pipeline."
+    }
+  ],
+  "market": [
+    {
+      "name": "CrowdStrike",
+      "share": "~22%",
+      "loved": "Agentic MDR (Mar 2026) extends Falcon to govern AI agents in SOC workflows; $5.25B ARR; largest installed base for deployment through existing Falcon customers",
+      "segment": "Enterprise Agentic SOC"
+    },
+    {
+      "name": "Microsoft",
+      "share": "~19%",
+      "loved": "Azure AI Content Safety + Microsoft Purview cover Copilot and Azure AI deployments; default choice for the 400M+ Microsoft 365 enterprise seats already running AI agents",
+      "segment": "Copilot & Azure AI Governance"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "share": "~15%",
+      "loved": "Prisma AIRS (AI Runtime Security) detects threats in model responses and training pipelines; integrates with Cortex XSIAM for cross-platform visibility",
+      "segment": "AI Runtime Security"
+    },
+    {
+      "name": "Zenity",
+      "share": "~13%",
+      "loved": "Pure-play category leader; recognized in Gartner AI TRiSM reports; $185M total funding; covers Microsoft, Salesforce, ServiceNow with shadow-agent discovery",
+      "segment": "AI Agent Governance"
+    },
+    {
+      "name": "SentinelOne (Prompt Security)",
+      "share": "~9%",
+      "loved": "Prompt Security acquisition (Mar 2026) brings NLP-native prompt injection defense; integrated into Purple AI platform; strong in mid-market; $750M ARR growing 43% YoY",
+      "segment": "Prompt Injection Defense"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Zenity",
+      "detail": "Category-defining AI agent governance platform; $125M Series C (Aug 3, 2026), $185M total funding; backed by SoftBank, Hitachi, LG, Norwest. Discovers shadow AI agents across Microsoft Power Platform, Copilot Studio, Salesforce, and ServiceNow. Recognized in multiple Gartner AI TRiSM reports. First mover in AI agent identity lifecycle management."
+    },
+    {
+      "name": "Lakera (Check Point)",
+      "detail": "Prompt injection defense specialist acquired by Check Point in 2026. Gandalf API provides real-time LLM output filtering and guardrails. Deployed by 60,000+ developers pre-acquisition. Check Point integration brings enterprise reach to Lakera's model-agnostic approach — covers OpenAI, Anthropic, Google, and self-hosted models."
+    },
+    {
+      "name": "Prompt Security (SentinelOne)",
+      "detail": "NLP-based prompt injection and jailbreak detection acquired by SentinelOne in March 2026. Real-time monitoring of AI chatbot and agent interactions across 50+ LLM providers. Integration into SentinelOne Purple AI platform gives it immediate access to SentinelOne's 11,000+ enterprise customers."
+    },
+    {
+      "name": "Palo Alto Networks Prisma AIRS",
+      "detail": "AI Runtime Security platform launched in 2025; detects threats in model responses, training pipelines, and deployment infrastructure. Scans for prompt injection, model poisoning, sensitive data exposure, and supply chain risks in AI components. Tight Cortex XSIAM integration makes it the default for Palo Alto's 80,000+ customers modernizing their SOC."
+    },
+    {
+      "name": "Mindgard",
+      "detail": "Continuous AI red-teaming and adversarial testing platform. Model-agnostic: tests LLMs, vision models, and code models for jailbreaks, data extraction, and privilege escalation. Unique shift-left approach integrates into CI/CD pipelines so AI agent vulnerabilities are caught before production. Growing adoption in regulated financial services and defense sectors."
+    }
+  ],
+  "canvas": {
+    "who": "CISOs and security architects at enterprises deploying Microsoft Copilot, Salesforce Agentforce, or ServiceNow AI agents; GRC and compliance officers facing EU AI Act exposure in regulated industries (finance, healthcare, defense); DevSecOps teams tasked with securing AI in CI/CD pipelines; IAM teams inheriting AI agent credentials and API token sprawl without existing tooling",
+    "where": "North America (75%+ of current revenue — US enterprises leading Copilot and Agentforce adoption); Western Europe (EU AI Act compliance urgency driving procurement); UK and India (strong enterprise AI adoption markets); predominantly cloud-first enterprises with 1,000+ employees and active Microsoft 365 or Salesforce deployments",
+    "why_now": "Microsoft 365 Copilot is now deployed across 400M+ seats (2026). Salesforce Agentforce deployment doubled in H1 2026. The average enterprise has 157 AI agents deployed but knows about only 23 — the rest are shadow AI agents invisible to security teams. EU AI Act high-risk enforcement arrived August 2026, creating immediate legal exposure for undocumented agent actions. Zenity's $125M raise (Aug 3, 2026) signals the category is at the early majority inflection point.",
+    "behavior": "Security teams are extending existing identity governance frameworks to treat AI agents as non-human identities requiring the same controls as privileged human accounts. Procurement of agentic AI security is increasingly bundled with AI adoption projects rather than treated as a standalone security tool. Red-teaming of AI agents before production deployment is becoming standard practice in regulated industries — shifting security left into the development lifecycle.",
+    "unmet": "Standardized AI agent identity taxonomy — no industry consensus on how to classify, register, or govern AI agent identities across different vendor platforms (Microsoft, Salesforce, ServiceNow speak different identity languages). Real-time behavioral baselining for agents — vendors are still building the AI equivalent of User and Entity Behavior Analytics (UEBA) for non-human actors. Cross-platform visibility — enterprises run 5+ AI platforms but security tools remain siloed per vendor, leaving gaps between platforms where attacks propagate undetected."
+  },
+  "takeaways": [
+    "AI agent governance is the next wave of identity security — treat every deployed agent as a non-human privileged identity requiring access controls, audit trails, and least-privilege policies. Identity governance vendors (CyberArk, SailPoint, Saviynt) that add NHI-and-agent support in 2026 will capture budget earmarked for both IAM renewals and new AI security investments simultaneously.",
+    "Shadow AI agent discovery is the fastest enterprise entry wedge — most organizations deploying Copilot and Agentforce don't know how many AI agents are active or what data they can access. Any product that answers 'what agents do we have and what can they touch?' in 30 minutes earns the trust needed for the deeper governance and runtime protection sale.",
+    "The consolidation window is closing — three major acquisitions (Prompt Security → SentinelOne, Aim Security → Cato, Lakera → Check Point) happened in a single quarter. Pure-play startups that haven't achieved significant enterprise traction by end of 2027 will be acquired or displaced. Founders should be building their exit thesis now; buyers should be moving before multiples reprice post-Zenity round.",
+    "Regulated industries pay premium for compliance-ready agent security — financial services (DORA, SEC AI risk guidance), healthcare (HIPAA + FDA autonomous AI guidance), and defense (FedRAMP AI addendum) will pay 2-3x market rate for agent security platforms with compliance reporting baked in. These reference customers unlock the broader enterprise market 12-18 months faster than a bottom-up land-and-expand motion."
+  ],
+  "sources": [
+    "https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents",
+    "https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/",
+    "https://www.marketsandmarkets.com/Market-Reports/agentic-ai-security-market-97017233.html",
+    "https://www.marketsandmarkets.com/Market-Reports/ai-security-operations-center-soc-market-198062608.html",
+    "https://www.globemarketresearch.com/reports/agentic-ai-security-market",
+    "https://www.grandviewresearch.com/industry-analysis/agentic-ai-cybersecurity-market-report",
+    "https://softwarestrategiesblog.com/2026/03/24/information-security-spending-2026/",
+    "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+    "https://market.us/report/agentic-ai-in-cybersecurity-market/",
+    "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/"
+  ]
+}

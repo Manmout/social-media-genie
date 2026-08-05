@@ -1,0 +1,186 @@
+{
+  "trend": "Agentic AI Security",
+  "slug": "agentic-ai-security",
+  "research_date": "2026-08-05",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260803963850/en/Zenity-Raises-$125-Million-to-Secure-the-Era-of-1-Billion-AI-Agents",
+      "title": "Zenity Raises $125 Million to Secure the Era of 1 Billion AI Agents",
+      "date": "2026-08-03",
+      "claims_sourced": [
+        "Zenity Series C round size: $125M led by Norwest",
+        "Investors: SoftBank Vision Fund 2, Hitachi Ventures, LG Technology Ventures, Qumra Capital",
+        "Total Zenity funding post-round: ~$185M",
+        "Market framing: 'securing the era of 1 billion AI agents'"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/08/03/israeli-startup-zenity-bags-125m-funding-build-security-layer-ai-agents/",
+      "title": "Israeli startup Zenity bags $125M funding to build the security layer for AI agents",
+      "date": "2026-08-03",
+      "claims_sourced": [
+        "Zenity is the 'recognized vendor in AI agent governance' per Gartner",
+        "Zenity covers Microsoft, Salesforce, ServiceNow ecosystems",
+        "Round led by Norwest; Intel Capital, Vertex Ventures are existing investors"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/agentic-ai-security-market-97017233.html",
+      "title": "Agentic AI Security Market Report 2026-2032",
+      "date": "2026",
+      "claims_sourced": [
+        "Agentic AI security market size: $1.65B in 2026",
+        "Projected market size: $13.52B by 2032",
+        "CAGR: 42.0% from 2026 to 2032",
+        "Category breakdown: identity governance, runtime protection, enterprise suites"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-security-operations-center-soc-market-198062608.html",
+      "title": "AI Security Operations Center (SOC) Market Report 2026-2031",
+      "date": "2026",
+      "claims_sourced": [
+        "AI SOC market size: $18.10B in 2026",
+        "Projected: $47.07B by 2031",
+        "AI SOC CAGR: 21.1%",
+        "Leading players: Microsoft, Cisco"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Globe Market Research",
+      "url": "https://www.globemarketresearch.com/reports/agentic-ai-security-market",
+      "title": "Agentic AI Security Market Size to hit USD 52.3 Billion by 2035 | CAGR of 44.5%",
+      "date": "2026",
+      "claims_sourced": [
+        "Agentic AI security market valued at $1.9B in 2026",
+        "Projected to reach $52.3B by 2035",
+        "CAGR: 44.5%",
+        "Growth_1y: $1.83B (2025) → $2.43B (2026) = +33% (Mordor Intelligence cross-reference)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/agentic-ai-cybersecurity-market-report",
+      "title": "Agentic AI in Cybersecurity Market Size & Share Report, 2033",
+      "date": "2026",
+      "claims_sourced": [
+        "Broader agentic AI in cybersecurity market: $22.56B in 2024",
+        "Projected: $322.39B by 2033",
+        "CAGR: 34.4% from 2025 to 2033"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Software Strategies Blog",
+      "url": "https://softwarestrategiesblog.com/2026/03/24/information-security-spending-2026/",
+      "title": "Information Security Spending 2026 Hits $244.2B As Agentic AI Outpaces Defenses 8 to 1",
+      "date": "2026-03-24",
+      "claims_sourced": [
+        "Global information security spending 2026: $244.2B",
+        "Agentic AI threat growth outpaces enterprise defenses 8 to 1"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "OWASP Gen AI Security Project",
+      "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+      "title": "LLM01:2025 Prompt Injection — OWASP Top 10 for LLM Applications",
+      "date": "2025",
+      "claims_sourced": [
+        "Prompt injection ranked #1 highest-priority vulnerability in OWASP LLM Top 10 (2025 edition)",
+        "53% of companies rely on RAG and agentic pipelines",
+        "OWASP GenAI Security Project launched May 2023"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Market.us",
+      "url": "https://market.us/report/agentic-ai-in-cybersecurity-market/",
+      "title": "Agentic AI in Cybersecurity Market Size | CAGR of 36.4%",
+      "date": "2026",
+      "claims_sourced": [
+        "Agentic AI in cybersecurity CAGR: 36.4%",
+        "Telecommunications (48%) and financial services (47%) are leading sectors deploying AI security agents",
+        "73% of enterprises are using or developing agentic AI in cybersecurity"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/08/03/softbank-hitachi-lg-back-zenitys-125-million-round-to-police-ai-agents/",
+      "title": "SoftBank, Hitachi, LG back Zenity's $125 million round to police AI agents",
+      "date": "2026-08-03",
+      "claims_sourced": [
+        "Zenity $125M Series C investor list confirmed: SoftBank Vision Fund 2, Hitachi Ventures, LG Technology Ventures",
+        "Framing: 'police AI agents' — agent governance is the operative use case",
+        "Category described as crossing from niche to mainstream enterprise"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "AppSentinels / NeuralTrust",
+      "url": "https://neuraltrust.ai/blog/agentic-ai-security-solutions-guide",
+      "title": "11 Best Agentic AI Security Solutions for Enterprise in 2026",
+      "date": "2026",
+      "claims_sourced": [
+        "Non-human identities outnumber human users 45:1 in enterprise environments",
+        "In cloud-native environments: ratio reaches 144:1",
+        "Only 34% of enterprises have deployed AI-specific security controls",
+        "Shadow AI agents represent major unseen attack surface"
+      ],
+      "verified": true,
+      "notes": "Specific ratio figures are frequently cited across multiple security research sources; treat as directionally accurate."
+    },
+    {
+      "id": 12,
+      "publisher": "WASP Benchmark / Atlan",
+      "url": "https://atlan.com/know/prompt-injection-attacks-ai-agents/",
+      "title": "How Prompt Injection Attacks Compromise AI Agents in 2026",
+      "date": "2026",
+      "claims_sourced": [
+        "Prompt injection partially succeeded in up to 86% of agent workflows in 2025 WASP benchmark",
+        "Critical CVEs in GitHub Copilot (CVSS 9.6) and Cursor IDE (CVSS 9.8) demonstrate active exploitation",
+        "Prompt injection now appears in 73% of production AI deployments assessed during security audits"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "The average enterprise has 157 AI agents deployed but knows about only 23",
+      "status": "[unverified — widely cited in vendor marketing; no primary research source confirmed]",
+      "action": "Replace with Zenity customer data or remove before publication"
+    },
+    {
+      "claim": "growth_3m: '+41%' for Q2 2026",
+      "status": "[estimated — derived from 44.5% annual CAGR compounded quarterly plus observed category acceleration signals]",
+      "action": "Confirm with a quarterly market data point before publication; use '+CAGR-implied' as fallback label"
+    },
+    {
+      "claim": "Energy/environmental overhead of continuous AI agent monitoring",
+      "status": "[unverified — no quantified data found; flagged in PESTAL as unverified]",
+      "action": "Remove quantification or find a primary data source"
+    }
+  ],
+  "research_notes": "Trend selected because: (1) Zenity $125M Series C closed August 3, 2026 — 2 days before this report; (2) market at 42-44.5% CAGR makes it the fastest-growing subsegment of cybersecurity; (3) distinct from existing 'ai-cybersecurity-trend-data.json' which covers using AI for defense — this covers securing AI agents themselves; (4) EU AI Act enforcement timing (Aug 2026) creates immediate compliance urgency. Topic not covered in existing report library."
+}
