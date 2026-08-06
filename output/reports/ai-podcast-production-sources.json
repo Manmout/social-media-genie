@@ -1,0 +1,165 @@
+{
+  "trend": "AI Podcast Production",
+  "slug": "ai-podcast-production",
+  "research_date": "2026-08-06",
+  "sources": [
+    {
+      "id": "S1",
+      "publisher": "Research and Markets",
+      "title": "AI-Generated Podcast Host Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226555/ai-generated-podcast-host-market-report",
+      "key_claim": "AI-Generated Podcast Host market valued at $2.04B in 2026, growing at 30.1% CAGR to $5.81B by 2030",
+      "data_points": ["market_size_2026", "cagr_5y", "market_size_2030"],
+      "verified": true
+    },
+    {
+      "id": "S2",
+      "publisher": "The Business Research Company / GlobeNewswire",
+      "title": "$4.48 Bn AI Generated Podcast Host Global Markets, 2019–2024, 2025–2029F, 2034F",
+      "url": "https://www.globenewswire.com/news-release/2026/01/08/3215127/0/en/4-48-Bn-Artificial-Intelligence-AI-Generated-Podcast-Host-Global-Markets-2019-2024-2025-2029F-2034F.html",
+      "key_claim": "Market grew from $1.57B in 2025 to $2.04B in 2026 (30.1% CAGR); projects $4.48B by 2029",
+      "data_points": ["market_size_2025", "market_size_2026", "growth_1y"],
+      "verified": true
+    },
+    {
+      "id": "S3",
+      "publisher": "Market.us",
+      "title": "AI in Podcasting Market Size, Share — CAGR of 28.3%",
+      "url": "https://market.us/report/ai-in-podcasting-market/",
+      "key_claim": "Broader AI-in-podcasting market growing at 28.3% CAGR; includes tools across recording, editing, and distribution",
+      "data_points": ["market_cagr", "market_segments"],
+      "verified": true
+    },
+    {
+      "id": "S4",
+      "publisher": "TechCrunch",
+      "title": "Google's NotebookLM expands its AI podcast feature to more languages",
+      "url": "https://techcrunch.com/2025/04/29/googles-notebooklm-expands-its-ai-podcast-feature-to-more-languages/",
+      "key_claim": "NotebookLM Audio Overviews expanded to 76 new languages in April 2025; 350+ years of audio generated",
+      "data_points": ["notebooklm_languages", "notebooklm_audio_volume", "timeline_2025"],
+      "verified": true
+    },
+    {
+      "id": "S5",
+      "publisher": "Forbes",
+      "title": "AI Audio Could Take Over Radio, Podcasts And Audiobooks",
+      "url": "https://www.forbes.com/sites/frankracioppi/2026/07/22/is-ai-taking-over-audio---radio-podcasting-audiobooks/",
+      "key_claim": "AI audio is reshaping radio, podcasting, and audiobooks; 34% of new podcasts use AI tools in 2026",
+      "data_points": ["ai_adoption_rate", "industry_disruption"],
+      "verified": true
+    },
+    {
+      "id": "S6",
+      "publisher": "TechCrunch",
+      "title": "AI-powered media editing app Descript lands fresh cash from OpenAI",
+      "url": "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript-lands-fresh-cash-from-openai/",
+      "key_claim": "Descript raised $50M Series C led by OpenAI at $550M valuation in November 2022",
+      "data_points": ["descript_valuation", "descript_funding", "timeline_2022"],
+      "verified": true
+    },
+    {
+      "id": "S7",
+      "publisher": "TechCrunch",
+      "title": "Andrew Mason's Descript snags $15M, acquires Lyrebird for AI voice cloning",
+      "url": "https://techcrunch.com/2019/09/18/descript-audio/",
+      "key_claim": "Descript acquired Lyrebird in September 2019, launching Overdub — the first commercial voice cloning for podcasters",
+      "data_points": ["timeline_2019", "overdub_launch"],
+      "verified": true
+    },
+    {
+      "id": "S8",
+      "publisher": "Soundverse AI",
+      "title": "EU AI Act and Voice Cloning Regulations Explained",
+      "url": "https://www.soundverse.ai/blog/article/eu-ai-act-and-voice-cloning-regulations-explained-1055",
+      "key_claim": "EU AI Act Article 50 requires disclosure of AI-synthesized audio effective August 2026; covers voice cloning and generated dialogue",
+      "data_points": ["eu_ai_act_date", "disclosure_requirements", "penalty_amounts"],
+      "verified": true
+    },
+    {
+      "id": "S9",
+      "publisher": "Production Expert",
+      "title": "New EU AI Law Starts: What Audio Pros Need to Know",
+      "url": "https://www.production-expert.com/production-expert-1/new-eu-ai-law-starts-monday-what-audio-pros-need-to-know",
+      "key_claim": "EU AI Act disclosure rules in force from August 2, 2026; applies to AI-generated and AI-manipulated audio content",
+      "data_points": ["eu_ai_act_enforcement_date", "audio_scope"],
+      "verified": true
+    },
+    {
+      "id": "S10",
+      "publisher": "Precedence Research",
+      "title": "Podcasting Market Size to Hit USD 115.57 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/podcasting-market",
+      "key_claim": "Podcasting market grows from $62.06B in 2026 at 25%+ CAGR; 619M monthly global listeners in 2026",
+      "data_points": ["podcast_market_2026", "listener_count_global", "growth_trajectory"],
+      "verified": true
+    },
+    {
+      "id": "S11",
+      "publisher": "eMarketer",
+      "title": "Google's NotebookLM Plus could redefine AI podcast creation for enterprises",
+      "url": "https://www.emarketer.com/content/google-s-notebooklm-plus-could-redefine-ai-podcast-creation-enterprises",
+      "key_claim": "NotebookLM Plus enterprise tier at $20/user/month positions Google to capture corporate AI podcast market",
+      "data_points": ["notebooklm_pricing", "enterprise_adoption"],
+      "verified": true
+    },
+    {
+      "id": "S12",
+      "publisher": "Digital Music News",
+      "title": "This Audio Startup Churns Out 3,000 AI Podcasts A Week",
+      "url": "https://www.digitalmusicnews.com/2025/12/14/audio-startup-podcast-ai-churn/",
+      "key_claim": "Individual audio AI startups are producing 3,000+ AI-generated podcast episodes per week as of December 2025",
+      "data_points": ["ai_podcast_volume", "production_scale"],
+      "verified": true
+    },
+    {
+      "id": "S13",
+      "publisher": "Riverside.fm Blog",
+      "title": "Podcast Statistics 2026 — Number of Listeners & Viewership",
+      "url": "https://riverside.com/blog/podcast-statistics",
+      "key_claim": "619M global monthly listeners in 2026; 58% of Americans 12+ listen monthly; podcast ad spend $4.7B in 2026; 72% episode completion rate",
+      "data_points": ["listener_count_global", "us_listenership", "ad_spend", "completion_rate"],
+      "verified": true
+    },
+    {
+      "id": "S14",
+      "publisher": "Tracxn / Crunchbase",
+      "title": "Podcastle — 2026 Company Profile, Team, Funding & Competitors",
+      "url": "https://tracxn.com/d/companies/podcastle/__rmwuFA77gopScAOU3FnKS-0__J9ndijWWlntcG3d97s",
+      "key_claim": "Podcastle raised $22.2M total across 3 rounds; Series A closed February 2024; 10 investors",
+      "data_points": ["podcastle_funding", "podcastle_investors"],
+      "verified": true
+    },
+    {
+      "id": "S15",
+      "publisher": "Growth List",
+      "title": "Audio Startups 2026: 143 Recently Funded Companies in Podcasting, Music Tech & Spatial Audio",
+      "url": "https://growthlist.co/audio-startups/",
+      "key_claim": "143 audio AI startups received funding in 2025–2026; major rounds include ElevenLabs $180M, Riverside $30M",
+      "data_points": ["startup_funding_count", "elevenlabs_funding", "riverside_funding"],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_3m: +7% (estimated from 30.1% annual CAGR; no specific Q2 2026 quarterly data found)",
+      "confidence": "medium",
+      "note": "Derived mathematically from annual CAGR; quarterly growth can vary significantly"
+    },
+    {
+      "claim": "growth_5y: +1,200% (estimated for AI-specific podcast tools segment from near-zero in 2021 to $2B+ in 2026)",
+      "confidence": "medium",
+      "note": "AI-specific podcast production tools barely existed as a category in 2021; figure is an estimate of total category growth, not one sourced from a single report"
+    },
+    {
+      "claim": "Descript ~20% market share, Riverside ~15%, Adobe Podcast ~13%, NotebookLM ~10%",
+      "confidence": "low",
+      "note": "No authoritative market share breakdowns by company found for the AI podcast production tools segment; shares are estimates based on funding, user reports, and tool-ranking articles"
+    },
+    {
+      "claim": "Per-episode cost drop from $1,500–3,000 to under $50 with AI tools",
+      "confidence": "medium",
+      "note": "Directionally supported by multiple creator economy sources and tool pricing, but specific figures are author estimates"
+    }
+  ],
+  "research_notes": "Topic selected because not covered in existing hemle.blog reports; confirmed via full audit of 100+ existing slugs. AI Podcast Production is a distinct category from: ai-voice-agents (enterprise/customer service focus), ai-creator-tools (broader generalist), ai-video-editing-tools (video focus). The topic captures an independently surging vertical with its own market reports, regulatory events (EU AI Act Aug 2026), and investment cycles. Primary data gap: no publicly available market share breakdown by individual tool; shares estimated from proxy indicators (funding, user count, tool-ranking sites)."
+}
