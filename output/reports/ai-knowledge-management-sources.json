@@ -1,0 +1,126 @@
+{
+  "slug": "ai-knowledge-management",
+  "trend_name": "AI Knowledge Management",
+  "research_date": "2026-08-07",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune Business Insights",
+      "url": "https://www.fortunebusinessinsights.com/knowledge-management-software-market-110376",
+      "claim": "Knowledge Management Software Market projected at $26.4B in 2026",
+      "data_point": "market_size_2026",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Glean Press Release",
+      "url": "https://www.glean.com/press/glean-raises-150m-series-f-at-7-2b-valuation-to-accelerate-enterprise-ai-agent-innovation-globally",
+      "claim": "Glean raises $150M Series F at $7.2B valuation (June 2025); total funding ~$770M since founding",
+      "data_point": "competitor_funding_glean",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/10/glean-gen-ai-search-startup-raises-150-million-at-7-billion-value.html",
+      "claim": "Glean enterprise AI search startup raises $150M at over $7 billion valuation",
+      "data_point": "competitor_funding_glean_corroboration",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Getlatka",
+      "url": "https://getlatka.com/companies/notion",
+      "claim": "Notion ARR hit $600M in 2025 at $11B valuation; 50%+ of revenue from AI-enabled customers by year-end 2025",
+      "data_point": "competitor_funding_notion",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Microsoft — Microsoft 365 Blog",
+      "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/02/sharepoint-at-25-how-microsoft-is-putting-knowledge-to-work-in-the-ai-era/",
+      "claim": "SharePoint serves 1B+ users per year; 2M SharePoint sites created daily; foundational to M365 Copilot knowledge agents",
+      "data_point": "market_player_microsoft",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Copilot Experts",
+      "url": "https://copilot-experts.com/microsoft-copilot-statistics/",
+      "claim": "Microsoft 365 Copilot: 30M paid enterprise seats in 2026; active AI agents in M365 ecosystem grew 15–18x year-over-year",
+      "data_point": "market_player_microsoft_seats",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Enterprise Knowledge",
+      "url": "https://enterprise-knowledge.com/top-knowledge-management-trends-2026/",
+      "claim": "2026 KM trends: AI shifts knowledge management from back-office operational function to strategic AI infrastructure; 66% of organizations reported significant productivity gains from enterprise AI",
+      "data_point": "market_trends_2026",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Secure Privacy",
+      "url": "https://secureprivacy.ai/blog/eu-ai-act-2026-compliance",
+      "claim": "EU AI Act: majority of provisions enforceable August 2, 2026; penalties up to €35M or 7% of global annual turnover for prohibited practices",
+      "data_point": "pestal_legal_regulatory",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "New Market Pitch",
+      "url": "https://newmarketpitch.com/blogs/news/ai-knowledge-and-search-funding-analysis",
+      "claim": "AI Knowledge & Search sector: $2.38B in 26 disclosed deals across 18 unique companies (August 2024–July 2026)",
+      "data_point": "sector_funding_total",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "1up.ai",
+      "url": "https://1up.ai/blog/state-of-ai-knowledge-management-report",
+      "claim": "State of AI KM 2026: AI knowledge management widely adopted but rarely mature; most organizations experimenting or operating at limited scale",
+      "data_point": "market_maturity_adoption",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "GoSearch",
+      "url": "https://www.gosearch.ai/faqs/enterprise-ai-knowledge-management-guide-2026/",
+      "claim": "Employees waste 1.8 hours daily searching for information; 60% of work time spent on 'work about work' activities",
+      "data_point": "jtbd_productivity_waste",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Straits Research",
+      "url": "https://straitsresearch.com/report/knowledge-management-software-market",
+      "claim": "Knowledge Management Software Market size projected at $15.92B in 2026 (Straits Research estimate)",
+      "data_point": "market_size_corroboration",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/knowledge-management-software-market",
+      "claim": "KM Software Market expected to reach $16.22B in 2026 growing to $37.64B by 2031",
+      "data_point": "market_size_mordor",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "publisher": "Foley & Lardner",
+      "url": "https://www.foley.com/insights/publications/2026/07/compliance-and-enforcement-in-global-ai-regulation-eu-ai-act-risks-and-international-regulatory-challenges/",
+      "claim": "Global AI regulation compliance: jurisdictional overlap (EU AI Act, US state laws, US federal) creates complex compliance requirements for enterprise AI systems",
+      "data_point": "pestal_legal_detail",
+      "verified": true
+    }
+  ],
+  "notes": {
+    "growth_5y_note": "growth_5y (+350%) refers to the AI-driven Knowledge Management subsegment, estimated from ~$2.5B in 2021 to $11.24B in 2026. The broader KM software market (all vendors) grew approximately +75% over the same period. The AI-specific CAGR is sourced from Research and Markets / Straits Research analytics; exact 2021 baseline is an estimate.",
+    "growth_1y_note": "growth_1y (+46%) is sourced from the AI-driven KM segment: $7.71B (2025) to $11.24B (2026) at a 46.2% CAGR, per market research synthesis.",
+    "growth_3m_note": "growth_3m (+14%) is an estimated figure based on EU AI Act enforcement deadline momentum and enterprise procurement acceleration in Q2–Q3 2026. No single published source confirmed this exact 3-month figure.",
+    "market_share_note": "Market share percentages are estimates synthesized from multiple analyst reports. Big Tech (Microsoft + Google) holds approximately 60%+ combined. Individual vendor shares for Atlassian, Notion, and Glean are derived from ARR comparisons and analyst commentary, not official reported market share data.",
+    "search_volume_note": "130,000 estimated combined monthly searches across 'knowledge management software', 'AI knowledge management', 'enterprise knowledge management', and 'second brain app' keyword clusters (US + global, August 2026 estimate)."
+  }
+}

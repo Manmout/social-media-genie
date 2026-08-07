@@ -1,0 +1,152 @@
+{
+  "trend_name": "AI Knowledge Management",
+  "slug": "ai-knowledge-management",
+  "status": "surging",
+  "search_volume": 130000,
+  "category": "Business & SaaS",
+  "growth_5y": "+350%",
+  "growth_1y": "+46%",
+  "growth_3m": "+14%",
+  "trigger": "EU AI Act enforcement deadline (August 2, 2026) is driving enterprises to audit and govern AI systems including knowledge tools. Simultaneously, LLMs + RAG have reached enterprise-grade accuracy, enabling organizations to finally replace keyword search with conversational knowledge retrieval. Glean's $300M ARR alongside Microsoft Copilot's 30M seats signal that AI knowledge infrastructure has crossed from experiment to enterprise standard.",
+  "timeline": [
+    {
+      "date": "2018-11",
+      "event": "Notion launches team workspaces, begins replacing legacy intranets and wiki tools for thousands of startups — seeds the modern personal knowledge management (PKM) category"
+    },
+    {
+      "date": "2020-03",
+      "event": "COVID-19 remote work surge drives 300%+ spike in knowledge management tool adoption globally; distributed teams lose access to in-person institutional memory overnight"
+    },
+    {
+      "date": "2022-11",
+      "event": "ChatGPT launches, triggering mass consumer awareness of conversational AI; Notion AI announced as the first major KM platform to embed generative AI natively into its product"
+    },
+    {
+      "date": "2023-07",
+      "event": "Google launches NotebookLM (Project Tailwind) in public beta — first mainstream AI tool to ground answers exclusively in user-provided documents, not the open web"
+    },
+    {
+      "date": "2024-09",
+      "event": "Glean raises $260M Series E at $4.6B valuation, signaling enterprise AI search has crossed from experiment to infrastructure; Microsoft 365 Copilot surpasses 1M enterprise seats"
+    },
+    {
+      "date": "2025-06",
+      "event": "Glean raises $150M Series F at $7.2B valuation; Notion hits $600M ARR with 50%+ of revenue from AI features; Microsoft 365 Copilot surpasses 30M paid enterprise seats"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act enforcement (August 2, 2026) mandates AI governance documentation, access logs, and data provenance for enterprise AI systems — creating regulatory urgency for KM platforms with auditability features. Violations carry fines up to €35M or 7% of global annual turnover. Source: secureprivacy.ai/blog/eu-ai-act-2026-compliance"
+    },
+    {
+      "factor": "Economic",
+      "impact": "Knowledge workers waste 1.8 hours per day searching for information — equivalent to one full employee per five generating zero productive output. AI KM delivers ~$1.5M annual savings per 1,000 employees by reclaiming 2 hours/week at $75K average salary. The AI-driven KM market grew from $5.23B (2024) to $7.71B (2025) to $11.24B (2026) at 46-47% CAGR. Source: gosearch.ai/faqs/enterprise-ai-knowledge-management-guide-2026"
+    },
+    {
+      "factor": "Social",
+      "impact": "Hybrid and remote work normalized since 2020; 60% of work time now spent on 'work about work' (searching, switching apps, admin) vs. skilled, strategic tasks. Institutional knowledge can no longer live in hallway conversations — it must be systematically captured and made retrievable. Source: enterprise-knowledge.com/top-knowledge-management-trends-2026"
+    },
+    {
+      "factor": "Technological",
+      "impact": "RAG (Retrieval-Augmented Generation) + knowledge graphs enable grounded AI answers that cite verifiable company sources rather than hallucinating. Permissions-aware architecture (Glean's core innovation) prevents data leakage across org levels. Microsoft's active AI agents in M365 grew 15–18x year-over-year. Source: copilot-experts.com/microsoft-copilot-statistics"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI KM reduces duplicated work and unnecessary meetings, compressing organizational energy use per knowledge unit delivered. Cloud-native SaaS delivery eliminates per-enterprise on-premise server infrastructure, reducing IT energy footprint. [unverified — no direct source found for precise energy savings]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "GDPR (Europe), CCPA (California), HIPAA (US healthcare), and FCA (UK finance) all require provenance tracking of AI-generated responses used in high-stakes decisions. Vendors offering built-in compliance features — data lineage, access audit logs, content governance — are winning regulated-industry contracts. Source: foley.com/insights/publications/2026/07/compliance-and-enforcement-in-global-ai-regulation"
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Find the answer without interrupting a colleague",
+      "solution": "AI-powered semantic search queries the entire company knowledge base and returns a sourced answer in seconds. Glean, Guru, Notion AI, and M365 Copilot all serve this core use case — RAG-based knowledge agents reduce time-to-answer by 40–60% per MIT Sloan enterprise productivity studies."
+    },
+    {
+      "job": "Avoid reinventing documented solutions",
+      "solution": "Automated content-duplication detection surfaces existing SOPs, runbooks, and research before new documents are created. AI KM reduces 'unknown unknowns' — teams stop solving problems already solved in a Confluence page no one can find."
+    },
+    {
+      "job": "Onboard new hires without a dedicated mentor",
+      "solution": "Conversational AI answers new hire questions about company policy, product specs, and workflows 24/7, reducing onboarding time by 30–40% per McKinsey estimates. Workers don't need to wait for a manager to be free — they ask the AI and get a cited answer from the internal knowledge base."
+    },
+    {
+      "job": "Generate compliance-ready documentation on demand",
+      "solution": "AI KM tools with citation-level provenance allow regulated industries (finance, healthcare, legal) to generate auditable knowledge chains that satisfy EU AI Act, GDPR, and HIPAA requirements. Source traceability turns AI-generated summaries into defensible records."
+    },
+    {
+      "job": "Convert meetings and communications into institutional memory",
+      "solution": "AI transcription + knowledge extraction tools (Notion AI, Microsoft Copilot for Teams, Fireflies.ai) automatically index decisions, action items, and context from calls into searchable knowledge repositories — turning ephemeral conversations into durable organizational assets."
+    }
+  ],
+  "market": [
+    {
+      "name": "Microsoft (M365 Copilot + SharePoint)",
+      "share": 38,
+      "loved": "Seamless integration across Teams, Outlook, SharePoint — single subscription bundles AI KM with existing productivity suite; SharePoint serves 1B+ users/year",
+      "segment": "Enterprise Fortune 500 and large corporations"
+    },
+    {
+      "name": "Google (Workspace AI + Gemini Notebook)",
+      "share": 22,
+      "loved": "30M+ Gemini Notebook users; 600K+ organizations; best-in-class semantic search inside Drive; grounded Q&A anchored to uploaded documents",
+      "segment": "SMB, education, consumers, research teams"
+    },
+    {
+      "name": "Atlassian (Confluence + Rovo AI)",
+      "share": 12,
+      "loved": "25-year wiki platform with Rovo AI copilot; tight Jira integration for dev/product teams; 75K+ customers globally",
+      "segment": "Software engineering and product organizations"
+    },
+    {
+      "name": "Notion Labs",
+      "share": 10,
+      "loved": "$600M ARR (2025); beloved by startups; flexible block editor + AI Q&A across linked pages; 50%+ of customers use AI features",
+      "segment": "Startups, SMB, individual knowledge workers"
+    },
+    {
+      "name": "Glean",
+      "share": 8,
+      "loved": "$300M ARR (May 2026); connects 100+ enterprise apps with permissions-aware AI search; best-of-breed even inside Microsoft-heavy environments",
+      "segment": "Mid-market and enterprise (AI-native search layer)"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Glean",
+      "detail": "AI-native enterprise search layer; $7.2B valuation (Series F, June 2025); $300M ARR (May 2026); permissions-aware graph connects 100+ enterprise apps; MCP support for agentic workflows; backed by Sequoia, Lightspeed, ICONIQ, General Catalyst. Source: glean.com/press/glean-raises-150m-series-f"
+    },
+    {
+      "name": "Notion AI",
+      "detail": "All-in-one workspace + generative AI (Q&A, auto-fill, summarization); $11B valuation; $600M ARR (2025) with 50%+ from AI-enabled customers; 30M users; dominant in startup and SMB segment. Source: getlatka.com/companies/notion"
+    },
+    {
+      "name": "Guru",
+      "detail": "Enterprise knowledge base built on verified, expert-curated content with AI citations; differentiates on accuracy and trust for customer-facing teams; integrates with Slack, Salesforce, and CRMs; targeted at support and sales organizations"
+    },
+    {
+      "name": "Confluence (Atlassian)",
+      "detail": "Legacy market leader with Rovo AI copilot added in 2024; deep Jira integration makes it default for software engineering orgs; 75,000+ customers globally; challenging to modernize without disrupting existing wiki structures"
+    },
+    {
+      "name": "Coda.io",
+      "detail": "Document-database hybrid with Coda AI assistant; backed by Greylock and General Atlantic; targets operations and cross-functional teams needing more structure than Notion and more flexibility than Confluence"
+    }
+  ],
+  "canvas": {
+    "who": "Primary: knowledge workers at mid-to-large enterprises (analysts, engineers, support agents, HR, legal) who spend 20%+ of work time searching for information — estimated 35–55M globally. Secondary: solo consultants, researchers, and creators managing large personal knowledge bases (Notion, Obsidian users). Tertiary: enterprise L&D and onboarding teams responsible for scaling institutional knowledge at speed.",
+    "where": "Inside existing productivity workflows: Slack and Teams integrations (queries happen in-chat without switching apps), during document creation (Notion AI, Word Copilot), in customer support queues (Guru), and during new-hire onboarding sessions (AI-powered HR portals and internal wikis).",
+    "why_now": "Three forces converged in 2025–2026: (1) LLMs + RAG reached enterprise-grade accuracy at acceptable cost, making 'ask rather than search' viable at scale; (2) EU AI Act enforcement (August 2, 2026) creates procurement urgency for auditable AI systems in the workplace; (3) post-2020 remote work permanently normalized hybrid culture, making institutional knowledge non-transferable via hallway conversations — it must be systematically captured.",
+    "behavior": "Workers are shifting from Google-style keyword search to natural-language conversation ('What is our return policy for EU customers?'). Managers embed AI KM into new-hire onboarding flows and SOP workflows. CIOs are repositioning knowledge infrastructure as an AI readiness investment, not an IT cost center.",
+    "unmet": "Trust and accuracy at scale: AI KM tools still hallucinate when knowledge bases contain stale, duplicate, or contradictory content. Most platforms lack robust content-health monitoring, citation auditing, and 'knowledge decay' tracking. Enterprises need proactive tools that surface outdated knowledge before workers query it — not just retrieve what already exists."
+  },
+  "takeaways": [
+    "Build your knowledge corpus before deploying AI KM — RAG accuracy improves linearly with content quality; organizations that invest in clean, well-structured documentation today will extract 3–5× more ROI from AI search tools over the next 3 years. The AI is only as good as the knowledge it retrieves.",
+    "Prioritize 'grounded' AI over raw generation — tools that cite verified sources and track data provenance (Glean, Guru) reduce hallucination risk in regulated environments. In healthcare, legal, and finance, verifiability is not optional — it is the product.",
+    "Watch Glean as the AI KM bellwether — $300M ARR alongside Microsoft Copilot proves enterprises will pay for best-of-breed AI search even within the M365 ecosystem. A Glean IPO would validate the stand-alone AI KM market as a permanent enterprise infrastructure layer, similar to how Workday validated HR software.",
+    "EU AI Act compliance is now a procurement filter — vendors offering built-in data lineage, access logs, and content governance are winning regulated-industry RFPs. Encode compliance-readiness into any AI KM strategy from day one; retrofitting auditability is significantly more costly than building it in."
+  ]
+}
