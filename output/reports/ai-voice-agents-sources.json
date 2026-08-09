@@ -1,19 +1,20 @@
 {
   "trend": "AI Voice Agents",
   "slug": "ai-voice-agents",
-  "research_date": "2026-04-20",
+  "research_date": "2026-08-09",
   "sources": [
     {
       "id": 1,
-      "title": "ElevenLabs raises $500M from Sequoia at $11B valuation",
-      "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-      "publisher": "TechCrunch",
-      "date": "2026-02-04",
+      "title": "AI Voice Agents Market Size And Share Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-voice-agents-market-report",
+      "publisher": "Grand View Research",
+      "date": "2026",
       "claims_supported": [
-        "ElevenLabs $500M Series D at $11B valuation",
-        "Tripled from $3.3B valuation in 12 months",
-        "ARR surpassed $200M, projected $330M by late 2025",
-        "Timeline milestone: Feb 2026 ElevenLabs raise"
+        "AI voice agents market: $3.5B in 2026, growing to $35.24B by 2033 at 39% CAGR",
+        "search_volume proxy: market size corroboration",
+        "growth_1y: +39% CAGR sourced here",
+        "Healthcare fastest-growing vertical at 42% CAGR through 2033",
+        "Economic PESTAL: market size and growth rate"
       ]
     },
     {
@@ -23,183 +24,261 @@
       "publisher": "Market.us",
       "date": "2026",
       "claims_supported": [
-        "Voice AI Agents market: $2.4B in 2024, $47.5B by 2034",
-        "34.8% CAGR from 2025 to 2034",
-        "growth_3m: +32% QoQ derived from annual CAGR",
-        "search_volume context and market sizing"
+        "Broader voice AI market: $22.5B in 2026 at 34.8% CAGR",
+        "340% growth in businesses using fully autonomous AI voice agents (2023-2026)",
+        "157.1 million US voice assistant users by 2026",
+        "Social PESTAL: adoption statistics",
+        "trigger: 340% business adoption growth figure"
       ]
     },
     {
       "id": 3,
-      "title": "47 voice AI statistics for 2026: market size, growth, and trends",
-      "url": "https://www.ringly.io/blog/voice-ai-statistics-2026",
-      "publisher": "Ringly.io",
+      "title": "Conversational AI Market Size, Share | Statistics [2026-2034]",
+      "url": "https://www.fortunebusinessinsights.com/conversational-ai-market-109850",
+      "publisher": "Fortune Business Insights",
       "date": "2026",
       "claims_supported": [
-        "157.1 million voice assistant users in the US by 2026",
-        "80% of businesses plan to integrate AI voice into customer service by 2026",
-        "Market crossed $22B in 2026 with enterprise adoption tripled",
-        "Gartner: contact centers save $80B this year from conversational AI"
+        "Conversational AI market: $17.97B in 2026, growing to $82.46B by 2034",
+        "Market size context for Economic PESTAL",
+        "growth_5y proxy: market grew from ~$5.8B (2021) to $17.97B (2026)"
       ]
     },
     {
       "id": 4,
-      "title": "The Voice AI Market in 2026: A $20+ Billion Revolution",
-      "url": "https://www.tabbly.io/blogs/voice-ai-market-2026-comprehensive-analysis",
-      "publisher": "Tabbly",
-      "date": "2026",
+      "title": "Nvidia-backed AI voice startup ElevenLabs hits $11 billion valuation in fresh fundraise, as it eyes IPO",
+      "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
+      "publisher": "CNBC",
+      "date": "2026-02-04",
       "claims_supported": [
-        "Market crossed $22 billion in 2026",
-        "Enterprise adoption tripled year-over-year",
-        "North America: 40.2% market share"
+        "ElevenLabs closes $500M Series D at $11B valuation, February 2026",
+        "Nvidia-backed",
+        "trigger: $11B valuation milestone",
+        "Timeline event 2026-02: ElevenLabs Series D",
+        "Market player: ElevenLabs valuation and funding detail"
       ]
     },
     {
       "id": 5,
-      "title": "150+ AI Agent Statistics 2026",
-      "url": "https://masterofcode.com/blog/ai-agent-statistics",
-      "publisher": "Master of Code",
-      "date": "2026",
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "publisher": "TechCrunch",
+      "date": "2026-05-12",
       "claims_supported": [
-        "Production voice agent implementations grew 340% YoY across 500+ organizations",
-        "78% of top 50 banks deployed production voice agents, up from 34% in 2024",
-        "growth_1y: +340% (production implementations)"
+        "Vapi hits $500M valuation, May 2026",
+        "Amazon Ring selected Vapi over 40 competing vendors",
+        "Amazon Ring routes 100% of inbound calls through Vapi",
+        "62M+ monthly calls processed on Vapi",
+        "Microsoft M12, Kleiner Perkins, Bessemer as backers",
+        "trigger: Amazon Ring exclusive selection",
+        "Timeline event 2026-05: Vapi Amazon Ring win",
+        "Competitor detail: Vapi"
       ]
     },
     {
       "id": 6,
-      "title": "Where Voice AI Agents Are Actually Getting Used in 2026",
-      "url": "https://dev.to/dograh/where-voice-ai-agents-are-actually-getting-used-in-2026-49oe",
-      "publisher": "DEV Community",
-      "date": "2026",
+      "title": "Voice AI startup Bland raises $50 million after being rejected by 180 investors",
+      "url": "https://fortune.com/2026/06/16/voice-ai-bland-50-million-after-being-rejected-by-180-investors/",
+      "publisher": "Fortune",
+      "date": "2026-06-16",
       "claims_supported": [
-        "86% call containment rate at US regional bank (2.6M sessions, 5M+ AI voice minutes)",
-        "Healthcare scheduling use case: hundreds of thousands of calls per year per health system",
-        "20-30% improvement in collections recovery rates"
+        "Bland AI raises $50M Series C, June 2026",
+        "Led by Dell Technologies Capital",
+        "Backed by HubSpot Ventures, Emergence Capital, Y Combinator, ElevenLabs CTO, Twilio founder",
+        "Bland rejected by 180 investors before breakthrough",
+        "trigger: Bland $50M Series C",
+        "Timeline event 2026-05: Bland Series C context",
+        "Competitor detail: Bland AI"
       ]
     },
     {
       "id": 7,
-      "title": "Top Voice AI Agents for 2026: The Ultimate Buyer's Guide",
-      "url": "https://deepgram.com/learn/best-voice-ai-agents-2026-buyers-guide",
-      "publisher": "Deepgram",
+      "title": "Retell AI at $60M/year up 650% YoY",
+      "url": "https://sacra.com/research/retell-ai-60m-yr-up-650-yoy/",
+      "publisher": "Sacra",
       "date": "2026",
       "claims_supported": [
-        "Deepgram Nova-3 achieves 54.2% lower WER than competitors on noisy audio",
-        "Market split: ElevenLabs, Vapi, Retell, Bland lead enterprise voice agents",
-        "22% of YC batch pivoted to voice; 90+ voice agent companies in YC since 2020"
+        "Retell AI: $60M ARR, +650% YoY",
+        "$5.1M total raised (most capital-efficient ARR ramp in voice AI)",
+        "40M+ calls/month processed",
+        "300%+ QoQ user growth",
+        "trigger: Retell $60M ARR on $5.1M raised",
+        "Timeline event 2026-05: Retell ARR milestone",
+        "Competitor and market player detail: Retell AI"
       ]
     },
     {
       "id": 8,
-      "title": "Enterprise AI Finds its Voice: ElevenLabs and IBM",
-      "url": "https://newsroom.ibm.com/2026-03-25-enterprise-ai-finds-its-voice-elevenlabs-and-ibm-bring-premium-voice-capabilities-to-agentic-ai",
-      "publisher": "IBM Newsroom",
-      "date": "2026-03-25",
+      "title": "AI Voice Agent Statistics 2026: Market Share & Use Cases",
+      "url": "https://www.cloudtalk.io/blog/ai-voice-agent-statistics/",
+      "publisher": "CloudTalk",
+      "date": "2026",
       "claims_supported": [
-        "IBM watsonx integrates ElevenLabs voice capabilities",
-        "Enterprise AI full embrace of voice-first interfaces (timeline milestone)",
-        "ElevenLabs enterprise validation signal"
+        "AI agents handle 77% of L1–L2 support calls",
+        "Per-call cost: ~$0.40 (AI) vs $7–$12 (human)",
+        "Gartner: $80B in contact center labor cost reduction in 2026",
+        "Forrester: 331–391% three-year ROI",
+        "Economic PESTAL: unit economics",
+        "JTBD #1: Customer service automation ROI figures"
       ]
     },
     {
       "id": 9,
-      "title": "Voice Agents and Conversational AI: 2026 Developer Trends",
-      "url": "https://elevenlabs.io/blog/voice-agents-and-conversational-ai-new-developer-trends-2025",
-      "publisher": "ElevenLabs",
-      "date": "2025-2026",
+      "title": "EU AI Act August 2026: Voice AI Compliance Checklist",
+      "url": "https://www.famulor.io/blog/eu-ai-act-august-2026-voice-ai-compliance-checklist",
+      "publisher": "Famulor",
+      "date": "2026-08",
       "claims_supported": [
-        "ElevenLabs Conversational AI 2.0 features: 32 languages, sub-100ms synthesis",
-        "Enterprise readiness, robust security, and SOC2 compliance",
-        "Deutsche Telekom and Klarna use ElevenAgents for 24/7 agentic support"
+        "EU AI Act Article 50 enforceable August 2, 2026",
+        "Mandatory AI identity disclosure at start of every voice agent call",
+        "Wilful non-compliance: fines up to €35M or 7% of global turnover",
+        "Standard non-compliance: €15M or 3% of global revenue",
+        "trigger: EU AI Act enforcement as compliance moat",
+        "Timeline event 2026-08: Article 50 enforcement",
+        "Legal PESTAL: EU AI Act detail",
+        "Political PESTAL: regulatory context"
       ]
     },
     {
       "id": 10,
-      "title": "Voice and Language Intelligence Market Growth Forecast",
-      "url": "https://www.precedenceresearch.com/press-release/voice-and-language-intelligence-market",
-      "publisher": "Precedence Research",
+      "title": "AI Voice Agent Statistics & Trends [2026]",
+      "url": "https://www.brilo.ai/resources/ai-voice-agents-trends-2026",
+      "publisher": "Brilo AI",
       "date": "2026",
       "claims_supported": [
-        "Global voice and language intelligence market: $20.10B in 2025, $145.03B by 2035",
-        "21.85% CAGR (2025-2035)",
-        "growth_5y baseline: market ~$4.5B in 2021 vs $22B in 2026 = ~+4,300%"
+        "87.5% of builders actively deploying voice agents (2026 Voice Agent Report)",
+        "340% growth in businesses using fully autonomous AI voice agents (2023-2026)",
+        "Social PESTAL: adoption rate statistics",
+        "IDC/Microsoft: $3.70 return per $1 invested within 13 months"
       ]
     },
     {
       "id": 11,
-      "title": "AI Voice Agent Compliance: TCPA Rules, FCC Requirements & State Laws 2026",
-      "url": "https://www.henson-legal.com/ai-voice-compliance",
-      "publisher": "Henson Legal",
+      "title": "Why Voice AI Adoption Is Accelerating in 2026",
+      "url": "https://www.cxtoday.com/contact-center/why-voice-ai-adoption-is-accelerating-in-2026/",
+      "publisher": "CX Today",
       "date": "2026",
       "claims_supported": [
-        "FCC 2024 ruling: AI-generated voices classified as 'artificial or prerecorded' under TCPA",
-        "TCPA violations: $500-$1,500 per call with no statutory cap",
-        "Colorado AI Act 2026: voice AI classified as high-risk",
-        "Legal PESTAL factor details"
+        "SMBs under 50 employees: fastest-growing AI calling adopter segment, +67% YoY",
+        "growth_3m: +67% SMB adoption figure",
+        "canvas 'who': SMB segment detail",
+        "Efficiency (68%) most anticipated outcome from AI agents"
       ]
     },
     {
       "id": 12,
-      "title": "Your Essential 2026 Guide to Voice AI Compliance",
-      "url": "https://www.speechmatics.com/company/articles-and-news/your-essential-guide-to-voice-ai-compliance-in-todays-digital-landscape",
-      "publisher": "Speechmatics",
+      "title": "Eleven Labs Revenue 2026: $500M ARR, $11B Valuation",
+      "url": "https://getlatka.com/companies/elevenlabs.io",
+      "publisher": "GetLatka",
       "date": "2026",
       "claims_supported": [
-        "GDPR requires explicit, specific consent for each distinct AI voice function",
-        "Voice biometric data classified as sensitive personal data in EU",
-        "HIPAA compliance mandatory for healthcare voice deployments"
+        "ElevenLabs: $500M ARR confirmed, April 2026",
+        "41% Fortune 500 penetration",
+        "Previous ARR: $350M end of 2025",
+        "Market player detail: ElevenLabs ARR and enterprise penetration"
       ]
     },
     {
       "id": 13,
-      "title": "11 Voice Agent Platforms Compared: Vapi, Retell, Bland, ElevenLabs, Deepgram",
-      "url": "https://softcery.com/lab/choosing-the-right-voice-agent-platform-in-2025",
-      "publisher": "Softcery",
-      "date": "2025",
+      "title": "Upgraded Retell AI Voice Platform Enables Corporate Call Centers; Revenue Exceeds $40M ARR",
+      "url": "https://finance.yahoo.com/news/upgraded-retell-ai-voice-platform-150000580.html",
+      "publisher": "Yahoo Finance (Retell AI PR)",
+      "date": "2026",
       "claims_supported": [
-        "Vapi: best orchestration platform, $0.05/min, developer-first",
-        "Retell AI: $0.07/min enterprise compliance focus",
-        "Bland AI: $0.09/min SMB-focused flat-rate pricing",
-        "Cartesia: sub-50ms latency for interactive real-time use",
-        "Hume AI EVI 3: emotional intelligence — tone, prosody, rhythm, timbre analysis"
+        "Retell AI revenue exceeds $40M ARR milestone (earlier data point, pre-Sacra $60M)",
+        "Automated QA solution launch for enterprise adoption",
+        "Market player detail: Retell AI enterprise compliance positioning"
       ]
     },
     {
       "id": 14,
-      "title": "Agentic Voice for Enterprise: ROI and 2026 Trends",
-      "url": "https://www.kore.ai/blog/the-ai-voice-surge",
-      "publisher": "Kore.ai",
+      "title": "EU Voice AI Regulations 2026: AI Act, GDPR & Call Recording",
+      "url": "https://softcery.com/lab/eu-voice-ai-regulations-founders-guide",
+      "publisher": "Softcery",
       "date": "2026",
       "claims_supported": [
-        "30-45% annual contact center agent churn driving automation urgency",
-        "Enterprise voice agent ROI benchmarks and 90-day pilot framework",
-        "Sales qualification and collections use cases with measurable ROI"
+        "GDPR classifies voice recordings as biometric/personal data",
+        "Explicit consent, data minimization, encryption, DPIAs required",
+        "GDPR compliance for voice agents: consent management, language-specific bias assessment",
+        "Legal PESTAL: GDPR compliance requirements for voice agents"
       ]
     },
     {
       "id": 15,
-      "title": "AI is cutting 16,000 U.S. jobs a month — Goldman Sachs",
-      "url": "https://fortune.com/2026/04/06/ai-tech-displacement-effect-gen-z-16000-jobs-per-month/",
-      "publisher": "Fortune",
-      "date": "2026-04-06",
+      "title": "50+ Conversational AI Statistics for 2026",
+      "url": "https://www.nextiva.com/blog/conversational-ai-statistics.html",
+      "publisher": "Nextiva",
+      "date": "2026",
       "claims_supported": [
-        "Goldman Sachs: AI eliminating 16,000 US jobs per month (April 2026)",
-        "Call center agents and appointment schedulers among most exposed roles",
-        "Social PESTAL factor: job displacement context"
+        "157.1 million US voice assistant users by 2026",
+        "Gartner: conversational AI will reduce contact center agent labor costs by $80B in 2026",
+        "Companies using voice AI: 3-year ROI 331–391%",
+        "McKinsey: generative AI can raise customer-care productivity by 30–45%",
+        "Social PESTAL: adoption statistics",
+        "Economic PESTAL: $80B labor savings figure"
       ]
     },
     {
       "id": 16,
-      "title": "AI Voice Agents for Healthcare: Top Platforms for 2026",
-      "url": "https://rasa.com/blog/ai-voice-agents-for-healthcare-top-platforms-for-2026",
-      "publisher": "Rasa",
+      "title": "ElevenLabs eyes $22B valuation in staff share sale, doubling its price tag five months after last raise",
+      "url": "https://techfundingnews.com/elevenlabs-is-in-talks-for-a-22b-valuation-doubling-its-price-tag-five-months-after-its-last-raise/",
+      "publisher": "Tech Funding News",
+      "date": "2026-07",
+      "claims_supported": [
+        "ElevenLabs in talks for $22B secondary valuation (July 2026)",
+        "Doubles the $11B Series D valuation from February 2026",
+        "trigger: ElevenLabs $22B secondary valuation talks",
+        "Competitor detail: ElevenLabs rapid valuation trajectory"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "AI Data Centers Energy Consumption 2024-2026: Trends, Projections, Environmental Impact",
+      "url": "https://ttms.com/growing-energy-demand-of-ai-data-centers-2024-2026/",
+      "publisher": "TTMS",
       "date": "2026",
       "claims_supported": [
-        "Hyro deployment at Intermountain Health, Montefiore, Hartford HealthCare",
-        "Healthcare scheduling JTBD: EHR integration, insurance verification, automated reminders",
-        "Healthcare vertical: highest ROI for voice AI in regulated industries"
+        "Global electricity demand from data centers could double between 2022 and 2026",
+        "~1,050 TWh projected data center energy consumption in 2026",
+        "77% of Americans concerned AI data centers will raise electricity costs (Reuters/Ipsos, June 2026)",
+        "Environmental PESTAL: energy consumption figures"
       ]
+    },
+    {
+      "id": 18,
+      "title": "Voice AI in 2026: Inside the companies and investments shaping the future of speech",
+      "url": "https://www.assemblyai.com/blog/voice-ai-in-2026-series-1",
+      "publisher": "AssemblyAI",
+      "date": "2026",
+      "claims_supported": [
+        "Native audio-to-audio models eliminated STT→LLM→TTS latency bottleneck in 2026",
+        "End-to-end response dropped from 2–4 seconds to <100ms",
+        "Voice AI VC investment jumped from ~$315M (2022) to $2.1B (2024)",
+        "Timeline event 2022-11: early latency challenges",
+        "Technological PESTAL: latency breakthrough detail",
+        "Timeline event 2024-01: VC surge context"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~74,000/month",
+      "note": "The 74,000 monthly search volume estimate for the keyword cluster around 'AI voice agents', 'voice AI agents', 'AI phone agent', and related terms is a directional estimate. No primary keyword tool (Keywords Everywhere, Ahrefs, SEMrush) was directly queried in this research session. The estimate is based on reported market scale, developer adoption rates (87.5% of builders deploying), and the category's position as a major search trend. Actual volume may be higher when including adjacent terms like 'AI receptionist', 'AI calling agent', and 'voice AI platform'."
+    },
+    {
+      "claim": "Market share percentages for all five market players",
+      "note": "The market share estimates (~35% ElevenLabs, ~25% Vapi, ~20% Retell, ~15% Bland, ~5% Synthflow) are directional estimates based on relative ARR figures, call volumes, and investor commentary. No independent analyst has published a formal market share breakdown for the AI voice agents platform segment. The estimates are marked [unverified est.] in the data file. ElevenLabs' dominance at ~35% is supported by its $500M ARR vs Retell's $60M ARR and Vapi's earlier-stage revenue — but the precise boundaries between vendors are not publicly disclosed."
+    },
+    {
+      "claim": "growth_5y: '+∞'",
+      "note": "The AI voice agents category as a dedicated market segment (autonomous, multi-step, LLM-powered voice agents distinct from IVR or traditional chatbots) did not exist in 2021. The first purpose-built platforms (Bland, Retell, Vapi) launched in 2022–2023. Using '+∞' reflects the category creation event rather than a measurable compound growth rate from a 2021 baseline. The broader conversational AI market grew approximately +287% from $5.8B (2021) to $17.97B (2026) per Fortune Business Insights — this is the closest proxy for a 5-year market growth figure."
+    },
+    {
+      "claim": "growth_3m: '+67% SMBs'",
+      "note": "The +67% figure is specifically for SMB adoption growth year-over-year (not sequential quarter growth) per CX Today / industry research. It is applied as the growth_3m proxy because it represents the fastest-moving adopter cohort and the most recent adoption signal available. No single-quarter sequential growth figure for the overall AI voice agents market was available from a published source in this research."
+    },
+    {
+      "claim": "AI agents handle 77% of L1-L2 support calls",
+      "note": "The 77% L1-L2 containment rate is sourced from CloudTalk's 2026 statistics report. This represents deployments where AI voice agents are in production — not industry-wide averages across all call center deployments (most of which have not yet deployed AI agents). The figure reflects best-practice deployed systems, not an average of all call center traffic globally."
     }
   ]
 }
