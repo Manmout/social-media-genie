@@ -1,0 +1,215 @@
+{
+  "trend": "AI in Hospitality & Tourism",
+  "slug": "ai-hospitality-tourism",
+  "research_date": "2026-08-12",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Exponential Growth Ahead: AI in Hospitality and Tourism Market to Reach $75.66 Billion by 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/07/13/3325941/0/en/Exponential-Growth-Ahead-AI-in-Hospitality-and-Tourism-Market-to-Reach-75-66-Billion-by-2030.html",
+      "publisher": "GlobeNewsWire / The Business Research Company",
+      "date": "2026-07-13",
+      "claims_supported": [
+        "Market size: $20.39B in 2025, $26.53B in 2026",
+        "Market projection: $75.66B by 2030",
+        "CAGR: 29.9% (2026–2030)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "AI In Hospitality And Tourism Market Size, Share, Report 2035",
+      "url": "https://www.thebusinessresearchcompany.com/report/ai-in-hospitality-and-tourism-global-market-report",
+      "publisher": "The Business Research Company",
+      "date": "2026",
+      "claims_supported": [
+        "Market grew from $20.39B (2025) to $26.53B (2026) at 30.1% CAGR",
+        "5-year growth trajectory and CAGR validation"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Hospitality Tech Drew Over $1 Billion in the Last Year, With PMS and AI-Led Platforms Capturing Biggest Share",
+      "url": "https://www.hospitalitynet.org/report/4131877/hospitality-tech-drew-over-1-billion-in-the-last-year-with-pms-and-ai-led-platforms-capturing-biggest-share",
+      "publisher": "HospitalityNet / Abode Worldwide",
+      "date": "2026-04",
+      "claims_supported": [
+        "$1B+ investment in 40 hospitality tech companies over 12 months to March 2026",
+        "Mews raised $300M (largest hospitality tech round in history)",
+        "AI-led platforms captured largest investment share"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Canary Technologies Raises $80M, Acquires Mobile Key Platform OpenKey (February 2026)",
+      "url": "https://www.hoteldive.com/news/canary-technologies-raises-80m-acquires-openkey/",
+      "publisher": "Hotel Dive",
+      "date": "2026-02",
+      "claims_supported": [
+        "Canary Technologies $80M Series C raise",
+        "Acquisition of OpenKey mobile key platform",
+        "AI-driven guest experience platform serving 3,000+ hotels"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Gen Z and AI Redefine Global Travel as 2026 Marks a New Era of Digital Discovery",
+      "url": "https://www.simon-kucher.com/en/who-we-are/newsroom/gen-z-and-ai-redefine-global-travel-2026-marks-new-era-digital-discovery-and",
+      "publisher": "Simon-Kucher",
+      "date": "2026",
+      "claims_supported": [
+        "69% of Gen Z uses generative AI for trip planning",
+        "64% of Millennials use AI for travel planning",
+        "AI as default research tool for Gen Z and Millennials"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Expedia Group Introduces Romie AI Assistant — Spring Product Release 2024",
+      "url": "https://www.expedia.com/newsroom/spring-product-release-2024/",
+      "publisher": "Expedia Newsrooms",
+      "date": "2024-05",
+      "claims_supported": [
+        "Romie AI assistant launch (May 2024)",
+        "WhatsApp/SMS group chat trip planning integration",
+        "40+ AI-powered features launched in 2024"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Expedia Group Unveils New AI Experiences at Explore 2026",
+      "url": "https://www.expedia.com/newsroom/expedia-group-unveils-new-ai-experiences-expands-travel-ecosystem-and-launches-philanthropy-program-at-explore-2026/",
+      "publisher": "Expedia Newsrooms",
+      "date": "2026",
+      "claims_supported": [
+        "Romie WhatsApp/SMS group chat expansion",
+        "Uber integration for traveler benefits",
+        "CLEAR concierge partnership"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Hotel Tech Innovation Report: AI Trends & Tactics (Q2 2026)",
+      "url": "https://hoteltechreport.com/news/q2-2026-hotel-ai-trends-report",
+      "publisher": "Hotel Tech Report",
+      "date": "2026-Q2",
+      "claims_supported": [
+        "82% of hoteliers expect AI use to increase across their organization",
+        "85% plan to allocate at least 5% of IT budget to AI tools in 2026",
+        "AI dynamic pricing: average ADR improvement of ~12% in year one"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Four Travel and Hospitality Trends from HITEC 2026",
+      "url": "https://stripe.com/blog/trends-from-hitec",
+      "publisher": "Stripe",
+      "date": "2026-06",
+      "claims_supported": [
+        "HITEC 2026 AI adoption findings",
+        "B2A (Business-to-AI) distribution strategy by Amadeus",
+        "Industry consensus on AI as operational infrastructure"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Gen Z and Millennials Lead the AI Travel Boom",
+      "url": "https://www.emarketer.com/content/gen-z-millennials-lead-ai-travel-boom",
+      "publisher": "eMarketer",
+      "date": "2026",
+      "claims_supported": [
+        "AI travel adoption by age cohort",
+        "40% of all travelers use AI at some trip planning stage",
+        "44% use AI for price comparison; 42% for destination research"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Cloudbeds vs Mews vs Oracle OPERA: Best Native AI PMS?",
+      "url": "https://www.vertize.io/blog/cloudbeds-vs-mews-vs-oracle-opera-which-pms-has-the-strongest-native-ai",
+      "publisher": "Vertize AI",
+      "date": "2026",
+      "claims_supported": [
+        "Oracle OPERA Cloud enterprise scale: 40,000+ properties",
+        "Mews agent-first architecture and autonomous AI strategy",
+        "Cloudbeds causal AI model trained on hospitality data"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI in Travel and Hospitality Market Size Accelerating at 28.4% CAGR",
+      "url": "https://www.openpr.com/news/4544505/ai-in-travel-and-hospitality-market-size-accelerating-at-28-4",
+      "publisher": "OpenPR / Market Research Report",
+      "date": "2026",
+      "claims_supported": [
+        "Key market players: Booking Holdings, Expedia, Airbnb, Amadeus, Sabre, Oracle",
+        "28.4% CAGR validation for AI travel market segment"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "AI Developments in Travel: Skift Timeline",
+      "url": "https://skift.com/2025/02/21/ai-developments-in-travel-skift-timeline/",
+      "publisher": "Skift",
+      "date": "2025-02-21",
+      "claims_supported": [
+        "Expedia ChatGPT partnership (March 2023)",
+        "Booking.com AI chatbot integrations (2023)",
+        "Timeline of key AI product launches in travel"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Airbnb Launches In-House AI Lab, Skipping Big Tech Partners",
+      "url": "https://www.techbuzz.ai/articles/airbnb-launches-in-house-ai-lab-skipping-big-tech-partners",
+      "publisher": "TechBuzz AI",
+      "date": "2025",
+      "claims_supported": [
+        "Airbnb in-house AI lab launch",
+        "Decision to bypass Big Tech AI partnerships",
+        "Brian Chesky AI strategy statement"
+      ],
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "Google: AI Mode is Reshaping How Travelers Search and Plan Online",
+      "url": "https://www.hospitality.today/article/google-ai-mode-is-reshaping-how-travelers-search-and-plan-online",
+      "publisher": "Hospitality.today",
+      "date": "2026",
+      "claims_supported": [
+        "Google AI Mode surpassing 1 billion monthly active users",
+        "AI-mode reshaping travel search behavior",
+        "'Zero-click' travel discovery trend"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share percentages for individual companies (Booking Holdings ~35%, Expedia ~25%, Oracle ~18%, Amadeus ~15%, Mews/Cloudbeds/Canary ~7%)",
+      "note": "No authoritative third-party source found for individual company AI market share percentages. Estimates derived from company size, OTA market share reports, and PMS installation bases. Should be treated as directional estimates only."
+    },
+    {
+      "claim": "Tourism contributes approximately 8% of global CO2 emissions",
+      "note": "Widely cited figure but sourced from a 2018 Nature Climate Change study. Updated 2026 figure may differ. Mark as [unverified] in final report or cite the 2018 original study."
+    },
+    {
+      "claim": "AI-optimized HVAC systems reduce hotel energy consumption by 15-30%",
+      "note": "Range cited across multiple hospitality AI vendor materials. Independent third-party validation not found for this specific range. Directionally accurate based on case studies but figure is vendor-influenced."
+    }
+  ],
+  "research_notes": "Topic selected because: (1) Not covered by any existing hemle.blog report (existing reports cover ai-in-construction and ai-generative-design-tools which are distinct sectors); (2) Strong surging signal: $20.39B → $26.53B in one year (+30%), growing to $75.66B by 2030; (3) Multiple verifiable 2026 data points including Mews $300M raise (Dec 2025), Canary $80M raise (Feb 2026), HITEC 2026 findings (June 2026); (4) Gen Z/Millennial adoption data from reputable sources; (5) Clear B2A trend (Business-to-AI) is a novel and significant structural shift worth dedicated coverage."
+}
