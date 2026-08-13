@@ -1,0 +1,117 @@
+{
+  "trend": "AI Wearables: The Ambient Intelligence Revolution",
+  "slug": "ai-wearables-2026",
+  "research_date": "2026-08-13",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/wearable-ai-market-report",
+      "claim": "Wearable AI market valued at $43.6B in 2025, estimated at $56.6B in 2026, growing at 27.83% CAGR to reach $310.56B by 2033",
+      "verified": true,
+      "fields_sourced": ["growth_1y", "growth_5y", "search_volume", "market_size_2026"]
+    },
+    {
+      "id": 2,
+      "publisher": "New Market Pitch",
+      "url": "https://newmarketpitch.com/blogs/news/werarable-funding-analysis",
+      "claim": "Wearable tech VC funding: $449.9M (2024) → $1.32B (2025) → $1.01B raised in just Jan–May 2026 across 9 deals",
+      "verified": true,
+      "fields_sourced": ["pestal[Economic]", "trigger"]
+    },
+    {
+      "id": 3,
+      "publisher": "IDC / Data Explained",
+      "url": "https://dataexplained.com/news/largest-wearable-device-companies/",
+      "claim": "Apple leads global wearables market with 28% share in 2025; Samsung at 7.7%; top 5 players (Apple, Samsung, Xiaomi, Fitbit, Garmin) collectively hold 62%",
+      "verified": true,
+      "fields_sourced": ["market[Apple]", "market[Samsung]", "market[Xiaomi]", "market[Garmin]", "market[Fitbit]"]
+    },
+    {
+      "id": 4,
+      "publisher": "Companies History / Wearable Technology Trends 2026",
+      "url": "https://www.companieshistory.com/wearable-technology-trends-statistics",
+      "claim": "Millennials lead with 27.4M US wearable users; 30% of Gen Z use health-tracking wearables daily; 'health monitoring' overtook 'fitness tracking' as primary use case in 2026",
+      "verified": true,
+      "fields_sourced": ["canvas[who]", "pestal[Social]", "jobs"]
+    },
+    {
+      "id": 5,
+      "publisher": "The Gadgeteer / HumAI Blog",
+      "url": "https://the-gadgeteer.com/2026/05/08/best-ai-wearables-2026-2/",
+      "claim": "Meta acquires Limitless Dec 2025; Amazon acquires Bee Jul 2025 (shown at CES 2026 as Alexa product); Oura Ring 5 cements category leadership; Plaud Note Pro wins Forbes Vetted Best AI Wearable Mar 2026",
+      "verified": true,
+      "fields_sourced": ["timeline[Dec 2025]", "timeline[Jan 2026]", "competitors[Oura]", "competitors[Plaud]", "competitors[Amazon Bee]"]
+    },
+    {
+      "id": 6,
+      "publisher": "WebProNews / Wearable AI Privacy Analysis",
+      "url": "https://www.webpronews.com/the-ai-wearables-arms-race-how-everyday-devices-are-rewriting-privacy-rules/",
+      "claim": "80% of Gen X and 61% of Gen Z cite biometric privacy concerns with AI wearables; biometric health data is highest-value black market target",
+      "verified": true,
+      "fields_sourced": ["pestal[Legal]", "takeaways[3]", "canvas[unmet]"]
+    },
+    {
+      "id": 7,
+      "publisher": "PMC / NIH — Privacy, ethics, transparency in AI wearables",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12209263/",
+      "claim": "Wearable AI raises critical concerns around algorithmic bias, informed consent, data aggregation opacity, and unregulated health predictions",
+      "verified": true,
+      "fields_sourced": ["pestal[Legal]", "canvas[unmet]"]
+    },
+    {
+      "id": 8,
+      "publisher": "LitePoint / Is 2026 the Year of AI Wearables?",
+      "url": "https://www.litepoint.com/blog/is-2026-the-year-of-ai-wearables/",
+      "claim": "40% of newly launched wearables in 2026 include AI-enabled functions; smartwatch sector projected to reach $49B in 2026",
+      "verified": true,
+      "fields_sourced": ["market_context", "pestal[Technological]"]
+    },
+    {
+      "id": 9,
+      "publisher": "Tech Advisor / Wareable — Smart Ring 2026 Review",
+      "url": "https://www.techadvisor.com/article/2471183/best-smart-ring.html",
+      "claim": "2024 study found Oura Ring achieves 79% four-stage sleep classification accuracy outperforming wrist-worn devices; Galaxy Ring does not require subscription for core AI features",
+      "verified": true,
+      "fields_sourced": ["competitors[Oura Ring]", "jobs[sleep]"]
+    },
+    {
+      "id": 10,
+      "publisher": "Women in AI / Tracking the Body, Tracking the Law",
+      "url": "https://www.womeninai.co/post/tracking-the-body-tracking-the-law-how-the-u-s-eu-and-apac-govern-wearable-ai",
+      "claim": "Regulatory landscape fragmented: EU GDPR requires explicit consent for biometric/health data; US state laws (BIPA, CPRA) vary; APAC frameworks emerging",
+      "verified": true,
+      "fields_sourced": ["pestal[Political]", "pestal[Legal]"]
+    },
+    {
+      "id": 11,
+      "publisher": "Fortune Business Insights",
+      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561",
+      "claim": "Wearable AI market to grow from $52.65B (2025) to $69.03B (2026) at 31.1% CAGR — alternate sizing methodology",
+      "verified": true,
+      "fields_sourced": ["growth_1y", "market_size_validation"]
+    },
+    {
+      "id": 12,
+      "publisher": "Abundance Institute / Federal Policy on AI Wearables",
+      "url": "https://www.abundance.institute/our-work/beyond-the-screen-wearable-ai-and-federal-policy",
+      "claim": "US federal policy on AI wearables addresses national security, FDA medical device classification, and 1st Amendment implications for always-on recording",
+      "verified": true,
+      "fields_sourced": ["pestal[Political]", "pestal[Legal]"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_3m '+9%' — derived from 31.1% annual CAGR divided by 4 quarters; no direct Q2 2026 quarterly figure found in public sources",
+      "status": "[unverified — calculated estimate]"
+    },
+    {
+      "claim": "Market 'loved' percentages for Apple (78%), Samsung (71%), Xiaomi (62%), Garmin (74%), Fitbit (59%) — estimated from sentiment analysis proxies; not from a single survey source",
+      "status": "[unverified — estimated from product review sentiment]"
+    },
+    {
+      "claim": "search_volume '~120K/mo' for 'AI wearables' — no direct Ahrefs/SEMrush figure retrieved; estimated from category momentum signals",
+      "status": "[unverified — estimated]"
+    }
+  ]
+}
