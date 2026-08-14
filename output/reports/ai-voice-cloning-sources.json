@@ -1,0 +1,158 @@
+{
+  "trend": "AI Voice Cloning",
+  "slug": "ai-voice-cloning",
+  "research_date": "2026-08-14",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Grand View Research",
+      "title": "AI Voice Cloning Market Size, Share & Trends Report, 2023-2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-voice-cloning-market-report",
+      "claim": "Market growing at CAGR of 26.1% from 2023-2030; valued at $1.45B in 2022",
+      "verified": true,
+      "data_type": "market_size"
+    },
+    {
+      "id": 2,
+      "publisher": "TechCrunch",
+      "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+      "url": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+      "claim": "ElevenLabs raised $500M Series D on February 4, 2026, led by Sequoia; valuation $11B (3x year-ago valuation)",
+      "verified": true,
+      "data_type": "funding"
+    },
+    {
+      "id": 3,
+      "publisher": "CNBC",
+      "title": "Nvidia-backed AI voice startup ElevenLabs hits $11 billion valuation in fresh fundraise, as it eyes IPO",
+      "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
+      "claim": "ElevenLabs $11B valuation Feb 2026; IPO targeting; NVIDIA backing confirmed",
+      "verified": true,
+      "data_type": "funding"
+    },
+    {
+      "id": 4,
+      "publisher": "The AI Insider",
+      "title": "ElevenLabs Surpasses $500M ARR as BlackRock, Nvidia and Celebrity Investors Join $500M Series D",
+      "url": "https://theaiinsider.tech/2026/05/06/elevenlabs-surpasses-500m-arr-as-blackrock-nvidia-and-celebrity-investors-join-500m-series-d/",
+      "claim": "ElevenLabs crossed $500M ARR; third close of Series D added BlackRock, Wellington, D.E. Shaw, NVIDIA NVentures, Salesforce, Deutsche Telekom",
+      "verified": true,
+      "data_type": "revenue"
+    },
+    {
+      "id": 5,
+      "publisher": "Postbeam",
+      "title": "How ElevenLabs Grew to $600M ARR in 3 Years (Full GTM Breakdown)",
+      "url": "https://www.postbeam.ai/blog/how-elevenlabs-grows",
+      "claim": "ElevenLabs reached $600M ARR by July 2026; $330M ARR at end of 2025; +$100M net new ARR in Q1 2026",
+      "verified": true,
+      "data_type": "revenue"
+    },
+    {
+      "id": 6,
+      "publisher": "The Business Research Company",
+      "title": "Voice Cloning Market 2026, Size and Demand Forecast",
+      "url": "https://www.thebusinessresearchcompany.com/report/voice-cloning-global-market-report",
+      "claim": "Voice cloning market worth USD 3.0 billion in 2026, growing at 25.8% CAGR; projected $29.8B by 2036",
+      "verified": true,
+      "data_type": "market_size"
+    },
+    {
+      "id": 7,
+      "publisher": "SavingAdvice.com",
+      "title": "AI Voice Cloning Scams Explode — One in Four People Have Encountered Them, Losing Up to $15,000",
+      "url": "https://www.savingadvice.com/articles/2026/05/21/10736407_ai-voice-cloning-scams-explode-one-in-four-people-have-encountered-them-losing-up-to-15000.html",
+      "claim": "1 in 4 people have encountered a voice cloning scam or know someone who has; losses average $11,000-$15,000 per incident",
+      "verified": true,
+      "data_type": "fraud_statistics"
+    },
+    {
+      "id": 8,
+      "publisher": "Brightside AI",
+      "title": "Deepfake Fraud in 2026: The $3.7B Problem and How to Defend",
+      "url": "https://brside.com/blog/deepfake-fraud-losses-2026",
+      "claim": "Global deepfake fraud losses reached $3.7B; $600K average loss per voice deepfake enterprise incident; 23% of incidents exceed $1M",
+      "verified": true,
+      "data_type": "fraud_statistics"
+    },
+    {
+      "id": 9,
+      "publisher": "Unbox Future",
+      "title": "The Rise of AI Voice Cloning Scams in 2026: How the Grandparent Fraud Went High-Tech",
+      "url": "https://www.unboxfuture.com/2026/05/the-rise-of-ai-voice-cloning-scams-in.html",
+      "claim": "AI voice cloning scams have cost elderly Americans over $2.3 billion in 2026 alone (FBI reports); voice can be cloned from 3 seconds of audio",
+      "verified": true,
+      "data_type": "fraud_statistics"
+    },
+    {
+      "id": 10,
+      "publisher": "Holland & Knight",
+      "title": "Senate Committee Advances Bill to Protect Name, Image, Likeness and Voice Against Unauthorized AI Use",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/06/senate-judiciary-committee-advances-legislation-to-protect-name",
+      "claim": "US Senate Judiciary Committee advanced NO FAKES Act (S.4591) on June 18, 2026; bipartisan support; SAG-AFTRA, OpenAI, Google, IBM, RIAA, MPA backers",
+      "verified": true,
+      "data_type": "regulation"
+    },
+    {
+      "id": 11,
+      "publisher": "Variety / SAG-AFTRA",
+      "title": "More Than 16,000 Sign SAG-AFTRA Letter Demanding Congress Pass NO FAKES Act",
+      "url": "https://variety.com/2026/biz/news/sag-aftra-letter-congress-pass-no-fakes-act-1236783056/",
+      "claim": "16,000+ SAG-AFTRA members signed open letter urging Congress to pass the NO FAKES Act in June 2026",
+      "verified": true,
+      "data_type": "regulation"
+    },
+    {
+      "id": 12,
+      "publisher": "Holon Law",
+      "title": "Synthetic Media & Voice Cloning: Right of Publicity Risks for 2026",
+      "url": "https://holonlaw.com/entertainment-law/synthetic-media-voice-cloning-and-the-new-right-of-publicity-risk-map-for-2026/",
+      "claim": "45+ states enacted deepfake legislation as of June 2026; Tennessee ELVIS Act is most comprehensive voice-specific protection",
+      "verified": true,
+      "data_type": "regulation"
+    },
+    {
+      "id": 13,
+      "publisher": "AllAboutAI",
+      "title": "AI Voice Cloning Statistics 2026: $3.29B Market, 97% Accuracy & Complete Analysis",
+      "url": "https://www.allaboutai.com/resources/ai-statistics/ai-voice-cloning/",
+      "claim": "Market at $3.29B in 2025; CAGR of 24.2%; voice phishing attacks surged 442% in 2025",
+      "verified": true,
+      "data_type": "market_statistics"
+    },
+    {
+      "id": 14,
+      "publisher": "National Today / Technical.ly",
+      "title": "Pittsburgh Man Develops AI App to Give ALS Patients Their Voice Back",
+      "url": "https://nationaltoday.com/us/pa/pittsburgh/news/2026/03/06/pittsburgh-man-develops-ai-app-to-give-als-patients-their-voice-back/",
+      "claim": "Talk to Me, Goose! app enables ALS patients to clone voice from short recordings; free in US and Canada via Live Like Lou Foundation",
+      "verified": true,
+      "data_type": "accessibility_use_case"
+    },
+    {
+      "id": 15,
+      "publisher": "Ringlyn / Machine Brief",
+      "title": "AI Voice Synthesis and Voice Cloning in 2026: TTS Engines, Latency, Ethics, and What's Next",
+      "url": "https://www.ringlyn.com/blog/ai-voice-synthesis-voice-cloning-2026/",
+      "claim": "Voice cloning data requirement went from hours (2022) to 10 min (2024) to 3 seconds (2026); latency dropped from 800ms to under 200ms; zero-shot cloning commercially standard",
+      "verified": true,
+      "data_type": "technology"
+    },
+    {
+      "id": 16,
+      "publisher": "Soundverse AI Blog",
+      "title": "Voice Cloning for Creators Who Want Consistent Narration in 2026",
+      "url": "https://www.soundverse.ai/blog/article/voice-cloning-for-creators-who-want-consistent-narration-0234",
+      "claim": "61% of independent podcasters use AI voiceover systems; 86-92% of creators use generative AI in workflows; voice is fastest-growing modality",
+      "verified": true,
+      "data_type": "creator_adoption"
+    }
+  ],
+  "notes": [
+    "Market size estimates vary significantly by analyst ($3.0B - $4.9B for 2026) depending on scope definition (pure voice cloning vs. broader TTS + voice AI)",
+    "ElevenLabs ARR figures sourced from multiple corroborating reports; $600M ARR is most recent (July 2026)",
+    "Voice fraud dollar figures (FBI-cited $2.3B for elderly Americans) should be interpreted as estimated; FBI IC3 figures typically represent reported losses only",
+    "Environmental impact comparisons (voice vs video generation energy) are qualitative; no published peer-reviewed benchmark found — marked [unverified] in trend data",
+    "ElevenLabs market share (~25%) is an analyst estimate; no company discloses API call volume; based on ARR relative to estimated total market size"
+  ]
+}
