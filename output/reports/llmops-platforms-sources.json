@@ -1,0 +1,85 @@
+{
+  "trend": "LLMOps Platforms",
+  "slug": "llmops-platforms",
+  "researched": "2026-08-15",
+  "sources": [
+    {
+      "url": "https://www.researchandmarkets.com/reports/6231287/large-language-model-operationalization-llmops",
+      "publisher": "Research and Markets",
+      "claim": "LLMOps Software Market valued at USD 7.14B in 2026, projected to reach USD 15.59B by 2030 at 21.6% CAGR",
+      "verified": true
+    },
+    {
+      "url": "https://finance.yahoo.com/news/large-language-model-operationalization-llmops-155000684.html",
+      "publisher": "Yahoo Finance / Valuates Reports",
+      "claim": "LLMOps Software Market growing at 21.3% CAGR from $5.88B (2025) to $7.14B (2026); project to reach $19.8B by 2032",
+      "verified": true
+    },
+    {
+      "url": "https://virtuemarketresearch.com/report/enterprise-llmops-platforms-market",
+      "publisher": "Virtue Market Research",
+      "claim": "Enterprise LLMOps Platforms Market valued at USD 1.8B in 2025, projected to reach USD 5.43B by 2030 at 24.7% CAGR",
+      "verified": true
+    },
+    {
+      "url": "https://presenc.ai/research/enterprise-llm-adoption-statistics-june-2026",
+      "publisher": "Presenc AI Research",
+      "claim": "85-90% of large enterprises report at least one production LLM deployment by mid-2026; 55-65% run multi-vendor LLM strategies; aggregate enterprise LLM API spend crossed $15B in H1 2026",
+      "verified": true
+    },
+    {
+      "url": "https://www.zenml.io/blog/llmops-in-production-457-case-studies-of-what-actually-works",
+      "publisher": "ZenML Blog",
+      "claim": "LLMOps production case studies: 40% cost reduction on AI-augmented engineering pods; DoorDash achieved 90% reduction in hallucinations and 99% reduction in compliance issues; ByteDance achieved 50% inference cost reduction; one case documented 90x optimization",
+      "verified": true
+    },
+    {
+      "url": "https://aciinfotech.com/blogs/eu-ai-act-compliance-2026-governance-architecture-for-enterprise-ai",
+      "publisher": "ACI Infotech",
+      "claim": "EU AI Act full enforcement August 2, 2026; high-risk AI systems must have documented risk management, dataset provenance, and post-market monitoring; 64% of workers bypass corporate AI controls with personal accounts",
+      "verified": true
+    },
+    {
+      "url": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "publisher": "MarkTechPost",
+      "claim": "LLM observability platform market sized at $2.69B in 2026, projected to reach $9.26B by 2030 at 36.2% CAGR; comparative review of LangSmith, Langfuse, Arize AI, Braintrust",
+      "verified": true
+    },
+    {
+      "url": "https://latenode.com/blog/langchain-funding-valuation",
+      "publisher": "Latenode Blog",
+      "claim": "LangChain raised $100M Series B at $1.1B valuation by mid-2025; investors include Sequoia Capital, Benchmark, and IVP",
+      "verified": true
+    },
+    {
+      "url": "https://www.cncf.io/blog/2026/08/13/llmops-and-platform-engineering-who-should-own-the-ai-pipeline/",
+      "publisher": "CNCF (Cloud Native Computing Foundation)",
+      "claim": "LLMOps and platform engineering overlap: teams must decide whether MLEs or platform engineers own the AI pipeline; published August 13, 2026",
+      "verified": true
+    },
+    {
+      "url": "https://regolo.ai/ai-privacy-and-compliance-in-2026-what-changes-for-llm-providers/",
+      "publisher": "Regolo AI",
+      "claim": "EU AI Act Article 10 requires documenting training data origin, relevance, representativeness, and bias; GDPR + EU AI Act create single continuous compliance problem for LLM providers in Europe",
+      "verified": true
+    },
+    {
+      "url": "https://www.techtarget.com/searchdatamanagement/news/366640132/Qdrant-raises-50M-in-funding-to-fuel-vector-database-growth",
+      "publisher": "TechTarget",
+      "claim": "Qdrant raised $50M Series B in March 2026, bringing total funding to $87.8M; vector databases are core LLMOps infrastructure for RAG pipelines",
+      "verified": true
+    },
+    {
+      "url": "https://atlan.com/know/best-llmops-platforms/",
+      "publisher": "Atlan",
+      "claim": "Best LLMOps platforms for enterprise AI teams 2026: W&B, LangSmith, MLflow, Arize AI, Helicone, Portkey, Braintrust, Langfuse; W&B trusted by 30+ foundation model builders including OpenAI, MidJourney, Cohere",
+      "verified": true
+    }
+  ],
+  "data_quality_notes": [
+    "Market share percentages for individual platforms (Databricks 22%, AWS 19%, Azure 17%, W&B 15%, LangChain 12%) are estimates [unverified] — no analyst has published audited breakdown; these reflect synthesis of funding size, revenue, and community adoption data",
+    "search_volume of ~90,000 monthly searches is an estimate based on LLMOps market growth trajectory; actual Google Keyword Planner data not directly accessible",
+    "growth_5y of +900% est. is an approximation — the LLMOps category barely existed in 2021; exact 2021 baseline market size is not established in available sources",
+    "growth_3m of +5% QoQ est. is derived from the 21.3% annual CAGR (approximately 4.9% per quarter); no quarterly-specific data was found"
+  ]
+}
