@@ -1,0 +1,221 @@
+{
+  "trend_name": "Quantum AI Computing",
+  "status": "surging",
+  "search_volume": "~200K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+580%",
+  "growth_1y": "+87%",
+  "growth_3m": "+63%",
+  "trigger": "June 2026: Two White House executive orders (EO 14412 + EO 14413) mandate accelerated federal post-quantum cryptography migration and the creation of domestic quantum workforce institutes — putting quantum on every CISO's 2026 roadmap. Simultaneously, IBM's Kookaburra (4,158-qubit) targets its first real-world quantum advantage workload by end-2026, Microsoft's Majorana 2 chip doubles topological qubit parity lifetime to 20+ seconds, and IonQ reports Q1 2026 revenue of $64.7M (+755% YoY), raising its 2026 guidance to $260–270M. After decades as a research curiosity, quantum computing crossed into commercial engineering reality in 2026 — and the first $1B+ enterprise quantum software companies are forming around the new infrastructure.",
+
+  "timeline": [
+    {
+      "date": "Aug 2024",
+      "event": "NIST finalizes three post-quantum cryptography standards (FIPS 203/204/205) — the encryption transition mandate that will affect every Fortune 500 company, all federal systems, and global financial infrastructure. Triggers an estimated $10B+ enterprise migration wave."
+    },
+    {
+      "date": "Dec 2024",
+      "event": "Google's 105-qubit Willow processor achieves below-threshold quantum error correction for the first time in history — error rates decrease as qubit counts increase rather than degrading, proving that fault-tolerant quantum computing is physically achievable."
+    },
+    {
+      "date": "Feb 2025",
+      "event": "Microsoft unveils Majorana 1 — the world's first topological qubit chip, using a new 'topoconductor' state of matter that provides built-in error resistance. The architecture theoretically scales to 1 million qubits on a single chip, removing the physical qubit overhead of error correction."
+    },
+    {
+      "date": "Oct 2025",
+      "event": "Google announces the first verifiable quantum advantage on a classically-intractable problem using Willow and a new algorithm called Quantum Echoes — the field's most significant commercial milestone, triggering $4.9B in quantum VC investment in 2025 alone (192% YoY increase)."
+    },
+    {
+      "date": "Feb 2026",
+      "event": "IonQ reports $130M in FY2025 GAAP revenue (+202% YoY), becoming the first publicly-traded quantum company to cross $100M in annual revenue. Simultaneously, Quantinuum (Honeywell) runs 14,000 error-free quantum circuit instances in partnership with Microsoft — 800× below physical error rates."
+    },
+    {
+      "date": "Jun 2026",
+      "event": "White House signs EO 14412 (mandatory PQC migration for all federal systems with binding 2027 NSS deadlines) and EO 14413 (national quantum workforce development). IBM's Kookaburra processor at 4,158 qubits targets quantum advantage on a real industrial workload by end-2026. Microsoft's Majorana 2 chip doubles topological parity lifetime to 20+ seconds."
+    }
+  ],
+
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "June 2026 White House EO 14412 mandates all federal agencies migrate to NIST post-quantum cryptography standards for high-value assets by 2027 — creating a top-down procurement wave across every government contractor. EO 14413 funds domestic quantum workforce institutes, competing directly with China's $15B+ national quantum program and Japan's $7.4B strategy. Geopolitical race framing ('quantum supremacy') is accelerating US, EU, China, and India government investment simultaneously. NSA's CNSA 2.0 requires all National Security Systems to be quantum-safe by January 2027. [Source: congress.gov H.R.3259; postquantum.com]"
+    },
+    {
+      "factor": "Economic",
+      "impact": "Enterprise quantum computing grew from $4.78B (2025) to $6.28B (2026) at a 31.3% CAGR. VC poured $4.9B into quantum startups in 2025 — a 192% YoY surge. IonQ raised 2026 guidance to $260–270M after a +755% Q1 YoY revenue report. Quantinuum raised $600M at a $10B valuation, with an IPO expected above $20B. Total public quantum funding commitments from governments worldwide now exceed $56.7B. Citi projects the quantum computing market will reach $40–50B by 2035. [Source: investors.ionq.com; entangledfuture.com; sqmagazine.co.uk]"
+    },
+    {
+      "factor": "Social",
+      "impact": "Growing 'Q-Day' anxiety among enterprises and security professionals — the theoretical future moment when quantum computers break current RSA and ECC encryption protecting all financial transactions, healthcare records, and classified communications. 48% of Fortune 500 now have active quantum pilot programs but only ~35% have begun PQC migration planning despite NIST's August 2024 deadline. Global quantum talent shortage: fewer than 10,000 quantum computing scientists exist worldwide, creating fierce competition and 40–70% salary premiums for quantum engineers. STEM quantum education programs expanding at MIT, Caltech, ETH Zurich, and dozens of new national quantum institutes. [Source: technotrenz.com; sealsq.com]"
+    },
+    {
+      "factor": "Technological",
+      "impact": "2026 is defined by five competing qubit technologies: superconducting (IBM, Google, Rigetti), trapped-ion (IonQ, Quantinuum), photonic (PsiQuantum, Xanadu), neutral-atom (QuEra, Pasqal), and topological (Microsoft Majorana). Hybrid classical-quantum algorithms have become the dominant near-term architecture — quantum handles combinatorial search while classical AI handles training and inference. Google Willow crossed the threshold where error correction improves with qubit count; IBM's Kookaburra will attempt 4,158-qubit practical workloads by end-2026. Quantum + AI intersection accelerates: variational quantum eigensolver (VQE) for molecular simulation and quantum machine learning for pattern recognition in finance are the first commercially viable applications. [Source: programming-helper.com; presenc.ai]"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Quantum computers require cooling to ~15 millikelvin — 180× colder than outer space — using dilution refrigerators that consume significant energy and helium-3, a rare isotope. However, quantum algorithms for molecular simulation could reduce the energy cost of discovering new battery chemistries and carbon capture materials by years of classical computing time. A single quantum advantage in materials science could offset the environmental cost of the entire global quantum infrastructure build. Sustainable quantum computing is an emerging ESG metric — IBM, Google, and Microsoft publish annual quantum energy efficiency disclosures. [Source: wissenresearch.com; bqpsim.com]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "NIST FIPS 203/204/205 (August 2024) set global legal precedent: organizations failing to migrate to post-quantum encryption before Q-Day face potential negligence liability. NSA mandated quantum-safe TLS 1.3 by 2025 and full CNSA 2.0 compliance for National Security Systems by 2027. US H.R.3259 (Post Quantum Cybersecurity Standards Act) creates additional federal contractor obligations. The 'harvest now, decrypt later' (HNDL) threat — where adversaries store encrypted data today to decrypt when quantum computers mature — is now cited in board-level risk filings at major banks and insurers. GDPR implications for biometric and health data encrypted under vulnerable RSA are drawing EU regulatory attention. [Source: congress.gov; nist.gov; sealsq.com]"
+    }
+  ],
+
+  "jobs": [
+    {
+      "job": "Drug discovery: simulate molecular interactions with quantum-level fidelity to identify protein folding pathways and optimize drug candidates without wet-lab trial-and-error",
+      "solution": "Quantum molecular simulation (VQE algorithm on IBM Quantum, Quantinuum H2) models electron interactions that classical supercomputers cannot solve exactly — Pfizer, Roche, and Merck are running early-stage drug molecule optimization pilots targeting 10× reduction in discovery timelines."
+    },
+    {
+      "job": "Migrate all enterprise encryption to post-quantum standards before Q-Day renders current RSA/ECC-protected data retroactively vulnerable",
+      "solution": "Post-quantum cryptography migration services using NIST FIPS 203/204/205 standards — IBM, Google, Cloudflare, and Microsoft Azure Quantum offer PQC migration toolkits, with Cloudflare already routing production TLS traffic through post-quantum handshakes as of 2025."
+    },
+    {
+      "job": "Portfolio optimization: solve combinatorial asset allocation across thousands of correlated instruments simultaneously to find true global optima that classical Monte Carlo cannot reach",
+      "solution": "Quantum annealing (D-Wave) and variational quantum algorithms (IonQ Forte) solve optimization problems exponentially faster — Goldman Sachs and JPMorgan active pilots targeting 1–2% annualized alpha improvement in quantitative trading strategies."
+    },
+    {
+      "job": "Supply chain re-routing: optimize last-mile delivery routes across millions of nodes in real time as conditions change (weather, inventory, demand spikes)",
+      "solution": "Quantum-classical hybrid optimization — Airbus uses quantum algorithms for cabin-seat loading optimization; Volkswagen deployed IonQ's quantum traffic routing for 10,000+ vehicle fleets in 2025 pilot programs."
+    },
+    {
+      "job": "AI training acceleration: solve the combinatorial search for optimal neural architecture, hyperparameter configurations, and training data sampling faster than classical gradient descent",
+      "solution": "Quantum machine learning (QML) algorithms — IBM Qiskit and Google TensorFlow Quantum offer hybrid frameworks where quantum circuits handle high-dimensional feature spaces while classical neural networks handle inference; early results show 2–5× search space reduction in NAS tasks."
+    }
+  ],
+
+  "market": [
+    {
+      "name": "IBM Quantum",
+      "share": "~38%",
+      "loved": "72%",
+      "segment": "Enterprise cloud + developer ecosystem (Qiskit, 400K+ registered developers)"
+    },
+    {
+      "name": "Google Quantum AI",
+      "share": "~22%",
+      "loved": "78%",
+      "segment": "Research leadership + Google Cloud enterprise (Willow chip, quantum advantage milestones)"
+    },
+    {
+      "name": "Microsoft Azure Quantum",
+      "share": "~18%",
+      "loved": "70%",
+      "segment": "Topological bet + multi-vendor marketplace (Majorana, IonQ reseller, Quantinuum reseller)"
+    },
+    {
+      "name": "IonQ",
+      "share": "~12%",
+      "loved": "81%",
+      "segment": "Pure-play revenue leader; multi-cloud (AWS Braket, Azure, Google Cloud); $260–270M 2026 guidance"
+    },
+    {
+      "name": "Quantinuum (Honeywell)",
+      "share": "~6%",
+      "loved": "75%",
+      "segment": "Precision trapped-ion; enterprise pharma and materials; $10B valuation; IPO expected 2026–2027"
+    }
+  ],
+
+  "competitors": [
+    {
+      "name": "IBM Quantum (Kookaburra / Qiskit)",
+      "detail": "Market leader by developer ecosystem: 400,000+ registered developers on Qiskit, $1B+ cumulative quantum revenue by early 2025, $8.3B R&D spend in 2025. Kookaburra processor at 4,158 physical qubits is targeting its first real-world quantum advantage workload by end-2026. IBM's bet is 'quantum utility first' — proving value on real business problems before fault-tolerance is achieved. Partners with Boeing, ExxonMobil, and JPMorgan on quantum finance applications."
+    },
+    {
+      "name": "Google Quantum AI (Willow / Sycamore)",
+      "detail": "Research leader: Google's Willow chip (105 superconducting qubits) achieved below-threshold error correction (Dec 2024) and verifiable quantum advantage (Oct 2025) — two firsts. Roadmap targets fault-tolerant 'Gemini Quantum' system by 2029. Google's competitive moat is deep AI integration: quantum circuits run alongside Gemini AI models in Google Cloud, and Google uses quantum-inspired algorithms internally for infrastructure optimization. Strong TensorFlow Quantum developer tools bridge the AI-to-quantum gap."
+    },
+    {
+      "name": "Microsoft Azure Quantum (Majorana 2)",
+      "detail": "The riskiest and potentially highest-reward bet: topological qubits. Majorana 2 (Jun 2026) more than doubled the topological gap and achieved 20+ second parity lifetimes — critical for logical qubit stability. If Microsoft's topological approach succeeds, it could leapfrog superconducting architectures and compress the timeline to fault-tolerant quantum computing by years. Azure Quantum is also a multi-vendor marketplace reselling IBM, IonQ, and Quantinuum access — giving Microsoft platform leverage regardless of which hardware wins."
+    },
+    {
+      "name": "IonQ (Trapped-Ion, NYSE: IONQ)",
+      "detail": "The pure-play revenue leader: $130M FY2025 (+202% YoY), $64.7M Q1 2026 (+755% YoY), 2026 guidance raised to $260–270M after just one quarter. 60% commercial customers, 35% international — the most diversified revenue base of any pure-play quantum company. IonQ's trapped-ion architecture offers the highest gate fidelity among commercial systems. Its acquisition of SkyWater Technology establishes domestic US quantum chip manufacturing — a key differentiator for US government contracts."
+    },
+    {
+      "name": "Quantinuum (Honeywell Quantum Solutions)",
+      "detail": "$600M raised at $10B valuation; IPO above $20B expected. In partnership with Microsoft, ran 14,000 consecutive error-free quantum circuit instances — achieving error rates 800× better than physical qubits. H-Series trapped-ion processors are the most precise commercial quantum computers available in 2026. Quantinuum's InQuanto software platform for quantum chemistry is the primary tool for pharma and materials companies exploring molecular simulation. Closest to delivering verifiable real-world quantum utility in drug discovery."
+    }
+  ],
+
+  "canvas": {
+    "who": "Primary: CISOs, CTOs, and VP Engineering at Fortune 500 companies in finance, pharmaceuticals, defense, and critical infrastructure — driven by post-quantum cryptography migration mandates. Secondary: quantitative researchers at hedge funds and investment banks running portfolio optimization pilots. Tertiary: drug discovery scientists at Big Pharma (Pfizer, Roche, Merck) exploring molecular simulation. Government procurement teams at NSA, DARPA, DOE, NATO allies — driven by EO 14412/14413 compliance. The quantum workforce developer (PhD computational physicist + CS) is the rarest talent profile driving the market.",
+    "where": "Enterprise access primarily via cloud: IBM Quantum Network (cloud-first), Microsoft Azure Quantum marketplace, Amazon AWS Braket, Google Cloud Quantum AI — all offering pay-per-circuit pricing. National quantum labs: Oak Ridge (IBM), Argonne (Quantinuum), Fermilab (Google) serve government R&D. Physical hardware installations exist at only ~30 enterprise sites globally in 2026. Ecosystem hubs: Boston (MIT/Harvard quantum cluster), Chicago (Q-NEXT national hub), London (National Quantum Computing Centre), Tokyo (RIKEN), Singapore (CQT).",
+    "why_now": "Four forces simultaneously converged: (1) Google Willow proved fault-tolerant quantum is physically achievable — not theoretical; (2) NIST FIPS 203/204/205 (Aug 2024) created binding legal pressure on every enterprise to begin PQC migration regardless of whether they use quantum hardware; (3) IonQ's +755% Q1 YoY revenue proves commercial adoption has started; (4) White House EO 14412/14413 (Jun 2026) put quantum on every federal agency and contractor's priority list with hard deadlines. The field moved from 'when will it matter?' to 'it matters now and we're behind.'",
+    "behavior": "Enterprise buyers running hybrid classical-quantum proof-of-concept projects (not pure quantum); cloud-first experimentation via IBM Quantum Network and AWS Braket before buying hardware; IT teams conducting 'crypto agility audits' to inventory RSA/ECC dependencies ahead of PQC migration; quantum talent war: companies paying $250K–$400K for quantum engineers with < 10K available globally; attending IBM Quantum Summit, Q2B (Silicon Valley), and IQC conferences to track hardware roadmaps before committing architecture decisions.",
+    "unmet": "Four critical gaps: (1) Fault-tolerant quantum computers still 5–10 years away — all current systems are NISQ-era (Noisy Intermediate-Scale Quantum), limiting real-world applications; (2) Quantum talent shortage — fewer than 10,000 quantum computing specialists globally against enterprise demand for 100,000+; (3) No clear 'killer app' outside niche use cases — quantum advantage on real business problems remains elusive for most industries; (4) Interoperability gap — no unified quantum programming standard, forcing companies to rewrite algorithms for each hardware vendor's native gate sets."
+  },
+
+  "takeaways": [
+    "Start post-quantum cryptography migration NOW — NIST standards are final, EO 14412 deadlines are binding, and 'harvest now, decrypt later' attacks are already occurring against financial and government systems. Every enterprise with sensitive long-lived data (medical records, financial contracts, classified systems) must inventory RSA/ECC dependencies and begin FIPS 203/204/205 migration in 2026 or face retroactive vulnerability as quantum computers mature.",
+    "Build quantum-AI hybrid products, not pure quantum — the near-term commercial opportunity is in combining quantum optimization and simulation with classical AI models, not in replacing classical computing. Quantum handles the combinatorial search problems (portfolio optimization, drug candidate screening, route planning) while classical AI handles pattern recognition and inference. The first B2B SaaS companies packaging quantum-classical hybrids for finance, pharma, and logistics will capture the enterprise services layer before platform consolidation.",
+    "The quantum cloud platform race mirrors 2008 cloud infrastructure — invest in the services layer, not hardware bets. IBM Quantum, Azure Quantum, and AWS Braket are building the access infrastructure now; the trillion-dollar opportunity is the quantum software, middleware, and vertical application stack running on top. Enterprise buyers want 'quantum-as-a-service' abstracted from hardware, identical to how AWS abstracted server hardware. Platform-agnostic quantum middleware (Qiskit, Cirq, PennyLane) are the AWS SDK equivalents to build on now.",
+    "Target pharma molecular simulation and quant finance optimization as the two highest-ROI quantum beachheads for 2026–2030 — these are the only two domains where quantum computers are already running enterprise pilots with measurable results. Drug discovery teams using quantum molecular simulation report 10× reduction in candidate screening cycles. Quant finance teams using D-Wave annealing and IonQ VQE algorithms report measurable improvements in portfolio optimization speed. Focus product development there before expanding to longer-horizon use cases like materials discovery and logistics."
+  ],
+
+  "sources": [
+    {
+      "title": "NIST Releases First 3 Finalized Post-Quantum Encryption Standards",
+      "url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards",
+      "publisher": "NIST"
+    },
+    {
+      "title": "IonQ Announces Fourth Quarter and Full Year 2025 Financial Results — $130M revenue, 202% YoY growth",
+      "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx",
+      "publisher": "IonQ Investor Relations"
+    },
+    {
+      "title": "IonQ Announces First Quarter 2026 Financial Results — $64.7M, +755% YoY",
+      "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-First-Quarter-2026-Financial-Results/default.aspx",
+      "publisher": "IonQ Investor Relations"
+    },
+    {
+      "title": "Quantum Computing Market Size, Share | CAGR of 37.0% — $2.2B in 2025, projected $50.4B by 2035",
+      "url": "https://market.us/report/quantum-computing-market/",
+      "publisher": "Market.us Research"
+    },
+    {
+      "title": "Enterprise Quantum Computing Market Size Analysis Report 2026 — $4.78B (2025) to $6.28B (2026)",
+      "url": "https://www.thebusinessresearchcompany.com/report/enterprise-quantum-computing-global-market-report",
+      "publisher": "The Business Research Company"
+    },
+    {
+      "title": "Quantum Computing Breakthrough 2026: IBM's 4,158-Qubit Kookaburra and the Race to Quantum Advantage",
+      "url": "https://www.programming-helper.com/tech/quantum-computing-breakthrough-2026-ibm-google-qubit-race",
+      "publisher": "Programming Helper Tech"
+    },
+    {
+      "title": "5 Key Quantum Computing Breakthroughs in 2026 — Majorana 2, error correction milestones",
+      "url": "https://www.bqpsim.com/blogs/quantum-computing-breakthroughs",
+      "publisher": "BQP Simulation"
+    },
+    {
+      "title": "State of Quantum Computing 2026: Hardware, Funding and Milestones — $4.9B VC in 2025",
+      "url": "https://entangledfuture.com/guides/state-of-quantum-computing-2026/",
+      "publisher": "Entangled Future"
+    },
+    {
+      "title": "The Complete US Post-Quantum Cryptography Regulatory Framework in 2026 — EO 14412/14413 analysis",
+      "url": "https://postquantum.com/security-pqc/us-pqc-regulatory-framework-2026/",
+      "publisher": "Post Quantum"
+    },
+    {
+      "title": "Quantum Computing Statistics 2026: Market Size and Data — $56.7B total public funding commitments",
+      "url": "https://sqmagazine.co.uk/quantum-computing-statistics/",
+      "publisher": "SQ Magazine"
+    },
+    {
+      "title": "Google Quantum AI: The Complete 2026 Guide To Chips, Willow And The Roadmap",
+      "url": "https://quantumzeitgeist.com/google-quantum-computing/",
+      "publisher": "Quantum Zeitgeist"
+    },
+    {
+      "title": "Quantum Computing Use Cases by Industry 2026 — finance, pharma, logistics, defense",
+      "url": "https://entangledfuture.com/guides/quantum-computing-use-cases-by-industry/",
+      "publisher": "Entangled Future"
+    }
+  ]
+}

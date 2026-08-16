@@ -1,0 +1,196 @@
+{
+  "slug": "quantum-ai-computing",
+  "trend_name": "Quantum AI Computing",
+  "research_date": "2026-08-16",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "NIST",
+      "title": "NIST Releases First 3 Finalized Post-Quantum Encryption Standards (FIPS 203, 204, 205)",
+      "url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards",
+      "date": "2024-08-13",
+      "claims_supported": [
+        "NIST finalized three PQC standards on August 13, 2024: FIPS 203 (ML-KEM/KYBER), FIPS 204 (ML-DSA/Dilithium), FIPS 205 (SLH-DSA/SPHINCS+)",
+        "Triggers enterprise-wide encryption migration wave"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "IonQ Investor Relations",
+      "title": "IonQ Announces Fourth Quarter and Full Year 2025 Financial Results",
+      "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx",
+      "date": "2026-02-25",
+      "claims_supported": [
+        "IonQ reported $130M in FY2025 GAAP revenue",
+        "202% year-over-year revenue growth",
+        "First publicly-traded quantum company to exceed $100M annual revenue",
+        "60% commercial customers, ~35% international revenue"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "IonQ Investor Relations",
+      "title": "IonQ Announces First Quarter 2026 Financial Results",
+      "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-First-Quarter-2026-Financial-Results/default.aspx",
+      "date": "2026-05-08",
+      "claims_supported": [
+        "Q1 2026 revenue: $64.7 million",
+        "+755% year-over-year revenue growth in Q1 2026",
+        "Full-year 2026 guidance raised to $260–270M",
+        "Remaining performance obligations grew 554% YoY"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "Market.us Research",
+      "title": "Quantum Computing Market Size, Share | CAGR of 37.0%",
+      "url": "https://market.us/report/quantum-computing-market/",
+      "date": "2026-01",
+      "claims_supported": [
+        "Global quantum computing market valued at $2.2B in 2025",
+        "Projected to reach $50.4B by 2035",
+        "CAGR of 37.0% from 2026 to 2035"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "The Business Research Company",
+      "title": "Enterprise Quantum Computing Global Market Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/enterprise-quantum-computing-global-market-report",
+      "date": "2026-03",
+      "claims_supported": [
+        "Enterprise quantum computing grew from $4.78B (2025) to $6.28B (2026)",
+        "CAGR of 31.3%"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "Entangled Future",
+      "title": "State of Quantum Computing 2026: Hardware, Funding and Milestones",
+      "url": "https://entangledfuture.com/guides/state-of-quantum-computing-2026/",
+      "date": "2026-06",
+      "claims_supported": [
+        "$4.9B VC invested in quantum startups in 2025 — 192% YoY increase",
+        "$56.7B in total public funding commitments worldwide",
+        "Japan committed $7.4B national quantum strategy",
+        "Spain committed ~$900M to quantum programs"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "BQP Simulation",
+      "title": "5 Key Quantum Computing Breakthroughs in 2026",
+      "url": "https://www.bqpsim.com/blogs/quantum-computing-breakthroughs",
+      "date": "2026-06",
+      "claims_supported": [
+        "Microsoft Majorana 2 doubled topological gap and achieved 20+ second parity lifetimes",
+        "IBM, Google, Microsoft, Quantinuum, IonQ, and Rigetti all hit logical-qubit milestones in H1 2026",
+        "2026 is when quantum error correction crossed from research to engineering reality"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "Quantum Zeitgeist",
+      "title": "Google Quantum AI: The Complete 2026 Guide To Chips, Willow And The Roadmap",
+      "url": "https://quantumzeitgeist.com/google-quantum-computing/",
+      "date": "2026-05",
+      "claims_supported": [
+        "Google Willow (105 qubits) achieved below-threshold error correction in December 2024",
+        "Error rates decrease as qubit counts increase — first time in history",
+        "Willow advanced to 7x7 surface code demonstration in 2026",
+        "Google announced verifiable quantum advantage using Quantum Echoes algorithm (Oct 2025)"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "Post Quantum",
+      "title": "The Complete US Post-Quantum Cryptography Regulatory Framework in 2026",
+      "url": "https://postquantum.com/security-pqc/us-pqc-regulatory-framework-2026/",
+      "date": "2026-07",
+      "claims_supported": [
+        "Executive Order 14412 (June 2026) mandates government-wide PQC migration with binding deadlines",
+        "Executive Order 14413 (June 2026) establishes national quantum workforce development institutes",
+        "NSA CNSA 2.0 requires all National Security Systems to be quantum-safe by January 2027",
+        "Cloudflare, Google, and Microsoft updated post-quantum deployment timelines in 2026"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "Congress.gov",
+      "title": "H.R.3259 — Post Quantum Cybersecurity Standards Act (119th Congress, 2025-2026)",
+      "url": "https://www.congress.gov/bill/119th-congress/house-bill/3259/text",
+      "date": "2025-05",
+      "claims_supported": [
+        "US federal legislation establishing post-quantum cryptography migration obligations for federal contractors",
+        "Legal basis for CISA product category migration requirements"
+      ]
+    },
+    {
+      "id": 11,
+      "publisher": "Programming Helper Tech",
+      "title": "Quantum Computing Breakthrough 2026: IBM's 433-Qubit Condor, Google's 1000-Qubit Willow, and the $17.3B Race",
+      "url": "https://www.programming-helper.com/tech/quantum-computing-breakthrough-2026-ibm-google-qubit-race",
+      "date": "2026-04",
+      "claims_supported": [
+        "IBM Kookaburra system targets approximately 4,158 physical qubits",
+        "IBM's roadmap toward fault-tolerant machine by 2029",
+        "IBM R&D spend: $8.3B in 2025"
+      ]
+    },
+    {
+      "id": 12,
+      "publisher": "Entangled Future",
+      "title": "Quantum Computing Use Cases by Industry 2026",
+      "url": "https://entangledfuture.com/guides/quantum-computing-use-cases-by-industry/",
+      "date": "2026-05",
+      "claims_supported": [
+        "Finance, pharma, logistics, cybersecurity, and defense are primary quantum adopters",
+        "Hybrid classical-quantum workflows dominant near-term architecture",
+        "Portfolio optimization and molecular simulation leading enterprise pilots"
+      ]
+    },
+    {
+      "id": 13,
+      "publisher": "SQ Magazine",
+      "title": "Quantum Computing Statistics 2026: Market Size and Data",
+      "url": "https://sqmagazine.co.uk/quantum-computing-statistics/",
+      "date": "2026-06",
+      "claims_supported": [
+        "Global quantum technology sector reached $1.9B in 2025, growing 30% YoY",
+        "Quantum computing market projected to grow at 30% annually to $3B by 2028",
+        "48% of companies invest less than $5M annually in quantum; ~33% spend $10M+"
+      ]
+    },
+    {
+      "id": 14,
+      "publisher": "Quantum Computing News",
+      "title": "Quantum Computing News — August 2026 (Startup Edition)",
+      "url": "https://blog.mean.ceo/quantum-computing-news-august-2026/",
+      "date": "2026-08",
+      "claims_supported": [
+        "Quantinuum raised $600M at $10B valuation, IPO expected above $20B",
+        "76 major quantum computing companies active in 2026",
+        "Quantinuum + Microsoft partnership: 14,000 error-free circuit instances, 800x below physical error rates"
+      ]
+    }
+  ],
+  "data_quality_notes": {
+    "verified_claims": [
+      "NIST FIPS 203/204/205 — official government publication",
+      "IonQ revenue figures — official investor relations press releases",
+      "Google Willow error correction milestone — published in Nature (Dec 2024)",
+      "Microsoft Majorana 1/2 — Microsoft official announcements",
+      "EO 14412/14413 — executive orders listed on congress.gov and postquantum.com"
+    ],
+    "estimated_claims": [
+      "Market share percentages (IBM ~38%, Google ~22%, Microsoft ~18%) — estimated from analyst reports, not official disclosures",
+      "Search volume ~200K+/mo — estimated based on Google Trends signals for 'quantum computing' keyword cluster",
+      "growth_5y (+580%), growth_1y (+87%), growth_3m (+63%) — estimated composite of market revenue growth and search trend indicators; not directly sourced from a single report"
+    ],
+    "unverified_claims": [
+      "Fewer than 10,000 quantum computing scientists globally — widely cited figure but no single authoritative source confirmed",
+      "Goldman Sachs and JPMorgan '1-2% alpha improvement' quantum finance pilots — reported in press but specific numbers not publicly confirmed",
+      "Volkswagen IonQ traffic routing pilot 2025 — referenced in IonQ partnership announcements but quantified results not independently verified"
+    ]
+  }
+}
