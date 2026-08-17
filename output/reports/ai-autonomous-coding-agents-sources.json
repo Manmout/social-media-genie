@@ -1,0 +1,109 @@
+{
+  "trend": "AI Autonomous Coding Agents",
+  "slug": "ai-autonomous-coding-agents",
+  "generated": "2026-08-17",
+  "sources": [
+    {
+      "id": "1",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "claim": "Cognition raises $1B at $25B pre-money ($26B post-money) valuation — round co-led by Lux Capital, General Catalyst, 8VC",
+      "used_for": ["trigger", "timeline.May 2026", "competitors.Cognition", "pestal.Economic"],
+      "verified": true
+    },
+    {
+      "id": "2",
+      "publisher": "The Next Web",
+      "url": "https://thenextweb.com/news/cognition-just-raised-1-billion-at-a-26-billion-valuation-and-90-of-its-own-code-is-written-by-its-ai",
+      "claim": "89% (or 90%) of all code committed at Cognition is now written by Devin; $37M to $492M revenue growth in 12 months",
+      "used_for": ["trigger", "competitors.Cognition", "market.Cognition", "jobs"],
+      "verified": true
+    },
+    {
+      "id": "3",
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "claim": "Cognition in talks to raise next round at $40B valuation (as of August 12, 2026)",
+      "used_for": ["trigger", "timeline.Aug 2026", "growth_3m"],
+      "verified": true
+    },
+    {
+      "id": "4",
+      "publisher": "Devgraphiq / Axis Intelligence",
+      "url": "https://devgraphiq.com/cursor-statistics/",
+      "claim": "Cursor at $4B ARR as of May 2026; $29.3B valuation after $2.3B Series D; 64% Fortune 500 adoption; timeline: $500M ARR Jun 2025, $1B ARR Nov 2025, $2B ARR Mar 2026, $4B ARR May 2026",
+      "used_for": ["market.Cursor", "competitors.Cursor", "pestal.Economic", "timeline.Nov 2024"],
+      "verified": true
+    },
+    {
+      "id": "5",
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/artificial-intelligence-code-tools-market",
+      "claim": "AI Code Tools market worth $9.35B in 2026, growing at 26.23% CAGR to $29.96B by 2031",
+      "used_for": ["search_volume", "growth_1y", "market size"],
+      "verified": true
+    },
+    {
+      "id": "6",
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-agents-market-report",
+      "claim": "Global AI agents market at $10.9B in 2026 growing at 49.6% CAGR to $182.9B by 2033; coding & software development segment CAGR of 52.4%",
+      "used_for": ["growth_1y", "pestal.Economic", "market size by segment"],
+      "verified": true
+    },
+    {
+      "id": "7",
+      "publisher": "Computer World / Google Windsurf Deal",
+      "url": "https://www.computerworld.com/article/4021763/google-snatches-windsurf-execs-in-a-2-4b-deal-derailing-openais-biggest-acquisition-but.html",
+      "claim": "Google paid $2.4B for Windsurf's talent and IP via acqui-hire structure; CEO Varun Mohan and team joined DeepMind; deal closed after OpenAI's $3B acquisition failed due to Microsoft IP dispute",
+      "used_for": ["timeline.Aug 2026", "competitors.Google", "pestal.Political"],
+      "verified": true
+    },
+    {
+      "id": "8",
+      "publisher": "Uvik Software / AI Coding Statistics",
+      "url": "https://uvik.net/blog/ai-coding-assistant-statistics/",
+      "claim": "85% of developers use AI tools in 2026; GitHub Copilot 68% adoption; Cursor 28% professional dev market; Claude Code 19% adoption; AI coding tools generated $12.8B revenue in 2026 (doubled from $5.1B in 2024)",
+      "used_for": ["search_volume", "pestal.Social", "market.GitHub Copilot", "market.Cursor"],
+      "verified": true
+    },
+    {
+      "id": "9",
+      "publisher": "AIExposure.org",
+      "url": "https://www.aiexposure.org/analysis/coding-jobs-ai-2026",
+      "claim": "Companies using autonomous agents report 30-50% reduction in junior developer headcount for routine feature development; senior devs with Cursor complete tasks 5-8x faster",
+      "used_for": ["pestal.Social", "pestal.Economic", "jobs", "canvas.who", "takeaways"],
+      "verified": true
+    },
+    {
+      "id": "10",
+      "publisher": "Superblocks / Amazon Q Pricing",
+      "url": "https://www.superblocks.com/blog/amazon-qdeveloper-pricing",
+      "claim": "Amazon Q Developer: Free tier (50 agentic tasks/month, security scanning) + Pro at $19/user/month; SOC/ISO/HIPAA compliant; AWS ecosystem integration",
+      "used_for": ["competitors.Amazon Q", "market.Amazon Q"],
+      "verified": true
+    },
+    {
+      "id": "11",
+      "publisher": "The Agent Report / Cognition Funding",
+      "url": "https://the-agent-report.com/2026/06/cognition-devin-1b-26b-valuation-june-2026/",
+      "claim": "Devin can independently resolve approximately 50% of real-world GitHub issues; 50% month-over-month enterprise customer growth",
+      "used_for": ["competitors.Cognition", "jobs", "pestal.Technical"],
+      "verified": true
+    },
+    {
+      "id": "12",
+      "publisher": "GitHub Newsroom",
+      "url": "https://github.com/newsroom/press-releases/agent-mode",
+      "claim": "GitHub Copilot Agent Mode GA: plans and executes multi-step coding tasks, determines which files to edit, runs terminal commands, iterates on errors, and opens PRs autonomously",
+      "used_for": ["market.GitHub Copilot", "competitors.GitHub Copilot", "timeline.Nov 2024"],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "growth_5y listed as '+∞' since autonomous coding agents as a category emerged in 2023 — no 2021 baseline for this specific subcategory exists; broader AI code tools market grew from ~$2.5B (2021) to $12.8B (2026) per CAGR extrapolation",
+    "search_volume of ~200,000/mo is an estimate based on developer adoption rates and category size, not a verified Keyword Everywhere or SEMrush figure",
+    "Environmental PESTAL impact is noted as [unverified] — net energy impact of AI agents vs. saved compute from improved code quality has not been quantified by credible sources",
+    "3M growth of +35% is estimated based on Cognition valuation trajectory (May→Aug 2026) and Cursor ARR doubling velocity; not a direct market data point"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "trend_name": "AI Autonomous Coding Agents",
+  "status": "surging",
+  "search_volume": "~200,000/mo [est]",
+  "category": "AI & Technology",
+  "growth_5y": "+∞ (2023-born)",
+  "growth_1y": "+51%",
+  "growth_3m": "+35%",
+  "trigger": "Cognition raises $1B at $26B valuation (May 2026, revenue $37M→$492M in 12 months); 89% of Cognition's own code written by Devin; Google closes $2.4B Windsurf acqui-hire; Cognition in talks at $40B valuation (Aug 12, 2026)",
+  "timeline": [
+    {
+      "date": "Jun 2021",
+      "event": "GitHub Copilot enters Technical Preview — first AI pair programmer reaches millions of developers, planting the seed for AI-native development workflows"
+    },
+    {
+      "date": "Mar 2023",
+      "event": "GPT-4 release enables first production-quality code reasoning; SWE-agent research demonstrates AI can autonomously resolve GitHub issues for the first time"
+    },
+    {
+      "date": "Mar 2024",
+      "event": "Cognition launches Devin — first commercial AI agent to pass SWE-bench challenges autonomously; raises $21M seed at $2B valuation despite having no public product"
+    },
+    {
+      "date": "Nov 2024",
+      "event": "Cursor crosses $500M ARR in 18 months; GitHub Copilot Workspace enters GA, enabling issue-to-PR automation; autonomous coding agent category officially declared viable"
+    },
+    {
+      "date": "May 2026",
+      "event": "Cognition raises $1B at $26B valuation — revenue grew from $37M to $492M in 12 months; 89% of Cognition's code is Devin-written; Goldman Sachs & Mercedes-Benz among enterprise customers"
+    },
+    {
+      "date": "Aug 2026",
+      "event": "Google closes $2.4B Windsurf acqui-hire after OpenAI deal collapses; Cursor raises $2.3B at $29.3B valuation; Cognition reportedly in talks at $40B valuation — sector consolidation accelerates"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "US government becomes a Cognition customer; OpenAI's $3B Windsurf acquisition blocked by Microsoft tensions, forcing $2.4B Google acqui-hire instead; EU AI Act August 2026 tranche requires documentation for high-risk AI in software pipelines"
+    },
+    {
+      "factor": "Economic",
+      "impact": "AI code tools market doubles from $5.1B (2024) to $12.8B (2026); Cursor at $4B ARR; Cognition at $492M ARR; companies report 30-50% reduction in junior developer headcount for routine feature work — driving rapid enterprise ROI calculations"
+    },
+    {
+      "factor": "Social",
+      "impact": "85% of developers use AI tools in 2026; junior developer hiring collapses as autonomous agents handle entry-level tasks; skill gap widens between AI-native engineers and legacy developers; new role emerges: 'AI Work Dispatcher' who manages agent fleets"
+    },
+    {
+      "factor": "Technical",
+      "impact": "Multi-model orchestration (expensive model plans, cheap models execute in parallel) unlocks genuine autonomy; SWE-bench scores crossing 50% for autonomous issue resolution; Devin can independently resolve ~50% of real-world GitHub issues; on-device code models emerging for offline development"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Data centers powering AI agent compute require significant energy (comparable to training runs for long multi-step tasks); however, AI-generated code quality improvements reduce compute wasted on buggy production deployments and inefficient algorithms [unverified net impact]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "IP ownership disputes over AI-generated code unresolved in most jurisdictions; GitHub Copilot lawsuit over training data continues; EU AI Act requires audit trails for autonomous AI systems making consequential decisions; enterprise legal teams demand attribution logs for all AI-produced code commits"
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Implement a complete new feature from a natural language spec without writing every line manually",
+      "solution": "Devin and Cursor Agent Mode accept a task description, plan the implementation, write all files, run tests, and open a pull request for human review — compressing a 2-day dev task to 2 hours"
+    },
+    {
+      "job": "Fix production bugs without pulling senior engineers off roadmap",
+      "solution": "Autonomous agents are assigned GitHub issues directly, reproduce the bug, write a failing test, implement a fix, and submit a PR — freeing senior devs to focus on architecture and product decisions"
+    },
+    {
+      "job": "Migrate a legacy codebase to modern frameworks or eliminate tech debt at scale",
+      "solution": "Agents analyze hundreds of files across a monorepo, generate a migration plan, and execute changes in parallel isolated worktrees — enabling large-scale refactors in days instead of quarters"
+    },
+    {
+      "job": "Bootstrap a startup MVP without a full development team",
+      "solution": "Solo founders use Cursor, Claude Code, or Devin to generate full-stack applications in hours — SpaceX reportedly used Cursor's $60B acqui-hire value to replace an entire engineering team for internal tooling"
+    },
+    {
+      "job": "Generate comprehensive test coverage for existing production code",
+      "solution": "Agents analyze production code paths, identify uncovered branches, and autonomously write unit, integration, and E2E test suites — teams report going from 40% to 90% test coverage in days"
+    }
+  ],
+  "market": [
+    {
+      "name": "GitHub Copilot (Microsoft)",
+      "share": "~68% dev adoption",
+      "loved": "Native integration across VS Code, JetBrains, and Neovim; GA Agent Mode assigns issues to Copilot autonomously; supports GPT-5.1-Codex-Max, Claude Opus 4.5, Gemini 2.0",
+      "segment": "Enterprise Developer Productivity"
+    },
+    {
+      "name": "Cursor (Anysphere)",
+      "share": "~28% professional devs",
+      "loved": "Full codebase context across 1M+ line repos; 64% of Fortune 500 adoption; $4B ARR proves enterprise value at scale",
+      "segment": "AI-Native IDE"
+    },
+    {
+      "name": "Cognition (Devin)",
+      "share": "$492M ARR",
+      "loved": "True end-to-end autonomous engineering — resolves ~50% of GitHub issues solo; 89% of Cognition's own production code is Devin-generated",
+      "segment": "Autonomous AI Software Engineer"
+    },
+    {
+      "name": "Amazon Q Developer",
+      "share": "AWS ecosystem",
+      "loved": "Deep AWS integration; SOC/ISO/HIPAA compliance; customizable with internal codebases; free tier with 50 agentic tasks/month; $19/user/mo Pro",
+      "segment": "Cloud-Native Dev Agents"
+    },
+    {
+      "name": "Google Gemini Code Assist + ex-Windsurf",
+      "share": "enterprise AI dev",
+      "loved": "Windsurf Cascade's project-wide context; Gemini 2.0 Flash speed; $2.4B acqui-hire signals serious long-term investment; tight Google Cloud integration",
+      "segment": "Enterprise AI Dev Platform"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Cursor (Anysphere)",
+      "detail": "$4B ARR as of May 2026; $29.3B valuation after $2.3B Series D; valuation grew from $400M to $29.3B in under 2 years; 64% Fortune 500 adoption; 60-65% of revenue from enterprise; SpaceX built internal tools entirely with Cursor"
+    },
+    {
+      "name": "Cognition (Devin)",
+      "detail": "$1B raise at $26B valuation (May 2026); revenue grew $37M→$492M in 12 months; in talks at $40B (Aug 2026); 89% of its own code is Devin-written; enterprise customers include Goldman Sachs, Mercedes-Benz, US government agencies; $500/month per seat"
+    },
+    {
+      "name": "GitHub Copilot (Microsoft)",
+      "detail": "68% developer adoption globally; GA Agent Mode 2026 — assigns GitHub issues to Copilot, which plans, codes, tests, and opens PRs autonomously; supports multi-model: GPT-5.1-Codex-Max, Claude Opus 4.5, Gemini 2.0 Flash; $10/mo individual, $19/mo Business"
+    },
+    {
+      "name": "Google / ex-Windsurf",
+      "detail": "Google paid $2.4B to acqui-hire Windsurf CEO Varun Mohan, co-founder Douglas Chen, and key staff (joined DeepMind); Windsurf Editor was first 'agentic IDE' with project-wide context; deal closed after OpenAI's $3B acquisition fell through due to Microsoft IP dispute"
+    },
+    {
+      "name": "Amazon Q Developer",
+      "detail": "Rebrand of CodeWhisperer (Apr 2024); GA enterprise agent features in 2026; deep AWS integration — answers account-level questions, generates CLI commands, carries out multi-step refactoring; compliance certifications (SOC, HIPAA, PCI); free tier with 50 agentic tasks/month"
+    }
+  ],
+  "canvas": {
+    "who": "Senior software engineers leveraging 5-8x productivity gains; CTOs restructuring dev teams to replace junior headcount; solo founders bootstrapping MVPs without full teams; enterprise engineering orgs at Goldman Sachs, SpaceX, Mercedes-Benz; platform engineers building internal developer tooling",
+    "where": "North America and Western Europe lead enterprise adoption (Fortune 500, tech startups); India and APAC driving individual developer adoption via $20/mo Cursor plans; Silicon Valley AI-native startups as earliest adopters; US government agencies emerging as enterprise customers",
+    "why_now": "Multi-model orchestration (expensive model plans, cheap models execute) crosses the autonomy threshold; Devin's 50% GitHub issue resolution rate proves real-world production viability; enterprise CFOs see 30-50% junior dev headcount ROI in months not years; $1B+ funding rounds signal category is no longer experimental",
+    "behavior": "Engineers shift from writing to reviewing AI output; GitHub issues assigned directly to AI agents; PRs opened by agents, humans review diffs; morning standups include AI agent progress reports; new workflow: describe task in natural language → agent executes in background → engineer reviews and merges; teams run multiple parallel agent sessions",
+    "unmet": "Reliable multi-day task execution without agents getting stuck mid-way; accurate context over 1M+ line codebases without hallucination; audit trails and attribution for AI-generated production code; team collaboration features across concurrent agent sessions; transparent pricing for compute-heavy autonomous tasks vs. seat licenses"
+  },
+  "takeaways": [
+    "Restructure engineering teams now — companies already cutting junior dev headcount 30-50% for routine feature work; the winning org structure combines senior engineers who review AI output with 'AI Work Dispatchers' who manage agent task queues, replacing the traditional junior→senior pipeline",
+    "Evaluate autonomous agents critically before org-wide rollout — studies show teams with heavy AI adoption can show decreased delivery stability; implement structured human review gates and isolated worktrees, not unconstrained autonomous agents with direct production access",
+    "Build your proprietary context moat — Cursor's $4B ARR comes from deep codebase context; companies that train agents on proprietary codebases, internal libraries, and domain documentation will outperform those using off-the-shelf agents on generic code; your codebase becomes a competitive asset",
+    "Establish AI code governance before regulation forces it — EU AI Act and US government procurement rules will require audit trails for autonomous AI systems within 18 months; implement attribution logging, AI-generated code tagging, and review gates now to avoid costly retrofits later"
+  ],
+  "sources": [
+    "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "https://thenextweb.com/news/cognition-just-raised-1-billion-at-a-26-billion-valuation-and-90-of-its-own-code-is-written-by-its-ai",
+    "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "https://devgraphiq.com/cursor-statistics/",
+    "https://www.mordorintelligence.com/industry-reports/artificial-intelligence-code-tools-market",
+    "https://www.grandviewresearch.com/industry-analysis/ai-agents-market-report",
+    "https://www.computerworld.com/article/4021763/google-snatches-windsurf-execs-in-a-2-4b-deal-derailing-openais-biggest-acquisition-yet.html",
+    "https://uvik.net/blog/ai-coding-assistant-statistics/",
+    "https://www.aiexposure.org/analysis/coding-jobs-ai-2026",
+    "https://www.superblocks.com/blog/amazon-qdeveloper-pricing"
+  ]
+}
