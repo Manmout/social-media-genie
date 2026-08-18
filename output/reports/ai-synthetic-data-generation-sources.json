@@ -1,0 +1,230 @@
+{
+  "trend": "AI Synthetic Data Generation",
+  "slug": "ai-synthetic-data-generation",
+  "research_date": "2026-08-18",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Synthetic Data Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6226369/ai-in-synthetic-data-market-report",
+      "publisher": "Research and Markets",
+      "date": "2026",
+      "claims_supported": [
+        "AI in Synthetic Data market valued at USD 2.75B in 2026",
+        "Market projected to reach USD 10.48B by 2030 at 39.7% CAGR",
+        "search_volume proxy: market size corroboration",
+        "Economic PESTAL: market size and growth rate",
+        "Trigger: market size supporting the sector validation narrative"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Synthetic Data Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6075344/synthetic-data-market-report",
+      "publisher": "Research and Markets",
+      "date": "2026",
+      "claims_supported": [
+        "Synthetic Data Market valued at USD 0.92B in 2026",
+        "Projected to reach USD 3.02B by 2030 at 34.5% CAGR",
+        "Broader market (non-AI-specific) size baseline",
+        "Economic PESTAL: market size context"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Synthetic Data Generation Market | Forecast Analysis [2034]",
+      "url": "https://www.fortunebusinessinsights.com/synthetic-data-generation-market-108433",
+      "publisher": "Fortune Business Insights",
+      "date": "2026",
+      "claims_supported": [
+        "Synthetic Data Generation market: USD 791.34M in 2026",
+        "31.10% CAGR through 2034",
+        "Market size and growth rate for trend data",
+        "growth_5y calculation baseline: $218.4M in 2023 (Grand View Research) backward-estimated to ~$120M in 2021"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Synthetic Data Market Size, Share, Trends & Research Report, 2031",
+      "url": "https://www.mordorintelligence.com/industry-reports/synthetic-data-market",
+      "publisher": "Mordor Intelligence",
+      "date": "2026",
+      "claims_supported": [
+        "Synthetic data market: USD 710M in 2026 growing to USD 3.67B by 2031 at 38.96% CAGR",
+        "growth_1y: +39% CAGR corroboration",
+        "Economic PESTAL: market growth rate cross-reference"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Synthetic Data Generation Market Size, Share & Growth Report",
+      "url": "https://www.grandviewresearch.com/industry-analysis/synthetic-data-generation-market-report",
+      "publisher": "Grand View Research",
+      "date": "2024",
+      "claims_supported": [
+        "Synthetic data generation market valued at USD 218.4M in 2023",
+        "Projected to reach USD 1.79B by 2030",
+        "Timeline 2023-07: market size at that milestone",
+        "growth_5y calculation: $218.4M in 2023 used to back-estimate 2021 baseline at ~$120M (at 35% CAGR)",
+        "growth_5y: ($791M 2026) / ($120M 2021 est.) ≈ +560% — used in trend data"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Top 20 Companies in the Global Synthetic Data Market",
+      "url": "https://www.sphericalinsights.com/blogs/top-20-companies-in-the-global-synthetic-data-market-2026-2035-spherical-insights-analysis",
+      "publisher": "Spherical Insights",
+      "date": "2026",
+      "claims_supported": [
+        "Key players: NVIDIA, MOSTLY AI, Syntho, Tonic.ai, YData, Gretel, Synthesis AI, Datagen",
+        "Market player detail: competitor roster",
+        "Market fragmentation context: 20+ companies operating in the space"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Best synthetic data generation tools for 2026",
+      "url": "https://www.k2view.com/blog/best-synthetic-data-generation-tools/",
+      "publisher": "K2view",
+      "date": "2026",
+      "claims_supported": [
+        "Top 2026 tools: K2view, Gretel, MOSTLY AI, Syntho, YData, Hazy",
+        "Competitor detail: tool positioning and capabilities",
+        "Tonic.ai $35M Series B corroboration",
+        "MOSTLY AI €31M raised corroboration"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Synthetic Data Startup Statistics",
+      "url": "https://blog.mean.ceo/synthetic-data-startup-statistics/",
+      "publisher": "mean.ceo",
+      "date": "2025",
+      "claims_supported": [
+        "Gretel raised $50M Series B (2021)",
+        "MDClone raised $63M (2022)",
+        "Datagen raised $50M (2022)",
+        "Tonic.ai raised $35M (2021)",
+        "Parallel Domain raised $30M (2022)",
+        "MOSTLY AI raised $25M (2022)",
+        "Synthesis AI raised $17M (2022)",
+        "Timeline 2021-09 and 2022-10: funding round details"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "How does the EU AI Act affect the use of synthetic data for AI development?",
+      "url": "https://bluegen.ai/how-does-the-eu-ai-act-affect-the-use-of-synthetic-data-for-ai-development/",
+      "publisher": "BlueGen AI",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act Article 10 mandates synthetic training data documentation and machine-readable labeling",
+        "Systems placed on the EU market after August 2, 2026 must comply immediately",
+        "High-risk use-based systems compliance deadline moved to December 2, 2027",
+        "Political PESTAL: EU AI Act compliance requirements detail",
+        "Timeline 2026-08: EU AI Act compliance deadline context"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Synthetic Data Explosion: How 2026 Reduces Data Costs by 70%",
+      "url": "https://cogentinfo.com/resources/synthetic-data-explosion-how-2026-reduces-data-costs-by-70",
+      "publisher": "Cogent",
+      "date": "2026",
+      "claims_supported": [
+        "Organizations reduce data collection expenses by 40-60% with synthetic data",
+        "Compliance overhead reduced by 30-50%",
+        "Storage costs reduced by 25-35%",
+        "By 2026, 75% of businesses using synthetic data for AI",
+        "Economic PESTAL: cost reduction figures",
+        "JTBD #4: developer test environment cost savings context"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Synthetic Data: Breaking US Data Privacy Bottleneck in 2026",
+      "url": "https://analyticsweek.com/synthetic-data-privacy-bottleneck-2026/",
+      "publisher": "Analytics Week",
+      "date": "2026",
+      "claims_supported": [
+        "Gartner prediction: 75%+ of data used for AI will be synthetic by 2026",
+        "GDPR and CCPA do not restrict synthetic data (no personal information)",
+        "Social PESTAL: ethical AI training data demand",
+        "Trigger: Gartner 75% synthetic data milestone"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Synthetic Data 2026: Tools, Use Cases, and Risks",
+      "url": "https://www.buildmvpfast.com/blog/synthetic-data-ai-training-generation-tools-2026",
+      "publisher": "Build MVP Fast",
+      "date": "2026",
+      "claims_supported": [
+        "GDPR exempts properly generated synthetic data from personal data restrictions",
+        "Under GDPR, synthetic data not traceable to real individuals falls outside regulation scope",
+        "Legal PESTAL: GDPR exemption confirmation",
+        "JTBD #2: financial services GDPR-compliant training data detail"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Synthetic Data Advances Boost AI Privacy 2026",
+      "url": "https://technosports.co.in/synthetic-data-ai-privacy/",
+      "publisher": "Technosports",
+      "date": "2026",
+      "claims_supported": [
+        "Mayo Clinic and Cleveland Clinic use synthetic patient data for drug interaction studies",
+        "Synthetic patient data for treatment outcome modeling",
+        "JTBD #1: healthcare synthetic EHR use case details",
+        "Social PESTAL: healthcare patient data privacy expectations"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "AI training in 2026: anchoring synthetic data in human truth",
+      "url": "https://invisibletech.ai/blog/ai-training-in-2026-anchoring-synthetic-data-in-human-truth",
+      "publisher": "Invisible Tech AI",
+      "date": "2026",
+      "claims_supported": [
+        "By 2026, more than 75% of data used for AI creation is artificial",
+        "Synthetic data has evolved beyond simple tabular spreadsheets to high-fidelity medical imaging",
+        "Timeline 2026-08: Gartner 75% synthetic data milestone",
+        "Technological PESTAL: synthetic data maturity assessment"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Gretel Revenue & Market Share 2026",
+      "url": "https://geo.sig.ai/brands/gretel",
+      "publisher": "Signal AI",
+      "date": "2026",
+      "claims_supported": [
+        "Gretel market position and competitive context",
+        "Competitor detail: Gretel pre-acquisition capabilities and positioning",
+        "NVIDIA/Gretel competitor profile supporting data"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~45,000/month",
+      "note": "The 45,000 monthly search volume estimate for the keyword cluster around 'synthetic data', 'synthetic data generation', 'AI training data', 'synthetic dataset', and related terms is a directional estimate. No primary keyword tool (Keywords Everywhere, Ahrefs, SEMrush) was directly queried in this research session. The estimate is based on the category's position as a major AI infrastructure trend with 75%+ enterprise adoption, developer community size (Gretel 10M+ datasets, ydata-profiling 20M+ downloads), and the category's professional rather than consumer search profile. Actual total volume across the full keyword cluster likely exceeds this figure."
+    },
+    {
+      "claim": "Market share percentages for all five market players",
+      "note": "The market share estimates (~22% NVIDIA/Gretel, ~16% MOSTLY AI, ~12% Syntho, ~11% Tonic.ai, ~8% YData) are directional estimates based on relative funding, known customer counts, and analyst commentary. No independent analyst has published a formal market share breakdown for the synthetic data generation segment post-NVIDIA acquisition. All shares are marked [unverified est.] in the trend data file. The market is highly fragmented with 20+ vendors; these estimates represent the top 5 by enterprise revenue but the actual breakdown is not publicly disclosed."
+    },
+    {
+      "claim": "growth_5y: '+560%'",
+      "note": "The +560% five-year growth figure is calculated from: (1) Grand View Research's synthetic data generation market at $218.4M in 2023; (2) backward estimation at 35% CAGR to approximate 2021 baseline at ~$120M; (3) Fortune Business Insights 2026 market size of $791.34M. Calculation: ($791M / $120M - 1) × 100 ≈ 560%. This is an estimate based on multiple analyst sources and backward-extrapolated baselines, not a directly quoted five-year growth figure from a single primary source. The actual figure may be higher if the 2021 market baseline was lower than ~$120M."
+    },
+    {
+      "claim": "NVIDIA acquired Gretel in March 2025",
+      "note": "The NVIDIA acquisition of Gretel was widely reported in March 2025. The TechCrunch source URL cited in the trend data sources list (https://techcrunch.com/2025/03/nvidia-acquires-gretel-synthetic-data) was included based on reports gathered during research. The acquisition terms (price, structure) were not publicly disclosed. The Gretel integration into NIM microservices and cloud AI developer stack is corroborated by post-acquisition NVIDIA developer documentation and press coverage."
+    },
+    {
+      "claim": "Data annotation labor rights strikes in 2025 (Kenya, India, Philippines)",
+      "note": "Data annotation worker labor rights concerns and incidents in 2024-2025 were widely reported in technology media. The specific characterization as 'strikes' in Kenya, India, and the Philippines in 2025 in the Social PESTAL section is based on a synthesis of multiple reports about AI training data labor conditions. Specific verified strike incidents in the precise timeframe cited are not confirmed from a single primary source in this research session; the broader trend of data annotation labor rights concerns is well-documented."
+    }
+  ]
+}
