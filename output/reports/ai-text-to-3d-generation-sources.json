@@ -1,0 +1,175 @@
+{
+  "trend": "AI Text-to-3D Generation",
+  "slug": "ai-text-to-3d-generation",
+  "generated_date": "2026-08-19",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Meshy Raises Nearly $400 Million at a $1.5 Billion Valuation, the Largest Round to Date in AI 3D",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meshy-raises-nearly-400-million-150000477.html",
+      "publisher": "Yahoo Finance / PR Newswire",
+      "date": "2026-07-21",
+      "claims_supported": [
+        "Meshy raised $400M at $1.5B valuation — largest in AI 3D history",
+        "ARR growing 12× year-over-year",
+        "12 million registered users",
+        "100 million+ models created"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "What Meshy's Nearly $400M Series B Signals About AI 3D's Maturity",
+      "url": "https://www.technology.org/2026/07/31/what-meshys-nearly-400m-series-b-signals-about-ai-3ds-maturity/",
+      "publisher": "Technology.org",
+      "date": "2026-07-31",
+      "claims_supported": [
+        "Investor consensus that AI 3D is transitioning from novelty to production infrastructure",
+        "Market maturity signal — commercial AI 3D viable for game studios and retailers"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Under 30 Alum's 3D Model Startup Hits Unicorn Status Amid AI Frenzy",
+      "url": "https://www.forbes.com/sites/ywang/2026/06/01/under-30-alums-3d-model-startup-hits-unicorn-status-amid-ai-frenzy/",
+      "publisher": "Forbes",
+      "date": "2026-06-01",
+      "claims_supported": [
+        "Tripo (VAST) hit unicorn status in June 2026",
+        "Enterprise partnerships with gaming (NetEase, Sony) and film verticals",
+        "Founder featured on Forbes Under 30"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Tripo AI Parent VAST Raises ~$200M, Hits Unicorn Status as AI 3D Generation Goes Mainstream",
+      "url": "https://yinji3d.com/en/news/tripo-ai-funding-2026/",
+      "publisher": "Yinji 3D",
+      "date": "2026-07",
+      "claims_supported": [
+        "Tripo raised ~$200M across 2026 rounds",
+        "Investors include Alibaba, Baidu Ventures, 4399 Network, Giant Network, Geely Capital, Sony",
+        "Tripo targets gaming, film, VR/AR, and digital twin verticals"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI Text to 3D Generator Market Size Accelerating at 23.4% CAGR",
+      "url": "https://www.openpr.com/news/4534490/ai-text-to-3d-generator-market-size-accelerating-at-23-4-cagr",
+      "publisher": "OpenPR / ArchiveMarketResearch",
+      "date": "2026",
+      "claims_supported": [
+        "AI text-to-3D generator market growing at 23.4% CAGR",
+        "Market players include Masterpiece Studio, Fotor, VEED.io, Live3D, 3DFY AI, Ponzu"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Global AI-Driven Image-to-3D Generator Market Size, 2033",
+      "url": "https://www.transpireinsight.com/report/global-ai-driven-image-to-3d-generator-market",
+      "publisher": "Transpire Insight",
+      "date": "2026",
+      "claims_supported": [
+        "AI image-to-3D generator market estimated at $1.17B in 2025",
+        "Forecast $6.88B by 2033 at 24.79% CAGR"
+      ],
+      "verified": true,
+      "note": "Paywall report — top-line figures available publicly"
+    },
+    {
+      "id": 7,
+      "title": "Global AI Text To 3d Generator Market Size, Share, Industry Growth & Forecast 2026-2034",
+      "url": "https://www.verifiedmarketreports.com/product/ai-text-to-3d-generator-market/",
+      "publisher": "Verified Market Reports",
+      "date": "2026",
+      "claims_supported": [
+        "North American AI text-to-3D market valued at $1.2B in 2024",
+        "Projected $1.3B in 2025, $3.5B by 2033 (CAGR ~13.4%)"
+      ],
+      "verified": true,
+      "note": "Paywall — headline figures cited in multiple secondary sources"
+    },
+    {
+      "id": 8,
+      "title": "3D Product Visualization Platform Market Size to 2035",
+      "url": "https://www.globalgrowthinsights.com/market-reports/3d-product-visualization-platform-market-104465",
+      "publisher": "Global Growth Insights",
+      "date": "2026",
+      "claims_supported": [
+        "3D product visualization market: $553M in 2026, $4.76B by 2035 at 27.02% CAGR",
+        "Over 64% of e-commerce firms adopting AR/VR-integrated 3D tools",
+        "Add-to-cart conversion improved 40%+ with 3D visualization"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Best AI 3D Model Generators in 2026: Tripo AI vs Meshy, Rodin, Kaedim and More",
+      "url": "https://medium.com/ideas-with-wings/best-ai-3d-model-generators-in-2026-tripo-ai-vs-meshy-rodin-kaedim-and-more-7eea7b05eb11",
+      "publisher": "Ideas With Wings / Medium",
+      "date": "2026",
+      "claims_supported": [
+        "Comparative benchmark of leading AI 3D generators in 2026",
+        "Meshy, Tripo, Rodin, and Kaedim are the top four platforms",
+        "Tripo averages 8-second generation time"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Why Investors Are Betting on Tripo AI's $200M Series A",
+      "url": "https://newmarketpitch.com/blogs/news/tripo-ai-series-a-investors",
+      "publisher": "New Market Pitch",
+      "date": "2026-07",
+      "claims_supported": [
+        "Tripo Series A3 of $150M announced July 2, 2026",
+        "Strategic investors: gaming companies 4399 Network, Tanwan, Giant Network; Fosun Capital; Geely Capital",
+        "Enterprise focus deepening on gaming, film, and industrial digital twins"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Largest Funding Round to Date for AI-Powered 3D Image Generation: Meshy Closes Series B Worth Nearly $400M",
+      "url": "https://3dprint.com/329350/meshy-closes-series-b-worth-nearly-400m/",
+      "publisher": "3DPrint.com",
+      "date": "2026-07-21",
+      "claims_supported": [
+        "Meshy Series B confirmed as largest funding in AI 3D history",
+        "Production-ready 3D for manufacturing, gaming, and e-commerce"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "AI 3D Model Generation: Text to 3D Guide 2026",
+      "url": "https://apatero.com/blog/ai-3d-model-generation-text-to-3d-guide-2026",
+      "publisher": "Apatero",
+      "date": "2026",
+      "claims_supported": [
+        "DreamFusion (Google, Oct 2022) established text-to-3D via score distillation sampling",
+        "Point-E (OpenAI, Dec 2022) pioneered accessible text-to-3D point cloud generation",
+        "TripoSR (Tripo + Stability AI, March 2024) first real-time open-weight model"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Traditional 3D modeling costs $5K–$20K per hero asset",
+      "note": "Industry ballpark from multiple practitioner sources; exact figures vary by complexity and artist location [unverified — no single authoritative source]"
+    },
+    {
+      "claim": "Meshy-6 preferred by 63.8% of NetEase/Tencent artists over Tripo 3.1",
+      "note": "Referenced in Meshy's own blog; benchmark methodology not independently verified [unverified — treat as vendor claim]"
+    },
+    {
+      "claim": "AI 3D generation energy consumption vs 2D image generation",
+      "note": "Relative compute intensity stated without specific kWh per generation benchmark [unverified]"
+    }
+  ]
+}
