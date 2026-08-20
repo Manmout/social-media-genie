@@ -1,0 +1,151 @@
+{
+  "trend_name": "Agentic Browsers",
+  "status": "surging",
+  "search_volume": "~250,000/mo [estimated]",
+  "category": "AI & Technology",
+  "growth_5y": "+∞",
+  "growth_1y": "+650%",
+  "growth_3m": "+60% QoQ",
+  "trigger": "Perplexity Comet — free globally since October 2, 2025 — hit ~18M monthly active users in Q1 2026 (7.5x YoY), processing 480M queries and 14M agentic tasks per month with agentic-task volume growing 860% YoY. OpenAI's ChatGPT Atlas followed on Oct 21, 2025 and reached ~11M MAU before being folded back into ChatGPT on Aug 9, 2026. Google Chrome shipped a persistent Gemini sidebar and Auto-Browse on Jan 28, 2026, Atlassian acquired The Browser Company (Dia) for $610M, Opera Neon opened publicly at $19.90/mo, and Anthropic launched Claude for Chrome — all inside 12 months. On top of this, the EU AI Act's high-risk and transparency provisions become directly enforceable on August 2, 2026 (Articles 9, 12, 14 and 50), turning the browser into the first regulated agent surface just as it becomes the dominant one.",
+  "timeline": [
+    {
+      "date": "2025-07",
+      "event": "Perplexity launches Comet on July 9, 2025 — the first mainstream agentic browser — restricted to $200/mo Perplexity Max subscribers. Ships with agentic search, page summarization, voice mode, shopping assistant and Deep Research built into the browser chrome."
+    },
+    {
+      "date": "2025-10",
+      "event": "Perplexity drops the Comet paywall on October 2, 2025 and releases the browser worldwide for free; The Browser Company reaches Dia general availability on macOS (Oct 8); OpenAI launches ChatGPT Atlas on Oct 21 with agent mode; Atlassian acquires The Browser Company for $610M the same day."
+    },
+    {
+      "date": "2025-12",
+      "event": "Opera opens Opera Neon to the public on December 11, 2025 at $19.90/month after a closed 'Founders' phase — bundling GPT-5.1, Gemini 3 Pro, Veo 3.1 and Nano Banana Pro behind one subscription, plus 'Tasks', 'Cards', 'Neon Do' automation and the ODRA deep research agent."
+    },
+    {
+      "date": "2026-01",
+      "event": "Google Chrome ships a persistent Gemini sidebar and previews Auto-Browse with Gemini Spark on Jan 28, 2026 for AI Pro and Ultra subscribers in the US — the first incumbent counter-move, with deep hooks into Calendar, YouTube, Maps and Docs; Perplexity closes Series E-6 at a $22.6B valuation with ~$450M ARR."
+    },
+    {
+      "date": "2026-03",
+      "event": "Comet ships free on iOS (March 18, 2026), reaches #3 on the US App Store within 48 hours; Perplexity ARR jumps ~50% month-over-month to $450M after abandoning advertising for subscription-plus-agentic pricing; agentic browsers combined cross 15M MAU worldwide."
+    },
+    {
+      "date": "2026-08",
+      "event": "EU AI Act's high-risk and transparency obligations become directly enforceable on August 2, 2026 — Article 9 risk classification, Article 12 audit trails, Article 14 stop button and Article 50 agent disclosure now apply to browser agents; on Aug 9 OpenAI retires the standalone Atlas app and moves browser-based agentic work into ChatGPT and Codex."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act Article 9/12/14/50 obligations became directly enforceable August 2, 2026 with fines up to €35M or 7% of global turnover; agentic browsers are the first mass-market agent surface to fall inside the regime, and disclosure ('you are being served by an AI agent') is now a browser-chrome requirement in the EU."
+    },
+    {
+      "factor": "Economic",
+      "impact": "AI browser market sized at $4.5B (2024) → $76.8B by 2034 at 32.8% CAGR; Perplexity valued at $22.6B on ~$450M ARR (~50x); Atlassian paid $610M for The Browser Company; Opera Neon monetizes at $19.90/mo, Dia Pro at $20/mo — the browser is now a subscription category, not a free utility."
+    },
+    {
+      "factor": "Social",
+      "impact": "27.7% of enterprises already use agentic browsers in production and 62% are experimenting with AI agents; consumers increasingly delegate booking, shopping and research to the browser instead of driving each tab themselves — a behavioral shift from 'I search, I click' to 'I ask, it does'."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Comet alone processes ~480M queries, ~14M agentic tasks and ~92M inline page summaries per month, with agentic-task volume growing 860% YoY; frontier reasoning models (GPT-5.1, Gemini 3 Pro, Claude 4.5) are now embedded at the browser layer with page DOM, screenshots and user credentials as native context."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Every browse action fires an LLM inference call plus multi-step tool use; a single agent-driven session can consume 10–50x the energy of a classic page load, materially expanding the data-center load already flagged in AI data-center power-crisis reports."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Brave's security team publicly demonstrated indirect prompt injection against Comet (August 2025), then 'unseeable' screenshot-based injections in early 2026 — Dark Reading and university researchers now conclude 'no perfect fix' for prompt injection in agentic browsers, exposing publishers and vendors to liability whenever an agent leaks credentials, sends emails or completes purchases under user identity."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Book travel, meetings and restaurants without opening ten tabs",
+      "solution": "Ask the browser once ('book me a 2-night NYC trip under $600, aisle seat, quiet hotel') — the agent opens Google Flights, Booking.com and OpenTable in parallel, compares, fills forms and stops for a single confirm-on-payment prompt. Comet's Assistant and Atlas' Agent Mode are the two consumer-grade paths in market today."
+    },
+    {
+      "job": "Do multi-store shopping with one prompt instead of tab-hopping",
+      "solution": "Delegated shopping is the flagship consumer use case in Comet, Atlas and Neon Do — the agent scrapes 5–10 retailers, compares SKUs, checks stock, applies coupons and returns a ranked shortlist; increasingly wired to Stripe ACP and Google UCP protocols for one-click agentic checkout."
+    },
+    {
+      "job": "Summarize what happened across my 30 open tabs before a meeting",
+      "solution": "Cross-tab summarization is the hook feature in Dia and the Gemini sidebar in Chrome — one keystroke returns a bullet digest of every open tab with links, quotes and next-action prompts; Comet generates ~92M inline page summaries per month, roughly one per active user per day."
+    },
+    {
+      "job": "Extract structured data across sites without writing a scraper",
+      "solution": "Enterprise browser agents (Skyvern, Browserbase, Firecrawl and Neon Do) replace bespoke Playwright scripts with natural-language extraction ('pull every competitor's pricing page into a Google Sheet') — 76.8% of the AI browser market is already enterprise-focused per 2026 landscape reports."
+    },
+    {
+      "job": "Fill repetitive forms — job applications, invoices, procurement, expense reports",
+      "solution": "Cards (Neon), Tasks (Comet), Agent Mode (Atlas → ChatGPT) turn a filled form into a reusable macro; enterprise pilots at 27.7% of firms are focused on form filling, invoice processing and market research as the first three sanctioned workflows."
+    }
+  ],
+  "market": [
+    {
+      "name": "Perplexity Comet",
+      "share": "~18M MAU",
+      "loved": "Free, cross-platform",
+      "segment": "Consumer agentic"
+    },
+    {
+      "name": "ChatGPT Atlas → ChatGPT",
+      "share": "~11M MAU",
+      "loved": "Brand + ChatGPT install base",
+      "segment": "Consumer agentic"
+    },
+    {
+      "name": "Chrome + Gemini",
+      "share": "~72% browser",
+      "loved": "Distribution + Google apps",
+      "segment": "Incumbent agentic"
+    },
+    {
+      "name": "Dia (Atlassian / Browser Co)",
+      "share": "macOS niche",
+      "loved": "Chat-native design",
+      "segment": "Prosumer agentic"
+    },
+    {
+      "name": "Opera Neon",
+      "share": "Paid enthusiast",
+      "loved": "Multi-model bundle",
+      "segment": "Power-user agentic"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Perplexity Comet",
+      "detail": "First-mover, free worldwide since Oct 2, 2025; ~18M MAU processing 480M queries and 14M agentic tasks per month; iOS launch reached #3 US App Store in 48 hours; parent valued at $22.6B on ~$450M ARR — the reference implementation of the category."
+    },
+    {
+      "name": "ChatGPT (formerly Atlas)",
+      "detail": "Launched Oct 21, 2025 as a standalone browser; folded back into the ChatGPT app on Aug 9, 2026 so agentic browsing rides on the 900M+ WAU ChatGPT install base — the largest distribution channel for browser agents by an order of magnitude."
+    },
+    {
+      "name": "Google Chrome + Gemini",
+      "detail": "Persistent Gemini sidebar and Auto-Browse rolled out Jan 28, 2026; deep integration with Calendar, YouTube, Maps, Docs; incumbent leverage of ~72% browser market share is Google's answer to the AI-native challengers — 'Chrome, now with an agent' rather than a new brand."
+    },
+    {
+      "name": "Dia by The Browser Company (Atlassian)",
+      "detail": "Chat-first browser; GA on macOS Oct 8, 2025; $20/mo Pro tier; Atlassian acquired the company Oct 21, 2025 for $610M and is repositioning Dia as the enterprise workspace browser sitting alongside Jira, Confluence and Loom."
+    },
+    {
+      "name": "Opera Neon",
+      "detail": "Public Dec 11, 2025 at $19.90/mo; bundles GPT-5.1, Gemini 3 Pro, Veo 3.1 and Nano Banana Pro plus Tasks, Cards, Neon Do and ODRA; targets AI power users willing to pay for a unified frontier-model workbench inside the browser."
+    }
+  ],
+  "canvas": {
+    "who": "Knowledge workers, marketers, researchers, procurement and sales ops teams who spend 4+ hours a day in a browser doing multi-tab work; solopreneurs and creators using an agent as a virtual assistant; enterprise IT leaders piloting agentic browsers as a Chrome/Edge alternative for select roles.",
+    "where": "Desktop-first on macOS and Windows; rapid expansion to iOS and Android through 2026 (Comet iOS reached #3 US App Store in 48 hours); enterprise pilots at 27.7% of firms, concentrated in tech, media and financial services.",
+    "why_now": "Frontier reasoning models became reliable enough for multi-step browser navigation in late 2025; Comet going free removed adoption friction and normalized the pattern; Atlas's launch — and its rapid absorption into ChatGPT — signaled that every major AI lab now considers the browser its default agent surface; Chrome shipping Gemini validated the category for mainstream users; and the EU AI Act's Aug 2, 2026 enforcement makes compliant deployment a board-level topic now, not later.",
+    "behavior": "Users delegate booking, shopping, cross-tab research, form filling and price comparison; teams build 'Cards' and 'Tasks' — reusable prompt macros equivalent to internal RPA scripts; enterprises stand up agent guardrails (per-domain allowlists, confirm-on-transact, session recording); publishers deploy bot detection and paywalls specifically for agent traffic — HumanSecurity data shows agentic browsers already generate ~75% of all agentic web traffic.",
+    "unmet": "Enterprise-grade prompt injection defense (Brave: every browser analyzed is vulnerable, no perfect fix); per-decision audit trails and stop-button UX required by EU AI Act Article 12/14; clean billing and rate-limit control per agent action (agents can burn tokens and API credits invisibly); a shared agent-friendly web standard so sites can expose structured intents instead of being 'scraped by robot with credentials'."
+  },
+  "takeaways": [
+    "Pilot an agentic browser inside a bounded workflow (procurement, competitive research, meeting prep) before EU AI Act Aug 2, 2026 obligations force it to be a compliance project instead of a productivity project — you need human-in-loop stop buttons, per-decision audit logs and disclosure UX in place regardless of vendor.",
+    "Redesign your own site for agents, not just humans: publish machine-readable schemas, expose structured intents, adopt Stripe ACP or Google UCP for agent checkout, and stop treating Comet / Atlas / Chrome-with-Gemini traffic as bots to block — HumanSecurity data shows agentic browsers are ~75% of agentic web traffic and rising, so blocking them is now blocking your buyers.",
+    "Assume every browser-agent action can be hijacked by prompt injection: Brave's public disclosures on Comet — plus the 'unseeable' screenshot attacks and Dark Reading's 'no perfect fix' verdict — mean you should whitelist sensitive domains, require confirm-on-transact, and never let an agent operate a session that has payment or admin credentials without a hardware confirmation step.",
+    "Watch OpenAI's Atlas-into-ChatGPT move as the template: standalone AI browsers are hard to distribute against Chrome's 72% share, but riding an existing 900M-WAU app is easy — expect Anthropic, Meta and xAI to follow. If you build in the agentic-browser stack, back the runtimes and protocols (agent orchestration, ACP/UCP, Model Context Protocol) rather than any one browser brand."
+  ]
+}

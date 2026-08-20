@@ -1,0 +1,267 @@
+{
+  "trend": "Agentic Browsers",
+  "slug": "agentic-browsers",
+  "researched_date": "2026-08-20",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Perplexity Comet Usage Statistics 2026",
+      "url": "https://presenc.ai/research/comet-usage-statistics-2026",
+      "publisher": "Presenc AI",
+      "type": "analytics-research",
+      "claims_supported": [
+        "Perplexity Comet reached ~18M MAU in Q1 2026, up from 2.4M a year earlier (7.5x)",
+        "Comet processes ~480M queries, ~14M agentic tasks and ~92M inline page summaries per month",
+        "Agentic-task surface growing 860% year-over-year"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "ChatGPT Atlas Usage Statistics 2026",
+      "url": "https://presenc.ai/research/atlas-usage-statistics-2026",
+      "publisher": "Presenc AI",
+      "type": "analytics-research",
+      "claims_supported": [
+        "ChatGPT Atlas reached ~11M MAU in Q1 2026 (up from 1.6M in Q1 2025)",
+        "Atlas ranked #2 dedicated AI browser by MAU behind Comet"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "The Agentic Browser Wars 2026 (Atlas, Comet, Dia, Arc, Leo)",
+      "url": "https://presenc.ai/research/agentic-browser-wars-2026",
+      "publisher": "Presenc AI",
+      "type": "market-landscape",
+      "claims_supported": [
+        "Combined agentic browser MAU crossed 10M+ in Q1 2026",
+        "Category comparison of Comet, Atlas, Dia, Arc, Brave Leo"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Evolving Atlas into ChatGPT for browser-based agentic work",
+      "url": "https://help.openai.com/en/articles/20001371-evolving-atlas-into-chatgpt-for-browser-based-agentic-work",
+      "publisher": "OpenAI Help Center",
+      "type": "vendor-announcement",
+      "claims_supported": [
+        "ChatGPT Atlas retired August 9, 2026",
+        "Browser-based agentic work moved into ChatGPT and Codex"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Perplexity now offers its AI-powered browser Comet for free worldwide",
+      "url": "https://www.cnbc.com/2025/10/02/perplexity-ai-comet-browser-free-.html",
+      "publisher": "CNBC",
+      "type": "news-report",
+      "claims_supported": [
+        "Comet made free globally October 2, 2025",
+        "Free tier ships with agentic search, summaries, voice, shopping and Deep Research"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Perplexity's Comet AI browser now free; Max users get new background assistant",
+      "url": "https://www.techcrunch.com/2025/10/02/perplexitys-comet-ai-browser-now-free-max-users-get-new-background-assistant/",
+      "publisher": "TechCrunch",
+      "type": "news-report",
+      "claims_supported": [
+        "Comet paywall dropped October 2, 2025",
+        "Original launch was July 9, 2025 restricted to $200/mo Perplexity Max subscribers"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+      "url": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+      "publisher": "TechCrunch",
+      "type": "news-report",
+      "claims_supported": [
+        "Google Chrome shipped persistent Gemini sidebar and Auto-Browse with Gemini Spark on Jan 28, 2026",
+        "Rolling out initially to AI Pro and Ultra subscribers in the US",
+        "Framed as direct competition to OpenAI, Anthropic and Perplexity"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Google brings more Gemini AI features to Chrome browser",
+      "url": "https://www.cnbc.com/2026/01/28/google-brings-more-gemini-ai-features-to-chrome-browser-.html",
+      "publisher": "CNBC",
+      "type": "news-report",
+      "claims_supported": [
+        "Persistent Gemini sidebar in Chrome",
+        "Deep integration with Calendar, YouTube, Maps"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Opera opens public access to Opera Neon, its experimental agentic AI browser",
+      "url": "https://www.prnewswire.com/news-releases/opera-opens-public-access-to-opera-neon-its-experimental-agentic-ai-browser-302639268.html",
+      "publisher": "PR Newswire (Opera)",
+      "type": "press-release",
+      "claims_supported": [
+        "Opera Neon public access opened December 11, 2025",
+        "Closed 'Founders' phase began October 2, 2025",
+        "$19.90/month subscription; includes GPT-5.1, Gemini 3 Pro, Veo 3.1, Nano Banana Pro",
+        "Features: Tasks, Cards, Neon Do agent, ODRA deep research agent"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "The Browser Company launches a $20 monthly subscription for its AI-powered browser",
+      "url": "https://techcrunch.com/2025/08/06/the-browser-company-launches-a-20-monthly-subscription-for-its-ai-powered-browser",
+      "publisher": "TechCrunch",
+      "type": "news-report",
+      "claims_supported": [
+        "Dia Pro tier at $20/month for unlimited AI usage",
+        "Freemium model with capped free AI usage",
+        "Dia is The Browser Company's Arc successor"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Dia (browser)",
+      "url": "https://aiwiki.ai/wiki/dia_browser",
+      "publisher": "AI Wiki",
+      "type": "reference",
+      "claims_supported": [
+        "Dia entered private beta June 11, 2025",
+        "General availability on macOS October 8, 2025",
+        "Atlassian acquired The Browser Company for $610M, closed October 21, 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Agentic Browser Security: Indirect Prompt Injection in Perplexity Comet",
+      "url": "https://brave.com/blog/comet-prompt-injection/",
+      "publisher": "Brave",
+      "type": "security-research",
+      "claims_supported": [
+        "August 2025 disclosure of indirect prompt injection against Comet",
+        "Hidden Reddit spoiler-tag instructions extracted an email address and one-time passcode",
+        "Every AI browser analyzed proved vulnerable to prompt injection"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers",
+      "url": "https://brave.com/blog/unseeable-prompt-injections/",
+      "publisher": "Brave",
+      "type": "security-research",
+      "claims_supported": [
+        "Screenshot-based prompt injections invisible to the user",
+        "Indirect prompt injection is a systemic category-wide issue for AI browsers"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+      "url": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+      "publisher": "Dark Reading",
+      "type": "security-analysis",
+      "claims_supported": [
+        "Prompt injection has no complete fix in the current AI-browser design",
+        "Enterprise deployments must add per-action controls"
+      ],
+      "verified": true
+    },
+    {
+      "id": 15,
+      "title": "Perplexity AI Valuation 2026: $23B and $450M+ ARR",
+      "url": "https://valueaddvc.com/blog/perplexity-ai-valuation-revenue-2026-23b-450m-arr",
+      "publisher": "Value Add VC",
+      "type": "market-analysis",
+      "claims_supported": [
+        "Perplexity valuation reached $22.6B after January 2026 Series E-6",
+        "ARR crossed $450M in March 2026, up from $200M in September 2025",
+        "Approximately 50x revenue multiple; ~$1.7B raised in total"
+      ],
+      "verified": true
+    },
+    {
+      "id": 16,
+      "title": "Brussels Gains New AI Act Enforcement Powers as Autonomous AI Tests Regulators",
+      "url": "https://www.techpolicy.press/-brussels-gains-new-ai-act-enforcement-powers-as-autonomous-ai-tests-regulators/",
+      "publisher": "TechPolicy.Press",
+      "type": "policy-analysis",
+      "claims_supported": [
+        "EU AI Act high-risk and transparency provisions effective August 2, 2026",
+        "Article 9 risk classification, Article 12 audit trails, Article 14 stop button, Article 50 disclosure apply to autonomous agents",
+        "Penalties up to €35M or 7% of global turnover"
+      ],
+      "verified": true
+    },
+    {
+      "id": 17,
+      "title": "State of Agentic Traffic — April 2026: Agentic browsers generate nearly three-quarters of agentic traffic",
+      "url": "https://www.humansecurity.com/learn/blog/state-of-agentic-traffic-april-26/",
+      "publisher": "HumanSecurity",
+      "type": "traffic-research",
+      "claims_supported": [
+        "Agentic browsers generate ~75% of all agentic web traffic",
+        "Media (45.62%), ecommerce (38.20%) and travel (14.12%) together capture 98% of agentic traffic"
+      ],
+      "verified": true
+    },
+    {
+      "id": 18,
+      "title": "Agentic AI Browsers in 2026: Complete Market Landscape & Comparison",
+      "url": "https://velofill.com/articles/agentic-ai-browsers-2026-market-landscape/",
+      "publisher": "VeloFill",
+      "type": "market-landscape",
+      "claims_supported": [
+        "AI browser market $4.5B (2024) → $76.8B (2034) at 32.8% CAGR",
+        "27.7% of enterprises using agentic browsers in production",
+        "62% of enterprises experimenting with AI agents",
+        "76.8% of AI browser market is enterprise-focused"
+      ],
+      "verified": true
+    },
+    {
+      "id": 19,
+      "title": "ChatGPT Atlas: An In-Depth Look at OpenAI's AI Browser",
+      "url": "https://intuitionlabs.ai/articles/chatgpt-atlas-openai-browser",
+      "publisher": "IntuitionLabs",
+      "type": "product-analysis",
+      "claims_supported": [
+        "ChatGPT Atlas launched October 21, 2025",
+        "Atlas positioned to reach 25M–100M potential users",
+        "Chrome retained ~72% global browser market share as of late 2025"
+      ],
+      "verified": true
+    },
+    {
+      "id": 20,
+      "title": "Browser Market Share Statistics (2026): 40+ Data Points on Chrome's Reign, the Device and Regional Split, and the AI Browser Surge",
+      "url": "https://voxbooster.com/blog/browser-market-share-statistics-2026/",
+      "publisher": "VoxBooster",
+      "type": "market-statistics",
+      "claims_supported": [
+        "Combined AI-browser category ceiling of 2.66% of global browser share as of July 2026",
+        "Chrome holds roughly 71–72% global share in 2026",
+        "Both Atlas and Comet remain low tens of millions MAU — a rounding error vs Chrome"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "~250,000/mo search volume for 'AI browser' / 'agentic browser' / 'Perplexity Comet' / 'ChatGPT Atlas' — aggregate estimate across the category, not a single Semrush/Ahrefs figure",
+    "'+60% QoQ' growth_3m — derived from Comet's disclosed 860% YoY agentic-task growth (implied ~60% per quarter compounded); not a directly published quarterly figure",
+    "'Comet Assistant burns 10–50x the energy of a classic page load' — order-of-magnitude estimate consistent with LLM-inference-per-action pattern; no primary energy-per-agentic-session study identified",
+    "Opera Neon subscriber count — no verified public number as of August 2026; described as 'paid enthusiast segment' rather than a specific MAU figure"
+  ],
+  "notes": "Category is roughly 13 months old — first mainstream agentic browser (Comet) launched July 9, 2025 — so growth_5y is expressed as '+∞' consistent with prior new-category reports (agentic-commerce, generative-engine-optimization). growth_1y '+650%' is grounded in Comet's Q1 2025 → Q1 2026 MAU multiple of 7.5x (source #1). Timeline focuses on six category-defining events: Comet launch, Comet free, Atlas + Atlassian/Dia acquisition, Opera Neon public, Chrome-with-Gemini, and the August 2026 double event (EU AI Act enforcement + Atlas retirement). Atlas's absorption into ChatGPT on Aug 9, 2026 is treated as a distribution move, not a retreat, because agentic-browser workflows continue inside the ChatGPT app on the 900M+ WAU base."
+}
