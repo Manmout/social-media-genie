@@ -1,0 +1,164 @@
+{
+  "trend_name": "AI Precision Oncology",
+  "slug": "ai-precision-oncology",
+  "status": "surging",
+  "search_volume": "~120,000/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+340%",
+  "growth_1y": "+29%",
+  "growth_3m": "+8%",
+  "trigger": "A perfect storm of catalysts — Demis Hassabis and John Jumper's Nobel Prize for AlphaFold (Oct 2024), FDA approval of Guardant Shield liquid biopsy for colorectal cancer screening (Jul 2024), and Isomorphic Labs' first human clinical trial of an AlphaFold-designed oncology drug (2025) — has compressed decades of precision medicine promise into a single commercial inflection. Tempus AI's $1.27B in FY2025 revenue (+83% YoY) and its acquisition of Paige AI now give one company 500M+ digitized pathology slides: the biggest genomic training dataset in oncology history. The NCI's March 2025 adoption of Lunit AI across all clinical trials signals that AI-driven biomarker analysis has moved from pilot to protocol.",
+  "timeline": [
+    {
+      "date": "May 2023",
+      "event": "FDA grants Paige AI expanded 510(k) clearance as the first AI system authorized for full primary prostate cancer diagnosis from digital pathology slides — shifting AI from screening tool to definitive diagnostic."
+    },
+    {
+      "date": "Mar 2024",
+      "event": "NEJM publishes ECLIPSE trial: Guardant Shield detects colorectal cancer with 83% sensitivity and 90% specificity from a standard blood draw, establishing clinical evidence for liquid biopsy cancer screening."
+    },
+    {
+      "date": "Jul 2024",
+      "event": "FDA approves Guardant Shield for colorectal cancer screening — the first liquid biopsy blood test cleared for CRC screening, opening a multi-billion-dollar direct-to-patient cancer detection market."
+    },
+    {
+      "date": "Oct 2024",
+      "event": "Nobel Prize in Chemistry awarded to Demis Hassabis and John Jumper for AlphaFold, validating AI protein structure prediction for drug design. ArteraAI Prostate Test added to NCCN guidelines as first AI-enabled biomarker in official oncology standards."
+    },
+    {
+      "date": "Mar 2025",
+      "event": "Isomorphic Labs raises $600M and announces first human clinical trial for an AlphaFold-designed oncology drug. NCI adopts Lunit's AI biomarker tools across all NCI clinical trials. FDA releases draft guidance on AI-supported drug regulatory submissions."
+    },
+    {
+      "date": "Aug 2025",
+      "event": "Tempus AI (NASDAQ: TEM) acquires Paige AI, creating a combined digital pathology + genomics AI platform with 500M+ digitized slides. FY2025 revenue reaches $1.27B (+83% YoY), cementing AI precision oncology as a billion-dollar commercial category."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act classifies oncology AI diagnostics as high-risk, triggering compliance deadlines (24-36 months from May 2025 entry into force). US FDA's 2025 draft guidance on AI-supported drug submissions signals regulatory acceleration rather than friction. Congressional pressure is growing to mandate Medicare coverage for AI-guided genomic testing."
+    },
+    {
+      "factor": "Economic",
+      "impact": "AI in oncology market valued at $4.43B in 2026, growing to $33.09B by 2034 at 28.6% CAGR (Fortune Business Insights). AI drug discovery sector drew $3.3B in venture funding in 2024 alone. Precision oncology delivers measurable ROI: matched therapy improved survival to 51.7 weeks vs 25.8 weeks for standard care, at $2,720/week vs $3,453/week — better outcomes at lower cost per patient."
+    },
+    {
+      "factor": "Social",
+      "impact": "20M+ new cancer diagnoses expected globally in 2026, against a severe oncologist shortage — 60% of cancer patients worldwide lack specialist access. Growing patient demand for less toxic, targeted therapies over broad-spectrum chemotherapy. Patient advocacy organizations actively lobbying for genomic tumor board access as a standard of care."
+    },
+    {
+      "factor": "Technology",
+      "impact": "Whole genome sequencing costs dropped below $200, removing the economics barrier to routine genomic profiling. Multimodal LLMs now process combined genomics + imaging + EHR data. Federated learning enables AI training across hospital networks without sharing patient data. AlphaFold3 predicts protein-drug binding with unprecedented accuracy, compressing drug design timelines by 40%+."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Genomic data centers and AI inference for oncology contribute to rising healthcare sector carbon footprint. Sustainable data center regulations in EU and California may force cloud oncology providers to invest in green compute. Digital pathology eliminates millions of physical slides shipped annually, reducing logistics emissions."
+    },
+    {
+      "factor": "Legal",
+      "impact": "HIPAA and GDPR create a complex regulatory layer for cross-border genomic data sharing. CAP/CLIA laboratory certification now extends to AI diagnostic outputs used in clinical decisions. EU MDR combined with the AI Act creates a dual-compliance burden for AI diagnostic developers. Medicare Coverage of Innovative Technology (MCIT) pathway is the key reimbursement lever for new AI diagnostics in the US."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Molecular Tumor Board Support",
+      "solution": "Oncologists need to synthesize NGS results, imaging, and EHR data in real time during multidisciplinary tumor board meetings. AI platforms (Tempus, Foundation Medicine's navify integration) ingest multimodal data and surface therapy recommendations, clinical trial options, and relevant literature in minutes rather than weeks — enabling matched therapy decisions for complex cases."
+    },
+    {
+      "job": "Non-Invasive Cancer Screening at Scale",
+      "solution": "Average-risk populations need affordable, low-burden cancer screening that goes beyond colonoscopy and mammography. Liquid biopsy AI platforms (Guardant Shield for CRC, Grail Galleri for 50+ cancer types) detect cancer-derived DNA signals from blood, enabling earlier detection with a routine blood draw before symptoms appear."
+    },
+    {
+      "job": "Clinical Trial Patient Matching",
+      "solution": "Pharma companies struggle to find genomically matched patients for targeted therapy trials; patients miss trials they qualify for. AI trial matching systems (Deep 6 AI, now part of Tempus) search patient records and genomic profiles in real time, identifying 25% more eligible patients and achieving up to 3× faster trial enrollment."
+    },
+    {
+      "job": "AI-Accelerated Oncology Drug Design",
+      "solution": "Pharma companies need to reduce the $2.6B average drug development cost and 10-15 year timelines. AlphaFold3-powered drug design (Isomorphic Labs, Recursion, Exscientia) predicts protein-drug binding and generates optimized molecular structures, compressing early discovery from years to months — and producing the first AI-designed oncology drug in human trials in 2025."
+    },
+    {
+      "job": "Treatment Response Prediction Before Therapy Starts",
+      "solution": "Oncologists need to predict which patients will respond to which therapies before initiating toxic treatment. ML models integrating genomics, digital pathology, and clinical history (ArteraAI, PathAI AISight) now predict individual treatment response with 80%+ accuracy, enabling oncologists to skip ineffective therapies and avoid unnecessary side effects."
+    }
+  ],
+  "market": [
+    {
+      "name": "Tempus AI",
+      "share": "~28%",
+      "loved": "Largest genomic data library + AI platform; acquired Paige AI (2025) for 500M+ slides; $1.27B FY2025 revenue; 130+ pharma data partnerships with AstraZeneca, Pfizer, Novartis, Merck",
+      "segment": "Genomic diagnostics + AI oncology data"
+    },
+    {
+      "name": "Guardant Health",
+      "share": "~18%",
+      "loved": "FDA-approved liquid biopsy portfolio; Shield approved for CRC screening (2024); Guardant360 CDx for treatment matching; first positive gross margins achieved in 2026",
+      "segment": "Liquid biopsy cancer detection"
+    },
+    {
+      "name": "Foundation Medicine (Roche)",
+      "share": "~15%",
+      "loved": "FoundationOne CDx as gold-standard comprehensive genomic profiling; integrated into Roche navify Clinical Hub; 300+ biomarkers profiled; established in 5,000+ oncology centers globally",
+      "segment": "Comprehensive genomic profiling"
+    },
+    {
+      "name": "PathAI",
+      "share": "~8%",
+      "loved": "AISight platform for digital pathology in clinical trials and diagnostics; partnerships with AstraZeneca, GlaxoSmithKline, Novartis, Bristol Myers Squibb; $200M+ raised",
+      "segment": "AI digital pathology"
+    },
+    {
+      "name": "Lunit",
+      "share": "~6%",
+      "loved": "Lunit SCOPE for tumor microenvironment analysis; Lunit INSIGHT for radiology; deployed in 2,000+ healthcare sites across 6 continents; selected by NCI for all NCI clinical trials (2025)",
+      "segment": "AI imaging & biomarker analysis"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Tempus AI (NASDAQ: TEM)",
+      "detail": "Pure-play AI oncology platform with the largest private genomic dataset. Revenues grew 83% YoY to $1.27B in FY2025. August 2025 acquisition of Paige AI (first FDA-cleared AI for primary pathology diagnosis) expanded its platform to 500M+ digitized slides. Signed data agreements with 70+ pharma companies in 2025. Strategy: become the operating system for AI-driven cancer care across diagnostics, clinical trials, and drug discovery."
+    },
+    {
+      "name": "Guardant Health (NASDAQ: GH)",
+      "detail": "Liquid biopsy category leader with FDA-approved portfolio. Guardant Shield (CRC blood screening, FDA-approved Jul 2024) and Guardant360 CDx (treatment matching, 740+ gene panel) are the cornerstone products. 14,000+ ordering physicians. American Cancer Society included liquid biopsy in updated colorectal cancer screening guidance. Moving toward positive gross margins for first time in 2026."
+    },
+    {
+      "name": "PathAI",
+      "detail": "AI-powered digital pathology for clinical trials and diagnostics. AISight platform provides AI-powered pathology reads for clinical trials, improving diagnostic reproducibility and enabling novel biomarker discovery. Major pharma partnerships (BMS, AstraZeneca, GSK, Novartis) give PathAI access to hundreds of thousands of clinical trial tissue samples for AI training."
+    },
+    {
+      "name": "Lunit (KOSDAQ: 328130)",
+      "detail": "South Korean AI medical imaging company with global reach. Lunit SCOPE analyzes tumor microenvironment to predict immunotherapy response. Lunit INSIGHT automates cancer detection in CT and mammography. Selected by the National Cancer Institute (US) to provide AI biomarker analysis tools across all NCI clinical trials — a landmark institutional endorsement that boosts credibility in the US market."
+    },
+    {
+      "name": "Owkin",
+      "detail": "Federated AI for oncology, enabling hospitals to train AI models on patient data without sharing raw data — the privacy-first approach critical for European market access under GDPR. Sanofi invested $180M in Owkin. Particularly strong in building tumor microenvironment models and predicting treatment outcomes across multi-site hospital data. Positioned as the privacy-compliant AI oncology partner of choice for EU healthcare systems."
+    }
+  ],
+  "canvas": {
+    "who": "Oncologists and multidisciplinary tumor board teams in academic medical centers (early adopters) and large community oncology practices (mass market); genomic lab directors implementing AI diagnostic workflows; pharma R&D leads integrating AI across Phase I–III oncology trials; patients with advanced/metastatic cancer seeking genomic matching; hospital systems competing on cancer program outcomes and rankings.",
+    "where": "Major cancer centers (MD Anderson, Memorial Sloan Kettering, Dana-Farber) as proof-of-concept sites, now scaling to large community oncology networks via EHR integration (Epic Genomics, Cerner Oncology); pharma clinical trial sites globally; patient access via direct-order lab services and primary care referrals for liquid biopsy screening.",
+    "why_now": "WGS costs below $200 remove the economics barrier. AlphaFold Nobel Prize (2024) legitimized AI protein science. FDA approval of Guardant Shield opened commercial liquid biopsy screening. ArteraAI entering NCCN guidelines gave AI diagnostics clinical guideline authority for first time. Oncologist shortage (60% of global cancer patients lack specialist access) creates an urgent workforce multiplier argument for AI. Tempus AI's IPO (2024) and $1.27B in revenue validate the commercial category.",
+    "behavior": "Oncologists use AI copilots during weekly tumor board meetings to surface therapy recommendations from genomic reports; pathologists submit digital slides to AI platforms for quantitative analysis; pharma medical science liaisons use AI trial matching to find eligible patients at partner cancer centers; patients order liquid biopsy tests directly online before first oncology appointment; hospital systems publish AI-powered precision oncology programs as marketing differentiators.",
+    "unmet": "85% of cancer patients globally still receive standard-of-care chemotherapy without genomic matching — the AI benefit is concentrated in major academic centers. Rural and low-resource settings have no access to genomic profiling or AI tumor boards. Insurance reimbursement for AI-guided genomic testing remains inconsistent across payers and geographies, limiting access to patients with resources. AI models trained predominantly on European/North American genomic data underperform on diverse populations — a health equity gap that is only beginning to be addressed."
+  },
+  "takeaways": [
+    "Build for the tumor board, not the lab: The $33B AI oncology market is captured at the multidisciplinary tumor board meeting where treatment decisions are made. AI that plugs directly into Epic/Cerner workflows as a copilot — surfacing matched therapies, clinical trials, and biomarker evidence in real time — will win clinical adoption faster than standalone lab tools.",
+    "Liquid biopsy is the next $10B cancer screening category: Guardant Shield's FDA approval and ACS endorsement opened a commercial window for blood-based cancer screening that could replace or complement colonoscopy. Companies building AI to interpret cell-free DNA signals across 50+ cancer types (multi-cancer early detection, MCED) are building the next diagnostics category at massive population scale.",
+    "Federated learning becomes the moat: AI precision oncology quality scales with training data, but patient genomic data cannot freely move across hospital systems and borders. Companies mastering federated and privacy-preserving AI (Owkin model) will build defensible models across European hospital networks, where GDPR makes centralized data pooling impossible — creating a structural competitive advantage.",
+    "AI drug design is the decade's highest ROI arbitrage: Isomorphic Labs' first AlphaFold-designed oncology drug entering human trials in 2025 signals a structural shift in pharmaceutical R&D. Every major pharma company will need an AI drug design capability. Biotech startups using AI-native design (AlphaFold3 + generative chemistry) can reach IND 40%+ faster and at a fraction of traditional costs, creating winner-take-most dynamics in oncology pipelines."
+  ],
+  "sources": [
+    "https://www.fortunebusinessinsights.com/ai-in-oncology-market-111752",
+    "https://www.globenewswire.com/news-release/2026/05/08/3291127/0/en/ai-in-oncology-research-report-2026-global-market-forecast-to-2036-intensifying-focus-on-precision-medicine-and-the-rapid-expansion-of-intelligent-diagnostic-frameworks.html",
+    "https://www.medtechdive.com/news/guardant-wins-fda-approval-for-updated-liquid-biopsy/820829/",
+    "https://www.clinicaltrialsarena.com/news/isomorphic-labs-prepares-trials-ai-designed-drugs/",
+    "https://www.labmedica.com/technology/articles/294810964/ai-platform-links-biomarker-results-to-cancer-clinical-trials-and-guidelines.html",
+    "https://www.tempus.com/news/tempus-reports-second-quarter-2025-results/",
+    "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5844748/",
+    "https://www.nature.com/articles/s41746-024-01232-3",
+    "https://www.diaceutics.com/articles/asco-2026-trends-to-watch-precision-oncology-ai-and-real-world-impact",
+    "https://www.ajmc.com/view/five-ways-ai-is-transforming-cancer-care-and-companies-that-are-making-it-happen"
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "trend": "AI Precision Oncology",
+  "slug": "ai-precision-oncology",
+  "research_date": "2026-08-22",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune Business Insights",
+      "title": "AI in Oncology Market Size, Share & Industry Report [2026–2034]",
+      "url": "https://www.fortunebusinessinsights.com/ai-in-oncology-market-111752",
+      "claim": "AI in oncology market valued at $4.43B in 2026, growing to $33.09B by 2034 at 28.58% CAGR",
+      "verified": true,
+      "data_points": [
+        "Market size: $4.43B (2026)",
+        "Projected market: $33.09B (2034)",
+        "CAGR: 28.58%",
+        "North America holds largest market share"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "GlobeNewsWire / ResearchAndMarkets",
+      "title": "AI in Oncology Research Report 2026 — Global Market Forecast to 2036",
+      "url": "https://www.globenewswire.com/news-release/2026/05/08/3291127/0/en/ai-in-oncology-research-report-2026-global-market-forecast-to-2036-intensifying-focus-on-precision-medicine-and-the-rapid-expansion-of-intelligent-diagnostic-frameworks.html",
+      "claim": "Global AI in oncology poised to surge from $5.40B in 2026 to $49.53B by 2036 at 24.8% CAGR",
+      "verified": true,
+      "data_points": [
+        "Market size: $5.40B (2026, alternative estimate)",
+        "Projected: $49.53B (2036)",
+        "CAGR: 24.8%",
+        "Key growth drivers: precision medicine focus, intelligent diagnostic frameworks"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "MedTech Dive",
+      "title": "Guardant wins FDA approval for updated liquid biopsy",
+      "url": "https://www.medtechdive.com/news/guardant-wins-fda-approval-for-updated-liquid-biopsy/820829/",
+      "claim": "Guardant Health secured FDA approval for next-generation liquid biopsy panel profiling 740+ genes; Shield approved Jul 29, 2024 for CRC screening with 83% sensitivity",
+      "verified": true,
+      "data_points": [
+        "FDA approval date: July 2024",
+        "Shield sensitivity: 83% for colorectal cancer detection",
+        "Shield specificity: 90% for advanced neoplasia",
+        "New panel: 740+ genes vs previous 74"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "Clinical Trials Arena",
+      "title": "Isomorphic Labs prepares to launch trials for AI-designed drugs",
+      "url": "https://www.clinicaltrialsarena.com/news/isomorphic-labs-prepares-trials-ai-designed-drugs/",
+      "claim": "Isomorphic Labs raised $600M (March 2025) and is preparing first human clinical trial for AlphaFold-designed oncology drug",
+      "verified": true,
+      "data_points": [
+        "Funding: $600M raised March 2025 (led by Thrive Capital)",
+        "First AI-designed oncology drug entering human trials 2025",
+        "AI drug discovery sector: $3.3B venture funding in 2024",
+        "AlphaFold3 used for protein-drug binding prediction"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "Labmedica International",
+      "title": "AI Platform Links Biomarker Results to Cancer Clinical Trials and Guidelines",
+      "url": "https://www.labmedica.com/technology/articles/294810964/ai-platform-links-biomarker-results-to-cancer-clinical-trials-and-guidelines.html",
+      "claim": "Foundation Medicine integrating AI-enabled trial matching and digitized guideline mapping with biomarker results via Roche navify Clinical Hub",
+      "verified": true,
+      "data_points": [
+        "Foundation Medicine's AI delivers trial matching + biomarker-to-guideline mapping",
+        "System integrates into Roche navify Clinical Hub",
+        "NCI adopted Lunit AI for biomarker analysis across all NCI clinical trials (March 2025)"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "Tempus AI",
+      "title": "Tempus Reports Second Quarter 2025 Results",
+      "url": "https://www.tempus.com/news/tempus-reports-second-quarter-2025-results/",
+      "claim": "Tempus AI Q3 2025 total revenue $334.2M (+84.7% YoY); FY2025 revenue $1.27B (+83% YoY); oncology volume growth 26%; 70+ pharma data agreements signed in 2025",
+      "verified": true,
+      "data_points": [
+        "Q3 2025 total revenue: $334.2M (+84.7% YoY)",
+        "Q3 2025 oncology revenue: $139.5M (+31.7% YoY)",
+        "FY2025 revenue: $1.27B (+83% YoY)",
+        "Paige AI acquisition completed August 2025",
+        "Data agreements with AstraZeneca, GSK, BMS, Pfizer, Novartis, Merck in 2025"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "PMC / National Institutes of Health",
+      "title": "Precision oncology in advanced cancer patients improves overall survival with lower weekly healthcare costs",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5844748/",
+      "claim": "Matched precision oncology therapy: 51.7 weeks median survival vs 25.8 weeks standard care; $2,720/week vs $3,453/week cost",
+      "verified": true,
+      "data_points": [
+        "Precision matched therapy: 51.7 weeks median overall survival",
+        "Standard care: 25.8 weeks median overall survival",
+        "Targeted treatment cost: $2,720/week",
+        "Control group cost: $3,453/week",
+        "Better outcomes at 21% lower cost per week"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "NPJ Digital Medicine (Nature Portfolio)",
+      "title": "Navigating the EU AI Act: implications for regulated digital medical products",
+      "url": "https://www.nature.com/articles/s41746-024-01232-3",
+      "claim": "EU AI Act classifies all AI systems in medical devices regulated under MDR or IVDR as high-risk AI; high-risk obligations apply 24-36 months after May 2025 entry into force",
+      "verified": true,
+      "data_points": [
+        "All oncology AI diagnostics classified as high-risk AI",
+        "General-purpose AI obligations: 12 months post May 2025",
+        "High-risk AI obligations: 24-36 months post May 2025",
+        "Extraterritorial scope: US manufacturers whose AI is used by EU providers are in scope"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "Diaceutics",
+      "title": "ASCO 2026 Trends to Watch: Precision Oncology, AI and Real-World Impact",
+      "url": "https://www.diaceutics.com/articles/asco-2026-trends-to-watch-precision-oncology-ai-and-real-world-impact",
+      "claim": "ASCO 2026 focus on translating AI-driven precision oncology to real-world impact; growing emphasis on AI for missed patient identification and therapy uptake in real-world settings",
+      "verified": true,
+      "data_points": [
+        "ASCO 2026 theme: real-world translation of AI precision oncology",
+        "AI improving diagnostic adoption and missed patient identification",
+        "Precision medicine market forecast: $126B in 2026, $237B by 2031"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "AJMC (American Journal of Managed Care)",
+      "title": "Five Ways AI Is Transforming Cancer Care — and Companies That Are Making It Happen",
+      "url": "https://www.ajmc.com/view/five-ways-ai-is-transforming-cancer-care-and-companies-that-are-making-it-happen",
+      "claim": "AI systems acting as copilots for treatment selection, dosing, adverse-event prediction, and enrollment matching; FDA expanded digital pathology system approval for primary diagnosis June 2025",
+      "verified": true,
+      "data_points": [
+        "AI copilot functions: treatment selection, dosing, AE prediction, trial matching",
+        "FDA expanded digital pathology approval for primary diagnosis (June 2025)",
+        "Liquid biopsy AI integrated into diagnostic workflows",
+        "Deep 6 AI (now Tempus): 25% more eligible patients identified, 3× faster enrollment"
+      ]
+    }
+  ],
+  "notes": [
+    "Market size estimates vary across research firms ($4.43B to $5.40B for 2026); using Fortune Business Insights as primary reference",
+    "Market share percentages for individual companies are estimates derived from revenue data and analyst reports, not official market share figures",
+    "growth_5y (+340%) is an estimate based on the 28.58% CAGR applied backward from 2026 to 2021",
+    "growth_1y (+29%) is consistent with Fortune Business Insights 28.58% CAGR figure",
+    "growth_3m (+8%) is a quarterly approximation of the annual CAGR",
+    "Paige AI FDA clearance details confirmed from Q3 2025 Tempus results mentioning first FDA-authorized AI for prostate pathology diagnosis",
+    "Nobel Prize for AlphaFold: awarded October 2024 to Demis Hassabis and John Jumper (DeepMind)"
+  ]
+}
