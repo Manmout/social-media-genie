@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.ibm.com/think/topics/shadow-ai",
+    "publisher": "IBM",
+    "claim": "Shadow AI present in 20% of all data breaches; adds average $670,000 in breach costs; 247 days average detection time for shadow AI incidents; 97% of victim organizations had no AI access controls in place",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 2,
+    "url": "https://jumpcloud.com/blog/11-stats-about-shadow-ai-in-2026",
+    "publisher": "JumpCloud",
+    "claim": "76% of organizations now cite shadow AI as a definite or probable problem (up from 61% prior year); 98% of organizations have employees using unsanctioned AI tools",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 3,
+    "url": "https://shattered.io/shadow-ai-breaches-670k/",
+    "publisher": "Shattered.io",
+    "claim": "Shadow AI involved in 20% of enterprise data breaches adding $670K per incident; Gartner AI TRiSM market projected at $5.7B by 2026",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 4,
+    "url": "https://www.precedenceresearch.com/ai-trust-risk-and-security-management-market",
+    "publisher": "Precedence Research",
+    "claim": "AI TRiSM market valued at $4.9B in 2025, projected to reach $39.8B by 2035 at a CAGR of 23.3%",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 5,
+    "url": "https://www.polarismarketresearch.com/industry-analysis/ai-trust-risk-and-security-management-market",
+    "publisher": "Polaris Market Research",
+    "claim": "AI TRiSM market at $3.54B in 2026, growing to $17.30B by 2034 at 21.92% CAGR; market grew from $2.91B in 2025",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 6,
+    "url": "https://www.techtimes.com/articles/318438/20260615/shadow-ai-cybersecurity-risk-spikes-45-workers-use-unsanctioned-tools.htm",
+    "publisher": "TechTimes",
+    "claim": "45% of workers actively use unsanctioned AI tools as of June 2026; cybersecurity risk classification of shadow AI spiking",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 7,
+    "url": "https://www.cio.com/article/4124760/roughly-half-of-employees-are-using-unsanctioned-ai-tools-and-enterprise-leaders-are-major-culprits.html",
+    "publisher": "CIO",
+    "claim": "49-78% of employees use shadow AI; 69% of presidents and C-suite members allow unauthorized AI tool use, prioritizing speed over privacy",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 8,
+    "url": "https://technologyradius.com/statistic/shadow-ai-statistics-2024-2026",
+    "publisher": "Technology Radius",
+    "claim": "Shadow AI tool usage increased 156% from 2023 to 2025; enterprise AI traffic grew 595% April 2023 to January 2024; corporate data flowing into AI tools rose 485% YoY in same period",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 9,
+    "url": "https://www.fortunebusinessinsights.com/ai-trism-market-115120",
+    "publisher": "Fortune Business Insights",
+    "claim": "AI TRiSM market size, segmentation, and forecast data 2026-2034; market growing at 21.92% CAGR",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 10,
+    "url": "https://www.gartner.com/reviews/market/ai-governance-platforms",
+    "publisher": "Gartner",
+    "claim": "OneTrust named AI Governance Platforms Leader June 2026; AI governance market at $492M in 2026 heading toward $1B by 2030; AI TRiSM projected at $5.7B by 2026",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 11,
+    "url": "https://www.waymakeros.com/learn/gdpr-hipaa-shadow-ai-compliance-nightmare",
+    "publisher": "WaymakerOS",
+    "claim": "GDPR fines up to 4% of global annual turnover for shadow AI incidents; HIPAA requires PHI exposure to any unvetted AI tool to be treated as a reportable breach; EU AI Act deployer penalties of €15M or 3% worldwide revenue",
+    "verified": true,
+    "accessed": "2026-08-25"
+  },
+  {
+    "id": 12,
+    "url": "https://www.dsalta.com/resources/ai-compliance/shadow-ai-compliance-risks-governance-guide",
+    "publisher": "DSALTA",
+    "claim": "63% of organizations have no AI governance policies in place; only 34% have formal shadow AI detection programs; GDPR enforcement totaled €1.2B in 2025 with AI violations an accelerating share",
+    "verified": true,
+    "accessed": "2026-08-25"
+  }
+]
