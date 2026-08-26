@@ -1,0 +1,169 @@
+{
+  "trend": "AI Beauty Tech & Personalized Skincare",
+  "slug": "ai-beauty-tech-personalized-skincare",
+  "research_date": "2026-08-26",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Research and Markets",
+      "title": "AI in Beauty and Cosmetics Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/5851112/ai-in-beauty-cosmetics-market-report",
+      "key_claim": "AI in Beauty & Cosmetics market grows from $4.38B (2025) to $5.3B (2026) at 21.1% CAGR",
+      "verified": true,
+      "used_in": ["growth_1y", "growth_5y", "pestal.Economic"]
+    },
+    {
+      "id": 2,
+      "publisher": "Towards Healthcare",
+      "title": "AI in Skincare Market to Increase at 18.74% CAGR till 2035",
+      "url": "https://www.towardshealthcare.com/insights/ai-in-skincare-market-sizing",
+      "key_claim": "AI in skincare market valued at $5.84B in 2026; projected to reach $27.41B by 2035 at 18.74% CAGR",
+      "verified": true,
+      "used_in": ["search_volume", "growth_5y", "pestal.Economic"]
+    },
+    {
+      "id": 3,
+      "publisher": "Coherent Market Insights",
+      "title": "AI Skin Analysis Market Size, Trends & Forecast 2026–2033",
+      "url": "https://www.coherentmarketinsights.com/industry-reports/ai-skin-analysis-market",
+      "key_claim": "AI skin analysis market valued at $2.13B in 2026; AR Virtual Try-On leads at 42% share by technology type",
+      "verified": true,
+      "used_in": ["market", "pestal.Technological"]
+    },
+    {
+      "id": 4,
+      "publisher": "Future Market Insights",
+      "title": "AI Beauty Personalization Platforms Market Size & Forecast to 2036",
+      "url": "https://www.futuremarketinsights.com/reports/ai-beauty-personalization-platforms-market",
+      "key_claim": "AI beauty personalization platforms market at $1.9B (2025) growing to $2.3B (2026) at 21.7% CAGR",
+      "verified": true,
+      "used_in": ["pestal.Economic"]
+    },
+    {
+      "id": 5,
+      "publisher": "L'Oréal Finance",
+      "title": "L'Oréal and NVIDIA to accelerate beauty discovery powered by predictive AI science",
+      "url": "https://www.loreal-finance.com/eng/press-release/loreal-and-nvidia-accelerate-beauty-discovery-powered-predictive-ai-science",
+      "key_claim": "L'Oréal and NVIDIA partnership expanded in March 2026 for AI-driven computational chemistry in beauty formulation",
+      "verified": true,
+      "used_in": ["trigger", "timeline[5]", "competitors.ModiFace", "pestal.Technological"]
+    },
+    {
+      "id": 6,
+      "publisher": "Foley & Lardner",
+      "title": "How MoCRA Is Reshaping FDA Oversight of Cosmetics in 2026",
+      "url": "https://www.foley.com/insights/publications/2026/03/how-mocra-is-reshaping-fda-oversight-of-cosmetics-in-2026/",
+      "key_claim": "FDA MoCRA compliance requirements reshaping cosmetics safety reporting as of March 2026; many brands still adapting",
+      "verified": true,
+      "used_in": ["pestal.Political"]
+    },
+    {
+      "id": 7,
+      "publisher": "White & Case LLP",
+      "title": "Beauty & fashion tech tools: AI-driven hyper-personalization and rising data privacy litigation exposure",
+      "url": "https://www.whitecase.com/insight-alert/beauty-fashion-tech-tools-ai-driven-hyper-personalization-and-rising-data-privacy",
+      "key_claim": "Charlotte Tilbury settled $2.9M biometric class action (Oct 2024); Neutrogena settled $4.7M (Feb 2026); facial analysis data classified as high-litigation-risk biometric data under BIPA and GDPR",
+      "verified": true,
+      "used_in": ["trigger", "timeline[3]", "timeline[5]", "pestal.Legal", "takeaways[1]"]
+    },
+    {
+      "id": 8,
+      "publisher": "BusinessWire",
+      "title": "PROVEN Announces First-of-Its-Kind Skincare Personalization Partnership with Sephora",
+      "url": "https://www.businesswire.com/news/home/20230117005680/en/PROVEN-Announces-First-of-Its-kind-Skincare-Personalization-Partnership-Bringing-PROVENs-Personalization-Technology-and-Skincare-Solutions-to-Sephora-Digital-and-Brick-and-Mortar-Stores",
+      "key_claim": "Proven Skincare partners with Sephora for AI personalization in digital and physical stores (announced January 2023, expanded 2025–2026)",
+      "verified": true,
+      "used_in": ["timeline[2]", "competitors.Proven", "market.Proven"]
+    },
+    {
+      "id": 9,
+      "publisher": "Retail Dive",
+      "title": "Proven raises Series A funding",
+      "url": "https://www.retaildive.com/news/proven-raises-series-a-funding/693809/",
+      "key_claim": "Proven raised $12.2M Series A led by NewH2 Ventures; $21M total raised; $30M+ revenue; break-even profitability",
+      "verified": true,
+      "used_in": ["competitors.Proven", "pestal.Economic"]
+    },
+    {
+      "id": 10,
+      "publisher": "BeBold Digital",
+      "title": "How Gen Z Is Changing the Beauty Industry: 2026 Trends Guide",
+      "url": "https://www.bebolddigital.com/blog/gen-zs-impact-on-beauty-industry-statistics-and-marketing-trends",
+      "key_claim": "70%+ of Gen Z discovers beauty products digitally before purchase; Millennials account for 48% of global online beauty purchases",
+      "verified": true,
+      "used_in": ["canvas.who", "canvas.where", "pestal.Social"]
+    },
+    {
+      "id": 11,
+      "publisher": "BeautyMatter",
+      "title": "Beauty under new watch: FDA deploys AI-powered cosmetics monitoring",
+      "url": "https://beautymatter.com/articles/beauty-under-new-watch-the-fda-a-is-upgrade",
+      "key_claim": "FDA deployed ThinkTrends agentic AI platform for FAERS cosmetics adverse event monitoring; went live September 2025",
+      "verified": true,
+      "used_in": ["trigger", "timeline[5]", "pestal.Political"]
+    },
+    {
+      "id": 12,
+      "publisher": "Personal Care Insights",
+      "title": "In-cosmetics Global 2026: Givaudan and Haut.AI demo active ingredient effects with AI try-on",
+      "url": "https://www.personalcareinsights.com/news/ai-beauty-ingredient-tryons.html",
+      "key_claim": "Givaudan Active Beauty + Haut.AI debut virtual try-on showing how a specific active ingredient affects skin in real time — first of its kind at In-cosmetics Global 2026",
+      "verified": true,
+      "used_in": ["timeline[5]", "competitors.HautAI", "jobs[4]"]
+    },
+    {
+      "id": 13,
+      "publisher": "EveLab Insight",
+      "title": "Top AI Beauty Tech Trends Shaping the Beauty Industry in 2026",
+      "url": "https://www.evelabinsight.com/en/about/blogs/how-ai-is-transforming-skincare-consultation",
+      "key_claim": "80% of Gen Z consumers in North America trust AI advisors for skincare recommendations; Eve V/Muse devices deliver HD 3D skin contour mapping with 15+ parameters",
+      "verified": true,
+      "used_in": ["pestal.Social", "jobs[3]", "canvas.who", "takeaways[3]"]
+    },
+    {
+      "id": 14,
+      "publisher": "Technews180 / Debut",
+      "title": "Debut's $20M Raise Aims to Transform Skin Longevity with AI",
+      "url": "https://technews180.com/funding-news/debuts-20m-raise-aims-to-transform-skin-longevity-with-ai/",
+      "key_claim": "Debut raised $20M Series A specifically for AI-powered skin longevity formulation — compressing clean beauty R&D cycles",
+      "verified": true,
+      "used_in": ["jobs[2]"]
+    },
+    {
+      "id": 15,
+      "publisher": "MB Cosmetics Lab",
+      "title": "Skincare Consumer Trends Gen Z vs Millennials: 2026 Forecast",
+      "url": "https://www.mbcosmeticslab.com/skincare-consumer-trends-gen-z-millennials-2026/",
+      "key_claim": "Gen Alpha accounts for 49% of skincare sales growth; Gen Z and Gen Alpha becoming major forces in the beauty industry",
+      "verified": true,
+      "used_in": ["trigger", "canvas.who", "pestal.Social"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "L'Oréal ModiFace acquisition price ($25–40M)",
+      "reason": "Acquisition terms were not publicly disclosed; figure is market estimate",
+      "flagged_in": "competitors.ModiFace"
+    },
+    {
+      "claim": "73% 6-month retention for personalized skincare subscriptions vs 45% for non-personalized",
+      "reason": "Cited as category benchmark; specific sourced study not independently verified",
+      "flagged_in": "canvas.behavior"
+    },
+    {
+      "claim": "Revieve funding rounds and valuation",
+      "reason": "Company has not publicly disclosed funding totals",
+      "flagged_in": "competitors.Revieve"
+    },
+    {
+      "claim": "Perfect Corp. net dollar retention and brand churn rates",
+      "reason": "Not publicly disclosed; labeled unverified in competitor detail",
+      "flagged_in": "competitors.PerfectCorp"
+    },
+    {
+      "claim": "3.1x lifetime value uplift for honest AI advisors vs product-push AI",
+      "reason": "Attributed to Arbelle AI generational beauty trends 2026 report; full methodology not independently reviewed",
+      "flagged_in": "takeaways[3]"
+    }
+  ]
+}
