@@ -1,0 +1,92 @@
+{
+  "slug": "ai-virtual-influencers",
+  "trend_name": "AI Virtual Influencers",
+  "generated_date": "2026-08-27",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Straits Research",
+      "url": "https://straitsresearch.com/press-release/virtual-influencer-market-insights",
+      "claim": "Virtual influencer market valued at $6.1B in 2024, projected to grow from $11.8B in 2026 to $45.9B by 2030 at a 40.8% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "OpenPR / The Business Research Company",
+      "url": "https://www.openpr.com/news/4456740/virtual-influencer-market-to-reach-298-billion-by-2035-growing",
+      "claim": "Virtual Influencer Market to reach $298 billion by 2035, growing at 38.54% CAGR; ByteDance, Soul Machines, Kuki AI among key players",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "AutoFaceless / Influencer Marketing Factory",
+      "url": "https://autofaceless.ai/blog/virtual-influencer-statistics-2026",
+      "claim": "Virtual influencer market $8.3B in 2025; virtual influencer engagement rates average 5.67% vs 1.89% for human creators; 58% of consumers follow at least one virtual influencer",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Yahoo Finance / Influencer Marketing Factory",
+      "url": "https://finance.yahoo.com/news/influencer-marketing-factory-releases-2026-130000296.html",
+      "claim": "2026 Creator Economy Report: 91.9% of creators now utilize at least one AI tool; virtual influencer market $11.74B in 2026",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Dynamis LLP",
+      "url": "https://www.dynamisllp.com/knowledge/ai-disclosure-in-2026-recent-developments-and-practical-steps-for-brands-and-influencers",
+      "claim": "NY AI Transparency in Advertising Act signed December 11 2025, took effect June 9 2026; requires conspicuous disclosure for synthetic performers; $1,000 then $5,000 per violation",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Audit Socials",
+      "url": "https://www.auditsocials.com/blog/ai-generated-influencer-content-compliance-disclosure-rules-2026",
+      "claim": "EU AI Act Article 50 synthetic content disclosure compliance required from August 2 2026; FTC Operation AI Comply 12+ enforcement actions targeting synthetic influencer content",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "SQ Magazine",
+      "url": "https://sqmagazine.co.uk/ai-influencer-marketing-statistics/",
+      "claim": "65% of US consumers unlikely to buy products promoted by AI influencers without disclosure; FTC maximum civil penalty $53,088 per violation; Lu do Magalu drives $180M in attributed e-commerce sales in 2026",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Tracxn",
+      "url": "https://tracxn.com/d/companies/brud/__Db40-mFrmwO-0ZJsd0E4MXXGhAOA9lSvhkgXJghlr34",
+      "claim": "Brud (Lil Miquela) raised $131M total funding; Lil Miquela has roughly 3 million Instagram followers and partnerships with Prada, Calvin Klein, Samsung",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Tracxn",
+      "url": "https://tracxn.com/d/companies/genies/__nnN4epLxhptM69oPRTr7Xc6j7g25AREKxbD-j4_DFYg",
+      "claim": "Genies raised $276M total funding over 17 rounds from 76 investors; develops customizable intelligent characters and avatar SDK for creators and celebrities",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "VInfluencer / AMT.AI",
+      "url": "https://vinfluencer.ai/virtual-influencer-campaigns/",
+      "claim": "High-end virtual influencer development costs $150K–$500K initial; $5K–$30K/month ongoing content production and community management",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Callyourgirlfriend",
+      "url": "https://www.callyourgirlfriend.com/blog/ai-influencer-statistics",
+      "claim": "Global virtual influencer market worth $13.2B in 2026 growing at 41.5% CAGR to $424.8B by 2036 (alternate estimate); virtual influencer segment $11.74B by Business Research Company estimate",
+      "verified": true
+    }
+  ],
+  "notes": [
+    "Market size estimates vary between research firms ($11.74B to $13.2B for 2026) — all within same order of magnitude and directionally consistent",
+    "Growth rate (40.8% to 41.5% CAGR) consistent across multiple research firms",
+    "Market share figures for specific companies are estimated — no public breakdown found for exact share by company revenue",
+    "Environmental impact claim marked [unverified] — no peer-reviewed lifecycle comparison study for virtual vs. human influencer campaigns found",
+    "5Y growth estimate (+440%) derived from 40.8% CAGR extrapolation backward from 2026 to 2021; no direct 2021 market size source found",
+    "3M growth (+9%) derived from annualized quarterly rate at 40.8% CAGR — no direct Q-over-Q market data available"
+  ]
+}
