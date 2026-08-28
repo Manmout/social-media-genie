@@ -1,0 +1,170 @@
+{
+  "trend": "AI-Powered Smart Cities",
+  "slug": "ai-smart-cities",
+  "research_date": "2026-08-28",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Precedence Research",
+      "title": "AI in Smart Cities Market Size to Hit USD 460.47 Bn by 2034",
+      "url": "https://www.precedenceresearch.com/ai-in-smart-cities-market",
+      "claims_supported": [
+        "AI in Smart Cities market valued at $64.71B in 2026",
+        "Market expected to reach $460.47B by 2034",
+        "CAGR of 27.8% from 2025 to 2034"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 2,
+      "publisher": "Cervicorn Consulting",
+      "title": "AI in Smart Cities Market Size to Reach USD 268.43 Billion by 2035",
+      "url": "https://www.cervicornconsulting.com/artificial-intelligence-in-smart-cities-market",
+      "claims_supported": [
+        "Market valued at $54.03B in 2025",
+        "Projected to reach $268.43B by 2035",
+        "CAGR of 17.39% from 2026 to 2035",
+        "Energy management segment held 27.2% share in 2025"
+      ],
+      "reliability": "medium",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 3,
+      "publisher": "McKinsey & Company — Tech Forward",
+      "title": "How AI-native public infrastructure changes how cities operate",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/tech-forward/how-ai-native-public-infrastructure-changes-how-cities-operate",
+      "claims_supported": [
+        "March 2026 declaration of 'AI-native public infrastructure' era",
+        "Cities managing transport, energy, water, health as continuously operating computing platforms",
+        "AI enables real-time autonomous adjustment of city systems without human escalation"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 4,
+      "publisher": "MarketsandMarkets",
+      "title": "Top Companies in Smart Cities Market — Competition Analysis",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/smart-cities-market.asp",
+      "claims_supported": [
+        "Top 5 players (Cisco, Hitachi, Huawei, Siemens, Microsoft) hold combined 17–22% market share",
+        "Market moderately fragmented with no single dominant player"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 5,
+      "publisher": "Smart Cities Dive",
+      "title": "The Smart Cities outlook for 2026: Pressure points for city leaders",
+      "url": "https://www.smartcitiesdive.com/news/smart-cities-trends-outlook-2026/810932/",
+      "claims_supported": [
+        "44% of large cities use AI widely vs 12% of small cities — widening urban digital divide",
+        "AI governance, identity controls, and human oversight are top 2026 pressure points",
+        "Challenge in 2026 is governance not technology availability"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 6,
+      "publisher": "Smart Cities Dive",
+      "title": "How cities are using AI in 2026",
+      "url": "https://www.smartcitiesdive.com/news/how-cities-using-ai-2026/810905/",
+      "claims_supported": [
+        "Current AI applications in city management across traffic, energy, safety, and health",
+        "Pittsburgh SURTRAC results: 25% travel time reduction, 40% wait time reduction, 20% emissions reduction"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 7,
+      "publisher": "Introl Blog",
+      "title": "Singapore $27B AI Investment Powers Southeast Asia",
+      "url": "https://introl.com/blog/singapore-ai-revolution-27-billion-investment-2025",
+      "claims_supported": [
+        "Singapore attracted ~US$8.4B in AI-related investment in 2025",
+        "75% of all AI investment in Southeast Asia flows to Singapore",
+        "Singapore Smart Nation 2.0 commits S$500M+ in direct government AI funding"
+      ],
+      "reliability": "medium",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 8,
+      "publisher": "Solid Market Research",
+      "title": "Smart Cities Hit Operational Scale: Why 2026 Is the Year Pilots Became Platforms",
+      "url": "https://www.solidmarketresearch.com/post/smart-cities-hit-operational-scale-why-2026-is-the-year-pilots-became-platforms",
+      "claims_supported": [
+        "Global smart city technology spending reached $189B in 2025",
+        "22% increase over 2024 spending levels",
+        "1,000+ cities globally now have active smart city programs",
+        "58% of cities deploy AI platforms for traffic, energy, and public safety"
+      ],
+      "reliability": "medium",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 9,
+      "publisher": "Tracxn",
+      "title": "Smart Cities — 2026 Market & Investments Trends",
+      "url": "https://tracxn.com/d/sectors/smart-cities/__RxGoCKsNjidM4mMl4lUuyMiVO_12f4mS1n9wWENDQJY",
+      "claims_supported": [
+        "Smart city companies raised $211M in equity across 15 rounds in H1 2026",
+        "215.9% rise compared to H1 2025",
+        "Smart city startups raised $6.9B in 2024"
+      ],
+      "reliability": "medium",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 10,
+      "publisher": "Grand View Research",
+      "title": "Smart Cities Market Size, Share & Trends Report, 2026–2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/smart-cities-market",
+      "claims_supported": [
+        "Smart transportation solution segment expected CAGR of 36.8% from 2026 to 2033",
+        "Broad smart city market growth trajectory and segmentation data"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 11,
+      "publisher": "Capgemini Insights",
+      "title": "Trends in 2026 for smart cities — from technology-led to insights-driven",
+      "url": "https://www.capgemini.com/insights/expert-perspectives/trends-in-2026-for-smart-cities-from-technology-led-to-insights-driven/",
+      "claims_supported": [
+        "Shift from technology-led to insights-driven city AI strategies in 2026",
+        "ROI-driven deployment replacing flashy pilots in smart lighting, waste, parking"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    },
+    {
+      "id": 12,
+      "publisher": "OECD",
+      "title": "Artificial Intelligence for Advancing Smart Cities",
+      "url": "https://www.oecd.org/content/dam/oecd/en/about/programmes/cfe/the-oecd-programme-on-smart-cities-and-inclusive-growth/Issues-Note-AI-for-advancing-smart-cities.pdf",
+      "claims_supported": [
+        "AI enables cities to analyze complex datasets and manage urban systems more effectively",
+        "AI supports data-driven governance and public service delivery",
+        "Governance gaps persist in algorithmic city decision-making"
+      ],
+      "reliability": "high",
+      "access_date": "2026-08-28"
+    }
+  ],
+  "unverified_claims": [
+    "growth_5y of +127% is an estimate calculated from Cervicorn's CAGR of 17.39% back-calculated to 2021 baseline (~$28.5B) — no direct 2021 AI-in-smart-cities market size found",
+    "growth_3m of +6% is a quarterly estimate derived from the annual CAGR; no direct Q2-to-Q3 2026 data available",
+    "Siemens 8%, Cisco 5%, Huawei 4%, IBM 3%, Microsoft 2% market share figures are approximate ranges from MarketsandMarkets combined-share data (17-22% for top 5) — individual breakdowns are editorial estimates",
+    "Pittsburgh SURTRAC 25% travel time reduction figure is widely cited but original Carnegie Mellon study should be cross-referenced for exact methodology",
+    "Hayden AI $48M Series B — sourced from general VC tracking; exact round size should be verified via Crunchbase before publication"
+  ],
+  "research_confidence": "high",
+  "notes": "All primary market size figures are from paid research reports (Precedence, Cervicorn) summarized in free-access page metadata. Direct numerical claims from McKinsey, Smart Cities Dive, OECD, Capgemini, and Solid Market Research are high-confidence editorial sources. Funding data from Tracxn is aggregated and may lag real-time deal tracking."
+}
