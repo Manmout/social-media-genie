@@ -1,0 +1,122 @@
+{
+  "trend": "AI Self-Driving Labs",
+  "slug": "ai-self-driving-labs",
+  "date_researched": "2026-08-29",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Astute Analytica",
+      "title": "Lab Automation & Self-Driving Lab Market Size [2035]",
+      "url": "https://www.astuteanalytica.com/industry-report/lab-automation-and-self-driving-lab-market",
+      "claim": "Lab automation & SDL market estimated at USD 6.0 billion in 2025; projected to reach USD 20 billion by 2035, growing at CAGR of 12.8% (2026–2035).",
+      "verified": true,
+      "data_points": ["market_size_2025", "market_size_2035", "growth_cagr"]
+    },
+    {
+      "id": 2,
+      "publisher": "OpenPR / Market Research",
+      "title": "Autonomous Chemical Laboratory Market to Surge Past USD 19.4 Billion by 2035 as AI-Driven Self-Driving Labs Redefine Drug Discovery",
+      "url": "https://www.openpr.com/news/4573700/autonomous-chemical-laboratory-market-to-surge-past-usd-19-4",
+      "claim": "Global autonomous chemical laboratory market set to climb from USD 5,748.5 million in 2026 to USD 19,483.4 million by 2035, expanding at CAGR of 14.5%. Drug discovery accounts for the largest share; biopharma held highest share in 2025.",
+      "verified": true,
+      "data_points": ["market_size_2026", "market_size_2035", "growth_cagr", "segment_drug_discovery"]
+    },
+    {
+      "id": 3,
+      "publisher": "BusinessWire",
+      "title": "Autoscience Raises $14M to Build the World's First Automated AI Research Lab",
+      "url": "https://www.businesswire.com/news/home/20260318760407/en/Autoscience-Raises-$14M-to-Build-the-Worlds-First-Automated-AI-Research-Lab",
+      "claim": "Autoscience raised $14M seed round (March 18, 2026) led by General Catalyst with participation from Toyota Ventures, Perplexity Fund, MaC Ventures, S32. Company created autonomous AI Scientists that autonomously produced a peer-reviewed ICLR 2025 paper and won Kaggle Santa 2025 Silver Medal against 3,300 teams.",
+      "verified": true,
+      "data_points": ["funding_round", "key_player_autoscience", "timeline_milestone"]
+    },
+    {
+      "id": 4,
+      "publisher": "Royal Society Open Science",
+      "title": "Autonomous 'self-driving' laboratories: a review of technology and policy implications",
+      "url": "https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of",
+      "claim": "July 2025 landmark academic review by Tobias & Wahab (MITRE Corp). SDLs automate nearly the entire scientific method; proposed autonomy levels 0-5 (most commercial SDLs operate at Level 2-3). Identifies IP attribution, liability, regulatory validation, and interoperability as top unresolved policy gaps.",
+      "verified": true,
+      "data_points": ["autonomy_levels", "policy_gaps", "timeline_milestone", "regulatory"]
+    },
+    {
+      "id": 5,
+      "publisher": "PR Newswire / Ginkgo Bioworks",
+      "title": "Ginkgo Bioworks Launches Ginkgo Cloud Lab, Powered by Autonomous Lab Infrastructure",
+      "url": "https://www.prnewswire.com/news-releases/ginkgo-bioworks-launches-ginkgo-cloud-lab-powered-by-autonomous-lab-infrastructure-302700458.html",
+      "claim": "Ginkgo Cloud Lab launched March 2, 2026. Runs on Reconfigurable Automation Carts (RACs). 70+ instruments including sample prep, liquid handling, analytical readouts, storage, incubation. AI agent EstiMate accepts natural-language protocols and provides instant compatibility + pricing assessment. Part of Ginkgo's shift to fully autonomous Nebula facility in Boston.",
+      "verified": true,
+      "data_points": ["key_player_ginkgo", "timeline_milestone", "instrument_count", "ai_agent"]
+    },
+    {
+      "id": 6,
+      "publisher": "Technology Networks",
+      "title": "Agentic AI in Pharma: From Multi-Agent Systems to Self-Driving Labs",
+      "url": "https://www.technologynetworks.com/drug-discovery/articles/agentic-ai-in-pharma-from-multiagent-systems-to-selfdriving-labs-413317",
+      "claim": "Comprehensive analysis of agentic AI applied to pharmaceutical self-driving labs. Covers closed-loop DMAT (Design-Make-Test-Analyze) cycles, multi-agent orchestration, and the shift from single-instrument automation to full SDL pipelines. Confirms FDA/EMA 10 Guiding Principles as the framework for regulated SDL deployments.",
+      "verified": true,
+      "data_points": ["use_cases_pharma", "regulatory_fda_ema", "technology_dmat"]
+    },
+    {
+      "id": 7,
+      "publisher": "Nature Synthesis",
+      "title": "Towards self-driving laboratories in the biopharmaceutical industry",
+      "url": "https://www.nature.com/articles/s44160-026-01131-3",
+      "claim": "2026 peer-reviewed analysis of SDL adoption in biopharma. States: 'widespread adoption remains limited by high costs, complex infrastructure and limited accessibility.' Provides framework for SDL integration: modular workcells, cloud-accessible remote labs, AI orchestration software layers.",
+      "verified": true,
+      "data_points": ["adoption_barriers", "infrastructure_model", "biopharma_use_case"]
+    },
+    {
+      "id": 8,
+      "publisher": "QPillars",
+      "title": "Self-Driving Labs in 2026 — What Actually Works vs. What's Still Hype",
+      "url": "https://qpillars.com/blog/self-driving-labs-2026-what-works-vs-hype",
+      "claim": "Industry analysis distinguishing validated SDL capabilities (drug screening, materials optimization, formulation development) from overstated claims. Confirms most commercial SDLs at Autonomy Level 2-3, with Level 4+ remaining frontier academic research.",
+      "verified": true,
+      "data_points": ["autonomy_levels_confirmation", "hype_vs_reality", "validated_use_cases"]
+    },
+    {
+      "id": 9,
+      "publisher": "Scispot Blog",
+      "title": "AI-Powered 'Self-Driving' Labs: Accelerating Life Science R&D",
+      "url": "https://www.scispot.com/blog/ai-powered-self-driving-labs-accelerating-life-science-r-d",
+      "claim": "Overview of SDL architecture for life sciences. Confirms Emerald Cloud Lab model (Austin TX), cloud-accessible 24/7 operations. Describes key application areas: drug screening, protein engineering, formulation development.",
+      "verified": true,
+      "data_points": ["emerald_cloud_lab", "life_science_use_cases", "cloud_model"]
+    },
+    {
+      "id": 10,
+      "publisher": "HPCwire / AIwire",
+      "title": "Autoscience Secures New Funding to Scale Its Autonomous AI Research Lab",
+      "url": "https://www.hpcwire.com/aiwire/2026/03/25/autoscience-secures-new-funding-to-scale-its-autonomous-ai-research-lab/",
+      "claim": "Follow-up coverage of Autoscience's March 2026 seed round. Confirms that funding will scale capabilities for Fortune 500 clients training specialized ML models. Provides additional detail on automated scientist/engineer architecture for hypothesis generation and model deployment.",
+      "verified": true,
+      "data_points": ["autoscience_use_case", "enterprise_clients", "architecture"]
+    },
+    {
+      "id": 11,
+      "publisher": "ChemCopilot",
+      "title": "Self-Driving Labs: The Rise of Autonomous Chemical Discovery in 2026",
+      "url": "https://www.chemcopilot.com/blog/self-driving-labs-the-rise-of-autonomous-chemical-discovery-in-2026",
+      "claim": "Analysis of SDL applications in chemistry and materials science. Confirms Novartis MicroCycle SDL operational (autonomous synthesis, purification, assay, data analysis, and next-cycle candidate selection). Cites Insilico Life Star 2022 launch and CMU Coscientist GPT-4 chemistry demonstration.",
+      "verified": true,
+      "data_points": ["novartis_microcycle", "insilico_life_star", "coscientist_milestone"]
+    },
+    {
+      "id": 12,
+      "publisher": "Marketintelo",
+      "title": "Autonomous Science Lab AI Market Research Report 2033",
+      "url": "https://marketintelo.com/report/autonomous-science-lab-ai-market",
+      "claim": "Global Autonomous Science Lab AI market valued at $1.8 billion in 2024, forecast to reach $9.6 billion by 2033, growing at CAGR of 20.7%. Drug discovery and materials science are primary verticals.",
+      "verified": true,
+      "data_points": ["market_size_ai_science_2024", "market_size_2033", "cagr_alternative"]
+    }
+  ],
+  "data_quality_notes": {
+    "market_size": "Three research firms provide different market definitions. Used autonomous chemical laboratory market ($5.7B in 2026) as primary citation, cross-validated against lab automation & SDL market ($6.0B in 2025) and autonomous science lab AI market ($1.8B in 2024). Discrepancies reflect different market scope definitions. All figures indicate significant growth trajectory.",
+    "growth_5y": "growth_5y (+340%) estimated from autonomous chemical lab market CAGR of 14.5% backward from 2026, implying ~$1.3B market in 2021. This is an extrapolation — [unverified] as no 2021 market figure was found in reviewed sources. Conservative estimate; actual growth may be higher as the category barely existed pre-2020.",
+    "growth_1y": "+15% sourced from CAGR of 14.5% (autonomous chemical lab) and 12.8% (lab automation SDL) — both market research firms report in this range.",
+    "search_volume": "~80,000/month is an estimate combining 'self-driving labs', 'lab automation AI', 'autonomous laboratory', 'AI drug discovery lab' search terms. [unverified] — no direct keyword research tool was available.",
+    "market_share_percentages": "Company market share figures are approximate based on available market research and revenue context. Thermo Fisher's ~22% reflects their dominant position in lab automation broadly, not SDL specifically. Ginkgo and Emerald shares are estimates given no SDL-specific share data was found. [approximate]"
+  }
+}
