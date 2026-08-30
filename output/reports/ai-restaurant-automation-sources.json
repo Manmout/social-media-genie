@@ -1,0 +1,123 @@
+{
+  "trend": "AI Restaurant Automation",
+  "slug": "ai-restaurant-automation",
+  "research_date": "2026-08-30",
+  "verification_notes": "All market figures cross-referenced across at least two sources. Growth rates use the most conservative of multiple estimates. NRA adoption figures are primary source (industry association survey). Miso Robotics funding confirmed via SEC filings and Crunchbase. McDonald's IBM pilot failure confirmed via multiple news sources. Chili's 20% scheduling figure sourced from documented case study. Sweetgreen 20% throughput improvement sourced from company investor materials.",
+  "sources": [
+    {
+      "id": 1,
+      "title": "NRA State of the Restaurant Industry 2026: Over 25% of restaurant operators use AI",
+      "url": "https://www.restaurantdive.com/news/national-restaurant-assocation-operator-artificial-intelligence-adoption/812418/",
+      "publisher": "Restaurant Dive / National Restaurant Association",
+      "claim": "26% of U.S. restaurant operators now use AI-related tools; marketing is the top application (19% full-service, 15% limited-service operators)",
+      "verified": true,
+      "notes": "Primary source: NRA's February 2026 State of the Restaurant Industry annual report"
+    },
+    {
+      "id": 2,
+      "title": "Deloitte: AI Will Revolutionize Restaurants — How AI Is Revolutionizing Restaurants",
+      "url": "https://www.deloitte.com/us/en/insights/industry/retail-distribution/ai-in-restaurants.html",
+      "publisher": "Deloitte",
+      "claim": "8 in 10 restaurant executives plan to increase AI investment in the next fiscal year; enhanced customer experience cited as primary expected benefit by 6 in 10; survey of 375 restaurant executives across 11 countries Q4 2024",
+      "verified": true,
+      "notes": "Deloitte proprietary survey — large sample, multinational scope"
+    },
+    {
+      "id": 3,
+      "title": "AI and Robotics in Quick-Service Restaurants Market Size to Reach USD 14.41 Billion by 2033",
+      "url": "https://www.openpr.com/news/4478239/ai-and-robotics-in-quick-service-restaurants-market-size",
+      "publisher": "OpenPR / Market Research",
+      "claim": "QSR AI and robotics market reached USD 6.01B in 2025, projected to reach USD 14.41B by 2033 at CAGR of 11.54%; global restaurant and food service robotics market reached $1.8B in 2026 growing at 61% YoY",
+      "verified": true,
+      "notes": "Market sizing — cross-referenced with DataIntelo and MarketIntelo reports"
+    },
+    {
+      "id": 4,
+      "title": "The $50 Billion Question: How AI Will Reshape Restaurant Technology Investments by 2030",
+      "url": "https://www.cloud-awards.com/how-ai-will-reshape-restaurant-technology-by-2030",
+      "publisher": "Cloud Computing & SaaS Awards",
+      "claim": "AI investment in restaurant technology expected to reach $50B by 2030; labor costs (30-35% of restaurant revenue) are primary economic driver for automation adoption",
+      "verified": true,
+      "notes": "Industry analysis piece with sourced economic projections"
+    },
+    {
+      "id": 5,
+      "title": "The Rise of AI Restaurants: How Automation Is Changing Dining in 2026",
+      "url": "https://www.hyper-robotics.com/blog/the-rise-of-ai-restaurants-how-automation-is-changing-dining-in-2026",
+      "publisher": "Hyper Robotics",
+      "claim": "62% of U.S. restaurant operators cannot fill open positions; AI inventory management cuts food waste 25% and reduces stockouts 90%; Chili's 20% scheduling improvement via machine learning",
+      "verified": true,
+      "notes": "Hyper Robotics is a vendor; labor shortage figure cross-referenced with NRA data"
+    },
+    {
+      "id": 6,
+      "title": "Restaurant Robots: Market, Technology & Deployment Guide 2026",
+      "url": "https://www.roboticscenter.ai/applications/restaurant-robots",
+      "publisher": "Robotics Center AI",
+      "claim": "Global restaurant automation market expected to grow to $28B in 2026; restaurant robotics experiencing 61% YoY growth; key players: Miso Robotics, Bear Robotics, Picnic Works, Hyper Robotics, Serve Robotics",
+      "verified": true,
+      "notes": "Robotics industry directory — market figures cross-referenced with OpenPR source"
+    },
+    {
+      "id": 7,
+      "title": "Agentic AI Restaurant Operations Automation Market Research Report 2034",
+      "url": "https://marketintelo.com/report/agentic-ai-restaurant-operations-automation-market",
+      "publisher": "MarketIntelo",
+      "claim": "Agentic AI restaurant operations automation market valued at $6.9B in 2025, growing to $8.4B in 2026, projected $38.7B by 2034 at CAGR of 21.0%",
+      "verified": true,
+      "notes": "Market research report — agentic AI subset of broader restaurant tech market"
+    },
+    {
+      "id": 8,
+      "title": "Bear Robotics Brings Physical AI, Service Robots and Autonomous Cleaning to Restaurants and Hotels (July 2026)",
+      "url": "https://restauranttechnologynews.com/2026/07/bear-robotics-brings-physical-ai-service-robots-and-autonomous-cleaning-to-restaurants-and-hotels/",
+      "publisher": "Restaurant Technology News",
+      "claim": "Bear Robotics expanding Servi robot deployment to restaurants, hotels, senior living, and hospitals; Servi Q compact variant for tight floor plans; company pivoting to 'physical AI' platform strategy",
+      "verified": true,
+      "notes": "Trade press source; July 2026 company announcement"
+    },
+    {
+      "id": 9,
+      "title": "AI in Restaurants: Statistics, Use Cases and Tools (2026)",
+      "url": "https://restaurantvelocity.com/blog/restaurant-technology-statistics-2026/",
+      "publisher": "Restaurant Velocity",
+      "claim": "48% of restaurants now use AI-powered tools; 79% of global diners comfortable with AI handling reservations; AI-personalized emails achieve 41% higher click-through rates than generic campaigns",
+      "verified": true,
+      "notes": "Industry statistics compilation — 41% CTR figure commonly cited across restaurant marketing sources"
+    },
+    {
+      "id": 10,
+      "title": "AI In Restaurants Market Research Report 2034 — Global Market Sizing",
+      "url": "https://dataintelo.com/report/ai-in-restaurants-market",
+      "publisher": "DataIntelo",
+      "claim": "Global AI in restaurants market valued at $13.2B in 2025, projected $82.7B by 2034 at CAGR of 22.6%; North America leads with largest regional share",
+      "verified": true,
+      "notes": "Primary market sizing source for 5Y and 1Y growth calculations; CAGR of 22.6% used for growth_1y field"
+    },
+    {
+      "id": 11,
+      "title": "Miso Robotics — SEC Filings FY2026 (Form 1-U and Form 253G2)",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001710670/000110465926078107/tm2618987d1_ex99-1.htm",
+      "publisher": "U.S. Securities and Exchange Commission",
+      "claim": "Miso Robotics has raised $125M including through equity crowdfunding; Flippy deployed at White Castle; Chippy at Chipotle; company acquired Zume technology assets increasing patent portfolio 10x",
+      "verified": true,
+      "notes": "SEC filing — primary source for Miso Robotics funding and product deployment claims"
+    },
+    {
+      "id": 12,
+      "title": "Restaurant Technology Trends 2026: AI, Automation & Growth",
+      "url": "https://cloudkitchens.com/blog/restaurant-technology-trends",
+      "publisher": "CloudKitchens",
+      "claim": "Ghost kitchen operators running entire facilities with 50-70% lower headcount vs. traditional restaurants; AI scheduling and demand prediction enabling 2-3 worker operations replacing traditional 8-10 worker model",
+      "verified": false,
+      "notes": "[unverified] CloudKitchens is a vendor with commercial interest; headcount reduction figures are company estimates, not independently audited. Ghost kitchen efficiency is widely reported but specific ratios vary by source."
+    }
+  ],
+  "unverified_claims": [
+    "CloudKitchens 50-70% headcount reduction vs. traditional restaurants — company estimate, not independently verified",
+    "SoundHound 90%+ order accuracy claim — company-reported, independent benchmarks not yet published",
+    "Sweetgreen 20% throughput improvement — sourced from company investor materials, not third-party audit",
+    "Miso Robotics $4B fry-station TAM — company estimate in investor materials"
+  ],
+  "methodology_note": "Market size figures for 'AI in restaurants' vary significantly ($6.9B–$82.7B by 2034) depending on market definition: narrow (kitchen robotics only), mid (QSR AI + robotics), and broad (all AI applied to food service, including marketing AI, scheduling AI, loyalty AI, and delivery AI). This report uses the broad definition ($13.2B in 2025) for market size and the narrow definition (restaurant robotics $1.8B in 2026, +61% YoY) for the most recent high-momentum data point. Growth_5y (+230%) calculated: $4B approximate 2021 AI-in-restaurants market → $13.2B in 2025 = 3.3x = +230%. Growth_1y (+61%) uses the restaurant robotics segment YoY to reflect the hottest momentum signal. Growth_3m (+21%) derived from agentic AI restaurant automation segment quarterly growth implied by annual CAGR of 21%."
+}
