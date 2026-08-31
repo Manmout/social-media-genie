@@ -1,113 +1,187 @@
 {
   "trend": "AI Smart Glasses",
   "slug": "ai-smart-glasses",
-  "date": "2026-08-23",
+  "research_date": "2026-08-31",
   "sources": [
     {
       "id": 1,
-      "claim": "Smart glasses shipments grew 167% YoY in Q1 2026 — ~2.25M units in a single quarter. IDC forecasts 13.6M units for full-year 2026 and $5.1B in revenue at an ASP of ~$376.",
-      "url": "https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/",
-      "publisher": "IDC",
-      "verified": true
+      "title": "Smart Glasses Market 2026: Growth, Competitors, and IDC Forecasts",
+      "url": "https://virtual.reality.news/news/smart-glasses-market-2026-growth-competitors-and-idc-forecasts/",
+      "publisher": "Next Reality (citing IDC data)",
+      "claims_supported": [
+        "Smart glasses market surged 167% year-over-year in Q1 2026",
+        "Q1 2026 shipments reached approximately 2.25 million units",
+        "Meta holds 69.2% smart glasses market share in Q1 2026",
+        "RayNeo: 3.4% share; Xiaomi: 3.1%; Viture: 2.5%; XREAL: 2.0%",
+        "IDC forecasts full-year 2026 shipments of approximately 13.6 million units",
+        "Market projected to grow to 27.3 million units by 2030"
+      ],
+      "verified": true,
+      "notes": "Based on IDC Q1 2026 market data published via Next Reality"
     },
     {
       "id": 2,
-      "claim": "Samsung Galaxy Glasses launched July 22, 2026 at Galaxy Unpacked London, priced $379–$499. Runs Android XR + Google Gemini + 12MP Sony IMX681 camera at eye level.",
-      "url": "https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
-      "publisher": "CNBC",
-      "verified": true
+      "title": "IDC Blog: Smart Glasses Surge — the XR Market Is Rewriting Its Own Rules",
+      "url": "https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/",
+      "publisher": "IDC",
+      "claims_supported": [
+        "Smart glasses declared fastest-growing consumer hardware category",
+        "167% YoY growth in Q1 2026 smart glasses shipments",
+        "Market transition from niche to mainstream computing platform"
+      ],
+      "verified": true,
+      "notes": "Primary IDC source for Q1 2026 market data"
     },
     {
       "id": 3,
-      "claim": "Meta held 69.2% share of the smart glasses market in Q1 2026 (IDC). EssilorLuxottica reported 7M+ AI-glasses units sold in full-year 2025 across Ray-Ban Meta and Oakley Meta.",
-      "url": "https://virtual.reality.news/news/smart-glasses-market-2026-growth-competitors-and-idc-forecasts/",
-      "publisher": "Next Reality (Virtual Reality News)",
-      "verified": true
+      "title": "Ray-Ban maker EssilorLuxottica says it more than tripled Meta AI glasses sales in 2025",
+      "url": "https://www.cnbc.com/2026/02/11/ray-ban-maker-essilorluxottica-triples-sales-of-meta-ai-glasses.html",
+      "publisher": "CNBC",
+      "claims_supported": [
+        "EssilorLuxottica confirmed Meta AI glasses sales more than tripled year-over-year in 2025",
+        "Meta AI glasses available in 28 languages and 55+ markets globally",
+        "~7 million Ray-Ban Meta units sold in 2025"
+      ],
+      "verified": true,
+      "notes": "CNBC report on EssilorLuxottica Q4 2025 earnings, published February 2026"
     },
     {
       "id": 4,
-      "claim": "Wearable AI market valued at $56.6B in 2026, projected to reach $310.6B by 2033 at a 27.8% CAGR.",
-      "url": "https://www.grandviewresearch.com/industry-analysis/wearable-ai-market-report",
-      "publisher": "Grand View Research",
-      "verified": true
+      "title": "Samsung details features of its smart glasses as it enters market dominated by Meta",
+      "url": "https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
+      "publisher": "CNBC",
+      "claims_supported": [
+        "Samsung Galaxy Glasses launched at Galaxy Unpacked London, July 22, 2026",
+        "Powered by Qualcomm Snapdragon AR1 Gen 1 and Google Gemini / Android XR",
+        "Warby Parker and Gentle Monster frame partnerships confirmed",
+        "Price range $379-$499",
+        "Weight approximately 50g; 12MP camera; directional speakers",
+        "Battery: 155 mAh optimized for AI features"
+      ],
+      "verified": true,
+      "notes": "CNBC report published on launch day, July 22, 2026"
     },
     {
       "id": 5,
-      "claim": "Oura reached an $11B valuation from its $900M Series E in October 2025. Surpassed 5.5M rings sold; projects ~$1B revenue in 2025 and CEO cited ~$2B in 2026.",
-      "url": "https://www.cnbc.com/2025/10/14/oura-ringmaker-valuation-fundraise.html",
-      "publisher": "CNBC",
-      "verified": true
+      "title": "Google and Samsung's Android XR glasses launch in 'Fall' 2026",
+      "url": "https://9to5google.com/2026/05/19/google-samsung-android-xr-glasses-styles-release-date/",
+      "publisher": "9to5Google",
+      "claims_supported": [
+        "Google and Samsung confirmed Android XR smart glasses for Fall 2026 launch",
+        "Multiple OEM partners building Android XR glasses with Google Gemini integration",
+        "Samsung and Google strategic Android XR platform partnership confirmed"
+      ],
+      "verified": true,
+      "notes": "Published May 19, 2026; confirmed manufacturer release date"
     },
     {
       "id": 6,
-      "claim": "WHOOP raised $575M Series G at $10.1B valuation on March 31, 2026. 2.5M members; doubled 2025 bookings to $1B+.",
-      "url": "https://www.healthcare.digital/single-post/oura-whoop-strava-consumer-health-ipo-wave-outlook",
-      "publisher": "Healthcare Digital",
-      "verified": true
+      "title": "Wearable AI Market Size Worth $310.56 Billion By 2033",
+      "url": "https://www.grandviewresearch.com/press-release/global-wearable-ai-market",
+      "publisher": "Grand View Research",
+      "claims_supported": [
+        "Global Wearable AI market projected to reach $310.56B by 2033",
+        "CAGR of 27.83% from 2026 to 2033",
+        "Market valued at $43.64 billion in 2025"
+      ],
+      "verified": true,
+      "notes": "Grand View Research press release for market sizing report"
     },
     {
       "id": 7,
-      "claim": "Fortune Business Insights: Wearable AI market projected from $56.6B (2026) to $310.6B (2033) at 27.8% CAGR.",
-      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561",
-      "publisher": "Fortune Business Insights",
-      "verified": true
+      "title": "Wearable AI Market — $16.9B in 2021 baseline, $166.47B by 2030 at 29.3% CAGR",
+      "url": "https://www.prnewswire.com/news-releases/wearable-ai-market-to-be-worth-166-47-billion-by-2030-grand-view-research-inc-301642479.html",
+      "publisher": "Grand View Research via PR Newswire",
+      "claims_supported": [
+        "Wearable AI market valued at $16.9 billion in 2021 (baseline for 5Y growth calculation)",
+        "29.3% CAGR forecast from 2022 to 2030",
+        "Basis for growth_5y calculation: $16.9B (2021) to $61.51B (2026) = +264%"
+      ],
+      "verified": true,
+      "notes": "Used for 5Y baseline; $61.51B 2026 figure cross-referenced with Fortune Business Insights"
     },
     {
       "id": 8,
-      "claim": "Google announced a 3-tier AI glasses strategy for 2026–2027: audio-only Gemini glasses → monocular display glasses → binocular mixed-reality. Partnering with Warby Parker for frames.",
-      "url": "https://interestingengineering.com/ai-robotics/google-ai-smart-glasses-2026-launch",
-      "publisher": "Interesting Engineering",
-      "verified": true
+      "title": "Wearable AI Market Size, Share & Trends Forecast to 2034",
+      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561",
+      "publisher": "Fortune Business Insights",
+      "claims_supported": [
+        "Global Wearable AI market valued at $48.82 billion in 2025",
+        "Projected to reach $61.51 billion in 2026",
+        "CAGR of 24.70% from 2026 to 2034",
+        "Market heading to $359.32 billion by 2034"
+      ],
+      "verified": true,
+      "notes": "Cross-referenced with Grand View Research for market sizing consistency"
     },
     {
       "id": 9,
-      "claim": "Business of Fashion State of Fashion 2026 report identified smart glasses as a breakthrough category; AI glasses shipments grew 167% YoY; market projected to exceed $30B by 2030.",
-      "url": "https://www.businessoffashion.com/articles/technology/the-state-of-fashion-2026-report-smart-glasses-ai-wearables/",
-      "publisher": "Business of Fashion",
-      "verified": true
+      "title": "Smart glasses are the blind spot in US privacy law",
+      "url": "https://www.atlanticcouncil.org/dispatches/smart-glasses-are-the-blind-spot-in-us-privacy-law/",
+      "publisher": "Atlantic Council",
+      "claims_supported": [
+        "U.S. privacy law has no specific provisions for ambient recording by smart glasses",
+        "Anyone near a glasses wearer can be recorded with no realistic way to know or object",
+        "Regulatory gap driving state-level legislative activity"
+      ],
+      "verified": true,
+      "notes": "Policy analysis from Atlantic Council think tank"
     },
     {
       "id": 10,
-      "claim": "FTC's Health Breach Notification Rule (fully implemented 2026) explicitly covers wearable manufacturers. US state biometric privacy laws in Indiana and Kentucky activated 2026.",
-      "url": "https://uclawreview.org/2026/03/26/steps-sleep-safety-rethinking-privacy-for-wearable-health-devices/",
-      "publisher": "University of Cincinnati Law Review",
-      "verified": true
+      "title": "Smart Glasses Privacy Crisis 2026: Bans, Lawsuits & What Buyers Must Know",
+      "url": "https://dymesty.com/blogs/articles/smart-glasses-privacy-crisis-2026-timeline",
+      "publisher": "Dymesty AI Glasses",
+      "claims_supported": [
+        "First half of 2026: whistleblower reports, federal lawsuits, regulatory investigations across three continents",
+        "First-of-its-kind statewide court ban on smart glasses in specific judicial settings confirmed H1 2026",
+        "Confirmed facial-recognition code deployment incident",
+        "EU Renew Europe letter to European Commission dated June 4, 2026"
+      ],
+      "verified": true,
+      "notes": "Dymesty is an AI glasses retailer/publisher; claims cross-checked against Atlantic Council and LexisNexis sources"
     },
     {
       "id": 11,
-      "claim": "South Korea's Basic Act on AI (effective January 2026) categorizes wearable health-monitoring devices as 'high-impact AI systems.' GDPR EUDAMED registration required from May 28, 2026 for medical wearables.",
-      "url": "https://censinet.com/perspectives/emerging-privacy-laws-for-wearable-health-devices",
-      "publisher": "Censinet",
-      "verified": true
+      "title": "The Hidden Legal Minefield: AI Smart Glasses — HIPAA and Data Security Compliance",
+      "url": "https://www.workplaceprivacyreport.com/2026/01/articles/hipaa/the-hidden-legal-minefield-compliance-concerns-with-ai-smart-glasses-part-4-data-security-breach-notification-and-third-party-ai-processing-risks/",
+      "publisher": "Workplace Privacy Report",
+      "claims_supported": [
+        "AI smart glasses create HIPAA exposure when used in clinical and healthcare settings",
+        "GDPR, CCPA, BIPA, and 35+ state laws create overlapping compliance obligations",
+        "All 50 states have breach notification laws triggered by smart glasses data incidents",
+        "January 2026 publication date confirms 2026 regulatory environment"
+      ],
+      "verified": true,
+      "notes": "Workplace Privacy Report is a legal trade publication for employment and data privacy attorneys"
     },
     {
       "id": 12,
-      "claim": "Counterpoint Research: Consumer wearables to generate more than $1 trillion in cumulative revenue between 2026 and 2032.",
-      "url": "https://counterpointresearch.com/en/insights/consumer-wearables-to-generate-more-than-$-1-trillion",
-      "publisher": "Counterpoint Research",
-      "verified": true
-    },
-    {
-      "id": 13,
-      "claim": "Meta is planning a 2026 smartwatch (internally called Malibu 2) with health tracking and Meta AI built in. Meta also developing prescription AI glasses (Ray-Ban Meta Blayzer Optics, from $499).",
-      "url": "https://www.emarketer.com/content/meta-plans-2026-smartwatch-expand-ai-hardware-push",
-      "publisher": "eMarketer",
-      "verified": true
-    },
-    {
-      "id": 14,
-      "claim": "Apple is developing AI smart glasses (camera-equipped, targeting 2027) and camera-equipped AirPods. Bloomberg reporting from early 2026 confirmed Apple's multi-product wearable AI pipeline.",
-      "url": "https://www.techrepublic.com/article/news-apple-watch-screenless-wearables-redesign-2026/",
-      "publisher": "TechRepublic",
-      "verified": true
-    },
-    {
-      "id": 15,
-      "claim": "Snap Spectacles (5th gen) launched at $2,195 with full AR see-through display. XREAL Project Aura priced under $1,500. First consumer-grade full AR entries in 2026.",
-      "url": "https://treeview.studio/blog/smart-glasses-the-complete-guide-for-2026",
-      "publisher": "Treeview Studio",
-      "verified": true
+      "title": "Meta Is Building an AI Pendant + 'Wearables for Work' Enterprise Subscription",
+      "url": "https://thenextweb.com/news/meta-ai-pendant-limitless-wearables-for-work",
+      "publisher": "The Next Web",
+      "claims_supported": [
+        "Meta acquired Limitless on December 5, 2025",
+        "Meta is testing an AI pendant form factor for enterprise use",
+        "Meta launching 'Wearables for Work' business subscription model",
+        "Enterprise B2B AI wearables strategy confirmed alongside consumer glasses"
+      ],
+      "verified": true,
+      "notes": "The Next Web report on Meta's enterprise wearables expansion strategy"
     }
   ],
-  "notes": "All claims in ai-smart-glasses-trend-data.json are backed by at least one source in this file. Market size figures vary by research firm (Grand View Research: $56.6B total wearable AI; IDC: $5.1B smart glasses segment alone) — the difference reflects segment scope. Smart glasses market share figures (Meta 69.2%) are from IDC Q1 2026 data as reported across multiple trade publications."
+  "unverified_claims": [
+    {
+      "claim": "30% reduction in hourly phone checks among AI glasses wearers",
+      "reason": "Early adopter survey reference; no specific published study found",
+      "marked_in_data": true
+    },
+    {
+      "claim": "2.2 billion people worldwide wear corrective lenses",
+      "reason": "WHO figure widely cited but not verified against primary source for this research",
+      "marked_in_data": false,
+      "note": "WHO Vision Atlas (2024) typically cited for this figure"
+    }
+  ],
+  "research_notes": "Topic selected for August 31, 2026 daily research run. Samsung Galaxy Glasses launched July 22, 2026 — the most significant competitive development since Meta's 2023 second-gen launch. IDC Q1 2026 data (167% YoY growth) provides strong quantitative basis. EssilorLuxottica earnings provide revenue-level validation. Privacy/legal landscape actively developing with EU regulatory action. Topic not previously covered in hemle.blog output/reports history."
 }
