@@ -1,0 +1,141 @@
+{
+  "trend_name": "AI Multi-Agent Orchestration Platforms",
+  "slug": "ai-multi-agent-orchestration-platforms",
+  "research_date": "2026-09-01",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/agentic-ai-workflow-orchestration-platform-market",
+      "claim": "Agentic AI workflow orchestration platform market: $2.73B (2025) → $3.53B (2026) → $14.76B (2031) at 33.11% CAGR",
+      "verified": true,
+      "used_in": ["market size", "growth_1y", "growth_3m"]
+    },
+    {
+      "id": 2,
+      "publisher": "SNS Insider",
+      "url": "https://www.snsinsider.com/reports/multi-agent-ai-platforms-market-10860",
+      "claim": "Multi-Agent AI Platforms market: $2.90B (2025) → $129.38B (2035) at 46.22% CAGR",
+      "verified": true,
+      "used_in": ["market size", "growth_5y"]
+    },
+    {
+      "id": 3,
+      "publisher": "Research and Markets",
+      "url": "https://www.researchandmarkets.com/reports/6103459/ai-agents-market-report",
+      "claim": "AI agents market: $7.84B (2025) → ~$10.9B (2026) → $52.62B (2030); this source underpins the growth_1y figure of +39%",
+      "verified": true,
+      "used_in": ["search_volume", "growth_1y", "market size"]
+    },
+    {
+      "id": 4,
+      "publisher": "Gartner (press release)",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025",
+      "claim": "40% of enterprise applications will feature task-specific AI agents by end 2026, up from <5% in 2025. Also: 89% of agent pilots never scale.",
+      "verified": true,
+      "used_in": ["trigger", "growth_3m", "pestal social", "canvas why_now", "timeline 2026"]
+    },
+    {
+      "id": 5,
+      "publisher": "Salesforce Investor Relations (FY2026 Q4 press release)",
+      "url": "https://www.salesforce.com/news/press-releases/2026/02/25/fy26-q4-earnings/",
+      "claim": "Agentforce ARR exceeded $1.5B (up 240%+ YoY) with 29,000 enterprise deals closed as of FY2026 Q4 (ending January 2026)",
+      "verified": true,
+      "used_in": ["trigger", "competitors salesforce", "market players", "canvas why_now", "pestal economic"]
+    },
+    {
+      "id": 6,
+      "publisher": "Sacra / GetLatka",
+      "url": "https://sacra.com/c/langchain/",
+      "claim": "LangChain raised $125M Series B (Oct 2025) at $1.25B valuation led by IVP; $16M ARR as of 2025 (vs $8.5M in 2024); 369 employees mid-2026",
+      "verified": true,
+      "used_in": ["competitors langchain", "market players", "timeline 2025", "pestal economic"]
+    },
+    {
+      "id": 7,
+      "publisher": "Latenode (LangChain Funding Overview)",
+      "url": "https://latenode.com/blog/langchain-funding-valuation",
+      "claim": "LangChain total funding $260M across 4 rounds; investors include Sequoia, Benchmark, CapitalG, ServiceNow Ventures, Workday Ventures, Cisco Investments",
+      "verified": true,
+      "used_in": ["competitors langchain", "timeline 2025"]
+    },
+    {
+      "id": 8,
+      "publisher": "SuntecIndia (EU AI Act Enterprise Guide)",
+      "url": "https://www.suntecindia.com/blog/eu-ai-act-august-2026-enterprise-ai-agent-governance/",
+      "claim": "EU AI Act enforcement from August 2026 classifies multi-agent orchestration in high-risk sectors as high-risk AI, requiring conformity assessments, audit trails, and human-in-the-loop protocols",
+      "verified": true,
+      "used_in": ["pestal legal", "timeline 2026", "takeaways"]
+    },
+    {
+      "id": 9,
+      "publisher": "FifthRow (Enterprise Orchestration Playbook, April 2026)",
+      "url": "https://www.fifthrow.com/blog/ai-agent-orchestration-goes-enterprise-the-april-2026-playbook-for-systematic-innovation-risk-and-value-at-scale",
+      "claim": "Only 7-8% of organizations have integrated cross-agent governance; 23% can fully inventory/trace agent actions; 56% have dedicated 'agentic ops' lead in 2026 (up from 11% in 2024)",
+      "verified": true,
+      "used_in": ["pestal legal", "canvas unmet", "takeaways", "jobs #4"]
+    },
+    {
+      "id": 10,
+      "publisher": "Insight Partners (CrewAI profile)",
+      "url": "https://www.insightpartners.com/ideas/crewai-scaleup-ai-story/",
+      "claim": "CrewAI raised $18M Series A (Oct 2024) led by Insight Partners; 2 billion agentic executions in trailing 12 months; 31,200 GitHub stars by April 2026",
+      "verified": true,
+      "used_in": ["timeline 2024", "competitors"]
+    },
+    {
+      "id": 11,
+      "publisher": "Paul Okhrem (Enterprise AI Agents Statistics 2026)",
+      "url": "https://paul-okhrem.com/enterprise-ai-agents-statistics-2026/",
+      "claim": "79% of organizations use AI agents; only 31% have an agent running in full production; 92% of leaders believe agentic AI will deliver measurable ROI within 2 years",
+      "verified": true,
+      "used_in": ["pestal social", "canvas behavior"]
+    },
+    {
+      "id": 12,
+      "publisher": "Joget (AI Agent Adoption 2026 — Gartner/IDC data compilation)",
+      "url": "https://joget.com/ai-agent-adoption-in-2026-what-the-analysts-data-shows/",
+      "claim": "Both Forrester and Gartner see 2026 as breakthrough year for multi-agent systems; 22% of production deployments coordinate 3+ agents; MCP has crossed 9,400 public servers",
+      "verified": true,
+      "used_in": ["pestal tech", "canvas why_now", "takeaways"]
+    },
+    {
+      "id": 13,
+      "publisher": "Microsoft Developer Blog (Agent Framework announcement)",
+      "url": "https://devblogs.microsoft.com/agent-framework/microsofts-agentic-ai-frameworks-autogen-and-semantic-kernel/",
+      "claim": "Microsoft Agent Framework merges AutoGen + Semantic Kernel; public preview Oct 2025; GA April 2026 with LTS; open source MIT license on PyPI and NuGet",
+      "verified": true,
+      "used_in": ["competitors microsoft", "timeline 2026"]
+    },
+    {
+      "id": 14,
+      "publisher": "OneReach.ai / LiqTeq (Enterprise AI Agents Guide 2026)",
+      "url": "https://liqteq.com/blog/ai-agents-for-enterprise/",
+      "claim": "Customer service orchestration: 70-80% reduction in resolution time, 20-30 point CSAT lift; time-to-ROI 2 weeks for customer service vs 12+ months for supply chain",
+      "verified": true,
+      "used_in": ["jobs #1", "takeaways"]
+    },
+    {
+      "id": 15,
+      "publisher": "Truelogic (AI Agent Search Volume Study 2026)",
+      "url": "https://www.truelogic.com.ph/blog/ai-agent-search-volume-marketing-automation/",
+      "claim": "Agent and automation search terms collectively generate approximately 251,000 searches per month; multi-agent orchestration search interest grew 376% YoY as of May 2026",
+      "verified": true,
+      "used_in": ["search_volume"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share estimates for Microsoft (~28%), Salesforce (~19%), Google (~18%), AWS (~17%), LangChain (~6%)",
+      "note": "[unverified] No public market share data at this granularity exists. These are analyst-informed estimates based on enterprise reach, ARR disclosures, and customer counts. Do not cite as fact."
+    },
+    {
+      "claim": "JPMorgan runs 450+ AI use cases in production daily",
+      "note": "[unverified] Widely cited in 2025-2026 enterprise AI adoption articles but the original source is an internal JPMorgan disclosure without a public URL. Use with attribution to secondary sources only."
+    },
+    {
+      "claim": "Klarna AI agent saved $60M and replaced 853 FTE workloads by Q3 2025",
+      "note": "Claim sourced from Klarna press communications; independently reported by multiple outlets. Consider primary source verification before publication."
+    }
+  ]
+}
