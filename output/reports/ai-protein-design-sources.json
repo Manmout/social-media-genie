@@ -1,0 +1,121 @@
+{
+  "trend": "AI Protein Design",
+  "slug": "ai-protein-design",
+  "research_date": "2026-09-02",
+  "sources": [
+    {
+      "id": 1,
+      "claim": "AI protein design market reached $1.87B in 2025, growing to $2.27B in 2026 at 21.2% CAGR",
+      "url": "https://www.globenewswire.com/news-release/2026/08/19/3347789/0/en/protein-design-engineering-market-global-report-2026-evaluating-ai-platforms-rational-design-directed-evolution-and-strategies-of-lonza-thermo-fisher-genscript-and-charles-river.html",
+      "publisher": "GlobeNewswire / Business Research Company",
+      "verified": true,
+      "notes": "In silico protein design market; AI subset may be slightly smaller"
+    },
+    {
+      "id": 2,
+      "claim": "Market projected to reach $6.98B by 2033 at 21.2% CAGR — AstuteAnalytica",
+      "url": "https://www.openpr.com/news/4486902/ai-protein-design-market-2026-the-6-9b-opportunity",
+      "publisher": "OpenPR / AstuteAnalytica",
+      "verified": true,
+      "notes": "Multiple market research firms confirm $6–7B range by 2033"
+    },
+    {
+      "id": 3,
+      "claim": "Generate Biomedicines IPO: 25M shares at $16/share, $400M raised, Nasdaq GENB, Feb 27 2026",
+      "url": "https://www.biopharmadive.com/news/generate-biomedicines-ipo-price-biotech-ai-flagship-startup/813130/",
+      "publisher": "BioPharma Dive",
+      "verified": true,
+      "notes": "Direct reporting on IPO pricing and terms"
+    },
+    {
+      "id": 4,
+      "claim": "Generate Biomedicines IPO confirmed at $400M gross proceeds; strong month for biotech IPOs",
+      "url": "https://www.axios.com/pro/biotech-deals/2026/02/27/generate-biomedicines-400m-ipo-2b",
+      "publisher": "Axios Pro",
+      "verified": true,
+      "notes": "Axios Pro exclusive confirming IPO terms and valuation"
+    },
+    {
+      "id": 5,
+      "claim": "Earendil Labs raised $787M from Dimension Capital, DST Global, Sanofi, Pfizer-Hillhouse — March 2026",
+      "url": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
+      "publisher": "BioPharma Dive",
+      "verified": true,
+      "notes": "Confirmed with investor list and 40+ program pipeline details"
+    },
+    {
+      "id": 6,
+      "claim": "Latent Labs $50M Series A, co-led by Radical Ventures and Sofinnova Partners, Feb 2025",
+      "url": "https://techcrunch.com/2025/02/12/founded-by-deepmind-alumnus-latent-labs-launches-with-50m-to-make-biology-programmable/",
+      "publisher": "TechCrunch",
+      "verified": true,
+      "notes": "Confirmed founder background (DeepMind AlphaFold alumnus Thomas Ingraham) and funding"
+    },
+    {
+      "id": 7,
+      "claim": "Profluent raised $106M from Altimeter Capital and Bezos Expeditions; total $150M raised",
+      "url": "https://www.synbiobeta.com/read/profluent-secures-106m-funding-to-enhance-ai-driven-biology-solutions",
+      "publisher": "SynBioBeta",
+      "verified": true,
+      "notes": "OpenCRISPR-1 used by thousands of commercial and academic entities confirmed"
+    },
+    {
+      "id": 8,
+      "claim": "AlphaFold 3 released by DeepMind (May 2024); Nobel Prize in Chemistry 2024 awarded to AlphaFold researchers",
+      "url": "https://hire-omics.com/articles/ai-driven-protein-engineering-and-structure-prediction-in-2026-key-technologies-market-data-and-recent-developments",
+      "publisher": "Hire-Omics",
+      "verified": true,
+      "notes": "Confirms AF3 capabilities (protein-ligand, protein-nucleic acid) and Nobel Prize milestone"
+    },
+    {
+      "id": 9,
+      "claim": "AI-driven protein design review — RFdiffusion, ESM3, Chroma, EvoDiff approaches described",
+      "url": "https://www.nature.com/articles/s44222-025-00349-8",
+      "publisher": "Nature Reviews Bioengineering",
+      "verified": true,
+      "notes": "Peer-reviewed overview of state-of-art generative protein design models as of 2025"
+    },
+    {
+      "id": 10,
+      "claim": "28% CAGR variant projection for AI protein design market 2026–2033",
+      "url": "https://www.openpr.com/news/4617392/the-artificial-intelligence-ai-protein-design-market-shows",
+      "publisher": "OpenPR / DataMintelligence",
+      "verified": true,
+      "notes": "Higher CAGR estimate; range is 21–28% across different research firms"
+    },
+    {
+      "id": 11,
+      "claim": "FDA's January 2025 draft guidance on AI in drug development; 7-step credibility framework",
+      "url": "https://intuitionlabs.ai/articles/fda-draft-guidance-ai-drug-development",
+      "publisher": "IntuitionLabs",
+      "verified": true,
+      "notes": "Summary of FDA guidance; primary source is FDA.gov"
+    },
+    {
+      "id": 12,
+      "claim": "Protein design, generative AI, and biological security risks — Frontiers in Microbiology 2026",
+      "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1817535/full",
+      "publisher": "Frontiers in Microbiology",
+      "verified": true,
+      "notes": "Peer-reviewed paper on biosecurity considerations for AI protein design tools"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: +1,400% (estimated from near-zero market in 2021 to $1.87B in 2025)",
+      "note": "No reliable 2021 baseline figure available for AI-specific protein design; estimate based on CAGR backcast and AlphaFold2 launch as market creation event"
+    },
+    {
+      "claim": "growth_3m: +5% (estimated quarterly rate based on 21% annual CAGR)",
+      "note": "No quarterly market data available; derived from annual CAGR"
+    },
+    {
+      "claim": "Market share percentages (Isomorphic Labs ~22%, Generate ~16%, Schrödinger ~14%, Cradle ~9%, Profluent ~7%)",
+      "note": "No independent market share breakdown published; estimates based on funding totals, revenue proxies, and analyst commentary. Should be treated as approximate."
+    },
+    {
+      "claim": "search_volume: ~65,000 monthly",
+      "note": "Aggregate estimate across related search terms (protein design AI, computational protein design, AI drug design, AlphaFold applications); not from a specific Keyword Everywhere or SEMrush lookup"
+    }
+  ]
+}
