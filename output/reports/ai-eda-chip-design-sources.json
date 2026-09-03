@@ -1,0 +1,99 @@
+{
+  "trend": "AI Electronic Design Automation (AI EDA)",
+  "slug": "ai-eda-chip-design",
+  "research_date": "2026-09-03",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "GlobeNewswire / MarketsandMarkets",
+      "url": "https://www.globenewswire.com/news-release/2026/07/01/3320776/28124/en/ai-eda-market-to-reach-usd-15-85-billion-by-2032-with-a-24-4-cagr.html",
+      "claim": "AI EDA market to reach USD 15.85 billion by 2032 with a 24.4% CAGR — market valued at $4.27B in 2026",
+      "verified": true,
+      "notes": "MarketsandMarkets report published July 2026. Primary source for market size and CAGR figures."
+    },
+    {
+      "id": 2,
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/ai-eda-companies.asp",
+      "claim": "Synopsys (31%) and Cadence (30%) lead AI EDA market; top 5 players control 70–85% of total market share",
+      "verified": true,
+      "notes": "Company landscape report with verified market share breakdown. Includes Siemens EDA (13%), Keysight, Zuken."
+    },
+    {
+      "id": 3,
+      "publisher": "Google DeepMind",
+      "url": "https://deepmind.google/blog/how-alphachip-transformed-computer-chip-design/",
+      "claim": "AlphaChip generates superhuman chip layouts in hours vs. weeks; deployed in Alphabet production chips; pre-trained checkpoint released publicly September 2024",
+      "verified": true,
+      "notes": "Official Google DeepMind blog post. Primary source for AlphaChip claims and timeline."
+    },
+    {
+      "id": 4,
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-design-chips-160000297.html",
+      "claim": "Cognichip raises $60M Series A; claims 75% cost reduction and 50% timeline compression via physics-informed AI chip design",
+      "verified": true,
+      "notes": "TechCrunch coverage of April 2026 funding round. Revenue/impact figures are company claims, not independently verified."
+    },
+    {
+      "id": 5,
+      "publisher": "Semiconductor Engineering",
+      "url": "https://semiengineering.com/startup-funding-q1-2026/",
+      "claim": "Ricursive Intelligence: $335M funding total (Sequoia seed Dec 2025 + Lightspeed $300M Series A), $4B valuation. Cognichip: $93M total. Normal Computing: $85M. Vinci: $46M.",
+      "verified": true,
+      "notes": "Industry tracker with confirmed funding round details for EDA AI startups as of Q1 2026."
+    },
+    {
+      "id": 6,
+      "publisher": "EE Times",
+      "url": "https://www.eetimes.com/video-interview-chipagents-ceo-on-latest-funding-for-agentic-ai-in-eda/",
+      "claim": "Agentic AI in EDA is receiving substantial investment; ChipAgents represents the shift toward fully autonomous chip design pipelines",
+      "verified": true,
+      "notes": "Video interview with CEO of ChipAgents confirming agentic EDA market direction."
+    },
+    {
+      "id": 7,
+      "publisher": "CSIS (Center for Strategic & International Studies)",
+      "url": "https://www.csis.org/analysis/double-edged-sword-semiconductor-export-controls-electronic-design-automation",
+      "claim": "EDA software subject to US export controls; BIS levied $140M+ penalties in July 2025 for illegal EDA exports to China; US export controls temporarily targeted EDA tools during 2025 trade negotiations",
+      "verified": true,
+      "notes": "CSIS policy analysis. Primary source for regulatory/legal claims."
+    },
+    {
+      "id": 8,
+      "publisher": "SemiIPHub",
+      "url": "https://semiiphub.com/news/cadence-cerebrus-ai-studio",
+      "claim": "Cadence launches Cerebrus AI Studio (May 2025): industry's first agentic multi-block AI design platform; 5x faster SoC time-to-market; 1,000+ tapeouts completed; 50+ new customers Q1 2025",
+      "verified": true,
+      "notes": "Industry publication covering Cadence launch. Customer metrics from Cadence official press release."
+    },
+    {
+      "id": 9,
+      "publisher": "TTI Europe / Cadence official",
+      "url": "https://www.ttieurope.com/content/ttieurope/en/resources/marketeye/categories/new-technology/me-slovick-20240625.html",
+      "claim": "Cadence Cerebrus achieves up to 10x productivity improvement and up to 20% PPA gain; Samsung used Cerebrus to achieve 8% power reduction; Imagination Technologies cut leakage power by 20%",
+      "verified": true,
+      "notes": "Customer results from 2024 industry report. Individual customer outcomes are verified from Cadence case studies."
+    },
+    {
+      "id": 10,
+      "publisher": "Bloomberg Professional",
+      "url": "https://www.bloomberg.com/professional/insights/artificial-intelligence/ai-fuels-24-billion-chip-design-market/",
+      "claim": "AI fuels $24 billion chip design market; industry sales growing at 11.8% CAGR through decade's end; Synopsys-Ansys $35B acquisition completed; Renesas acquired Altium for $5.9B",
+      "verified": true,
+      "notes": "Bloomberg market analysis. Synopsys FY2024 revenue of $6.127B and 15% growth confirmed in earnings reports."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Global VLSI engineer shortage: ~50,000 experts worldwide vs. 300,000 needed by 2030",
+      "reason": "Widely cited industry estimate but specific figures vary by source; original study not directly verified",
+      "marked_in_report": true
+    },
+    {
+      "claim": "3M growth estimate of +6% (extrapolated quarterly from 24.4% CAGR)",
+      "reason": "Derived calculation, not directly from a source",
+      "marked_in_report": true
+    }
+  ]
+}
