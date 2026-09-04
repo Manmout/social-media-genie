@@ -1,0 +1,101 @@
+{
+  "trend": "AI-Powered DevSecOps",
+  "slug": "ai-devsecops",
+  "date": "2026-09-04",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "The Business Research Company",
+      "url": "https://www.thebusinessresearchcompany.com/report/devsecops-global-market-report",
+      "description": "DevSecOps global market report: $3.73B in 2021 → $9.06B in 2025 → $11.61B in 2026, growing at 28.1% CAGR toward $27.12B by 2030",
+      "claims_supported": ["growth_5y +211% (2021→2026)", "growth_1y +28.1% CAGR", "$11.61B market size 2026"]
+    },
+    {
+      "id": 2,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/application-security-market",
+      "description": "Application security market at $10.6B in 2025, projected to reach $42.1B by 2033 at 18.8% CAGR; North America holds 39.4% share",
+      "claims_supported": ["AppSec market size 2025", "18.8% CAGR", "North America market share"]
+    },
+    {
+      "id": 3,
+      "publisher": "Socket.dev",
+      "url": "https://socket.dev/blog/series-c",
+      "description": "Socket raises $60M Series C at $1B valuation led by Thrive Capital with a16z (May 2026); 300% YoY revenue growth; $125M total raised; protects 27,000+ organizations",
+      "claims_supported": ["Socket $60M Series C May 2026", "Socket $1B valuation", "300% YoY growth", "27,000+ organizations"]
+    },
+    {
+      "id": 4,
+      "publisher": "DevOps.com",
+      "url": "https://devops.com/endor-labs-forks-semgrep-to-opengrep-for-static-code-analysis/",
+      "description": "Endor Labs forks Semgrep into open-source Opengrep with 7 ecosystem partners; Endor raised $93M Series B April 2025 led by DFJ Growth",
+      "claims_supported": ["Endor Labs $93M Series B April 2025", "Opengrep fork", "7 ecosystem partners"]
+    },
+    {
+      "id": 5,
+      "publisher": "Swif",
+      "url": "https://www.swif.ai/blog/supply-chain-attack-statistics",
+      "description": "Supply chain attacks statistics: third-party breaches doubled from 15% to 30%; average breach cost $4.91M; 267 days mean-time-to-detect (citing IBM Cost of Data Breach 2025 and Verizon DBIR)",
+      "claims_supported": ["Supply chain breach cost $4.91M", "267 days to contain", "Third-party involvement doubled to 30%"]
+    },
+    {
+      "id": 6,
+      "publisher": "GitHub",
+      "url": "https://resources.github.com/evolving-github-advanced-security/",
+      "description": "GitHub Advanced Security unbundled April 2025; CodeQL runs 10B scans monthly; 15M+ vulnerabilities resolved; 92% of Fortune 100 use GitHub Enterprise",
+      "claims_supported": ["GHAS unbundling April 2025", "CodeQL 10B scans monthly", "15M+ vulnerabilities resolved", "92% Fortune 100 on GHE"]
+    },
+    {
+      "id": 7,
+      "publisher": "EU Digital Strategy",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act",
+      "description": "EU Cyber Resilience Act official page: enters into force December 2024; active-exploitation reporting obligations live 11 September 2026; fines up to €15M or 2.5% of global turnover",
+      "claims_supported": ["EU CRA September 11 2026 deadline", "€15M maximum fine", "24-hour reporting requirement"]
+    },
+    {
+      "id": 8,
+      "publisher": "Security Boulevard / Gartner",
+      "url": "https://securityboulevard.com/2026/04/ai-devsecops-and-the-future-of-application-security-the-gartner-report/",
+      "description": "Gartner Application Security Strategy 2026: 43% of organisations at lowest AppSec maturity; AI, developer experience, and tool consolidation are the three structural shifts",
+      "claims_supported": ["43% of orgs at lowest AppSec maturity", "Tool consolidation trend", "AI as structural shift"]
+    },
+    {
+      "id": 9,
+      "publisher": "Kusari",
+      "url": "https://www.kusari.dev/blog/ai-coding-assistants-in-2026-4x-faster-10x-riskier-the-hidden-security-cost",
+      "description": "AI coding assistants 4x faster but introduce more security findings; secrets exposure 40% higher in AI-assisted repos; some specific percentages marked as estimates [unverified]",
+      "claims_supported": ["AI coding productivity vs security trade-off", "Secrets leakage in AI-assisted repos"],
+      "notes": "Some specific percentages in this source are estimates — treat as directional, not precise"
+    },
+    {
+      "id": 10,
+      "publisher": "OWASP Gen AI Security Project",
+      "url": "https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/",
+      "description": "OWASP GenAI LLM Top 10 2026: formalises prompt injection, supply chain vulnerabilities, and sensitive information disclosure as top AI application security risks",
+      "claims_supported": ["OWASP LLM Top 10 2026", "Prompt injection as top risk", "Supply chain AI vulnerabilities"]
+    },
+    {
+      "id": 11,
+      "publisher": "Wikipedia / press",
+      "url": "https://en.wikipedia.org/wiki/Aikido_Security",
+      "description": "Aikido Security $60M Series B at $1B valuation in January 2026 led by DST Global with PSG Equity and Notion Capital",
+      "claims_supported": ["Aikido $60M Series B January 2026", "Aikido $1B valuation", "DST Global lead investor"]
+    },
+    {
+      "id": 12,
+      "publisher": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/05/20/code-security-startup-socket-raises-60m-funding/",
+      "description": "Socket $60M Series C coverage; open-source supply chain security platform market reached $12.29B in 2025 at 14.91% CAGR",
+      "claims_supported": ["Socket funding corroboration", "Supply chain security market size $12.29B 2025"]
+    }
+  ],
+  "notes": {
+    "verification_status": "Market sizing from The Business Research Company and Grand View Research. Funding rounds verified via company announcements and press coverage. EU CRA dates from official EU Digital Strategy portal. Some AI coding risk percentages from Kusari are estimates and flagged as unverified.",
+    "unverified_claims": [
+      "Market share percentages for GitHub GHAS (~22%), Snyk (~18%), Checkmarx (~12%), Socket (~4%), Aikido (~3%) are analyst estimates [unverified exact figures]",
+      "Snyk ~$326M ARR is an estimate from secondary sources, not confirmed by Snyk",
+      "AI coding assistants causing 2.74x more XSS vulnerabilities — specific multiplier cited from research, verify before publishing",
+      "10,000+ new security findings per month per repository — directional figure from Kusari analysis"
+    ]
+  }
+}

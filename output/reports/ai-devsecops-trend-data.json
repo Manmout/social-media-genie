@@ -1,0 +1,75 @@
+{
+  "trend_name": "AI-Powered DevSecOps",
+  "slug": "ai-devsecops",
+  "status": "surging",
+  "search_volume": 74000,
+  "category": "AI & Technology",
+  "growth_5y": "+211%",
+  "growth_1y": "+28%",
+  "growth_3m": "+9%",
+  "trigger": "EU Cyber Resilience Act vulnerability-reporting mandates activated September 11 2026, compelling software manufacturers worldwide to automate security scanning inside CI/CD pipelines or face fines of up to €15M.",
+  "timeline": [
+    {"date": "2021-05", "event": "US Executive Order 14028 mandates SBOM and secure software practices for federal vendors, seeding enterprise-scale DevSecOps demand; DevSecOps market is $3.73B"},
+    {"date": "2022-12", "event": "Log4Shell post-mortem accelerates SCA adoption globally; Sonatype reports surge in dependency-scanning tool purchases as open source risk dominates boardroom agendas"},
+    {"date": "2023-09", "event": "OWASP releases first LLM Top 10, formally classifying prompt injection, training-data poisoning, and supply-chain vulnerabilities as first-class application security risks"},
+    {"date": "2024-12", "event": "EU Cyber Resilience Act enters into force; manufacturers must now document SBOMs in CycloneDX/SPDX format and report actively exploited vulnerabilities within 24 hours by September 2026"},
+    {"date": "2025-04", "event": "GitHub unbundles Advanced Security into standalone Secret Protection ($21/mo) and Code Security ($32/mo), opening GHAS to non-Enterprise GitHub Team customers for the first time"},
+    {"date": "2026-09", "event": "EU CRA reporting obligations go live; Commission publishes practical compliance guidance; Socket closes $60M Series C at $1B valuation and Aikido Security hits $1B valuation in same quarter"}
+  ],
+  "pestal": [
+    {"factor": "Political", "impact": "US CISA Secure-by-Design initiative and EU CRA together establish automated security scanning as a compliance floor for software sold to government and enterprise buyers across 30+ countries"},
+    {"factor": "Economic", "impact": "Supply chain breaches now cost an average $4.91M and take 267 days to contain (IBM 2025 Cost of a Data Breach Report), making AI-driven preventive scanning orders of magnitude cheaper than incident response"},
+    {"factor": "Social", "impact": "'Vibe coding' culture — 25% of Y Combinator W2025 startups reported 95%+ AI-generated codebases — is normalising insecure code at unprecedented velocity, creating a new class of security-unaware developer"},
+    {"factor": "Technological", "impact": "AI coding assistants generate 10,000+ new security findings per month per repository and 2.74x more XSS vulnerabilities than human developers; AI-native SAST tools now apply semantic reasoning to cut false-positive rates below 15%"},
+    {"factor": "Environmental", "impact": "CI/CD pipeline security scanning adds meaningful compute overhead; AI-powered tools reducing false positives improve efficiency by cutting unnecessary remediation cycles, lowering net energy consumption per vulnerability resolved"},
+    {"factor": "Legal", "impact": "EU CRA active-exploitation reporting from September 11 2026 requires 24-hour notification to CSIRT and ENISA; non-compliance risks fines up to €15M or 2.5% of global annual turnover, directly pressuring CI/CD security budgets"}
+  ],
+  "jobs": [
+    {"job": "Detect hardcoded secrets and credentials before they reach production or public repos", "solution": "AI secrets-scanning engines (GitHub Secret Protection, GitGuardian, Aikido) auto-block PR merges containing API keys and tokens; 6.4% of Copilot-assisted repos leak secrets — 40% above the baseline"},
+    {"job": "Find exploitable open source vulnerabilities without drowning developers in irrelevant CVE noise", "solution": "Reachability-aware SCA platforms (Snyk, Endor Labs, Socket.dev) map CVEs to actually reachable code paths, surfacing only the 8-12% of findings that are genuinely exploitable in a given application"},
+    {"job": "Generate machine-readable SBOM inventories required by EU CRA and US EO 14028 for every release artifact", "solution": "CI/CD-integrated SBOM generators (Anchore, Endor Labs, Veracode SCA) automatically produce CycloneDX or SPDX inventories on every build commit with full transitive-dependency coverage"},
+    {"job": "Reduce developer alert fatigue — teams ignore 60%+ of SAST findings — without sacrificing security coverage", "solution": "AI autofix tools (Checkmarx Developer Assist via MCP, Snyk Agent Fix, Veracode Fix, GitHub Copilot Autofix) generate PR-ready remediation patches, cutting mean-time-to-fix from days to hours"},
+    {"job": "Secure the CI/CD pipeline itself against supply chain poisoning via malicious GitHub Actions or compromised build tools", "solution": "Pipeline security platforms (Endor Labs, Legit Security, Wiz Code) continuously audit workflow files, runner permissions, and dependency pinning for tampering or anomalous behaviour"}
+  ],
+  "market": [
+    {"name": "GitHub Advanced Security", "share": "~22%", "loved": "Frictionless adoption for 92% of Fortune 100 already on GitHub Enterprise; CodeQL runs 10B scans monthly and has resolved 15M+ vulnerabilities", "segment": "Platform-native code security: secret scanning, code scanning, Copilot Autofix"},
+    {"name": "Snyk", "share": "~18%", "loved": "Developer-first UX, broadest language and framework coverage; $326M ARR (est. 2026); deep IDE integration across VS Code, JetBrains, Eclipse", "segment": "Developer security platform covering SCA, SAST, container, and IaC scanning"},
+    {"name": "Checkmarx", "share": "~12%", "loved": "Seven-time Gartner Magic Quadrant Leader; agentic AI remediation via MCP server with PR-ready fix suggestions; strongest enterprise compliance reporting", "segment": "Enterprise SAST, DAST, API security, and SCA"},
+    {"name": "Socket.dev", "share": "~4%", "loved": "Real-time malicious-package interception before install; protects 27,000+ orgs including Anthropic and Vercel; $60M Series C at $1B valuation May 2026", "segment": "Open source and software supply chain security (npm, PyPI, Maven, NuGet)"},
+    {"name": "Aikido Security", "share": "~3%", "loved": "Fastest onboarding (5-minute setup) with all-in-one SAST/SCA/DAST/secrets/cloud posture; $60M Series B at $1B valuation January 2026; targets SMB and mid-market", "segment": "Unified developer security platform for SMB and mid-market"}
+  ],
+  "competitors": [
+    {"name": "Snyk", "detail": "$1.8B total raised, $7.4B valuation, ~$326M ARR (est. Feb 2026, +7% YoY); IPO anticipated 2026-2027; facing margin pressure as GitHub and GitLab bundle competing native features at no additional cost"},
+    {"name": "Endor Labs", "detail": "$93M Series B (April 2025) led by DFJ Growth with Salesforce Ventures and Lightspeed, total ~$163M raised; pioneered reachability-based SCA and launched Opengrep (open-source Semgrep fork) with 7 ecosystem partners including Aikido and Orca"},
+    {"name": "Socket.dev", "detail": "$60M Series C (May 2026) at $1B valuation led by Thrive Capital with a16z and Capital One Ventures, total $125M raised; 300% YoY revenue growth; real-time interception of malicious open source packages at install time"},
+    {"name": "Aikido Security", "detail": "$60M Series B (January 2026) at $1B valuation led by DST Global with PSG Equity and Notion Capital; targets SMB and mid-market with one-platform approach replacing 5-7 point solutions; fastest-growing new entrant"},
+    {"name": "Semgrep", "detail": "Triggered industry controversy in 2024-2025 by restricting open-source access to its rules engine, sparking the Opengrep fork backed by Endor Labs and 7 competitors; refocused on enterprise with Semgrep Code AI and Semgrep Secrets products"}
+  ],
+  "canvas": {
+    "who": "Security engineers, AppSec architects, and DevOps platform engineers at enterprises with 200+ developers who face EU CRA, SOC 2, FedRAMP, or ISO 27001 obligations and are shipping AI-assisted code at velocity",
+    "where": "Inside GitHub Actions, GitLab CI, Jenkins, and Harness pipelines at the PR gate; inside developer IDEs (VS Code, JetBrains, Cursor, Windsurf) as real-time linting; and in security dashboards aggregating findings across all repos",
+    "why_now": "EU CRA 24-hour vulnerability-reporting mandates went live September 2026; AI coding tools are introducing exploitable vulnerabilities at 10x historical rates; and supply chain attacks now account for 30% of all enterprise breaches — up from 15% just one year ago",
+    "behavior": "Developer teams want security surfaced at PR time as auto-fix patches, not as a post-deployment ticket queue; they reward tools that suppress false positives, integrate into existing IDE workflows, and never slow a CI pipeline beyond 2 minutes",
+    "unmet": "No platform yet correlates SBOM inventory, runtime reachability, and agentic AI code flows into a single exploitability score; false-positive rates remain 25-40% for most SAST tools despite AI advances; and securing AI agent-written code (not just AI-assisted human code) is an unsolved frontier"
+  },
+  "takeaways": [
+    "Prioritise reachability-aware SCA (Endor Labs, Snyk, Socket.dev) over raw CVE-count dashboards — only 8-12% of open source vulnerabilities are exploitable in any given codebase; chasing the rest burns engineering cycles with zero security ROI",
+    "Deploy AI autofix tooling (Checkmarx Developer Assist, Snyk Agent Fix, Veracode Fix, GitHub Copilot Autofix) before Q4 2026 to cut mean-time-to-fix from days to hours and prevent developer alert fatigue from eroding AppSec programme effectiveness",
+    "Automate SBOM generation on every CI build now — EU CRA mandates machine-readable CycloneDX or SPDX inventories for all digital products sold in the EU, and manually cataloguing AI-assisted codebases with hundreds of transitive dependencies is operationally infeasible at scale",
+    "Treat CI/CD pipeline configuration (GitHub Actions workflow files, runner permissions, dependency pinning) as a primary attack surface — supply chain compromises now average $4.91M and 267 days to contain, making pipeline hardening one of the highest-ROI security investments available"
+  ],
+  "sources": [
+    {"publisher": "The Business Research Company", "url": "https://www.thebusinessresearchcompany.com/report/devsecops-global-market-report", "description": "DevSecOps market valued at $3.73B in 2021, $9.06B in 2025, and $11.61B in 2026, growing at 28.1% CAGR toward $27.12B by 2030"},
+    {"publisher": "Grand View Research", "url": "https://www.grandviewresearch.com/industry-analysis/application-security-market", "description": "Application security market at $10.6B in 2025, projected to reach $42.1B by 2033 at 18.8% CAGR; North America holds 39.4% share"},
+    {"publisher": "Socket.dev", "url": "https://socket.dev/blog/series-c", "description": "Socket raises $60M Series C at $1B valuation led by Thrive Capital with a16z (May 2026); 300% YoY revenue growth; $125M total raised; protects 27,000+ organizations"},
+    {"publisher": "DevOps.com", "url": "https://devops.com/endor-labs-forks-semgrep-to-opengrep-for-static-code-analysis/", "description": "Endor Labs forks Semgrep into open-source Opengrep with 7 ecosystem partners after Semgrep restricted OSS access; Endor raised $93M Series B in April 2025"},
+    {"publisher": "Swif", "url": "https://www.swif.ai/blog/supply-chain-attack-statistics", "description": "Third-party involvement in breaches doubled from 15% to 30% in one year; supply chain breaches average $4.91M and 267 days to detect and contain (citing IBM and Verizon DBIR 2025)"},
+    {"publisher": "GitHub", "url": "https://resources.github.com/evolving-github-advanced-security/", "description": "GitHub Advanced Security unbundled April 2025; CodeQL runs 10B scans monthly; 15M+ vulnerabilities resolved; 92% of Fortune 100 use GitHub Enterprise"},
+    {"publisher": "EU Digital Strategy", "url": "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act", "description": "EU CRA enters into force December 2024; active-exploitation reporting obligations go live 11 September 2026; fines up to €15M or 2.5% of global turnover for non-compliance"},
+    {"publisher": "Security Boulevard", "url": "https://securityboulevard.com/2026/04/ai-devsecops-and-the-future-of-application-security-the-gartner-report/", "description": "Gartner Application Security Strategy 2026: 43% of organisations at lowest AppSec maturity; AI, developer experience, and tool consolidation are the three structural shifts reshaping the market"},
+    {"publisher": "Kusari", "url": "https://www.kusari.dev/blog/ai-coding-assistants-in-2026-4x-faster-10x-riskier-the-hidden-security-cost", "description": "AI coding assistants are 4x faster but introduce 10x more security findings; 45% of AI-generated code contains flaws; secrets exposure 40% higher in AI-assisted repos [some percentages unverified]"},
+    {"publisher": "OWASP Gen AI Security Project", "url": "https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/", "description": "OWASP GenAI LLM Top 10 2026 formalises prompt injection, supply chain vulnerabilities, and sensitive information disclosure as the top AI application security risks for DevSecOps teams to address"},
+    {"publisher": "Aikido Security", "url": "https://en.wikipedia.org/wiki/Aikido_Security", "description": "Aikido Security raises $60M Series B at $1B valuation in January 2026 led by DST Global; all-in-one developer security platform targeting SMB and mid-market"},
+    {"publisher": "SiliconANGLE", "url": "https://siliconangle.com/2026/05/20/code-security-startup-socket-raises-60m-funding/", "description": "Code security startup Socket raises $60M; open-source supply chain security platform market reached $12.29B in 2025 growing at 14.91% CAGR"}
+  ]
+}
