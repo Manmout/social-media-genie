@@ -1,0 +1,165 @@
+{
+  "trend": "AI Wearables: The Ambient Intelligence Revolution",
+  "slug": "ai-wearables",
+  "research_date": "2026-09-05",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Research and Markets",
+      "title": "Wearable AI Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/5896159/wearable-ai-market-report",
+      "claims_supported": [
+        "Market grows from $52.65B (2025) to $69.03B (2026) at 31.1% CAGR",
+        "Market projected to reach $207.81B by 2030 at 31.7% CAGR",
+        "Smart earwear holds largest segment at 50% market share in 2025",
+        "~40% of new wearable devices to feature AI capabilities by 2026"
+      ],
+      "reliability": "high",
+      "paywalled": true
+    },
+    {
+      "id": 2,
+      "publisher": "Counterpoint Research",
+      "title": "Global Smart Glasses Shipments Grew 139% YoY in H2 2025; Meta Expanded Market Share to 82%",
+      "url": "https://counterpointresearch.com/en/insights/Global-Smart-Glasses-Shipments-Grew-139-Percent-YoY-in-H2-2025",
+      "claims_supported": [
+        "Smart glasses shipments grew 139% YoY in H2 2025",
+        "Meta expanded market share to 82% in H2 2025",
+        "Meta sold 7M+ units of Ray-Ban smart glasses in 2025"
+      ],
+      "reliability": "high",
+      "paywalled": false
+    },
+    {
+      "id": 3,
+      "publisher": "Smart Analytics Global (via BusinessWire)",
+      "title": "AI Smart Glasses to Quadruple Revenue in 2026 as Apple and Samsung Prepare to Enter the Market",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/AI-Smart-Glasses-to-Quadruple-Revenue-in-2026-as-Apple-and-Samsung-Prepare-to-Enter-the-Market-Says-Smart-Analytics-Global-SAG",
+      "claims_supported": [
+        "Smart glasses revenue quadrupling in 2026: $1.2B to $5.6B",
+        "Unit volume rising from 6M (2025) to 20M (2026)",
+        "Meta forecast to hold ~71% global smart glasses shipment share in 2026",
+        "Samsung and Google entering smart glasses market in 2026",
+        "Apple to follow in 2027"
+      ],
+      "reliability": "high",
+      "paywalled": false
+    },
+    {
+      "id": 4,
+      "publisher": "Grand View Research",
+      "title": "Wearable AI Market Size, Share & Trends Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/wearable-ai-market-report",
+      "claims_supported": [
+        "Global wearable AI market valued at $43.6B in 2025",
+        "Market projected to reach $310.6B by 2033 at 27.8% CAGR",
+        "Asia Pacific emerging as dominant regional player"
+      ],
+      "reliability": "high",
+      "paywalled": true
+    },
+    {
+      "id": 5,
+      "publisher": "Fortune Business Insights",
+      "title": "Wearable AI Market Size, Share & Trends Forecast [2034]",
+      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561",
+      "claims_supported": [
+        "Wearable AI market valued at $48.82B in 2025",
+        "Projected to grow to $359.32B by 2034 at 24.70% CAGR",
+        "Smart rings grew 88% in shipments in 2024 — fastest growing wearable category"
+      ],
+      "reliability": "high",
+      "paywalled": true
+    },
+    {
+      "id": 6,
+      "publisher": "Women in AI",
+      "title": "Tracking the Body, Tracking the Law: How the U.S., EU, and APAC Govern Wearable AI",
+      "url": "https://www.womeninai.co/post/tracking-the-body-tracking-the-law-how-the-u-s-eu-and-apac-govern-wearable-ai",
+      "claims_supported": [
+        "EU AI Act (effective Aug 2024) classifies biometric + health-monitoring AI as 'high-risk'",
+        "Companies must ensure transparency, implement human oversight, manage risks formally",
+        "South Korea AI Basic Act effective January 2026 — wearable health AI classified as 'high-impact'",
+        "Japan APPI amendments (April 2026) stricter rules for biometric data"
+      ],
+      "reliability": "high",
+      "paywalled": false
+    },
+    {
+      "id": 7,
+      "publisher": "STAT News",
+      "title": "FDA announces sweeping changes to oversight of wearables, AI-enabled devices",
+      "url": "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/",
+      "claims_supported": [
+        "FDA loosened wearable device oversight in January 2026",
+        "Many digital health technologies no longer require premarket FDA review",
+        "Reflects US AI Action Plan's innovation-first approach"
+      ],
+      "reliability": "high",
+      "paywalled": false
+    },
+    {
+      "id": 8,
+      "publisher": "The Gadgeteer",
+      "title": "Forget the Smartwatch: 5 AI Wearables to Watch in 2026",
+      "url": "https://the-gadgeteer.com/2026/05/08/best-ai-wearables-2026-2/",
+      "claims_supported": [
+        "Humane AI Pin servers shut down February 28, 2025 — HP acquired assets for $116M",
+        "Amazon acquired Bee on July 22, 2025, shown at CES 2026 as Alexa-Echo roadmap",
+        "Meta acquired Limitless Pendant on December 5, 2025",
+        "Meta Ray-Ban Display glasses launched September 2025 with micro-LED display",
+        "Meta Ray-Ban Wayfarer Gen 2 priced at $379 in 2026"
+      ],
+      "reliability": "medium",
+      "paywalled": false
+    },
+    {
+      "id": 9,
+      "publisher": "Censinet",
+      "title": "Emerging Privacy Laws for Wearable Health Devices",
+      "url": "https://censinet.com/perspectives/emerging-privacy-laws-for-wearable-health-devices",
+      "claims_supported": [
+        "Health Information Privacy Reform Act (HIPRA) introduced November 2025",
+        "Aims to extend HIPAA-like protections to wearable device data (Apple Watch, Oura Ring)",
+        "GDPR compliance for health wearables includes mandatory DPIA and EUDAMED registration from May 28, 2026"
+      ],
+      "reliability": "high",
+      "paywalled": false
+    },
+    {
+      "id": 10,
+      "publisher": "Memeburn / SociallyKeeda",
+      "title": "Best AI Smart Glasses in 2026: Google vs Meta vs Apple Compared",
+      "url": "https://memeburn.com/best-ai-smart-glasses-in-2026/",
+      "claims_supported": [
+        "Google and Samsung expected to launch smart glasses in 2026",
+        "Apple expected to enter smart glasses market by 2027",
+        "By 2030, Apple, Samsung, and Meta expected as top three global vendors"
+      ],
+      "reliability": "medium",
+      "paywalled": false
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y: +302% (2021→2026)",
+      "note": "Back-calculated from 31.7% CAGR. No direct 2021 market size figure found for exact verification. Multiple analyst reports use different market definitions."
+    },
+    {
+      "claim": "growth_3m: +45% (Q2→Q3 2026)",
+      "note": "Estimated from quadrupling annual trajectory. No Q3 2026 quarterly report found at research time."
+    },
+    {
+      "claim": "search_volume: ~80K/mo",
+      "note": "Estimated cluster volume for 'AI wearables' + 'smart glasses' + 'AI glasses' + 'wearable AI'. No Keywords Everywhere API data used in this session."
+    },
+    {
+      "claim": "Oura Ring 2M+ units sold globally",
+      "note": "Frequently cited in press but no primary investor/company disclosure found."
+    },
+    {
+      "claim": "Omi Wearable price $89-$149",
+      "note": "Cited in product reviews; verify on official omi.me website before publishing."
+    }
+  ]
+}

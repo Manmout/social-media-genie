@@ -1,0 +1,208 @@
+{
+  "trend_name": "AI Wearables: The Ambient Intelligence Revolution",
+  "status": "surging",
+  "search_volume": "~80K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+302%",
+  "growth_1y": "+31%",
+  "growth_3m": "+45%",
+  "trigger": "Meta Ray-Ban Display glasses launched Sept 2025 with full-color micro-LED AR overlay, creating waitlists into 2026. Smart glasses revenue forecast to quadruple in 2026 (6M→20M units) as Samsung and Google enter. Market hit $69B in 2026 after Humane AI Pin collapse reset expectations to what actually works.",
+
+  "timeline": [
+    {
+      "date": "Sep 2024",
+      "event": "Meta Ray-Ban Gen 2 with Meta AI voice integration launches — camera, audio, and AI in a fashion frame priced at $299. Becomes Meta's fastest-selling hardware product."
+    },
+    {
+      "date": "Feb 2025",
+      "event": "Humane AI Pin collapses — HP acquires assets for $116M and shuts down servers, bricking $699 devices. Redefines risks of standalone AI wearables trying to replace the smartphone."
+    },
+    {
+      "date": "Jul 2025",
+      "event": "Amazon acquires Bee, the AI life-companion pendant, revealed at CES 2026 as part of Alexa-Echo roadmap. Signals big tech's aggressive entry into ambient wearable AI."
+    },
+    {
+      "date": "Sep 2025",
+      "event": "Meta launches Ray-Ban Display glasses with full-color monocular micro-LED display in the right lens. Creates waitlists stretching well into 2026 — first AI glasses with true AR overlay."
+    },
+    {
+      "date": "Dec 2025",
+      "event": "Meta acquires Limitless AI Pendant (formerly Rewind). Health Information Privacy Reform Act (HIPRA) introduced in US Congress to extend HIPAA to wearable health data."
+    },
+    {
+      "date": "Jan 2026",
+      "event": "Smart Analytics Global forecasts smart glasses revenue quadrupling in 2026 ($1.2B→$5.6B). Samsung Galaxy Glasses and Google AR glasses announced for 2026 — Meta's monopoly ends."
+    }
+  ],
+
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "US AI Action Plan (2025) frames AI as national competitiveness driver with light-touch regulation. FDA loosens digital health device oversight (Jan 2026), removing premarket review for many wearable AI categories — accelerating commercialization."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Total wearable AI market reaches $69B in 2026 (up from $52.65B in 2025, +31.1% CAGR). Smart glasses revenue alone quadruples from $1.2B to $5.6B. Meta Ray-Ban sold 7M+ units in 2025. Oura valued at $500M+ after Series D."
+    },
+    {
+      "factor": "Social",
+      "impact": "Gen Z and Millennials shift from screen-first to ambient computing. Workplace wearable adoption accelerates (field ops, healthcare). Health anxiety post-pandemic sustains demand for clinical-grade continuous monitoring in consumer form factors."
+    },
+    {
+      "factor": "Technological",
+      "impact": "On-device AI processors (Apple Neural Engine, Qualcomm Snapdragon NPU) now run LLM inference locally with sub-20ms latency. Micro-LED miniaturization enables full-color AR displays in standard eyeglass frames. Sensor fusion delivers clinical-grade biometrics."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Rapid hardware obsolescence creates mounting e-waste — Humane AI Pin bricked 8 months after launch, rendering thousands of $699 devices inoperable. Battery constraints (smart glasses avg 4-6h) remain the single biggest adoption barrier."
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU AI Act (effective Aug 2024) classifies biometric health-monitoring AI as 'high-risk', requiring transparency, human oversight, and formal risk management. HIPRA bill (Nov 2025) extends HIPAA protections to wearable data. GDPR DPIA mandatory for EU health wearables from May 2026."
+    }
+  ],
+
+  "jobs": [
+    {
+      "job": "Access information hands-free while commuting, working, or exercising",
+      "solution": "Smart glasses (Meta Ray-Ban Display, Google AR Glasses 2026) overlay notifications, navigation turns, AI answers, and translation in peripheral vision — no phone pull required"
+    },
+    {
+      "job": "Monitor health continuously without scheduled clinic visits",
+      "solution": "Smart rings (Oura Gen 4) and watches (Apple Watch Series 10 with FDA-cleared ECG, sleep apnea detection) provide clinical-grade biometrics with AI anomaly alerts 24/7"
+    },
+    {
+      "job": "Capture meetings and ambient conversations without setup friction",
+      "solution": "AI pendants (Bee by Amazon, Omi Wearable) transcribe, summarize, and surface action items from ambient audio passively — no phone app required"
+    },
+    {
+      "job": "Communicate across language barriers in real-time conversations",
+      "solution": "On-device LLM translation in smart glasses provides live subtitle overlays and translated audio during conversation — critical for global travel and multicultural workplaces"
+    },
+    {
+      "job": "Keep enterprise field workers connected to expert knowledge remotely",
+      "solution": "AR-enabled wearables (smart glasses, head-mounted displays) stream live video to remote experts who annotate the worker's field of view — reducing downtime and training costs in manufacturing, healthcare, and field services"
+    }
+  ],
+
+  "market": [
+    {
+      "name": "Meta (Ray-Ban Smart Glasses)",
+      "share": "82%",
+      "loved": "Fashion-first design (Wayfarer, Skyler frames), Meta AI integration, $299-$379 accessible price, AR Display model",
+      "segment": "Consumer smart glasses"
+    },
+    {
+      "name": "Apple (Watch + AirPods Pro)",
+      "share": "~10%",
+      "loved": "iOS ecosystem lock-in, FDA-cleared ECG and sleep apnea, spatial audio, clinical health data partnerships",
+      "segment": "Health + audio wearables"
+    },
+    {
+      "name": "Samsung (Galaxy Ring + Watch)",
+      "share": "~4%",
+      "loved": "Galaxy ecosystem integration, Galaxy Ring launched 2024 with titanium body and health AI, no subscription required",
+      "segment": "Smart ring + watch"
+    },
+    {
+      "name": "Oura (Ring)",
+      "share": "~2%",
+      "loved": "Sleep and HRV precision, readiness and resilience scores, medical institution partnerships, minimalist design",
+      "segment": "Smart ring / health intelligence"
+    },
+    {
+      "name": "Google (AR Glasses 2026)",
+      "share": "~2%",
+      "loved": "Android ecosystem, Google Maps integration, enterprise AR heritage from Glass, partnership with Samsung for hardware",
+      "segment": "Enterprise + consumer AR glasses"
+    }
+  ],
+
+  "competitors": [
+    {
+      "name": "Meta Ray-Ban Wayfarer Gen 2 (Display)",
+      "detail": "$379, 14M+ units forecast in 2026, dominant ~71% smart glasses shipments share, Meta AI voice assistant, full-color monocular micro-LED AR overlay launched Sept 2025"
+    },
+    {
+      "name": "Apple Watch Series 10 + Vision Pro",
+      "detail": "$429 Watch with FDA-cleared ECG and sleep apnea detection; $3,499 Vision Pro for spatial computing; strongest health data moat through Apple Health platform and medical research partnerships"
+    },
+    {
+      "name": "Oura Ring Gen 4",
+      "detail": "$299-$349 + $6/mo subscription, 2M+ rings sold globally, readiness and resilience scores, partnerships with University of California health research, NBA and NFL athlete monitoring programs"
+    },
+    {
+      "name": "Samsung Galaxy Glasses + Ring",
+      "detail": "Galaxy Glasses announced for 2026 entry into smart glasses market; Galaxy Ring ($299, no subscription) launched 2024 with titanium body; integrating with One UI Health AI platform and Google AR ecosystem"
+    },
+    {
+      "name": "Omi Wearable (Open AI Pendant)",
+      "detail": "Open-source AI life companion clip/pendant, $89-$149, community-driven development, privacy-first design with local processing option, targets developers and privacy-conscious early adopters"
+    }
+  ],
+
+  "canvas": {
+    "who": "Tech-forward 25-45 year olds in urban professional roles; health-obsessed Gen Z and Millennials wearing fitness trackers; enterprise field workers in manufacturing, healthcare, and logistics; early-tech adopters seeking screen-free daily interaction",
+    "where": "Urban commutes and co-working spaces; hybrid offices; gyms and outdoor fitness spaces; clinical settings and hospital wards; international travel; live events and social gatherings",
+    "why_now": "On-device AI chips (Apple Neural Engine, Qualcomm NPU) finally run local LLM inference without cloud round-trips. Meta proved smart glasses can be fashionable with 7M Ray-Ban units sold. The Humane AI Pin failure reset market expectations — consumers now want one great AI feature, not a smartphone replacement. Smart ring category grew 88% in 2024 alone.",
+    "behavior": "Wearing always-on health tracking rings and watches as daily jewelry; using voice-first AI for quick queries without phone unlocking; checking glasses instead of phones for notifications; passively logging health data; sharing biometric insights with healthcare providers; participating in corporate wellness programs tied to wearable data",
+    "unmet": "All-day battery life (>24h) with AR display for glasses; fashion parity — wearables that look indistinguishable from regular accessories; medical-grade accuracy at consumer price point; privacy assurance for always-on camera and microphone; cross-platform health data portability; affordable prescription lens options for smart glasses"
+  },
+
+  "takeaways": [
+    "Smart glasses are the ambient computing inflection point — Meta's 82% market share is a land-grab window. As Samsung and Google launch in 2026 and Apple follows in 2027, brands that build for glasses-first user experiences now will own the discovery layer before the platform wars begin.",
+    "Health + AI is the highest-value wearable layer — clinical-grade monitoring at consumer prices creates a $100B+ bridge between device makers, insurers, and healthcare providers. Oura's medical partnerships and Apple's FDA clearances show the playbook: health data as recurring revenue.",
+    "Platform consolidation will eliminate standalone wearable AI startups — Humane AI Pin, Limitless, and Bee all failed or were absorbed. The survival path is deep ecosystem integration (Meta AI, Alexa, Google, Apple Health) or hyper-niche precision (Oura for sleep, Whoop for recovery). Middle-ground devices have no moat.",
+    "Privacy-by-design is the competitive differentiator that cannot be retrofitted — EU AI Act high-risk classification, HIPRA legislation, and GDPR DPIA requirements mean privacy compliance must be engineered at the silicon level, not added later. The first wearable brand to make zero-knowledge health processing the consumer norm will capture the trust-sensitive premium segment."
+  ],
+
+  "sources": [
+    {
+      "publisher": "Research and Markets",
+      "claim": "Wearable AI market grows from $52.65B (2025) to $69.03B (2026) at 31.1% CAGR",
+      "url": "https://www.researchandmarkets.com/reports/5896159/wearable-ai-market-report"
+    },
+    {
+      "publisher": "Counterpoint Research",
+      "claim": "Global smart glasses shipments grew 139% YoY in H2 2025; Meta expanded market share to 82%",
+      "url": "https://counterpointresearch.com/en/insights/Global-Smart-Glasses-Shipments-Grew-139-Percent-YoY-in-H2-2025"
+    },
+    {
+      "publisher": "Smart Analytics Global (BusinessWire)",
+      "claim": "AI smart glasses revenue forecast to quadruple in 2026, from $1.2B to $5.6B (6M→20M units)",
+      "url": "https://www.businesswire.com/news/home/20260113778367/en/AI-Smart-Glasses-to-Quadruple-Revenue-in-2026-as-Apple-and-Samsung-Prepare-to-Enter-the-Market-Says-Smart-Analytics-Global-SAG"
+    },
+    {
+      "publisher": "Grand View Research",
+      "claim": "Wearable AI Market valued at $43.6B in 2025, projected to $310.6B by 2033 at 27.8% CAGR",
+      "url": "https://www.grandviewresearch.com/industry-analysis/wearable-ai-market-report"
+    },
+    {
+      "publisher": "Fortune Business Insights",
+      "claim": "Wearable AI market valued at $48.82B in 2025, projected to $359.32B by 2034 at 24.70% CAGR",
+      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561"
+    },
+    {
+      "publisher": "Women in AI / Legal analysis",
+      "claim": "EU AI Act classifies wearable health monitoring AI as high-risk; HIPRA bill introduced Nov 2025 for HIPAA extension to wearables",
+      "url": "https://www.womeninai.co/post/tracking-the-body-tracking-the-law-how-the-u-s-eu-and-apac-govern-wearable-ai"
+    },
+    {
+      "publisher": "STAT News",
+      "claim": "FDA announces sweeping changes to oversight of wearables and AI-enabled devices (Jan 2026)",
+      "url": "https://www.statnews.com/2026/01/06/fda-pulls-back-oversight-ai-enabled-devices-wearables/"
+    },
+    {
+      "publisher": "The Gadgeteer",
+      "claim": "Humane AI Pin shut down Feb 2025 after HP acquisition for $116M; Meta acquired Limitless Dec 2025; Amazon acquired Bee Jul 2025",
+      "url": "https://the-gadgeteer.com/2026/05/08/best-ai-wearables-2026-2/"
+    }
+  ],
+
+  "notes": {
+    "growth_5y_note": "growth_5y (+302%) is estimated back-calculation using 31.7% CAGR from Research and Markets ($69B in 2026 ÷ 1.317^5 ≈ $17B in 2021). Exact 2021 market figures vary by analyst definition. [partially unverified]",
+    "growth_3m_note": "growth_3m (+45%) estimated from Q3 2026 trajectory given smart glasses quadrupling in 2026; no direct Q3 2026 report available at research time. [unverified]",
+    "search_volume_note": "~80K/mo estimated for keyword cluster: 'AI wearables' + 'smart glasses' + 'AI glasses' + 'wearable AI'. No direct Keywords Everywhere data in this session. [unverified]",
+    "meta_market_share_note": "82% market share figure from Counterpoint Research (H2 2025 smart glasses only, not total wearable AI market)"
+  }
+}
