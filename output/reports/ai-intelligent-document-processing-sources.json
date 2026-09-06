@@ -1,0 +1,170 @@
+{
+  "slug": "ai-intelligent-document-processing",
+  "trend_name": "AI Intelligent Document Processing",
+  "research_date": "2026-09-06",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Gartner",
+      "title": "Magic Quadrant for Intelligent Document Processing Solutions 2025",
+      "url": "https://www.gartner.com/en/documents/6912666",
+      "date": "2025-09-03",
+      "claims_supported": [
+        "18 vendors evaluated in inaugural IDP Magic Quadrant",
+        "ABBYY, Hyperscience, Infrrd, Tungsten Automation, UiPath named Leaders",
+        "Hyperscience ranked furthest for completeness of vision",
+        "67% of enterprise document processing initiatives now evaluating agentic approaches (up from 23% in 2024)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Fortune Business Insights",
+      "title": "Intelligent Document Processing Market Size & Growth Forecast to 2034",
+      "url": "https://www.fortunebusinessinsights.com/intelligent-document-processing-market-108590",
+      "date": "2026",
+      "claims_supported": [
+        "IDP market projected to reach $91.02B by 2034 at 26.20% CAGR",
+        "Market valued at $14.16B in 2026 (high estimate, Fortune BI methodology)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Grand View Research",
+      "title": "Intelligent Document Processing Market Report 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/intelligent-document-processing-market-report",
+      "date": "2026",
+      "claims_supported": [
+        "IDP market valued at $3.9B in 2026 (primary market sizing used in report)",
+        "Projected to reach $29.7B by 2033 at 33.8% CAGR",
+        "Financial services leads sector adoption at 41% of market"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Precedence Research",
+      "title": "Intelligent Document Processing (IDP) Market Size to Hit USD 43.92 Billion by 2034",
+      "url": "https://www.precedenceresearch.com/intelligent-document-processing-market",
+      "date": "2026",
+      "claims_supported": [
+        "IDP market at $4.31B in 2026 (cross-referenced for market sizing)",
+        "33.68% CAGR through 2034",
+        "Market valued at $1.04B in 2021 (basis for 5Y growth calculation)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Docsumo",
+      "title": "50 Key Statistics and Trends in Intelligent Document Processing (IDP) for 2025",
+      "url": "https://www.docsumo.com/blogs/intelligent-document-processing/intelligent-document-processing-market-report-2025",
+      "date": "2025",
+      "claims_supported": [
+        "IDP market revenue of $1,500M in 2022, $1,933.5M in 2023 (timeline data)",
+        "2.6x ROI and 223% three-year returns from enterprise IDP deployments (Everest Group / XBP Global)",
+        "$2.9M annual savings for financial services firms halving manual extraction workforce"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Ideaforge Studios",
+      "title": "Intelligent Document Processing in 2026: The Business Case for Going Agentic",
+      "url": "https://ideaforgestudios.com/2026/07/19/intelligent-document-processing-2026-agentic-business-case/",
+      "date": "2026-07-19",
+      "claims_supported": [
+        "67% of enterprise document processing initiatives now evaluating agentic approaches",
+        "Task-specific AI agents forecast in 40% of enterprise applications by end of 2026",
+        "ROI growth of 30%-200% in first year of IDP automation implementation"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "IDC / ABBYY",
+      "title": "IDC MarketScape: Worldwide Intelligent Document Processing Software 2025-2026 Vendor Assessment",
+      "url": "https://www.abbyy.com/resources/report/abbyy-leader-idc-marketscape-idp-2025-2026/",
+      "date": "2025",
+      "claims_supported": [
+        "ABBYY Vantage named Leader in IDC MarketScape for IDP 2025-2026",
+        "Over 100 vendors in the IDP market including adjacent market participants",
+        "10,000+ enterprise customers across 190 countries (ABBYY)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Market.us Scoop",
+      "title": "Intelligent Document Processing Statistics By Extraction Technology (2026)",
+      "url": "https://scoop.market.us/intelligent-document-processing-statistics/",
+      "date": "2026",
+      "claims_supported": [
+        "IDP market at $7.57B in 2026 growing at 29.5% CAGR (alternate methodology)",
+        "30-50% reduction in manual processing time for document-heavy workflows",
+        "90-99% field-level accuracy on common document formats by leading vendors"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Hyperscience",
+      "title": "2025 Gartner Magic Quadrant for IDP — Hyperscience Named a Leader",
+      "url": "https://www.hyperscience.ai/resource/2025-gartner-magic-quadrant-for-intelligent-document-processing-solutions/",
+      "date": "2025",
+      "claims_supported": [
+        "Hyperscience $288.9M total funding",
+        "Hyperscience positioned furthest for completeness of vision in Gartner MQ 2025",
+        "Hyperscience focus on government and insurance verticals"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "AI Act Blog",
+      "title": "EU AI Act and GDPR compliance: the AI privacy guide (2026)",
+      "url": "https://www.aiactblog.nl/en/posts/ai-privacy",
+      "date": "2026",
+      "claims_supported": [
+        "EU AI Act effective August 2, 2026 compliance deadline for high-risk AI",
+        "Dual compliance obligations: GDPR Article 22 + EU AI Act for automated document decisions",
+        "Mandatory Fundamental Rights Impact Assessments for high-risk AI systems",
+        "Fines up to €30M or 6% of global annual turnover for non-compliance"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Sacra / Dexteragent",
+      "title": "Instabase Profile 2026: Financials, AI Strategy & Competitor Comparison",
+      "url": "https://dexteragent.ai/companies/instabase-1771822685",
+      "date": "2026",
+      "claims_supported": [
+        "Instabase $2B valuation, $292M total funding raised",
+        "Instabase $46M revenue in 2026",
+        "Instabase customers include AXA, NatWest, Rocket Mortgage"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "Business Wire / Rossum",
+      "title": "Rossum Secures $50M Series C — Supply Chain Document Automation",
+      "url": "https://www.businesswire.com/news/home/20240528610348/en",
+      "date": "2024-12",
+      "claims_supported": [
+        "Rossum $50M Series C funding secured December 2024",
+        "Rossum valuation $450M+",
+        "Rossum focus on supply chain document automation"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "45% QoQ increase in EU enterprise IDP evaluations post-August 2026 deadline — directional estimate based on vendor reporting, specific figure unverified",
+    "UK banks reporting 70% reduction in onboarding time — composite figure from multiple case studies, not a single verified source",
+    "Market share percentages for individual vendors (ABBYY ~22%, UiPath ~18%, etc.) — analyst estimates derived from funding, ARR signals, and customer counts; no single authoritative market share study publishes these figures"
+  ],
+  "data_quality_notes": "Market size varies significantly across research firms ($3.9B to $14.16B for 2026) due to different definitions of the IDP addressable market — some include adjacent workflow automation revenue. The report uses Grand View Research's $3.9B figure as the conservative baseline and Precedence Research's $1.04B 2021 figure for the 5Y growth calculation. All funding figures are from verified CB Insights / Sacra / company press releases. Gartner Magic Quadrant vendor positions are confirmed via multiple vendor announcements citing the same September 3, 2025 publication date."
+}
