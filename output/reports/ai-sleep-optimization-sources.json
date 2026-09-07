@@ -1,0 +1,129 @@
+{
+  "trend": "AI Sleep Optimization",
+  "slug": "ai-sleep-optimization",
+  "research_date": "2026-09-07",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Polaris Market Research",
+      "url": "https://www.polarismarketresearch.com/industry-analysis/ai-powered-sleep-optimization-solutions-market",
+      "claim": "AI-Powered Sleep Optimization Solutions Market projected to grow from $4.46B (2025) to $40.52B by 2034 at 27.8% CAGR; market was $3.50B in 2024",
+      "verified": true,
+      "fields_sourced": ["growth_1y", "growth_5y", "growth_3m", "market_size_2026"]
+    },
+    {
+      "id": 2,
+      "publisher": "GlobeNewsWire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/31/3353523/0/en/global-sleep-tech-devices-market-to-reach-usd-96-7-billion-by-2032-as-ai-and-connected-healthcare-accelerate-growth.html",
+      "claim": "Global sleep tech devices market to reach USD 96.7 billion by 2032 as AI and connected healthcare accelerate growth; CAGR ~19.7%",
+      "verified": true,
+      "fields_sourced": ["trigger", "timeline[Mar 2026]", "pestal[Environmental]"]
+    },
+    {
+      "id": 3,
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/10/14/oura-ringmaker-valuation-fundraise.html",
+      "claim": "Oura raises $900M Series E at $11B valuation in October 2025; reaches $1B annual revenue milestone and 5.5M rings sold",
+      "verified": true,
+      "fields_sourced": ["trigger", "timeline[Oct 2025]", "competitors[Oura Ring]", "market[Oura Health]"]
+    },
+    {
+      "id": 4,
+      "publisher": "Crunchbase News",
+      "url": "https://news.crunchbase.com/venture/unicorn-eight-sleep-funding-ai-driven-health/",
+      "claim": "Eight Sleep raises $50M Series D at $1.5B valuation (March 2026) to expand into predictive, AI-driven health beyond sleep",
+      "verified": true,
+      "fields_sourced": ["trigger", "timeline[Mar 2026]", "competitors[Eight Sleep]", "market[Eight Sleep]"]
+    },
+    {
+      "id": 5,
+      "publisher": "AASM — American Academy of Sleep Medicine",
+      "url": "https://aasm.org/sleep-tracking-and-sleepmaxxing-change-bedtime-behaviors-and-keep-some-americans-awake-at-night/",
+      "claim": "45% of Americans engage in sleepmaxxing; Gen Z leads at 48%; 37% of Americans have tried a viral sleep trend; 60% of Gen Z most likely to use a wearable for sleep",
+      "verified": true,
+      "fields_sourced": ["pestal[Social]", "canvas[who]", "canvas[why_now]", "canvas[behavior]"]
+    },
+    {
+      "id": 6,
+      "publisher": "RAND Corporation",
+      "url": "https://www.rand.org/news/press/2016/11/30.html",
+      "claim": "Sleep deprivation costs US employers $411 billion in lost productivity per year — representing 2.28% of GDP; workers sleeping under 6 hours lose 6 extra workdays vs. 7–9 hour sleepers",
+      "verified": true,
+      "fields_sourced": ["pestal[Economic]", "jobs[5]", "canvas[who]"]
+    },
+    {
+      "id": 7,
+      "publisher": "Holland & Knight — AI Healthcare Regulation Briefing",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/05/states-continue-efforts-to-regulate-ai-in-healthcare/",
+      "claim": "US states continue to enact AI healthcare laws in 2026; ~12 states require human oversight for AI medical decisions; Colorado AI Act effective June 2026 targets high-risk AI systems making healthcare decisions",
+      "verified": true,
+      "fields_sourced": ["pestal[Political]", "pestal[Legal]"]
+    },
+    {
+      "id": 8,
+      "publisher": "PMC / NIH — AI Sleep Research Review",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12351267/",
+      "claim": "AI transformer models trained on full-night multichannel sleep data now accurately classify sleep stages; SleepFM multi-modal representation learning developed in 2024; foundational sleep AI models outperform human scoring on multiple metrics",
+      "verified": true,
+      "fields_sourced": ["pestal[Technological]", "timeline[Oct 2024]"]
+    },
+    {
+      "id": 9,
+      "publisher": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/health-tech/oura-raises-900m-series-e-oura-ring-sales-catapult",
+      "claim": "Oura Ring Gen 4 achieves 95% alignment with polysomnography for sleep staging; AI Advisor launched in Oura Labs (2024); company has doubled valuation since Series D ($5.2B Dec 2024) to $11B",
+      "verified": true,
+      "fields_sourced": ["timeline[Oct 2024]", "competitors[Oura Ring]", "pestal[Technological]"]
+    },
+    {
+      "id": 10,
+      "publisher": "Fawcett Mattress — Sleepmaxxing Statistics 2026",
+      "url": "https://fawcettmattress.com/blogs/news/sleepmaxxing-statistics",
+      "claim": "Americans spend avg $75/year on sleep optimization products; 8% have spent $500+ in past year; 'sleepmaxxing' generated billions of TikTok views in 2025–2026",
+      "verified": true,
+      "fields_sourced": ["pestal[Economic]", "canvas[behavior]", "trigger"]
+    },
+    {
+      "id": 11,
+      "publisher": "MarketsandMarkets — Sleep Apnea Devices",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/sleep-apnea-devices-market.asp",
+      "claim": "ResMed holds ~55–60% share of global CPAP device segment; Philips ~10% (post-recall); Fisher & Paykel ~12%; clinical sleep apnea devices market valued at ~$6.9B globally in 2025",
+      "verified": true,
+      "fields_sourced": ["market[ResMed]", "competitors[ResMed]"]
+    },
+    {
+      "id": 12,
+      "publisher": "Sleepare — Sleep Deprivation Cost Analysis 2026",
+      "url": "https://www.sleepare.com/blogs/sleep-deprivation-costs/",
+      "claim": "Direct healthcare costs from sleep disorders total $94.9B annually; sleep-deprived employees cost employers $1,967/worker/year in healthcare expenses; insomnia workers lose avg 44–54 workdays/year",
+      "verified": true,
+      "fields_sourced": ["pestal[Economic]", "jobs[4]", "jobs[5]"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y '+240%' — derived from backward projection of 27.8% CAGR (Polaris): $3.50B in 2024 → ~$1.68B in 2021 → ~$5.70B in 2026 = +239% growth over 5 years. CAGR pre-2024 is assumed to be consistent; no independent 2021 market size figure for AI-powered sleep segment was found",
+      "status": "[unverified — calculated estimate from CAGR projection]"
+    },
+    {
+      "claim": "growth_3m '+7%' — quarterly estimate derived from 27.8% annual CAGR divided by 4; no direct Q2 2026 quarterly figure found in public sources",
+      "status": "[unverified — calculated estimate]"
+    },
+    {
+      "claim": "Market share percentages for Oura (12%), Apple/Fitbit (20%), Eight Sleep (6%), Garmin/Whoop (10%) — estimated from available funding/revenue signals and wearable market research; no single authoritative source covers all players within the 'AI sleep optimization' unified market definition",
+      "status": "[unverified — estimated from proxy signals]"
+    },
+    {
+      "claim": "Market 'loved' percentages (ResMed 71%, Oura 87%, Apple 78%, Eight Sleep 82%, Garmin 74%) — estimated from product review sentiment; not from a single standardized survey source",
+      "status": "[unverified — estimated from review sentiment proxies]"
+    },
+    {
+      "claim": "search_volume '~120K/mo' — 'sleep tracker' shows 40,500 US monthly searches (Amerisleep/Google data); 'sleepmaxxing' and 'sleep optimization' combined estimated at 80K+ additional; total is an estimated combined category figure",
+      "status": "[unverified — estimated from keyword data points]"
+    },
+    {
+      "claim": "competitors[Withings] and competitors[LumiMind/Dreem] detail paragraphs — based on product descriptions from company websites and CES 2026 coverage; specific revenue or market share figures not available",
+      "status": "[unverified — qualitative from public product coverage]"
+    }
+  ]
+}
