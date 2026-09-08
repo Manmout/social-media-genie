@@ -1,0 +1,266 @@
+{
+  "trend": "Legal AI for Law Firms",
+  "slug": "legal-ai-law-firms",
+  "research_date": "2026-09-08",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Harvey AI raises $200M at $11B valuation — CNBC",
+      "url": "https://www.cnbc.com/2026/03/25/legal-ai-startup-harvey-raises-200-million-at-11-billion-valuation.html",
+      "publisher": "CNBC",
+      "date": "2026-03-25",
+      "claims_supported": [
+        "Harvey AI $11B valuation in March 2026",
+        "Harvey raised $200M in latest round",
+        "Sequoia co-led the round"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Harvey raises at $11B valuation to scale agents across law firms — Harvey Official Blog",
+      "url": "https://www.harvey.ai/blog/harvey-raises-at-dollar11-billion-valuation-to-scale-agents-across-law-firms-and-enterprises",
+      "publisher": "Harvey.ai",
+      "date": "2026-03-25",
+      "claims_supported": [
+        "Harvey serves 50% of Am Law 100",
+        "Harvey has 1,500+ customers in 60+ countries",
+        "Harvey acquired Hexus in January 2026",
+        "Harvey open-sourced LAB legal agent benchmark in June 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Harvey AI $300M ARR and $11B valuation analysis",
+      "url": "https://valueaddvc.com/blog/harvey-ai-valuation-revenue-2026-legal-ai-11b",
+      "publisher": "ValueAdd VC",
+      "date": "2026-06",
+      "claims_supported": [
+        "Harvey reached $300M ARR by June 2026",
+        "Harvey tripled ARR from $100M in August 2025 to $300M in June 2026",
+        "Harvey $190M ARR by end of 2025"
+      ],
+      "verified": true,
+      "notes": "Cross-referenced with Sacra data and Harvey blog"
+    },
+    {
+      "id": 4,
+      "title": "Legora raises $550M Series D at $5.55B valuation — Sifted",
+      "url": "https://sifted.eu/articles/legal-tech-legora-raises-550m",
+      "publisher": "Sifted",
+      "date": "2026-03-10",
+      "claims_supported": [
+        "Legora raised $550M Series D",
+        "Legora valuation tripled to $5.55B",
+        "Round led by Accel"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "NVIDIA backs Legora in $600M total Series D at $5.6B valuation — CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/nvidia-backs-ai-legal-tech-legora.html",
+      "publisher": "CNBC",
+      "date": "2026-04-30",
+      "claims_supported": [
+        "NVIDIA NVentures invested in Legora",
+        "Legora total Series D reached $600M",
+        "Legora valuation $5.6B at close",
+        "Legora is known for Jude Law advertising campaign"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "LegalTech AI Market Size $3.7B in 2026, 31.5% CAGR — Research and Markets",
+      "url": "https://www.researchandmarkets.com/report/legal-ai-software",
+      "publisher": "Research and Markets",
+      "date": "2026",
+      "claims_supported": [
+        "LegalTech AI market valued at $3.7B in 2026",
+        "Market projected to reach $11.06B by 2030",
+        "31.5% CAGR for legal AI software 2026-2030"
+      ],
+      "verified": true,
+      "notes": "Narrower scope than broader LegalTech estimates; focused on AI software specifically"
+    },
+    {
+      "id": 7,
+      "title": "Legal Technology Market Size 2026: $29B — New Market Pitch",
+      "url": "https://newmarketpitch.com/blogs/news/legaltech-market-size",
+      "publisher": "New Market Pitch",
+      "date": "2026",
+      "claims_supported": [
+        "Broader LegalTech market (including non-AI) valued at $29B in 2026",
+        "10% CAGR for full LegalTech market"
+      ],
+      "verified": true,
+      "notes": "Broader scope than AI-only estimates — includes all legal software, not just AI"
+    },
+    {
+      "id": 8,
+      "title": "What legal professionals say about the role of AI — Thomson Reuters 2026",
+      "url": "https://legal.thomsonreuters.com/blog/how-ai-is-transforming-the-legal-profession/",
+      "publisher": "Thomson Reuters",
+      "date": "2026",
+      "claims_supported": [
+        "79% of large law firms (200+ attorneys) deployed firm-wide AI tools",
+        "Up from 40% in 2023",
+        "52% of in-house counsel actively using GenAI",
+        "Thomson Reuters invested $650M+ in AI capabilities",
+        "AI reduces legal research time from 2.5 hours to under 30 minutes for standard queries"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "90 AI Statistics in the Legal Field for 2026 — Azumo",
+      "url": "https://azumo.com/artificial-intelligence/ai-insights/ai-in-law-statistics",
+      "publisher": "Azumo",
+      "date": "2026",
+      "claims_supported": [
+        "79% of legal professionals using AI tools in 2026",
+        "AI use by law firm professionals increased 315% from 2023 to 2024",
+        "53% of respondents seeing ROI from AI investment",
+        "41.9% of US consumers use AI to research which lawyer to hire"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "California State Bar Issues 2026 Ethics Guidance on AI Use in Legal Practice — Wilson Elser",
+      "url": "https://www.wilsonelser.com/publications/california-state-bar-issues-2026-ethics-guidance-on-ai-use-in-legal-practice",
+      "publisher": "Wilson Elser",
+      "date": "2026",
+      "claims_supported": [
+        "California State Bar issued comprehensive 2026 AI ethics guidance",
+        "Lawyers required to understand AI tool limitations",
+        "Must verify AI-generated citations",
+        "Must obtain client consent for AI use in sensitive matters"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "What's Really Holding Law Firms Back From Embracing AI? — American Bar Association",
+      "url": "https://www.americanbar.org/groups/law_practice/resources/law-technology-today/2026/whats-really-holding-law-firms-back-from-embracing-ai/",
+      "publisher": "American Bar Association",
+      "date": "2026",
+      "claims_supported": [
+        "44% of law firms lack formal AI governance policies",
+        "46% of legal professionals identified data security as significant barrier",
+        "Individual AI adoption (69%) outpaces firm-wide governance (34%)"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Swedish Legal Tech Startup Legora Triples Valuation With Series D Led By Accel",
+      "url": "https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/",
+      "publisher": "Crunchbase News",
+      "date": "2026-03-10",
+      "claims_supported": [
+        "Legal tech VC funding reached $4.08B in 2025",
+        "77.4% increase from $2.3B in 2024",
+        "$2.34B in Q1 2026 legal tech VC funding",
+        "63% of Q1 2026 legal AI funding went to just three companies"
+      ],
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Legal AI Market 2026: Who Owns What and Who's Losing — AI Vortex",
+      "url": "https://www.aivortex.io/legal/guides/legal-ai-market-2026-landscape/",
+      "publisher": "AI Vortex",
+      "date": "2026",
+      "claims_supported": [
+        "Harvey leads on citation share",
+        "Clio acquired vLex for $1B — largest legal tech deal to date",
+        "Clio valuation $5B after vLex acquisition"
+      ],
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Legal AI Pricing 2026: Harvey vs CoCounsel vs Clio (Real $ comparison)",
+      "url": "https://thelegalprompts.com/blog/ai-legal-tools-pricing-comparison",
+      "publisher": "The Legal Prompts",
+      "date": "2026",
+      "claims_supported": [
+        "Harvey pricing $100-300/user/month",
+        "CoCounsel bundled into Westlaw subscriptions at enterprise level",
+        "Clio Duo AI assistant pricing for SMB firms"
+      ],
+      "verified": true,
+      "notes": "Pricing subject to change; treat as directional, not contractual"
+    },
+    {
+      "id": 15,
+      "title": "Legal Tech in 2026: AI's Impact and Other Trends — Forbes Technology Council",
+      "url": "https://www.forbes.com/councils/forbestechcouncil/2026/04/03/legal-tech-in-2026-ais-impact-and-other-trends-to-look-out-for/",
+      "publisher": "Forbes",
+      "date": "2026-04-03",
+      "claims_supported": [
+        "Legal AI is influencing research, drafting, contract review, knowledge management, pricing, talent, and client communication",
+        "AI-native law firms redesigning billing models around value not time"
+      ],
+      "verified": true
+    },
+    {
+      "id": 16,
+      "title": "Legal Document Review: Contract Attorneys to AI in 2026 — GC AI",
+      "url": "https://gc.ai/blog/legal-document-review",
+      "publisher": "GC AI",
+      "date": "2026",
+      "claims_supported": [
+        "E-discovery document review workforce declined 40% since 2022",
+        "AI processes millions of documents in hours vs weeks",
+        "Manual contract attorney workforce absorbed by AI"
+      ],
+      "verified": true
+    },
+    {
+      "id": 17,
+      "title": "AI Use Cases in Law: From eDiscovery to Predictive Analytics — Litify",
+      "url": "https://www.litify.com/blog/ai-use-cases-in-law",
+      "publisher": "Litify",
+      "date": "2026",
+      "claims_supported": [
+        "Contract review time reduced by 60% with AI",
+        "e-Discovery cost from $5,000 to $5 per 10,000 documents (McKinsey reference)",
+        "AI enables 100% document coverage vs risk-based sampling"
+      ],
+      "verified": true,
+      "notes": "McKinsey due diligence statistic widely cited; original McKinsey source is professional services white paper"
+    }
+  ],
+  "data_quality_notes": {
+    "verified_claims": [
+      "Harvey $11B valuation, $300M ARR (June 2026) — CNBC + Harvey blog",
+      "Legora $600M Series D, $5.6B valuation, NVIDIA-backed — CNBC + Sifted + Crunchbase",
+      "LegalTech AI market $3.7B in 2026, 31.5% CAGR — Research and Markets",
+      "79% of large law firms deployed firm-wide AI — Thomson Reuters 2025 survey",
+      "VC funding $4.08B in 2025, +77.4% YoY — Crunchbase",
+      "Q1 2026 legal AI VC: $2.34B — Crunchbase",
+      "41.9% of US consumers using AI to research lawyers — multiple sources",
+      "Contract review time reduction 60% — McKinsey / multiple sources",
+      "315% increase in AI use by law firm professionals 2023-2024 — Azumo",
+      "44% of firms lack formal AI governance — Perspective AI / ABA",
+      "Thomson Reuters $650M invested in AI in 2025 — Thomson Reuters blog",
+      "Thomson Reuters acquired Casetext for $650M (August 2023) — widely reported",
+      "ROSS Intelligence closure after Thomson Reuters lawsuit (December 2020) — Artificial Lawyer"
+    ],
+    "unverified_claims": [
+      "Market share percentages for Harvey, Thomson Reuters, LexisNexis, Legora, Clio — estimated, not sourced from primary research",
+      "Search volume ~60,500/mo — estimated based on keyword research patterns, not a verified Google data point",
+      "E-discovery workforce decline 40% since 2022 — directional estimate from market reports",
+      "growth_5y '+220%' — estimated based on market from ~$1.1B in 2021 to ~$3.7B in 2026; exact 2021 baseline varies by research firm",
+      "growth_3m '+58%' — Harvey ARR from $190M (Jan 2026) to $300M (Jun 2026) used as 3-month proxy; not a 3-month market-wide figure"
+    ],
+    "flagged_discrepancies": [
+      "Market size estimates vary widely by scope: $1.45B (Mordor Intelligence, AI software in legal narrowly defined) vs $3.7B (Research and Markets, LegalTech AI broadly) vs $5.59B (ResearchandMarkets, AI in legal including services) for same year 2026. Report uses $3.7B as the midpoint/most-cited figure.",
+      "Harvey ARR: $190M cited by Bloomberg (Jan 2026), $200M+ by Sacra (Mar 2026), $300M by multiple sources (Jun 2026). Timeline is consistent with rapid growth."
+    ]
+  }
+}
