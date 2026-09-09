@@ -1,0 +1,163 @@
+{
+  "trend_name": "AI Fertility Tech",
+  "slug": "ai-fertility-tech",
+  "status": "surging",
+  "search_volume": "75K+/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+310%",
+  "growth_1y": "+21%",
+  "growth_3m": "+18%",
+  "trigger": "Alife Health's Embryo Predict received the first FDA clearance for an AI embryo assessment tool (May 28, 2026), backed by a 440-patient multicenter RCT across 7 US fertility clinics — triggering accelerated clinic adoption, renewed investor interest, and a wave of regulatory alignment across the AI fertility tech sector.",
+  "timeline": [
+    {
+      "date": "2019",
+      "event": "Vitrolife launches iDAScore commercially — first AI deep-learning embryo scoring system integrated with time-lapse imaging in IVF labs globally."
+    },
+    {
+      "date": "May 2021",
+      "event": "Alife Health raises $9.5M seed round led by Lux Capital to build AI decision-support tools for fertility clinics — signaling VC entry into the space."
+    },
+    {
+      "date": "Aug 2021",
+      "event": "TMRW Life Sciences closes $105M Series C to scale the world's first automated AI cryostorage platform for IVF eggs and embryos."
+    },
+    {
+      "date": "2023–2024",
+      "event": "IVF clinic AI adoption nearly doubles: from 24.8% in 2022 to 53.2% in 2025, with 83.6% of fertility professionals planning AI investment within 5 years."
+    },
+    {
+      "date": "Sep 2025",
+      "event": "FDA grants first 510(k) clearance to an ML-based embryo assessment tool. First live birth via remote AI-guided robotic ICSI (operators 3,700 km apart) is reported."
+    },
+    {
+      "date": "May 2026",
+      "event": "Alife Health's Embryo Predict receives full FDA clearance — first AI embryo selection tool validated by a 440-patient randomized multicenter clinical trial. CE Mark already held in EU/UK."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "Trump's March 2026 'National Policy Framework for AI' pushes unified federal AI oversight, reducing regulatory fragmentation for medical AI SaMD. However, post-Dobbs abortion restrictions in 13+ US states create legal uncertainty around IVF embryo disposal and storage, suppressing adoption in affected markets."
+    },
+    {
+      "factor": "Economic",
+      "impact": "IVF cycles cost $15K–25K each in the US; AI tools that improve success rates by 10–15% per cycle (reducing repeat cycles) justify premium software pricing. Employer fertility benefits (Progyny, Carrot Fertility) now cover 40%+ of Fortune 500 employees, expanding addressable market. AI fertility planning platforms growing at 21.4% CAGR."
+    },
+    {
+      "factor": "Social",
+      "impact": "1 in 6 couples worldwide faces infertility (WHO). Average age of first-time US mothers reached 27.4 in 2026; women 35+ are the fastest-growing IVF demographic. LGBTQ+ family formation via donor IVF is growing globally. Delayed parenthood driven by economic pressure is structurally expanding demand."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Time-lapse imaging combined with deep learning enables non-invasive embryo scoring at scale. Multimodal AI integrates hormones, genetics, cycle history, and imaging for personalized protocol predictions. BAIBYS AI robotic sperm selector achieved first pregnancy in April 2026. Cost of compute enabling real-time lab analytics has dropped 10x since 2020."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "[unverified] Expanding networks of IVF clinics and AI-powered cryostorage facilities increase energy demand from refrigeration and data infrastructure. Some manufacturers are exploring carbon-neutral cryogenic storage as a market differentiator in ESG-conscious healthcare procurement."
+    },
+    {
+      "factor": "Legal",
+      "impact": "FDA's 510(k) SaMD pathway is now established for AI embryo tools (Alife precedent, May 2026). EU Medical Device Regulation (MDR) CE Mark required for European deployment — FertilAI CE Mark secured 2025. Bioethical guardrails in EU prohibit non-medical trait-based embryo selection (e.g., cosmetic genetics); US regulations less restrictive."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Maximize IVF success per cycle",
+      "solution": "AI embryo scoring (Alife Embryo Predict, Vitrolife iDAScore) uses deep learning on time-lapse images to rank embryo viability, reducing failed transfers and costly repeat cycles."
+    },
+    {
+      "job": "Identify optimal sperm non-invasively",
+      "solution": "AI computer vision systems (BAIBYS robotic selector) scan microscopic images in real time to identify motile, morphologically healthy sperm — cutting DNA fragmentation risk without invasive procedures."
+    },
+    {
+      "job": "Predict the fertile window at home",
+      "solution": "Consumer AI apps (Natural Cycles, Flo, Tempdrop, Ovul) combine basal body temperature, cycle patterns, and hormonal indicators to predict ovulation with clinical-grade accuracy — reducing time-to-conception."
+    },
+    {
+      "job": "Personalize hormone stimulation protocol",
+      "solution": "Multimodal AI platforms combine AMH levels, antral follicle count, past cycle responses, and patient genetics to recommend individualized dosing and retrieval timing — minimizing ovarian hyperstimulation risk."
+    },
+    {
+      "job": "Maintain embryo chain of custody",
+      "solution": "TMRW Life Sciences' automated AI cryostorage uses RFID, robotics, and continuous monitoring to track each embryo lifecycle — eliminating mix-up errors estimated at 1 in 20,000 embryo transfers."
+    }
+  ],
+  "market": [
+    {
+      "name": "Vitrolife AB",
+      "share": "~25% [est.]",
+      "loved": "iDAScore embedded in time-lapse hardware — seamless lab integration",
+      "segment": "Clinic embryo scoring software"
+    },
+    {
+      "name": "CooperSurgical",
+      "share": "~20% [est.]",
+      "loved": "Full ART ecosystem — media, equipment, AI under one roof",
+      "segment": "Integrated IVF lab solutions"
+    },
+    {
+      "name": "Fairtility",
+      "share": "~15% [est.]",
+      "loved": "CHLOE's explainable AI — embryologists see the scoring rationale",
+      "segment": "Explainable AI embryo selection"
+    },
+    {
+      "name": "Alife Health",
+      "share": "~12% [est.]",
+      "loved": "First FDA-cleared AI embryo tool backed by RCT clinical evidence",
+      "segment": "FDA-cleared AI embryo assessment"
+    },
+    {
+      "name": "TMRW Life Sciences",
+      "share": "~8% [est.]",
+      "loved": "Robotic cryo automation eliminates the storage human error risk",
+      "segment": "Automated AI cryostorage"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Vitrolife AB (Sweden)",
+      "detail": "Market leader with iDAScore — a deep learning model trained on 2M+ embryo time-lapse sequences, integrated with EmbryoScope and Primo Vision hardware. Sold in 50+ countries. Revenue >$400M (2025). Dominant through hardware-software bundling."
+    },
+    {
+      "name": "Alife Health (USA)",
+      "detail": "Series A startup ($22M, Lux Capital + USV) with FDA-cleared Embryo Predict (May 2026). Deep learning on static and time-lapse images; integrates with existing EMR systems. CE Mark in EU/UK. First AI embryo tool validated by a randomized multicenter clinical trial."
+    },
+    {
+      "name": "Fairtility (Israel)",
+      "detail": "Founded 2019. CHLOE AI platform uses explainable AI with heatmaps — embryologists see exactly what drove each score. Expanding across Europe and APAC. Positioned as the transparent alternative to black-box competitors; gaining traction with ethically-focused clinic networks."
+    },
+    {
+      "name": "TMRW Life Sciences (USA)",
+      "detail": "Series D company ($28M+ equity, 2024). Automates cryostorage with robotics and AI tracking from freezing to thaw with digital chain of custody. Partners with major US fertility networks including CCRM. Targeting hospital systems with high IVF volumes."
+    },
+    {
+      "name": "Natural Cycles (Sweden)",
+      "detail": "Consumer-facing AI fertility app with FDA clearance since 2018 (first-ever for app-based contraception/fertility tracking). 3M+ active users globally. Expanding into IVF companion planning. Subscription at $13/month. Bridges the consumer-to-clinical pipeline."
+    }
+  ],
+  "canvas": {
+    "who": "Couples aged 28–42 experiencing infertility (1 in 6 globally per WHO); women 35–45 seeking elective egg freezing; LGBTQ+ individuals pursuing IVF-based family formation; embryologists and fertility clinic directors seeking AI decision support tools.",
+    "where": "IVF clinic labs (AI embryo scoring); at-home via smartphone apps (ovulation and cycle tracking); employer fertility benefit platforms (Progyny, Carrot Fertility); telemedicine fertility consultations; direct-to-consumer diagnostics.",
+    "why_now": "FDA clearance in May 2026 legitimized clinical AI embryo tools. Average IVF success rates remain ~30–40% per cycle, creating massive demand for outcome improvement. Employer fertility benefits expanded to 40%+ of Fortune 500 in 2025. Falling global sperm counts and rising maternal age are structurally growing the infertility crisis.",
+    "behavior": "Couples track fertility biomarkers obsessively with apps before seeking clinical help. Clinics benchmark AI adoption as a competitive differentiator in patient acquisition. Embryologists are shifting from purely manual scoring to AI-augmented workflows. Patients increasingly research and ask their clinic about AI tools by name.",
+    "unmet": "Patients want transparent, explainable AI decisions — not black-box embryo selection. Affordable clinical-grade AI tools for resource-constrained clinics in India and Southeast Asia are nearly absent. At-home sperm analysis with true clinical-grade accuracy remains nascent (YO Sperm Test, ExSeed Health). Non-invasive endometrial receptivity AI has no FDA-cleared solution yet."
+  },
+  "takeaways": [
+    "FDA clearance is the new moat: AI fertility tools validated by randomized clinical trials (Alife's 440-patient RCT model) will capture clinic adoption faster than uncleared alternatives — build the evidence base before scaling the sales motion.",
+    "Explainability beats raw accuracy: Fertility clinics will prioritize AI tools that show embryologists the scoring rationale (heatmaps, confidence intervals) over black-box models — even if accuracy is marginally lower. Trust is the buying trigger.",
+    "Consumer-to-clinical is the high-LTV flywheel: Companies that acquire users via consumer fertility tracking apps (Natural Cycles, Flo) and convert them into IVF patients at partner clinics will unlock the highest lifetime value in the sector. The funnel is already built.",
+    "Emerging markets are the next frontier: APAC AI fertility adoption growing 21% CAGR — India, South Korea, and Japan have among the highest IVF cycle volumes globally but low AI penetration. First movers with affordable, regulatory-compliant AI tools face minimal competition."
+  ],
+  "sources": [
+    "https://www.precedenceresearch.com/ai-powered-embryo-selection-market",
+    "https://www.fertilitybridge.com/news-articles/fda-clears-ai-embryo-selection-alife",
+    "https://www.factmr.com/report/ai-fertility-planning-platforms-market",
+    "https://femtechinsider.com/alife-health-receives-fda-clearance-for-ai-powered-embryo-selection-tool/",
+    "https://www.biopharmatrend.com/artificial-intelligence/companies-advancing-ai-in-fertility-tech-702/",
+    "https://www.expertmarketresearch.com/healthcare-articles/world-ivf-day-2026-global-fertility-economy",
+    "https://www.tmrwlifesciences.com/tmrw-life-sciences-raises-105-million-to-accelerate-global-rollout-of-worlds-first-automated-platform-for-ivf-egg--embryo-management/",
+    "https://ideausher.com/blog/ai-trends-fertility-tech-platforms/",
+    "https://www.vitrolife.com/our-products/idascore-intelligent-data-analysis-for-embryo-evaluation/"
+  ]
+}
