@@ -1,0 +1,151 @@
+{
+  "trend_name": "AI World Models",
+  "slug": "ai-world-models",
+  "research_date": "2026-09-10",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Forbes",
+      "title": "VCs Pour $3 Billion Into AI's Next Big Bet: World Models",
+      "url": "https://www.forbes.com/sites/josipamajic/2026/06/30/world-model-startups-raise-3-billion-vcs-bet-beyond-llms/",
+      "date": "2026-06-30",
+      "claims_supported": [
+        "$3B+ VC invested in world model startups in H1 2026",
+        "Investor shift from LLMs to physical-world AI",
+        "World Labs and AMI Labs funding details"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "GlobeNewsWire",
+      "title": "Physical AI Market Set to Surpass $430 Billion by 2030, Driven by Nine Key Vertical Sectors",
+      "url": "https://www.globenewswire.com/news-release/2026/07/01/3320809/28124/en/Physical-AI-Market-Set-to-Surpass-430-Billion-by-2030-Driven-by-Nine-Key-Vertical-Sectors.html",
+      "date": "2026-07-01",
+      "claims_supported": [
+        "Physical AI market >$430B by 2030",
+        "Nine key vertical sectors driving growth",
+        "Market growth trajectory"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "TechCrunch",
+      "title": "Fei-Fei Li's World Labs speeds up the world model race with Marble, its first commercial product",
+      "url": "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/",
+      "date": "2025-11-12",
+      "claims_supported": [
+        "World Labs Marble commercial launch November 2025",
+        "Free to $95/month pricing tiers",
+        "Gaming, VFX, and VR use cases",
+        "Marble generates downloadable 3D environments"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Crunchbase News",
+      "title": "Turing Winner LeCun's New 'World Model' AI Lab Raises Europe's Largest Seed Round",
+      "url": "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "AMI Labs raised ~€500M seed at €3B valuation",
+        "Investors: NVIDIA, Bezos Expeditions, Toyota Ventures, Samsung",
+        "Europe's largest seed round",
+        "Yann LeCun's JEPA architecture approach"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "TechCrunch",
+      "title": "Nvidia releases its own brand of world models",
+      "url": "https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models",
+      "date": "2025-01-06",
+      "claims_supported": [
+        "NVIDIA Cosmos launched at CES 2025",
+        "Trained on 20 million hours of real-world video",
+        "Open-source availability",
+        "Physics-aware video generation"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Gartner",
+      "title": "Gartner Forecasts Worldwide AI Platforms and Models Market to Grow 63% in 2026",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-20-gartner-forecasts-worldwide-ai-platforms-and-models-market-to-grow-63-percent-in-2026",
+      "date": "2026-07-20",
+      "claims_supported": [
+        "AI platforms and models market growing 63% in 2026",
+        "End-user spending: $64B in 2026 vs $39B in 2025",
+        "Enterprise AI market acceleration"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Google DeepMind",
+      "title": "Gemini Robotics 1.5 brings AI agents into the physical world",
+      "url": "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Genie 3 real-time 3D world generation at 24fps/720p",
+        "Waymo adopted Genie 3 for AV simulation (Feb 2026)",
+        "Gemini Robotics 1.5 vision-language-action model",
+        "Physics-aware simulation capabilities"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "World Labs",
+      "title": "Marble: A Multimodal World Model",
+      "url": "https://www.worldlabs.ai/blog/marble-world-model",
+      "date": "2025-11-01",
+      "claims_supported": [
+        "Marble generates from text, images, video, panoramas, rough 3D layouts",
+        "VR-native: Vision Pro and Quest 3 compatible",
+        "Unity and Unreal Engine export",
+        "Persistent navigable 3D geometry"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Tech Insider",
+      "title": "Genie 3 vs Marble vs NVIDIA Cosmos: AI World Models [2026]",
+      "url": "https://tech-insider.org/genie-3-vs-marble-vs-nvidia-cosmos-world-models-2026/",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Comparative analysis of leading world model platforms",
+        "NVIDIA Cosmos: 2 million downloads by Jan 2026",
+        "Landscape of closed vs open-source approaches",
+        "Key technical differences between platforms"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "Emergent.sh",
+      "title": "World Models AI: Why $2 Billion Is Flowing Away from LLMs",
+      "url": "https://emergent.sh/news/world-models-ai",
+      "date": "2026-01-01",
+      "claims_supported": [
+        "Major VC shift from LLMs to world models",
+        "Decart Lucy 2.5 real-time 1080p video at 30fps",
+        "World model use cases in robotics and AV",
+        "Market fragmentation between incumbents and challengers"
+      ],
+      "verified": true
+    }
+  ],
+  "data_quality_notes": {
+    "search_volume": "75,000 monthly searches is an estimate [unverified] — no direct Semrush/Ahrefs data retrieved; based on surge in tech publication coverage and Google Trends trajectory",
+    "market_share": "Player market share percentages (35%/25%/20%/10%/10%) are estimates [unverified] based on reported downloads, funding, and deployment announcements — no formal market share study exists for this nascent category as of September 2026",
+    "growth_5y": "+800% is estimated [unverified] based on physical AI market CAGR of 32.4% and near-zero commercial world model activity in 2021; specific world model subcategory market sizing not available for 2021",
+    "growth_1y": "+340% is estimated based on VC funding: Forbes reports $3B+ in H1 2026 vs broader context suggesting ~$0.7B in all of 2025; precise annual comparison figure not directly stated in sources",
+    "growth_3m": "+85% is estimated [unverified] based on Gartner's +63% broader AI platforms market growth rate, with world models segment growing faster than market average based on investment velocity"
+  }
+}

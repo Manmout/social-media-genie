@@ -1,0 +1,163 @@
+{
+  "trend_name": "AI World Models",
+  "status": "surging",
+  "search_volume": 75000,
+  "category": "AI & Technology",
+  "growth_5y": "+800%",
+  "growth_1y": "+340%",
+  "growth_3m": "+85%",
+  "trigger": "NVIDIA Cosmos launch at CES 2025 + World Labs $1B Series A + AMI Labs €500M seed (H1 2026) converged to signal that world models — AI that simulates the physical world — represent the next paradigm beyond LLMs, with $3B+ VC deployed in H1 2026 alone",
+  "timeline": [
+    {
+      "date": "2018",
+      "event": "Ha & Schmidhuber publish 'World Models' at NeurIPS — foundational paper introducing the concept of AI learning a compressed world representation for planning and prediction"
+    },
+    {
+      "date": "Feb 2024",
+      "event": "Google DeepMind releases Genie — first generative interactive environment model capable of creating playable 2D games from a single image, without labeled action data"
+    },
+    {
+      "date": "Nov 2024",
+      "event": "Fei-Fei Li founds World Labs; NVIDIA announces Cosmos World Foundation Models at NeurIPS 2024 after training on 20 million hours of real-world video and 9,000 trillion tokens"
+    },
+    {
+      "date": "Jan 2025",
+      "event": "NVIDIA officially launches Cosmos at CES 2025 as open-source world foundation models for robotics and autonomous vehicle development; 2 million downloads within first year"
+    },
+    {
+      "date": "Nov 2025",
+      "event": "World Labs launches Marble commercially — first consumer-facing world model with free-to-$95/month tiers targeting gaming studios, VFX houses, and VR creators; Marble 1.1 and 1.1 Plus models follow rapidly"
+    },
+    {
+      "date": "H1 2026",
+      "event": "VCs pour $3B+ into world model startups (Forbes, June 2026); Waymo adopts Genie 3 for AV simulation; AMI Labs raises €500M seed at €3B valuation; Gartner forecasts AI platforms & models market +63% in 2026; physical AI market projected at $430B+ by 2030"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act (enforced 2025) requires documentation and transparency for general-purpose AI models including world models; US executive orders prioritize AI innovation with lighter regulatory touch; China accelerates state-funded physical AI R&D, creating geopolitical race for world AI leadership across robotics and autonomous systems"
+    },
+    {
+      "factor": "Economic",
+      "impact": "Physical AI market projected to surpass $430B by 2030 (GlobeNewsWire, July 2026); $3B+ VC deployed to world model startups in H1 2026 alone (Forbes); world models cut robotics training costs by replacing expensive physical test setups with synthetic simulation; NVIDIA CEO Jensen Huang projects physical AI will be 10x larger than digital AI market long-term"
+    },
+    {
+      "factor": "Social",
+      "impact": "Rising mainstream demand for richer, more immersive gaming and VR environments; game studios face pressure to deliver larger worlds with smaller teams; developer communities rapidly adopting world model APIs; Decart's viral Oasis demo (2024 real-time Minecraft generation) demonstrated consumer appetite for AI-generated interactive worlds"
+    },
+    {
+      "factor": "Technological",
+      "impact": "NVIDIA H100/B200 compute maturity enables real-time 3D simulation at practical cost; video scaling laws show world models improve predictably with data; multimodal architectures unify vision, language, and physics into single models; sim-to-real gap remains primary technical barrier — models trained in simulation do not always transfer reliably to physical robot deployment"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "World models reduce physical robot testing carbon footprint by replacing hardware iterations with digital simulation; training runs require 120M+ GPU-hours — significant energy cost per model; net environmental benefit is positive when one trained world model replaces millions of physical test hours across an entire robotics program"
+    },
+    {
+      "factor": "Legal",
+      "impact": "Copyright uncertainty around training on real-world video at scale mirrors generative AI image litigation; liability questions when autonomous vehicles trained on world model simulations fail in physical deployment; IP ownership of AI-generated 3D environments unresolved; regulatory bodies in US and EU beginning to scrutinize training data provenance for physical-world AI"
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Robotics companies need to train robots on millions of edge cases without building physical test environments for each scenario",
+      "solution": "NVIDIA Cosmos generates physics-accurate synthetic training data at scale, replacing expensive physical test setups and enabling robots to learn rare scenarios that would be dangerous to recreate physically"
+    },
+    {
+      "job": "Autonomous vehicle developers need rare and dangerous driving scenarios (blizzards, pedestrian near-misses, adverse lighting) to train safety-critical systems",
+      "solution": "Waymo adopted Genie 3 to build the Waymo World Model — generating unlimited realistic simulation scenarios including edge cases impossible to collect safely in the real world at scale"
+    },
+    {
+      "job": "Game studios need to create vast, detailed 3D environments faster and at dramatically lower cost while matching rising player expectations",
+      "solution": "World Labs Marble generates navigable 3D worlds from text prompts, images, or rough layouts — exportable directly to Unity and Unreal Engine, compressing weeks of environment art to hours"
+    },
+    {
+      "job": "Industrial manufacturers need to test warehouse automation and factory layouts before committing to physical infrastructure deployment",
+      "solution": "World models simulate complex industrial environments at digital-twin fidelity, enabling virtual commissioning and process optimization before any physical investment is made"
+    },
+    {
+      "job": "Research labs need to simulate physical phenomena (molecular dynamics, fluid simulation, materials behavior) for scientific discovery",
+      "solution": "Physics-aware world models trained on domain-specific data accelerate scientific simulation, complementing classical physics engines with learned priors that reduce compute time for complex multi-body systems"
+    }
+  ],
+  "market": [
+    {
+      "name": "NVIDIA Cosmos",
+      "share": "35%",
+      "loved": "Open-source; 2M downloads in first year; deepest hardware integration via Jetson and Omniverse platforms; standard choice for robotics and AV synthetic data pipelines",
+      "segment": "Enterprise robotics & autonomous vehicles"
+    },
+    {
+      "name": "Google DeepMind (Genie 3)",
+      "share": "25%",
+      "loved": "Real-time interactive 3D at 24fps/720p; adopted by Waymo for AV simulation; self-supervised learning from unlabeled video; integrated into Google Cloud AI ecosystem",
+      "segment": "AV simulation & enterprise research"
+    },
+    {
+      "name": "World Labs (Marble)",
+      "share": "20%",
+      "loved": "Only commercial world model with free tier; VR-native (Vision Pro, Quest 3); direct export to Unity & Unreal; $1B Series A demonstrates investor conviction",
+      "segment": "Creative, gaming & VFX studios"
+    },
+    {
+      "name": "AMI Labs (LeCun / JEPA)",
+      "share": "10%",
+      "loved": "Energy-based architecture (not generative); highest-conviction long-term research bet; €500M seed at €3B valuation; backed by NVIDIA, Toyota Ventures, Samsung",
+      "segment": "Foundational AI research"
+    },
+    {
+      "name": "Decart (Lucy 2.5)",
+      "share": "10%",
+      "loved": "Fastest real-time video AI (1080p/30fps); viral Oasis demo proved mass appeal; real-time editing of live video streams; targets gaming and interactive media",
+      "segment": "Real-time gaming & interactive media"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "NVIDIA Cosmos",
+      "detail": "Open-source world foundation model family launched at CES Jan 2025; trained on 20M hours of real-world video and 9,000 trillion tokens; 2M downloads by January 2026; powers synthetic data pipelines for robotics and autonomous vehicles across partners including BYD, Agility, Boston Dynamics, and 1X; self-hostable; deeply integrated with NVIDIA Jetson edge-compute, Omniverse simulation, and Isaac robotics platforms"
+    },
+    {
+      "name": "Google DeepMind Genie 3",
+      "detail": "Closed-API world model generating persistent, interactive 3D environments at 24fps and 720p resolution; uses latent action model architecture — learns action space from unlabeled video without human annotations; adopted by Waymo in February 2026 to build the Waymo World Model for generating rare and dangerous AV simulation scenarios; part of the Gemini Robotics 1.5 ecosystem"
+    },
+    {
+      "name": "World Labs Marble",
+      "detail": "Multimodal world model by Fei-Fei Li's World Labs; generates navigable, downloadable 3D scenes from text, images, video, panoramas, or rough 3D layouts; unique for producing persistent 3D geometry (not just on-the-fly video); free to $95/month commercial tiers with Unity/Unreal export and VR output (Vision Pro, Quest 3); $1B Series A (Feb 2026) backed by AMD, Autodesk, NVIDIA, Fidelity, Emerson Collective, and Sea"
+    },
+    {
+      "name": "AMI Labs (Advanced Machine Intelligence)",
+      "detail": "Yann LeCun's foundational AI lab building energy-based world models using JEPA (Joint Embedding Predictive Architecture) — a non-generative approach that predicts abstract representations rather than generating pixels; raised €500M seed at €3B valuation — Europe's largest seed round; backed by NVIDIA, Bezos Expeditions, Toyota Ventures, Samsung, Cathay Innovation; pre-product but represents the highest-risk, highest-reward alternative architecture to transformer-based world models"
+    },
+    {
+      "name": "Decart (Lucy 2.5)",
+      "detail": "Real-time visual world model running at 1080p and 30 frames per second as of August 2026; claims title of fastest visual AI system ever made; emerged from viral October 2024 Oasis demo (real-time Minecraft generation that attracted 2M+ plays in 48 hours); Lucy 2.5 edits live 1080p video streams in real-time; targets gaming studios, live simulation applications, and interactive entertainment; competing on speed rather than 3D fidelity"
+    }
+  ],
+  "canvas": {
+    "who": "Robotics engineers at humanoid robot startups (Figure, 1X, Agility Robotics, Boston Dynamics), autonomous vehicle development teams (Waymo, Tesla, Cruise, Zoox), AAA and indie game studios, VFX houses and film production companies needing environment generation, industrial automation teams at manufacturers, and AI research labs at universities and BigTech R&D divisions",
+    "where": "North America dominates (World Labs and Decart in San Francisco, NVIDIA in Santa Clara, Google DeepMind in Mountain View and London); EU emerging (AMI Labs in Paris); China accelerating via state-backed physical AI institutes; adoption concentrated in cloud-native enterprise environments and developer communities using NVIDIA Cosmos open-source stack",
+    "why_now": "NVIDIA H100/B200 GPU compute finally enables real-time 3D world simulation at practical cost; LLM performance improvements plateauing creates investor and researcher demand for next paradigm; commercial wave of humanoid robots (shipping in 2025-2026) creates acute demand for synthetic training data at scale; gaming industry needs to match rising player expectations without proportional cost increases in environment art production",
+    "behavior": "Robotics teams replacing physical test rigs with world model simulation pipelines; AV companies generating millions of synthetic dangerous scenarios instead of real-world data collection fleets; game studios using Marble to prototype 3D environments before committing artist hours; developers building custom fine-tuning pipelines on top of NVIDIA Cosmos for domain-specific robotics; research labs publishing world-model benchmarks to replace physical manipulation tasks",
+    "unmet": "Real-time interactivity at high visual fidelity (most models still batch-generate or require seconds per frame); reliable long-horizon physics consistency (worlds drift from physical realism over extended simulations); closing the sim-to-real gap (no standardized validation that world-model training actually transfers to physical robot performance); accessible pricing and simplified tooling for individual creators and small studios beyond Marble's tiers"
+  },
+  "takeaways": [
+    "Start with NVIDIA Cosmos: open-source, 2M downloads, and the de facto standard for robotics synthetic data pipelines — integrate it first before evaluating paid alternatives, as its Jetson/Omniverse ecosystem creates durable moats",
+    "Startups should target the sim-to-real validation gap: the market critically needs tools that certify whether world-model training actually transfers to physical robot performance — this 2026-2028 window is wide open and will command premium pricing",
+    "Game studios and VFX houses: evaluate World Labs Marble now at $35-$95/month commercial tier — AI-generated 3D environment prototyping delivers immediate ROI on background world creation and environment concepting before committing artist hours",
+    "Watch AMI Labs and Yann LeCun's JEPA energy-based architecture closely: if non-generative world models outperform transformer-based approaches on long-horizon planning (expected benchmark results late 2026), it would trigger the largest paradigm shift in AI since the transformer, creating entirely new investment and partnership opportunities"
+  ],
+  "sources": [
+    "https://www.forbes.com/sites/josipamajic/2026/06/30/world-model-startups-raise-3-billion-vcs-bet-beyond-llms/",
+    "https://www.globenewswire.com/news-release/2026/07/01/3320809/28124/en/Physical-AI-Market-Set-to-Surpass-430-Billion-by-2030-Driven-by-Nine-Key-Vertical-Sectors.html",
+    "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/",
+    "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/",
+    "https://techcrunch.com/2025/01/06/nvidia-releases-its-own-brand-of-world-models",
+    "https://www.gartner.com/en/newsroom/press-releases/2026-07-20-gartner-forecasts-worldwide-ai-platforms-and-models-market-to-grow-63-percent-in-2026",
+    "https://deepmind.google/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/",
+    "https://www.worldlabs.ai/blog/marble-world-model",
+    "https://tech-insider.org/genie-3-vs-marble-vs-nvidia-cosmos-world-models-2026/",
+    "https://emergent.sh/news/world-models-ai"
+  ]
+}
