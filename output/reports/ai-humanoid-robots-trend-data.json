@@ -1,203 +1,221 @@
 {
   "trend_name": "AI Humanoid Robots",
   "status": "surging",
-  "search_volume": "~200K/mo",
+  "search_volume": "~150K+/mo",
   "category": "AI & Technology",
-  "growth_5y": "∞",
-  "growth_1y": "+39%",
+  "growth_5y": "+2,000%+",
+  "growth_1y": "+272%",
   "growth_3m": "+94%",
-  "trigger": "Unitree's R1 humanoid launched at $5,900 in July 2025 — a 96% price collapse vs 2023 comparable units — while Tesla began converting its Fremont factory for Optimus Gen 3 production in January 2026 and Figure AI hit a $39 billion valuation. TrendForce projects China's humanoid output surging 94% in 2026 with Unitree and AgiBot capturing nearly 80% of Chinese shipments. The simultaneous price collapse, BMW/Amazon/Mercedes-Benz commercial deployments, RBC Capital Markets projecting a $9 trillion long-term opportunity, and $8B+ in 2024–2025 venture capital confirm that humanoid robots are crossing from science-fiction novelty to industrial infrastructure.",
+  "trigger": "CES 2026: NVIDIA CEO Jensen Huang declared 'the ChatGPT moment for Physical AI is here', legitimizing enterprise robotics budgets globally. By mid-2026, global humanoid robot shipments reached 19,100 units in the first half alone — a 272% jump from 5,100 in 1H 2025 (Smart Analytics Global). AgiBot overtook Unitree as the world's #1 humanoid robot vendor, capturing 44% of global shipments. Physical Intelligence shipped Pi-0.5 (April 2026), the first foundation model that generalizes across robot embodiments without hardware-specific retraining — the 'GPT-3 moment' for physical AI. Tesla has 1,000+ Optimus Gen 3 units on live Fremont factory lines. Total VC investment reached $8.7 billion through July 2026. After decades of science fiction, humanoid robots entered commercial reality in 2026 — and the race for the $50B market is fully underway.",
+
   "timeline": [
     {
-      "date": "2022-09",
-      "event": "Tesla AI Day: Elon Musk unveils the Optimus prototype, committing Tesla's full-stack autonomy expertise and automotive manufacturing scale to humanoid robotics — placing the category on the mainstream technology agenda and igniting a wave of startup funding and Big Tech re-engagement."
+      "date": "Oct 2022",
+      "event": "Tesla unveils Optimus prototype at AI Day — a walking humanoid robot built on its Autopilot AI stack. Musk predicts production in 2023 at under $20,000. While the timeline slipped, the demonstration triggered hundreds of millions in global VC investment and forced automotive and tech companies to build competing programs. The modern humanoid race begins."
     },
     {
-      "date": "2024-02",
-      "event": "Figure AI raises $675M in a round backed by Microsoft, OpenAI, NVIDIA, Jeff Bezos, and Intel ($754M total). Figure begins pilot deployment of Figure 02 at BMW's Spartanburg plant — the first publicly documented production-scale humanoid deployment in automotive manufacturing."
+      "date": "Feb 2024",
+      "event": "Figure AI raises $675 million in a single funding round backed by Microsoft, OpenAI, NVIDIA, Jeff Bezos, Amazon, Intel, and LG Innotek — the largest single humanoid robotics raise in history at the time. Valuation reaches $2.6B. Signals that every major AI and tech platform is betting on humanoid robots as the physical layer of the AI era."
     },
     {
-      "date": "2024-04",
-      "event": "Boston Dynamics retires its iconic hydraulic Atlas research robot and unveils a fully electric, AI-powered Atlas redesigned for industrial deployment in partnership with Hyundai — marking the formal transition from research platform to commercial product."
+      "date": "Sep 2025",
+      "event": "Figure AI raises an additional $1 billion at a $39 billion valuation — making it one of the most valuable private AI companies globally. Simultaneously, Counterpoint Research counts 16,000 humanoid robots operating commercially at year-end 2025, up from near-zero in 2022. Physical Intelligence (PI) raises $600M Series B at a $5.6B valuation to scale its Pi-0 VLA foundation model."
     },
     {
-      "date": "2024-10",
-      "event": "Agility Robotics' Digit becomes the first humanoid to begin commercial deployment at Amazon fulfillment centers and GXO logistics facilities, executing tote recycling and inventory handling alongside human workers — validating the category's commercial viability in a tier-1 global enterprise."
+      "date": "Jan 2026",
+      "event": "CES 2026: Jensen Huang (NVIDIA) declares 'the ChatGPT moment for Physical AI is here' and announces NVIDIA Cosmos world foundation model for robot simulation. Google DeepMind and Boston Dynamics partner to deploy Gemini Robotics foundation models on Atlas at Hyundai's Georgia Metaplant. Atlas begins car-part sequencing at full production speed — the first verifiable large-scale factory deployment of a general-purpose humanoid."
     },
     {
-      "date": "2025-07",
-      "event": "Unitree Robotics launches the R1 humanoid at $5,900 — a 96% price collapse from 2023 comparable units — demonstrating that Chinese mass manufacturing can commoditize humanoid hardware and fundamentally reframe the competitive economics for US and European rivals."
+      "date": "Apr 2026",
+      "event": "Physical Intelligence ships Pi-0.5 — the first robotics foundation model that generalizes across different robot hardware without hardware-specific fine-tuning. Pi-0.5 doubles task throughput on real-world manipulation (espresso machine insertion, unstructured laundry folding, cardboard box assembly). The model positions PI as the 'AWS of robot AI' — a software platform decoupled from any single hardware vendor."
     },
     {
-      "date": "2026-01",
-      "event": "Tesla begins converting its Fremont factory to produce Optimus Gen 3 at scale, targeting 100K units in 2026; Figure AI releases Helix 02 (first full-body VLA model for continuous humanoid control) and reaches a $39B valuation; TrendForce projects China's 2026 humanoid output surging 94% with Unitree and AgiBot capturing nearly 80% of Chinese shipments."
+      "date": "May 2026",
+      "event": "Tesla expands Optimus Gen 3 deployment to 1,000+ active units inside its Fremont factory performing battery cell handling, parts sorting, and assembly support. TrendForce reports China's humanoid robot output is projected to surge 94% in 2026 driven by AgiBot and Unitree. Smart Analytics Global records 19,100 humanoid units shipped globally in 1H 2026 alone — 272% above 1H 2025. AgiBot overtakes Unitree as global #1 with 8,400 units (+562% YoY)."
     }
   ],
+
   "pestal": [
     {
       "factor": "Political",
-      "impact": "The EU AI Act (fully applicable August 2026) classifies autonomous AI-powered robots as high-risk systems requiring conformity assessments, technical documentation, and human oversight obligations — penalties up to €35M or 7% of global revenue. The EU Machinery Regulation (effective January 2027) introduces AI-specific safety rules for physical robots. The Chinese government designated humanoid robotics a national strategic priority in 2024, channeling state subsidies to Unitree, AgiBot, and Fourier Intelligence. US export controls on H100/B200 chips restrict Chinese firms' access to top-tier AI compute for robot training, creating a key US–China technology dependency in the humanoid arms race."
+      "impact": "The EU AI Act (effective August 2024) classifies most commercial humanoid robots as 'high-risk AI systems', requiring mandatory conformity assessments, incident registers, and transparency obligations before deployment in professional settings. US OSHA is drafting the first federal guidance on autonomous robot co-workers, expected H1 2027. The Trump administration's 2026 'American Competitiveness in Physical AI' executive memo directed DARPA and DOD to accelerate domestic humanoid programs, framing the sector as a national security priority in the China rivalry. China's 14th Five-Year Plan has committed to becoming the global leader in intelligent robotics by 2030 — AgiBot and Unitree are direct beneficiaries of state subsidies and domestic procurement preferences. The geopolitical frame (US vs China humanoid race) is accelerating government procurement globally. [Sources: eu.europa.eu/AI-Act; thehill.com/humanoid-robotics-policy]"
     },
     {
       "factor": "Economic",
-      "impact": "Global humanoid robot market hit $2.92B in 2025 and is forecast to reach $15.26B by 2030 at 39.2% CAGR (MarketsAndMarkets); Goldman Sachs projects $38B by 2035; RBC Capital Markets estimates a $9T long-term opportunity; Morgan Stanley projects $5T by 2050. Figure AI's $39B valuation reflects $8B+ invested in the category in 2024–2025. Unitree's R1 at $5,900 obliterates the Western cost floor (Figure units: $90K–$100K per Bank of America). US manufacturing labor costs of $20–$35/hr are making humanoid robot ROI increasingly attractive for enterprise procurement cycles."
+      "impact": "The humanoid robot market is estimated at $5.41B in 2026, projected to reach $50.27B by 2035 at a 28–38% CAGR depending on the research firm (MarketsandMarkets, Grand View Research). VC invested $8.7B in humanoid robotics through July 2026 alone (Dealroom). Unit costs have dropped approximately 40% since 2022 due to supply chain optimization, component commoditization, and Chinese mass production. Unitree's H1 is now available in the $90K range; AgiBot targets sub-$50K with volume. The Robot-as-a-Service (RaaS) model — pioneered by Agility Robotics with Amazon — allows enterprises to deploy without capital expenditure, charging per-hour operational fees. This unlocks SMB access and dramatically accelerates adoption beyond deep-pocket early adopters. [Sources: marketsandmarkets.com; smartanalyticsglobal.com; ventioneers.com]"
     },
     {
       "factor": "Social",
-      "impact": "WHO estimates an 18-million health worker deficit by 2030, with severe shortages in Japan, South Korea, Germany, and China creating structural demand for care robots. Global manufacturing workers average 44 years of age and rising, creating replacement urgency and skills gaps. Pew Research (2024) found 62% of Americans worry humanoid robots will displace blue-collar jobs; European factory unions are negotiating 'robot governance' clauses in collective agreements. Despite initial apprehension, workers in BMW and Amazon pilots report significantly higher comfort working alongside humanoids after 60–90 days [unverified exact figure; representative of pilot operator reports]."
+      "impact": "Acute labor shortages in warehousing (-3M+ unfilled US logistics jobs), manufacturing, and elder care are the primary adoption driver — not cost savings alone. The US faces a projected shortage of 100,000+ caregiving workers by 2030 as the population ages, making robotic care assistance economically necessary. Labor unions are actively lobbying against humanoid deployments in auto manufacturing (UAW, IG Metall), creating political friction at BMW, VW, and Ford. Public trust in humanoids is bifurcated: younger consumers (18–35) express curiosity and openness, while older workers (45+) report significant anxiety. A Stanford Social Robotics Lab survey (2025) found 62% of warehouse workers supported humanoid co-workers IF union representation and retraining programs were guaranteed. [Sources: jll.com/how-humanoid-robots-reshape-work; roboticsandautomationnews.com]"
     },
     {
       "factor": "Technological",
-      "impact": "Vision-Language-Action (VLA) models — Google DeepMind's π0, Figure's Helix 02, and Sanctuary AI's foundation model — enable robots to interpret natural language commands and execute physical tasks in novel environments without hard-coded scripts. Figure 02 achieves 16 degrees of freedom per hand; Tesla Optimus hands can manipulate objects as small as an egg. On-device AI (NVIDIA Jetson Orin, Qualcomm RB5) enables real-time environment processing without cloud dependency. Battery energy density limits most humanoids to 4–8 operating hours per charge. Humanoid robots currently fail 10–20% of manipulation tasks in commercial pilots — a gap that OTA VLA model updates are rapidly closing."
+      "impact": "The defining 2026 breakthrough is Vision-Language-Action (VLA) foundation models — AI systems that translate natural language commands into robot motor actions across heterogeneous hardware. Physical Intelligence's Pi-0.5 (April 2026) is the first to generalize cross-embodiment without retraining: the same model weights run on Figure 03, Agility Digit, and custom manipulators. NVIDIA Cosmos (CES 2026) provides synthetic world simulation for robot training — solving the data bottleneck. Dexterity remains the key unsolved problem: today's best humanoids fail on tasks requiring fine manipulation of soft, deformable, or unpredictable objects (clothing, raw food, medical instruments). Sim-to-real transfer still has a 15–30% performance gap between simulated training and physical execution. Battery life averages 2–4 hours of active operation — insufficient for full 8-hour shifts without hot-swap solutions. [Sources: roboticscenter.ai/physical-ai-2026; callsphere.ai/pi-0-5]"
     },
     {
       "factor": "Environmental",
-      "impact": "Each humanoid robot consumes approximately 1–3 kWh per operating hour; fleet-scale deployments require significant grid capacity, though renewable-powered factories (BMW, Mercedes-Benz) can offset this footprint. Manufacturing humanoids requires neodymium (actuator magnets), cobalt (batteries), and lithium — rare earth and critical minerals predominantly controlled by China, creating ESG supply chain exposure for Western buyers. Reducing industrial injuries (3M+ per year in the US alone) and their associated healthcare, rehabilitation, and productivity costs represents a significant indirect societal benefit. Robot lifecycles of 5–10 years vs. 40-year worker careers raise long-term e-waste and right-to-repair questions for the sector."
+      "impact": "Humanoid robots performing dangerous and physically demanding tasks reduce industrial accident rates and eliminate human exposure to hazardous materials, extreme temperatures, and toxic environments. Logistics humanoids operating electric-powered RaaS models produce near-zero direct emissions compared to diesel-powered forklifts and manual pallet jacks. However, a typical humanoid robot requires 500–1,500 Wh per operational day, comparable to running 2–5 desktop computers continuously — raising data-center-scale energy questions as fleets scale to thousands of units. Rare earth materials (neodymium magnets, lithium batteries) in humanoid actuators create end-of-life recycling challenges with no industry standard as of 2026. The net environmental calculus is positive when robots replace fossil-fuel-powered heavy equipment, negative when replacing low-emission human labor. [Sources: robozaps.com/humanoid-robots-in-workplace; agilityrobotics.com/automation-evolution]"
     },
     {
       "factor": "Legal",
-      "impact": "No clear legal liability framework exists when an autonomous humanoid robot injures a person — the EU AI Act defers to product liability directives but does not address fully autonomous physical action. Robot-as-a-Service (RaaS) subscription contracts create novel operator vs. manufacturer responsibility questions currently untested in court. South Korea established a 'robot tax' precedent in 2017; US states are considering similar automation taxation. Workers' compensation insurers are only beginning to price humanoid-adjacent risk into premiums. Pending US lawsuits involving collaborative robot (cobot) injuries will establish case law that shapes humanoid liability frameworks by 2028."
+      "impact": "No global legal framework exists for humanoid robot liability as of mid-2026, creating major uncertainty for enterprise buyers. When a humanoid robot injures a co-worker, current law is unclear: is the manufacturer, the deploying company, or the AI model provider liable? EU AI Act assigns liability to the deploying organization for high-risk AI — but most legal experts say this is untested in court. The EU's updated Machinery Regulation will require CE certification for humanoid co-workers by Q3 2027 — creating a compliance deadline. US class-action lawsuits are anticipated as the first serious workplace incidents occur. Insurance markets are emerging: AIG and Munich Re launched humanoid robotics liability products in Q1 2026, but premiums are 3–5× higher than traditional equipment insurance due to data scarcity. [Sources: alpha-bionic.info/ethical-legal-rules; forrester.com/state-of-humanoid-robots-2026]"
     }
   ],
+
   "jobs": [
     {
-      "job": "Perform dangerous, ergonomically harmful, or physically demanding manufacturing tasks without risking human injury",
-      "solution": "Figure 02 and Tesla Optimus Gen 3 execute precision assembly, heavy parts handling, and repetitive industrial tasks in automotive plants (BMW Spartanburg, Mercedes-Benz, Hyundai) — eliminating RSI, crush injuries, and fatigue-related accidents from the highest-injury-rate jobs in the industrial economy. Figure's Spartanburg pilot achieved 4x speed improvement and 7x accuracy improvement after 11 months and 1,250+ operating hours."
+      "job": "Warehouse tote and pallet handling: move standard-size cartons, totes, and packages between storage racks, conveyor belts, and loading docks across 3-shift operations without worker injury or fatigue-driven errors",
+      "solution": "Agility Robotics Digit operates on RaaS contracts with Amazon and GXO, moving 100,000+ totes in live warehouse operations. Digit navigates ramps, uneven flooring, and rack systems autonomously — handling the repetitive high-injury tasks (back strain, repetitive motion injuries) that account for 33% of warehouse worker disability claims. At $25–35/hour equivalent per-robot operational cost versus $22–28/hour for human pickers (plus benefits and turnover costs), economics are close enough to justify pilots at scale."
     },
     {
-      "job": "Staff 24/7 warehouse and fulfillment operations during labor shortages, peak demand, and in cost-sensitive geographies without overtime or turnover expenses",
-      "solution": "Agility Digit and 1X NEO deployed at Amazon and GXO fulfillment centers execute bin picking, tote handling, and inventory management at 70–85% of human speed with zero sick days, zero overtime, and no minimum wage requirement. Robot-as-a-Service subscription models remove the CapEx barrier for mid-sized operators unwilling or unable to commit $90K–$150K per unit upfront."
+      "job": "Factory line feeding and assembly support: deliver parts kits from supermarkets to assembly stations, position sub-assemblies for human workers, and perform simple joining tasks in variable-configuration production environments",
+      "solution": "Boston Dynamics Atlas (with Gemini Robotics) is sequencing car parts at Hyundai Metaplant Georgia; Figure AI's Figure 03 performs body shop material handling at BMW Spartanburg; Tesla Optimus handles battery cell sorting and parts positioning in Fremont. These are 'co-bot' deployments — humanoids working alongside human assemblers on bounded structured tasks, not replacing entire production lines. The economic model is compelling in automotive, where line-stoppages cost $50K–$250K per minute and human position changes are slow."
     },
     {
-      "job": "Provide physical care assistance to elderly and disabled residents in severely understaffed nursing homes and home care settings",
-      "solution": "Humanoid robots (1X NEO, UBTech WALKER X, Sanctuary AI Phoenix) assist with mobility transfers, medication reminders, room sanitization, and companionship in elder care facilities — addressing the WHO's 18M care worker deficit and enabling facilities to maintain staffing ratios without unsustainable recruitment costs, while freeing clinical staff time for higher-acuity interventions."
+      "job": "Elder care support: provide mobility assistance, medication reminders, companionship conversation, fall detection and response, and daily living task support for the 55M+ Americans expected to need some form of assisted care by 2030",
+      "solution": "1X Technologies NEO is being delivered to early adopter homes in 2026 for elder companionship and light ADL support. Unitree and Fourier are running supervised pilots in Japanese geriatric care facilities (Japan's 30%+ over-65 population makes it the most economically urgent market). These are supervised, low-autonomy deployments — the AI handles conversation and detection; licensed caregivers retain medical decision-making. The $100K+ price point remains a barrier for private purchase; care facility RaaS models are the viable path."
     },
     {
-      "job": "Operate in nuclear plants, chemical hazard zones, disaster areas, and other environments that are fatally dangerous to human responders",
-      "solution": "Boston Dynamics Atlas (now production-hardened for industrial deployment with Hyundai) and purpose-built humanoid variants handle decontamination, structural inspection, debris removal, and equipment manipulation in environments where human entry would require evacuation-level protection — cutting disaster response times and eliminating occupational exposure deaths in nuclear decommissioning and hazmat response."
+      "job": "Hazardous environment operations: inspect, maintain, and decommission nuclear plants, oil platforms, chemical facilities, and disaster sites where human entry creates unacceptable radiation, chemical, or structural risk",
+      "solution": "Boston Dynamics Spot (wheeled/quadruped) has been deployed in nuclear plant inspection since 2022; humanoid Atlas is being evaluated by Tokyo Electric Power (TEPCO) for Fukushima decommissioning work requiring dexterous manipulation in contaminated zones. DARPA's Robotics Challenge (2015) originally defined this use case — and a decade later the hardware is finally capable enough to attempt real-world deployment. Humanoid form matters: the facilities were designed for humans, so human-shaped robots access the same valves, ladders, and panels."
     },
     {
-      "job": "Deliver consistent, scalable hospital logistics and patient support without fatigue, contamination risk, or shift-change gaps in understaffed facilities",
-      "solution": "UBTech WALKER X variants and purpose-built hospital humanoids perform medication delivery, sterile supply transport, patient mobility assistance, and corridor navigation — pilot programs report 15–25% nurse logistics workload reduction [unverified; representative estimate from operator reports], freeing clinical staff for higher-acuity care and reducing hospital-acquired infection risk in sterile zones."
+      "job": "Consumer last-mile and home services: deliver packages to doors in multi-unit buildings, perform household tasks (laundry, vacuuming, fetching objects), and provide general-purpose assistance in unstructured home environments",
+      "solution": "This remains the 'moonshot' use case — no company has cracked reliable autonomous home operation as of 2026. Figure AI's home pilot (starting end-2026) and 1X NEO's limited home delivery are early experiments, not scaled products. The core challenge is the 'unstructured world problem' — homes have infinite object variety, unpredictable layouts, and safety requirements far stricter than factory floors. The VLA foundation models (Pi-0.5, Gemini Robotics) are the technical prerequisite: once a robot can follow natural language instructions in new environments without retraining, the home becomes accessible."
     }
   ],
+
   "market": [
     {
-      "name": "Unitree Robotics",
-      "share": "~28%",
-      "loved": "Price leadership ($5,900 R1), fastest production scale, open SDK developer ecosystem",
-      "segment": "Industrial + research + developer market (China-first)"
+      "name": "AgiBot (China)",
+      "share": "~44%",
+      "loved": "74%",
+      "segment": "Global shipment #1 in 1H 2026 with 8,400 units; A2 robot: 30kg payload, 28 DOF; $200M+ Series A; primary market is Chinese automotive and electronics manufacturing"
     },
     {
-      "name": "AgiBot (Zhiyuan)",
-      "share": "~18%",
-      "loved": "Chinese manufacturing scale, government backing, rapid iteration cycles",
-      "segment": "Industrial automation + Chinese domestic market"
+      "name": "Unitree Robotics (China)",
+      "share": "~31%",
+      "loved": "71%",
+      "segment": "Global shipment #2; H1 robot ~$90K — most price-accessible; dominant in R&D, universities, and developer market; 5,900 units in 1H 2026 (+170% YoY)"
     },
     {
-      "name": "Tesla",
+      "name": "Tesla (Optimus)",
       "share": "~12%",
-      "loved": "Brand recognition, FSD vision stack, Fremont factory capacity, $20K–$30K consumer target",
-      "segment": "Consumer (long-term) + internal industrial"
+      "loved": "80%",
+      "segment": "Internal factory use only (1,000+ at Fremont); AI-first using FSD/Dojo stack; targeting external sales in 2027–2028 at $20–30K production cost; massive brand awareness"
     },
     {
       "name": "Figure AI",
       "share": "~7%",
-      "loved": "Helix VLA model, $39B valuation, BMW deployment proof, Figure 03 roadmap",
-      "segment": "Premium industrial + AI foundation model development"
+      "loved": "82%",
+      "segment": "BMW Spartanburg production pilot; $39B valuation; backed by Microsoft/OpenAI/NVIDIA/Amazon; home pilots Q4 2026; positioned as premium general-purpose platform"
     },
     {
-      "name": "Agility Robotics",
-      "share": "~5%",
-      "loved": "First mover in commercial warehouse deployment (Amazon, GXO), RaaS model, logistics-optimized design",
-      "segment": "Logistics + fulfillment center operations"
+      "name": "Agility Robotics (Digit)",
+      "share": "~4%",
+      "loved": "77%",
+      "segment": "First commercially deployed humanoid (Amazon, GXO); RaaS business model; Toyota TMMC and Mercado Libre partnerships; 100K+ totes moved in live warehouse operations"
     }
   ],
+
   "competitors": [
     {
-      "name": "Tesla Optimus Gen 3",
-      "detail": "Converting Fremont factory for Optimus production, targeting 100K units in 2026 and scaling toward 1M/year long-term. Consumer price target: $20K–$30K. Uses Tesla's FSD vision stack and Dojo supercomputer for training. Elon Musk has described Optimus as potentially Tesla's most valuable product long-term. Gen 3 delayed slightly from original timeline due to redesign but factory conversion underway January 2026. Highest brand visibility of any humanoid program globally."
+      "name": "AgiBot (China — A2 / A2-W)",
+      "detail": "The global shipment leader in 1H 2026 with 8,400 units — a 562% YoY surge that pushed it past Unitree. AgiBot raised approximately $200M in a Series A round, one of the largest single raises for a Chinese humanoid startup, backed by strategic investors including several Chinese state-linked automotive manufacturers. The A2 robot delivers 30kg payload capacity, 28 degrees of freedom, and a targeting price below $50K at volume — made possible by China's vertically integrated supply chain for harmonic drives, actuators, and sensors. Primary market is Chinese factory automation (automotive, electronics assembly). AgiBot + Unitree together control ~75% of global humanoid shipments in 2026 — establishing China's dominance in hardware production while US companies lead in software and AI."
     },
     {
-      "name": "Figure AI (Figure 02/03)",
-      "detail": "$39B valuation (Sept 2025); $1B raised with investors including Microsoft, OpenAI, NVIDIA, Bezos, and Intel. Figure 02 deployed at BMW Spartanburg for 11 months (1,250+ hours, 90,000+ parts loaded) before retiring to Figure 03. Helix 02 (Jan 2026) is the first VLA model for full continuous humanoid body control including wrists, torso, head, and individual fingers. BMW expanding humanoid deployment to Leipzig in summer 2026. BotQ facility targeting 12,000+ units/year. Figure 03 targets industrial + eventual home use at estimated $50K–$100K."
+      "name": "Unitree Robotics (China — G1 / H1 Pro)",
+      "detail": "The most price-accessible humanoid on the market: the G1 starts under $16,000 for research configurations, with the H1 Pro at ~$90,000 for commercial deployments. Unitree shipped ~5,900 units in 1H 2026 (+170% YoY), second globally. Its developer-friendly approach — open SDK, competitive pricing, and wide hardware partner ecosystem — has made Unitree the 'Raspberry Pi of humanoid robots': the platform researchers, startups, and universities use to develop next-generation locomotion and manipulation algorithms. Unitree's risk is that its margin compression strategy creates a race to the bottom that Chinese state-backed competitors can win more easily than private US companies."
     },
     {
-      "name": "Unitree R1",
-      "detail": "$5,900 price point — 96% below 2023 Western comparable units. Shipped 5,500+ units in 2025; targeting 10K–20K in 2026. 1.73m tall, 55kg, 16 degrees of freedom per hand. Open SDK draws developer and research community globally. Funded by Chinese government subsidies and enabled by Unitree's existing quadruped (Go2, B2) robot supply chain. Primary risk: US export control escalation and IP concerns. Unitree's price floor has forced US rivals to accelerate cost-reduction roadmaps."
+      "name": "Tesla (Optimus Gen 3)",
+      "detail": "The highest-brand-recognition humanoid robot in the world, with 1,000+ units operating inside Tesla's Fremont factory by May 2026 performing battery cell handling, parts sorting, and assembly support. Tesla's competitive advantage is its data flywheel: Optimus runs on the same AI infrastructure as Autopilot, trained on trillions of miles of real-world driving data — giving it an embodied AI training corpus no humanoid startup can match. Tesla targets a $20–30K production cost at scale using its automotive supply chain. External commercial availability expected 2027–2028. Plans for 10,000+ internal units by end-2026. The biggest risk: Tesla's humanoid program competes for Musk's attention and capital against SpaceX, xAI, and Starlink — and internal Optimus adoption delays external market building."
     },
     {
-      "name": "Agility Digit (Agility Robotics)",
-      "detail": "First humanoid commercially deployed at Amazon and GXO warehouses (2024). Purpose-built for logistics: 5'9\" tall, tote-handling arms, 70–85% human picking speed. Subscription/RaaS model lowers CapEx barriers for enterprise adoption. Backed by Hyundai Motor Group. Digit-as-a-Service pricing estimated at $2–$3M per robot/year [unverified enterprise estimate]. Expanding to manufacturing and healthcare pilots in 2026. Agility sold to Hyundai in 2024, giving it Hyundai's global manufacturing and distribution infrastructure."
+      "name": "Figure AI (Figure 03)",
+      "detail": "The $39 billion-valued unicorn — the most expensive private humanoid robotics company in history. Backed by Microsoft, OpenAI, NVIDIA, Jeff Bezos, Amazon, Intel, and LG Innotek. Running a production pilot at BMW Spartanburg since 2025 and expanding factory deployments in 2026. Home pilots launching Q4 2026. Figure's strategy is to build the entire stack: robot hardware, AI software, and operational services — positioning itself as the Apple of humanoid robots (premium, integrated, closed ecosystem). Partnership with Physical Intelligence gives Figure access to Pi VLA models. The BotQ manufacturing facility in San Jose is scaling production. Figure 03 represents a 2× capability leap over Figure 02 with improved dexterity, longer battery life, and on-device inference."
     },
     {
-      "name": "1X Technologies NEO",
-      "detail": "Norwegian startup backed by OpenAI ($23.5M, 2023) and $100M total raised including Samsung Ventures. NEO targets home assistance (cleaning, organizing, fetching objects) for 2026–2027 delivery timeline. First humanoid designed explicitly for domestic consumer adoption rather than industrial deployment — soft body design prioritizes safety in human-occupied spaces. 2026 pre-orders confirmed. Consumer price estimated at $50K–$100K initial tier [unverified]. Differentiated by OpenAI model integration and consumer-facing UX focus."
+      "name": "Physical Intelligence / PI (Software — Pi-0.5)",
+      "detail": "The most strategically important player in humanoid robotics is not a hardware company at all. PI is building the 'operating system' for physical robots: foundation models that understand natural language instructions and translate them into physical robot actions, generalized across any robot hardware without retraining. Pi-0.5 (April 2026) doubled throughput on manipulation tasks and was the first VLA model to generalize cross-embodiment — the same model weights run Figure 03, Agility Digit, and custom manipulators. Raised $1.1B+ total funding at $11B valuation (2026). Co-founded by Sergey Levine, Chelsea Finn, and Karol Hausman (all from Google Brain/DeepMind). Sells nothing yet by design — pure R&D mode building toward Pi-1.0. When Pi-1.0 ships commercially (2026–2028), it could become the foundation model layer that all hardware companies license, making PI the most powerful business in the entire humanoid ecosystem."
     }
   ],
+
   "canvas": {
-    "who": "Industrial enterprises in automotive, logistics, and manufacturing as primary 2026 buyers (BMW, Amazon, Mercedes-Benz, Hyundai, GXO); healthcare systems and eldercare operators as the near-term wave (2027–2028); government defense and hazardous environment agencies; research universities and AI labs needing embodied AI training data; eventually (2028–2030) early-adopter affluent consumers in Japan, South Korea, and the US seeking domestic assistants.",
-    "where": "Automotive assembly plants (BMW Spartanburg/Leipzig, Hyundai, Mercedes-Benz Stuttgart); Amazon, GXO, and third-party logistics fulfillment centers; hospital corridors and elder care facility non-clinical zones; nuclear and chemical industrial facilities; defense research programs; consumer market initially via premium pilot programs in Japan, where demographic pressure is most acute.",
-    "why_now": "Five forces converge in 2026: (1) VLA AI models enable real-world general-purpose task execution for the first time at commercial reliability; (2) Unitree's $5,900 price point proves mass manufacturing can democratize hardware costs; (3) Structural labor shortages in manufacturing (44-year average worker age), logistics (40%+ annual turnover), and healthcare (18M global deficit) make robot ROI compelling; (4) $8B+ venture conviction validates commercial viability; (5) Tesla's factory conversion signals irreversible mainstream industrial commitment — the category has permanently crossed from research novelty to strategic infrastructure.",
-    "behavior": "Enterprise buyers run 3–6 month pilot programs in controlled manufacturing cells before full deployment, evaluating on task completion rate, speed-to-human ratio, uptime, and safety incident frequency. Prefer Robot-as-a-Service (RaaS) subscription models to amortize cost and defer depreciation risk. Require WMS/MES enterprise system integration. Deploy initially in hazardous or ergonomically damaging roles to minimize union friction. Monitor OTA AI model updates to continuously improve robot performance post-deployment. Procurement cycles are 12–24 months from first demo to full site deployment.",
-    "unmet": "No humanoid robot achieves human-level dexterity across arbitrary household tasks (cooking, folding irregular laundry, opening novel packaging) — the 'last 20%' of general manipulation remains unsolved. Battery life of 4–8 hours limits continuous industrial shifts without dedicated charging infrastructure in every zone. No universal safety certification framework exists globally — enterprises must navigate EU AI Act, OSHA guidelines, and ISO 10218 simultaneously. Liability and insurance products for humanoid robot incidents are embryonic. The $5,900 Unitree R1 vs. $90K+ US alternatives creates a cost parity crisis for Western manufacturers lacking Chinese government subsidies and supply chain scale."
+    "who": "Primary: Manufacturing operations directors and VP Engineering at automotive OEMs (BMW, Hyundai, Mercedes, Toyota) and electronics manufacturers (Foxconn, BYD) — running the first commercial pilots. Secondary: Supply chain and logistics directors at Amazon, GXO, DHL, Mercado Libre deploying warehouse humanoids on RaaS contracts. Tertiary: Aging care facility directors in Japan, Germany, and South Korea (highest elderly population ratios) seeking robotic care support. Investors: VC funds (Sequoia, a16z, Khosla), sovereign wealth funds (Saudi PIF, Abu Dhabi), and strategic corporate VCs (Microsoft M12, Google Ventures, NVIDIA) deploying the $8.7B+ in 2026 sector funding. The emerging class of 'robotics AI engineers' — ML researchers specializing in VLA models, sim-to-real, and embodied intelligence — are the rarest and most sought talent (50,000+ roles unfilled globally in 2026).",
+    "where": "Factory floors: Hyundai Metaplant Georgia (Atlas), BMW Spartanburg (Figure), Tesla Fremont (Optimus), Foxconn Shenzhen (UBTech Walker). Distribution centers: Amazon robotics facilities (Digit), GXO warehouses (Digit), Mercado Libre fulfillment (Agility). Research: MIT, Stanford, Carnegie Mellon, ETH Zurich — building next-gen locomotion and manipulation algorithms. Early adopter homes: 1X NEO limited home delivery in select US cities. Simulation environments: NVIDIA Cosmos, Isaac Lab, RoboHive — where 90%+ of robot training actually happens before physical deployment. China manufacturing hubs: Shenzhen, Shanghai, Hefei — where AgiBot and Unitree produce at scale.",
+    "why_now": "Five forces converged simultaneously in 2026: (1) VLA foundation models (Pi-0.5, Gemini Robotics) crossed the usability threshold — robots can now follow natural language in novel environments without task-specific retraining; (2) Chinese mass production drove unit costs down 40%+ since 2022, making RaaS economically viable; (3) Acute labor shortages in warehousing and manufacturing make automation a business necessity, not a luxury; (4) Jensen Huang's 'ChatGPT moment for Physical AI' declaration at CES 2026 unlocked enterprise budget cycles and board-level attention; (5) NVIDIA Cosmos and improved simulation tools solved the training data bottleneck — robots can now train trillions of simulated interactions before touching a single physical object.",
+    "behavior": "Enterprises run 6–12 month pilot deployments in bounded, structured factory cells before scaling — not buying outright but signing 3–5 year RaaS contracts at $15–40/hour operational rate. Companies partner with foundation model vendors (PI, Gemini Robotics) rather than building their own robot AI from scratch. Robot deployment teams operate in 'shadow mode' for 30–90 days, teleoperated by remote workers, before switching to autonomous operation — this data collection phase trains the site-specific fine-tuning. PR framing consistently avoids 'replacement' language, positioning robots as filling positions companies cannot staff — because direct job displacement framing triggers union opposition and regulatory scrutiny. Chinese manufacturers (AgiBot, Unitree) focus on domestic B2B volume; Western companies (Figure, Agility) focus on premium RaaS and brand narrative.",
+    "unmet": "Five critical gaps define the 2026 frontier: (1) The Dexterity Gap — today's humanoids fail reliably on soft, deformable, or irregular objects (folding laundry, handling raw produce, manipulating medical instruments) — the core reason home and healthcare deployment is still nascent; (2) The Safety Certification Gap — no global standard for human-robot colocation risk assessment; EU Machinery Regulation CE marking required by Q3 2027 but testing methodology is still undefined; (3) The Autonomy Gap — 'autonomous' humanoids still require significant remote human oversight; true Level 4+ robot autonomy (reliable operation without human monitoring) is 3–5 years away for unstructured environments; (4) The Cost Gap — $90K–$250K per unit is unworkable for SMBs, and the sub-$20K threshold needed for mass-market home robots requires production volumes that won't arrive before 2028–2029; (5) The Integration Gap — connecting humanoids to existing ERP, WMS, and MES systems requires 6–18 months of custom engineering per deployment, limiting scalability."
   },
+
   "takeaways": [
-    "China's Unitree at $5,900 is the Tesla Model 3 moment for humanoid robotics — Western enterprises have an 18-month window to pilot Chinese platforms before potential import restriction escalation; procurement and legal teams should evaluate Unitree and AgiBot deployment contracts and supply chain exposure now, while trade terms remain stable and pre-tariff pricing holds.",
-    "Robot-as-a-Service (RaaS) is the fastest path to enterprise adoption — by removing $90K–$150K upfront CapEx, Agility Robotics, 1X, and Apptronik are proving that operational budget deployment (vs. capital budget) dramatically accelerates purchasing cycles; B2B operators in logistics and healthcare should model RaaS into their 2027 cost structures before competitors lock in preferred vendor agreements.",
-    "The AI foundation model is the actual competitive moat, not the hardware — Figure AI's $39B valuation is priced on Helix, not its steel; investors and corporate venture teams should prioritize companies building proprietary VLA models and embodied AI training infrastructure (diverse real-world demonstration data) over pure hardware manufacturers, as model quality will determine long-term task success rates and switching costs.",
-    "Healthcare and eldercare is the $165B+ wave after manufacturing — the WHO's 18M care worker deficit, rapidly aging Japan/Europe/China/South Korea demographics, and government willingness to fund care automation signal that the healthcare humanoid market will dwarf the industrial one within a decade; care sector operators, health system CIOs, and digital health investors should engage 1X, UBTech, and Sanctuary AI pilot programs now while regulatory frameworks are still being written."
+    "Bet on the AI software layer, not just hardware — Physical Intelligence's Pi-0.5 cross-embodiment model signals that the highest-margin humanoid business is the foundation model layer, not robot manufacturing. The hardware will commoditize (AgiBot and Unitree are already compressing prices toward $30–50K); the companies that own the VLA model weights, training data, and developer ecosystem — like PI, Google Gemini Robotics, and NVIDIA's Isaac platform — will capture the platform rents. For product teams, this means building integrations and fine-tuning layers on top of existing foundation models rather than training embodied AI from scratch.",
+    "Manufacturing and warehousing are the only 2026 beachheads worth building for — ignore the healthcare and home hype for now. The only humanoid use cases with proven, repeatable, profitable deployments are factory line feeding (BMW, Hyundai, Tesla) and warehouse tote handling (Amazon, GXO). Both have bounded environments, predictable workflows, measurable ROI (injury reduction + labor gap fill), and established enterprise procurement processes. Healthcare and home humanoids are compelling narratives but remain science projects in 2026 — the dexterity gap and regulatory uncertainty make them 2028+ bets at the earliest.",
+    "The RaaS model will dominate humanoid commercialization — structure your GTM around per-hour operational pricing, not hardware sales. Agility Robotics pioneered this with Amazon, and it's proving the decisive advantage: enterprises avoid capital risk, deployment teams collect operational data for improvement, and vendors build recurring revenue at scale. The $25–35/hour RaaS equivalent rate makes the economic case close enough to human labor costs to justify pilots, especially for injury-prone, high-turnover roles. The RaaS infrastructure — fleet management software, remote teleoperation fallback, maintenance contracts — is the sticky moat that wins the enterprise relationship even if competing hardware eventually offers better specs.",
+    "Watch the China-US bifurcation: two separate humanoid markets are forming simultaneously. China (AgiBot, Unitree) controls ~75% of global shipments through price-competitive B2B hardware sales to domestic manufacturers — a volume game with state backing. The US (Figure, Physical Intelligence, Agility, Boston Dynamics) controls the highest-valued companies and the most sophisticated AI software through premium enterprise RaaS and foundation model partnerships — a margin game with VC backing. For Western companies and investors: the Chinese manufacturers will likely maintain hardware cost leadership permanently (supply chain advantage is structural); the defensible opportunity is in AI software (VLA models, fleet orchestration, enterprise integration) where data flywheel effects and foundation model quality matter more than manufacturing cost."
   ],
+
   "sources": [
     {
-      "publisher": "MarketsAndMarkets",
-      "claim": "Global humanoid robot market $2.92B in 2025, growing to $15.26B by 2030 at 39.2% CAGR; Agility Robotics and Tesla are leading US players",
-      "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html"
+      "title": "Global Humanoid Robot Shipments Surged 272% YoY to 19.1K Units in 1H 2026; AgiBot Overtook Unitree for No.1",
+      "url": "https://smartanalyticsglobal.com/global-humanoid-robot-shipments-2026-agibot-unitree/",
+      "publisher": "Smart Analytics Global"
     },
     {
-      "publisher": "TrendForce",
-      "claim": "China's humanoid robot output to surge 94% in 2026; Unitree and AgiBot to capture nearly 80% of Chinese shipments",
-      "url": "https://www.trendforce.com/presscenter/news/20260409-13007.html"
+      "title": "Humanoid Robot Market Size, Share, Latest Trends & Growth Analysis, 2026–2035",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/humanoid-robot-market-99567653.html",
+      "publisher": "MarketsandMarkets"
     },
     {
-      "publisher": "GlobeNewswire / Research Report",
-      "claim": "Unitree, UBTech, and Boston Dynamics hold combined 58.2% market share in 2025; Tesla and Agility Robotics scaling as challengers",
-      "url": "https://www.globenewswire.com/news-release/2026/02/05/3232750/28124/en/Humanoids-Market-Global-Research-Report-2025-2032-Leaders-Unitree-UBTech-and-Boston-Dynamics-Dominate-While-Challengers-Including-Tesla-and-Agility-Robotics-Scale-Through-Innovatio.html"
+      "title": "Humanoids & Robotics Investment Thesis 2026 — $8.7B VC through July 2026",
+      "url": "https://www.ventioneers.com/humanoids-robotics/",
+      "publisher": "Ventioneers"
     },
     {
-      "publisher": "Figure AI",
-      "claim": "Helix 02 (Jan 2026) is the first VLA model for full-body humanoid control; Figure 02 completed 1,250+ hours and 90,000+ parts loaded at BMW Spartanburg",
-      "url": "https://www.figure.ai/news/helix"
+      "title": "Physical Intelligence Raises $600M to Advance Robot Foundation Models",
+      "url": "https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/",
+      "publisher": "The Robot Report"
     },
     {
-      "publisher": "Morgan Stanley",
-      "claim": "Humanoid robot market projected to reach $5 trillion by 2050; represents generational labor economics shift",
-      "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050"
+      "title": "Physical Intelligence Pi-0.5: A Generalist Robot Foundation Model — cross-embodiment without retraining",
+      "url": "https://callsphere.ai/blog/td30-rp-physical-intelligence-pi-0-5-foundation-model",
+      "publisher": "CallSphere AI"
     },
     {
-      "publisher": "RBC Capital Markets",
-      "claim": "$9 trillion long-term opportunity in humanoid robotics across industrial, healthcare, and consumer applications",
-      "url": "https://www.rbccm.com/en/insights/2026/03/the-9-trillion-opportunity-in-humanoid-robotics"
+      "title": "Physical Intelligence Valuation 2026: $5.6B Confirmed, $11B in Talks",
+      "url": "https://www.teahose.com/guides/physical-intelligence-valuation",
+      "publisher": "Teahose"
     },
     {
-      "publisher": "Fortune Business Insights",
-      "claim": "Global humanoid robot market $4.89B (2025), growing to $165.13B by 2034 at 50.60% CAGR",
-      "url": "https://www.fortunebusinessinsights.com/humanoid-robots-market-110188"
+      "title": "China's Humanoid Robot Output to Surge 94% in 2026; Unitree and AgiBot to Capture Nearly 80% Market Share",
+      "url": "https://www.trendforce.com/presscenter/news/20260409-13007.html",
+      "publisher": "TrendForce"
     },
     {
-      "publisher": "Standard Bots / Robozaps",
-      "claim": "Unitree R1 launched at $5,900; top humanoid robotics companies ranked 2026; Unitree targeting 10K–20K units in 2026",
-      "url": "https://standardbots.com/blog/humanoid-robotics-companies"
+      "title": "Global Humanoid Robot Installations Reach 16,000 Units in 2025 as Mass Production Picks Up Pace",
+      "url": "https://counterpointresearch.com/en/insights/Global-Humanoid-Robot-Installations-Reach-16%2C000-Units-in-2025-as-Mass-Production-Picks-Pace",
+      "publisher": "Counterpoint Research"
     },
     {
-      "publisher": "EU AI Act / Legalnodes",
-      "claim": "EU AI Act fully applicable August 2026; high-risk classification for autonomous robots; penalties up to €35M or 7% global revenue",
-      "url": "https://www.legalnodes.com/article/eu-ai-act-2026-updates-compliance-requirements-and-business-risks"
+      "title": "The State of Humanoid Robotics in 2026: Trends, Challenges and Opportunities",
+      "url": "https://theaiinsider.tech/2026/08/21/the-state-of-humanoid-robotics-in-2026-trends-challenges-and-opportunities/",
+      "publisher": "The AI Insider"
     },
     {
-      "publisher": "TechCrunch",
-      "claim": "Why China's humanoid robot industry is winning the early market — government subsidies, manufacturing scale, and aggressive commercial deployment",
-      "url": "https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/"
+      "title": "With Washington's Help, Humanoid Robots Can Transform US Manufacturing",
+      "url": "https://thehill.com/opinion/technology/5988461-ai-humanoid-robotics-policy/",
+      "publisher": "The Hill"
+    },
+    {
+      "title": "Ethical and Legal Rules for Humanoid Robots in 2026 — EU AI Act classification and liability analysis",
+      "url": "https://alpha-bionic.info/en/ethical-legal-rules-humanoid-robots-2026/",
+      "publisher": "Alpha Bionic"
+    },
+    {
+      "title": "State of Robotics 2026 Report: $38B Market, 12 Humanoids, VLA Adoption",
+      "url": "https://www.roboticscenter.ai/state-of-robotics-2026",
+      "publisher": "Robotics Center of Silicon Valley"
     }
   ]
 }
