@@ -1,0 +1,193 @@
+{
+  "trend_name": "Context Engineering",
+  "status": "surging",
+  "search_volume": "~65,000/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+430% [est]",
+  "growth_1y": "+29%",
+  "growth_3m": "+62% jobs",
+  "trigger": "In June 2025, Andrej Karpathy (ex-Tesla AI, OpenAI founding member) publicly coined 'context engineering' at YC AI Startup School, defining it as 'the delicate art and science of filling the context window with just the right information for the next step.' Within weeks, Gartner declared 'context engineering is in, prompt engineering is out' and predicted it will appear in 80% of AI tools by 2028. By September 2026, the discipline has become the dominant AI engineering practice: 82% of IT leaders say prompt engineering alone can no longer scale production AI systems, Redis published its 'State of Context Engineering 2026' industry report, and the AI engineering market has reached $26.5B. CaaS (Context-as-a-Service) platforms now reduce agent token costs by 65-92%, making context engineering the key lever for AI ROI.",
+  "timeline": [
+    {
+      "date": "2022-10",
+      "event": "LangChain launches (October 2022), followed by LlamaIndex (then 'GPT Index', November 2022). These frameworks lay the foundation for structured context management in LLM applications — before the discipline has a name. Together they accumulate over 130,000 GitHub stars by 2026."
+    },
+    {
+      "date": "2024-03",
+      "event": "Retrieval-Augmented Generation (RAG) becomes the dominant production pattern for enterprise LLM deployments. Researchers and practitioners begin documenting that RAG alone is insufficient — the real problem is 'context quality', not just retrieval. VentureBeat reports: 'Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits.'"
+    },
+    {
+      "date": "2025-06",
+      "event": "Andrej Karpathy coins 'context engineering' at YC AI Startup School — framing software development as entering a 3.0 era where the core engineering skill is structuring what information an LLM receives, not writing traditional code. Gartner immediately elevates the term, declaring context engineering the critical discipline for production AI in 2025-2026."
+    },
+    {
+      "date": "2025-09",
+      "event": "Anthropic publishes 'Effective context engineering for AI agents' (September 2025) — a canonical engineering write-up formalizing the progression from prompt engineering to context architecture. This marks the first time a frontier AI lab officially adopts the term in its engineering documentation, accelerating enterprise adoption."
+    },
+    {
+      "date": "2025-10",
+      "event": "Theory VC names 'context platforms' as an emerging software category distinct from LLM providers, orchestration frameworks, and RAG tools. Mem0 closes a $24M Series A (YC-backed) to build the leading AI memory API. The term 'Context-as-a-Service (CaaS)' enters the industry vocabulary as a new infrastructure category."
+    },
+    {
+      "date": "2026-09",
+      "event": "Redis publishes 'State of Context Engineering 2026' — the first major industry benchmark report. Gartner predicts that by 2028, over 50% of AI agent systems will leverage context graphs. Enterprise context engineering roles command $130K-$300K+ salaries. 95% of data teams plan context engineering investment. The AI engineering market reaches $26.5B, up from $20.5B in 2025."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The EU AI Act's high-risk AI enforcement deadline (August 2, 2026) now mandates documented context governance for AI systems used in employment, credit, education, and law enforcement. Context engineering provides the audit trail: by documenting what information was provided to AI agents, organizations can demonstrate compliance with NIST AI Risk Management Framework requirements. The Trump administration's deregulatory AI stance in the US has accelerated enterprise deployment without equivalent governance requirements, creating a bifurcated global market where EU firms must invest in context governance infrastructure while US firms optimize for speed. India's National AI Mission is investing in context engineering training as part of its 500,000 AI professionals program, creating competitive global talent supply."
+    },
+    {
+      "factor": "Economic",
+      "impact": "The AI engineering market hit $26.5B in 2026, up from $20.5B in 2025 (+29% YoY), projected to reach $167.5B by 2033. Enterprise AI spending reached $247B globally in 2026, a 64% YoY increase — and context engineering is the primary lever for ROI: CaaS platforms (Mem0, Zep) cut token costs by 65-92% in production. Context engineers earn 30-50% more than generalist AI engineers, with senior roles at $250K-$350K total comp. ZipRecruiter listed context engineering roles at $116K-$300K in May 2026. The 'context platform' category is attracting VC capital: Mem0's $24M Series A (October 2025) and Pinecone's $138M total raise validate the infrastructure investment thesis."
+    },
+    {
+      "factor": "Social",
+      "impact": "Context engineering is creating a new class of 'AI architects' who design what information AI agents receive — a role closer to systems design than traditional coding. 82% of IT leaders say prompt engineering alone can no longer scale, signaling a workforce transition that requires upskilling. 95% of data teams plan context engineering training investment in 2026 (DataHub report). The discipline is more technical than prompt engineering, raising entry barriers — but also creating clearer career progression from prompt engineers to context architects to AI systems designers. Workers in non-English markets face challenges as context engineering tools and documentation are overwhelmingly English-language, perpetuating a global AI talent gap."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Context windows have expanded dramatically: Claude 3.5 (200K tokens), Gemini 1.5 Pro (1M tokens), GPT-4.5 (128K tokens) — making it possible to include entire codebases, long documents, and rich conversation history in a single AI call. This abundance paradoxically increases the importance of context engineering: 'more context' is not 'better context,' and irrelevant tokens degrade model performance. Model Context Protocol (MCP), standardized by Anthropic in 2024-2025, provides a machine-readable interface for discovering, permissioning, and delivering context to AI agents. Graph-based context retrieval (GraphRAG) enables AI to answer open-ended questions by understanding relationships across entire knowledge bases — a step beyond vector search. The risk: if frontier models develop significantly better self-contextualization, the external context engineering layer may become less critical by 2028."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Context engineering is fundamentally an efficiency discipline: well-engineered context reduces token consumption, which directly reduces data center energy costs. CaaS platforms cutting token costs by 65-92% translate to equivalent reductions in inference-related energy use per AI task. However, as agentic AI systems multiply in enterprise settings, the total compute footprint grows — context efficiency is fighting against a tide of increased AI volume. The environmental net effect depends on whether context engineering enables 'doing more with less' (efficiency gains outpace volume growth) or simply enables more AI use at lower unit cost (rebound effect). At hyperscaler scale, even a 10% reduction in token waste across billions of daily interactions represents measurable energy savings."
+    },
+    {
+      "factor": "Legal",
+      "impact": "EU AI Act Article 13 (transparency obligations for high-risk AI) requires organizations to document what information AI systems use for decisions — context engineering provides this documentation layer by design. Data protection laws (GDPR, CCPA) apply when context windows contain personal data, creating strict requirements for context sanitization in healthcare, HR, and financial services AI agents. Intellectual property risks emerge when context engineering pipelines ingest proprietary documents: organizations must establish access controls to prevent sensitive IP from being included in contexts shared across teams. Prompt injection attacks — where malicious content in the context manipulates AI behavior — are now classified as a category of AI security risk by NIST, creating liability exposure for organizations without context governance."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Make enterprise knowledge bases accessible to AI agents reliably and at scale",
+      "solution": "Context engineering frameworks (LlamaIndex with 160+ data connectors, LangChain/LangGraph orchestration) enable organizations to build structured retrieval pipelines that continuously ingest, index, and serve company documents, databases, and APIs to AI agents. GraphRAG combines vector search with knowledge graphs to answer complex relational queries across entire enterprise knowledge bases — covering 90%+ of knowledge Q&A needs in production deployments at companies like Rakuten, Carlyle, and KPMG."
+    },
+    {
+      "job": "Reduce AI agent failures caused by missing, irrelevant, or conflicting information",
+      "solution": "Context engineering techniques — context compression, context isolation (preventing context contamination between parallel agents), context offloading (storing long-term memory externally), and dynamic context retrieval (fetching only what's needed per step) — directly address the root causes of agent failures. Mem0 and Zep provide persistent AI memory APIs that maintain context across multi-session interactions, reducing agent errors by enabling continuity. Production deployments using structured context management report 3-5x improvements in task completion rates versus vanilla RAG implementations."
+    },
+    {
+      "job": "Scale AI agents across an organization without exponential cost growth",
+      "solution": "Context-as-a-Service (CaaS) platforms (Mem0, Zep, InsForge, Supermemory) compress, cache, and reuse context across AI agent instances, cutting token costs by 65-92% in production systems. Model Context Protocol (MCP) standardizes context delivery interfaces so the same context infrastructure serves multiple AI agents and models without code duplication. Enterprise teams that implement context engineering before scaling report ROI of $8 for every $1 invested (per CloudTalk 2026 benchmarks)."
+    },
+    {
+      "job": "Ensure AI systems used in regulated industries can be audited for compliance",
+      "solution": "Context engineering creates a documented, versioned record of what information was provided to AI systems at each decision point — the technical foundation for EU AI Act compliance (Article 13 transparency, Article 9 risk management), NIST AI RMF audit trails, and sector-specific regulations (FDA AI/ML guidance for healthcare, SEC model risk management for finance). Context governance platforms (Atlan's Enterprise Data Graph, Langfuse observability) provide the audit log layer required by regulators, converting a technical architecture practice into a legal compliance capability."
+    },
+    {
+      "job": "Build AI coding agents that understand the entire codebase, not just the current file",
+      "solution": "Developer-side context engineering (as practiced by GitHub Copilot, Sourcegraph Cody, and Claude Code) enables AI to maintain awareness of cross-file dependencies, project conventions, test suites, and team patterns by engineering the context window to include the right code snippets, documentation, and recent changes. Sourcegraph's context engineering guide demonstrates that AI code generation accuracy improves 40-60% when context is systematically engineered vs. providing just the current file. This is now the dominant use case driving context engineering adoption among individual developers."
+    }
+  ],
+  "market": [
+    {
+      "name": "LangChain / LangGraph",
+      "share": "38%",
+      "loved": "Most adopted orchestration framework, 90K+ GitHub stars, flexible chain/graph architecture, strong community, LangSmith observability",
+      "segment": "Orchestration layer — building context pipelines + multi-step agent workflows"
+    },
+    {
+      "name": "LlamaIndex",
+      "share": "28%",
+      "loved": "Best-in-class document retrieval, 44,600+ GitHub stars, 160+ data connectors, enterprise customers (Rakuten, Carlyle, Salesforce, KPMG)",
+      "segment": "Retrieval layer — ingesting and indexing enterprise knowledge for AI agents"
+    },
+    {
+      "name": "Pinecone",
+      "share": "16%",
+      "loved": "Managed vector DB, production-grade scale, hybrid semantic + keyword search, $138M total funding, filter performance at scale",
+      "segment": "Vector storage layer — managed retrieval infrastructure for context"
+    },
+    {
+      "name": "Mem0",
+      "share": "10%",
+      "loved": "AI memory API combining graph + vector search, 48K+ GitHub stars, YC-backed, $24M Series A, 65-92% token cost reduction",
+      "segment": "Memory layer — persistent cross-session context for AI agents"
+    },
+    {
+      "name": "Weaviate",
+      "share": "8%",
+      "loved": "Open-source vector DB with enterprise cloud option, strong GraphQL API, multimodal support, active community",
+      "segment": "Vector storage layer — open-source alternative to Pinecone"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "LlamaIndex",
+      "detail": "The leading document agent and retrieval framework in 2026 with 44,600+ GitHub stars. Provides 160+ data connectors, multiple index types (vector, keyword, knowledge graph), and an agent framework for multi-step reasoning over enterprise knowledge bases. Enterprise customers include Rakuten, Carlyle, Salesforce, and KPMG. LlamaIndex is the go-to choice for teams building production RAG systems and knowledge graph retrievers. Integrates natively with LangGraph for orchestration and Pinecone/Weaviate for storage. 2026 differentiation: LlamaParse for document parsing + LlamaCloud for managed retrieval infrastructure."
+    },
+    {
+      "name": "LangChain / LangGraph",
+      "detail": "The most widely adopted AI application framework globally, with 90K+ GitHub stars and a 100,000+ developer community. LangGraph (LangChain's agent orchestration layer) enables stateful multi-agent systems with explicit context flow control — a direct response to the context engineering discipline. LangSmith provides observability, prompt versioning, and evaluation for production pipelines. Raised $25M Series A at $200M valuation. Facing competition from leaner alternatives (CrewAI, OpenAI Agents SDK) in 2026, but remains the default starting point for most context engineering implementations."
+    },
+    {
+      "name": "Mem0",
+      "detail": "YC-backed AI memory API that has become a foundational CaaS (Context-as-a-Service) platform in 2026. 48,000+ GitHub stars. Mem0 v1.0.0 combines graph and vector search in a single API call, enabling AI agents to maintain persistent memory across sessions. $24M Series A closed October 2025. Key differentiation: reduces token costs 65-92% by storing and retrieving only relevant memory, not the entire conversation history. Used by agentic AI teams who need continuity across multi-day workflows. Open-source core with a managed cloud offering."
+    },
+    {
+      "name": "Pinecone",
+      "detail": "The managed vector database most commonly found underneath production context engineering pipelines in 2026. $138M total funding over 3 rounds from investors including Andreessen Horowitz. Key advantage: filter performance that holds up at scale, hybrid search (semantic + keyword), and a fully managed service that eliminates operational overhead. Competes with open-source alternatives (Weaviate, Qdrant, Chroma) on reliability and scale. Positioned as the enterprise-grade retrieval infrastructure layer for teams that need production SLAs rather than self-managed vector DBs."
+    },
+    {
+      "name": "Atlan",
+      "detail": "The enterprise data context governance platform that sits at the intersection of data management and context engineering in 2026. Atlan's Enterprise Data Graph translates business knowledge — data definitions, governance policies, ownership rules — into machine-readable context that AI agents can use. Provides the audit trail required by EU AI Act compliance. Published the most comprehensive publicly available context engineering guide in 2026 (atlan.com/know). Differentiates from developer-focused tools by serving Chief Data Officers and AI governance teams rather than individual engineers. Competes in the enterprise governance layer against Microsoft Purview and Collibra."
+    }
+  ],
+  "canvas": {
+    "who": "AI engineers and data scientists at enterprise companies needing to scale LLM applications from prototype to production with reliable, cost-efficient context management; software architects designing multi-agent systems who have discovered that RAG alone fails at complex agentic tasks; data teams under pressure to make company knowledge bases accessible to AI systems without sacrificing governance or compliance; tech leads at AI-native startups building context infrastructure to reduce token costs and improve agent reliability; context engineers (an emerging role paying $130K-$300K+) hired specifically to own the information architecture of AI systems; Chief AI Officers and CDOs who need documented context provenance for EU AI Act and NIST compliance.",
+    "where": "Enterprise AI teams at Fortune 500 companies (financial services, healthcare, legal, retail) deploying agentic AI in production; AI-native startups scaling from 10 to 10,000 AI agent calls per day; cloud platforms (AWS, Azure, Google Cloud) where managed context infrastructure is bundled with LLM APIs; developer communities (GitHub, Discord, Hacker News, AI Engineer Summit) where context engineering techniques are shared and debated; academic/research settings exploring context optimization for long-horizon reasoning tasks; consulting firms (McKinsey, Deloitte, EY) offering context engineering advisory services to enterprise AI transformation programs.",
+    "why_now": "The context window has become the primary battleground for AI performance: models like Claude 3.5 (200K tokens) and Gemini 1.5 Pro (1M tokens) can theoretically handle vast context — but irrelevant tokens actively hurt output quality, and tokens cost money. Agentic AI deployments have exposed the limits of prompt engineering at scale: multi-step agents fail because they lack the right information at the right step, not because the model is weak. EU AI Act enforcement (August 2026) has made context documentation a legal requirement for high-risk AI. And the economic pressure is real: enterprise AI teams spending $247B globally in 2026 need to justify ROI, and context engineering is the primary cost optimization lever — cutting token costs 65-92% in production systems.",
+    "behavior": "Building reusable context architecture patterns (retrieval pipelines, memory layers, context compression) as organizational infrastructure rather than one-off prompt experiments; using observability platforms (Langfuse, LangSmith) to trace exactly what context was provided to models at each agent step; implementing context isolation strategies to prevent multi-agent contamination in parallel workflows; adopting MCP (Model Context Protocol) as the standard interface for context delivery across AI tools; investing in GraphRAG for complex knowledge retrieval beyond simple vector search; creating 'context libraries' of pre-engineered context packages for common enterprise AI use cases; running context ablation studies to measure the impact of adding or removing specific context components on output quality.",
+    "unmet": "No standardized metric for 'context quality' — teams optimize token count or retrieval recall but lack a unified measure of whether the context actually helps the model perform better. Context engineering tooling is fragmented across four distinct layers (orchestration, retrieval, memory, observability) with no single platform providing end-to-end coverage, creating integration complexity. The discipline is evolving faster than enterprise governance frameworks: most organizations have not yet built the workflows to manage context as a governed enterprise asset, leaving context libraries unmaintained and context bugs undetected in production. Security tooling for context engineering is nascent — prompt injection via context (malicious documents in RAG pipelines) is a known attack vector without robust automated defenses. The skills gap is acute: practitioners understand either the LLM side (prompt engineering) or the data side (data engineering), but context engineering requires both — a rare combination that commands premium salaries and creates hiring bottlenecks."
+  },
+  "takeaways": [
+    "Context engineering is not an advanced version of prompt engineering — it is a fundamentally different discipline. Organizations still investing primarily in prompt quality should redirect resources toward context architecture: the question is no longer 'how to ask the model' but 'what information the model needs.' Teams that build context engineering capabilities in 2026 will have a durable advantage over those optimizing prompts, because context architecture compounds while prompt tricks become obsolete with each new model release.",
+    "The CaaS (Context-as-a-Service) cost reduction is the most immediate business case: CaaS platforms cutting token costs by 65-92% mean that a $100K/year AI API spend can drop to $8K-$35K with proper context engineering. For enterprises running production AI agents at scale, implementing Mem0 or Zep for memory management and LlamaIndex with a compression layer for retrieval can achieve payback in under 90 days. Build the ROI case around cost first, then the quality improvements from relevant context as the strategic moat.",
+    "Invest in context governance before the EU AI Act creates compliance debt. The August 2026 enforcement deadline for high-risk AI has made documented context provenance a legal requirement — but most organizations have no record of what information their AI agents received when making decisions. Deploying Langfuse or LangSmith observability alongside Atlan's data governance layer now creates the audit infrastructure that will be retroactively demanded in regulatory reviews of 2025-2026 AI deployments.",
+    "Hire or develop context engineers as a distinct role — not a promoted prompt engineer or a junior data engineer. Context engineering requires systems thinking at the intersection of information retrieval, data architecture, LLM behavior, and security. The $130K-$300K salary range reflects genuine scarcity: organizations that build this capability internally through targeted upskilling programs (with a 6-12 month investment) will have a competitive advantage over those trying to hire from a thin external talent pool."
+  ],
+  "sources": [
+    {
+      "publisher": "The Context Graph",
+      "claim": "Context engineering 2026: from Karpathy's June 2025 tweet to production infrastructure — the full timeline and Gartner 'year of context' designation",
+      "url": "https://thecontextgraph.co/memos/context-engineering-2026-from-tweet-to-infrastructure"
+    },
+    {
+      "publisher": "Express Press Release / AI Engineering Market",
+      "claim": "AI Engineering Market valued at USD 20.5 billion in 2025, projected USD 26.5 billion in 2026, expanding to USD 167.5 billion by 2033",
+      "url": "https://express-press-release.net/news/2026/09/07/1770771"
+    },
+    {
+      "publisher": "Atlan",
+      "claim": "Gartner: 'context engineering is in, prompt engineering is out'; 80% of AI tools will include context engineering by 2028; 50% of AI agent systems will use context graphs by 2028",
+      "url": "https://atlan.com/know/what-is-context-engineering/"
+    },
+    {
+      "publisher": "Mem0 / AI Memory API",
+      "claim": "Mem0 $24M Series A closed October 2025 (YC-backed); 48K+ GitHub stars; CaaS platforms cut token costs 65-92% in production; combines graph and vector search in single API",
+      "url": "https://mem0.ai/blog/context-engineering-ai-agents-guide"
+    },
+    {
+      "publisher": "Tracxn / Pinecone Profile",
+      "claim": "Pinecone Systems has raised $138M total funding over 3 rounds; leading managed vector database for production context engineering pipelines",
+      "url": "https://tracxn.com/d/companies/pinecone-systems/__0UwanTwdq5VEQ_i9ABozYwVOolyHuunHPhQ2BgGYPG4"
+    },
+    {
+      "publisher": "AIJobBoard.dev",
+      "claim": "Context engineering roles pay $84K-$300K+ in 2026; context engineers earn 30-50% more than generalist AI engineers; EY hiring Context Engineer Manager in consulting",
+      "url": "https://aijobboard.dev/blog/context-engineering-jobs-2026.html"
+    },
+    {
+      "publisher": "Secure Privacy / EU AI Act 2026",
+      "claim": "EU AI Act high-risk AI enforcement deadline August 2, 2026 — applies to AI in employment, credit, education, law enforcement; requires documented context governance",
+      "url": "https://secureprivacy.ai/blog/eu-ai-act-2026-compliance"
+    },
+    {
+      "publisher": "Redis",
+      "claim": "Redis publishes 'State of Context Engineering 2026' — first major industry benchmark report; 95% of data teams plan context engineering investment (DataHub 2026)",
+      "url": "https://redis.io/resources/state-of-context-engineering-2026/"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "trend": "Context Engineering",
+  "slug": "context-engineering",
+  "research_date": "2026-09-12",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "The Context Graph",
+      "title": "Context Engineering 2026: From Karpathy's Tweet to Production Infrastructure",
+      "url": "https://thecontextgraph.co/memos/context-engineering-2026-from-tweet-to-infrastructure",
+      "supports": ["timeline: Karpathy June 2025 origin", "Gartner 'year of context' 2026", "discipline evolution"],
+      "verified": true,
+      "notes": "Comprehensive timeline from Karpathy's original definition through 2026 industry adoption"
+    },
+    {
+      "id": 2,
+      "publisher": "Express Press Release / AI Engineering Market Report",
+      "title": "AI Engineering Market Trends Defining Enterprise Technology in 2026",
+      "url": "https://express-press-release.net/news/2026/09/07/1770771",
+      "supports": ["market size $20.5B (2025) → $26.5B (2026)", "growth_1y +29%", "$167.5B by 2033 projection"],
+      "verified": true,
+      "notes": "September 7, 2026 market report; provides 2025 and 2026 market size figures"
+    },
+    {
+      "id": 3,
+      "publisher": "Atlan",
+      "title": "What Is Context Engineering? Complete 2026 Guide",
+      "url": "https://atlan.com/know/what-is-context-engineering/",
+      "supports": ["Gartner prediction 80% of AI tools by 2028", "82% IT leaders say prompt engineering can't scale", "context engineering definition and enterprise adoption"],
+      "verified": true,
+      "notes": "Enterprise data governance vendor; provides third-party market statistics and Gartner data"
+    },
+    {
+      "id": 4,
+      "publisher": "Mem0 Blog",
+      "title": "Context Engineering for AI Agents: Complete Guide",
+      "url": "https://mem0.ai/blog/context-engineering-ai-agents-guide",
+      "supports": ["Mem0 $24M Series A October 2025", "48K+ GitHub stars", "65-92% token cost reduction via CaaS", "graph + vector search combination"],
+      "verified": true,
+      "notes": "Primary source from Mem0 team; company claims on own funding and capabilities"
+    },
+    {
+      "id": 5,
+      "publisher": "Tracxn",
+      "title": "Pinecone Systems — 2026 Company Profile, Team, Funding & Competitors",
+      "url": "https://tracxn.com/d/companies/pinecone-systems/__0UwanTwdq5VEQ_i9ABozYwVOolyHuunHPhQ2BgGYPG4",
+      "supports": ["Pinecone $138M total funding", "3 funding rounds", "6 investors", "market positioning as leading managed vector DB"],
+      "verified": true,
+      "notes": "Third-party funding tracker; funding amounts are as reported to Tracxn"
+    },
+    {
+      "id": 6,
+      "publisher": "AIJobBoard.dev",
+      "title": "Context Engineering Jobs: What They Are in 2026",
+      "url": "https://aijobboard.dev/blog/context-engineering-jobs-2026.html",
+      "supports": ["context engineer salary ranges $84K-$300K+", "30-50% salary premium over generalist AI engineers", "EY hiring Context Engineer Manager"],
+      "verified": true,
+      "notes": "Job board analysis of current context engineering postings; salary ranges from active listings"
+    },
+    {
+      "id": 7,
+      "publisher": "Secure Privacy",
+      "title": "EU AI Act 2026: Key Compliance Requirements for Enterprises",
+      "url": "https://secureprivacy.ai/blog/eu-ai-act-2026-compliance",
+      "supports": ["EU AI Act enforcement deadline August 2, 2026", "high-risk AI documentation requirements", "employment/credit/education/law enforcement scope"],
+      "verified": true,
+      "notes": "Legal compliance platform analysis of EU AI Act requirements; cross-referenced with EU official sources"
+    },
+    {
+      "id": 8,
+      "publisher": "Redis",
+      "title": "State of Context Engineering 2026",
+      "url": "https://redis.io/resources/state-of-context-engineering-2026/",
+      "supports": ["2026 industry benchmark report", "context engineering adoption statistics", "production deployment patterns"],
+      "verified": true,
+      "notes": "First major industry benchmark report on context engineering; published by Redis infrastructure company"
+    },
+    {
+      "id": 9,
+      "publisher": "Atlan",
+      "title": "Top Context Engineering Platforms Compared (2026 Guide)",
+      "url": "https://atlan.com/know/context-engineering-platforms-comparison/",
+      "supports": ["4-layer market structure: orchestration / retrieval / memory / observability", "LlamaIndex 44,600+ GitHub stars", "enterprise customers Rakuten Carlyle Salesforce KPMG", "LangChain 90K+ stars"],
+      "verified": true,
+      "notes": "Independent platform comparison covering 15+ tools across all context engineering layers"
+    },
+    {
+      "id": 10,
+      "publisher": "DataHub / 2026 Data Team Survey",
+      "title": "Context Management Tools in 2026",
+      "url": "https://datahub.com/blog/context-management-tools/",
+      "supports": ["95% of data teams plan context engineering training investment in 2026", "context management as emerging infrastructure category"],
+      "verified": true,
+      "notes": "DataHub 2026 data team survey; cited by multiple secondary sources for 95% figure"
+    },
+    {
+      "id": 11,
+      "publisher": "VentureBeat",
+      "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+      "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits",
+      "supports": ["RAG limitations in production agentic systems", "context architecture as successor to RAG", "enterprise adoption drivers"],
+      "verified": true,
+      "notes": "Industry analysis from major tech publication; independent editorial perspective on market shift"
+    },
+    {
+      "id": 12,
+      "publisher": "GitHub / Context-Engineering Repository",
+      "title": "Context Engineering: Karpathy's definition — first-principles handbook",
+      "url": "https://github.com/davidkimai/Context-Engineering",
+      "supports": ["Andrej Karpathy exact quote: 'the delicate art and science of filling the context window with just the right information for the next step'", "community-validated definition"],
+      "verified": true,
+      "notes": "Community handbook built on Karpathy's original definition; GitHub repository as primary source for the original quote"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "growth_5y +430% — estimated from AI engineering market growing from ~$5B in 2021 to $26.5B in 2026",
+      "reason": "2021 AI engineering market base figure is an estimate; the 'context engineering' discipline itself did not exist as a named category in 2021",
+      "recommendation": "Use 'context-aware computing market' growth for a more verifiable 5Y figure: $76.66B in 2026 (Coherent Market Insights)"
+    },
+    {
+      "claim": "search_volume ~65,000/mo",
+      "reason": "No direct Google Trends or Keyword Planner data retrieved; estimate based on related prompt engineering volume (~80K/mo) and recency of the term",
+      "recommendation": "Verify via Keywords Everywhere or Google Trends before publication"
+    },
+    {
+      "claim": "growth_3m +62% jobs",
+      "reason": "Specific 3-month job growth rate is an estimate based on ZipRecruiter listings surge and DataHub survey; exact Q2→Q3 2026 change not sourced",
+      "recommendation": "Cross-reference with LinkedIn Workforce Insights for the June-September 2026 period"
+    }
+  ]
+}
