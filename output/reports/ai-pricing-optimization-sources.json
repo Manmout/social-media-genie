@@ -1,0 +1,94 @@
+{
+  "slug": "ai-pricing-optimization",
+  "trend_name": "AI-Powered Pricing Optimization",
+  "retrieved": "2026-09-14",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "TrendXInsights",
+      "url": "https://trendxinsights.com/syndicated-market-research-reports/ai-pricing-optimization-market/",
+      "claim": "AI Pricing Optimization Market valued at $2.80B in 2025, projected to reach $18.71B by 2034 at 23.5% CAGR",
+      "verifiable": true,
+      "type": "market research"
+    },
+    {
+      "id": 2,
+      "publisher": "PROS Holdings",
+      "url": "https://pros.com/news/thoma-bravo-completes-acquisition-pros/",
+      "claim": "Thoma Bravo completed acquisition of PROS Holdings for $1.4B at $23.25/share (Dec 9, 2025); B2B arm merged with Conga, travel business runs standalone as PROS Travel",
+      "verifiable": true,
+      "type": "press release"
+    },
+    {
+      "id": 3,
+      "publisher": "BusinessWire / Pricefx",
+      "url": "https://www.businesswire.com/news/home/20240116990850/en/Pricefx-Reports-Historic-Revenue-in-2023-Based-on-40-Annual-Growth",
+      "claim": "Pricefx reports 40% annual revenue growth in 2023; ARR per new customer increased 83% YoY — historic revenue milestone",
+      "verifiable": true,
+      "type": "press release"
+    },
+    {
+      "id": 4,
+      "publisher": "Morgan Lewis",
+      "url": "https://www.morganlewis.com/pubs/2025/10/algorithmic-pricing-emerges-as-enforcement-priority-for-eu-and-uk-antitrust-regulators",
+      "claim": "EU and UK antitrust regulators have made algorithmic pricing a named enforcement priority (October 2025); EC confirmed multiple ongoing investigations into algorithmic pricing",
+      "verifiable": true,
+      "type": "legal analysis"
+    },
+    {
+      "id": 5,
+      "publisher": "Master of Code Global",
+      "url": "https://masterofcode.com/blog/ai-dynamic-pricing",
+      "claim": "AI dynamic pricing delivers up to 10% margin improvement and 13% sales increase during peak periods",
+      "verifiable": true,
+      "type": "industry analysis"
+    },
+    {
+      "id": 6,
+      "publisher": "Competera",
+      "url": "https://competera.ai/resources/news/competera-secures-3m-seed-to-enhance-ai-pricing-and-scale-services-supporting-multinational-retailers",
+      "claim": "Competera closes $3M seed round; also named Representative Vendor in Gartner's 2024 Market Guide for retail pricing optimization and Major Player in IDC 2025 MarketScape",
+      "verifiable": true,
+      "type": "press release"
+    },
+    {
+      "id": 7,
+      "publisher": "Apax Partners",
+      "url": "https://www.apax.com/news-views/pricefx-raises-65-million-for-global-expansion-and-product-innovation-in-series-c-financing-round-led-by-the-apax-digital-fund/",
+      "claim": "Pricefx raises $65M Series C led by Apax Digital Fund (July 2020), bringing total raised to $130M for global expansion",
+      "verifiable": true,
+      "type": "press release"
+    },
+    {
+      "id": 8,
+      "publisher": "Superkind AI (Buyer Comparison Guide)",
+      "url": "https://superkind.ai/blog/ai-pricing-optimization-tools",
+      "claim": "Top AI pricing tools 2026: Pricefx, Vendavo, Zilliant collectively serve 15,000+ customers; Vendavo AI Pricing Assistant on SAP BTP released Apr 2026",
+      "verifiable": true,
+      "type": "buyer guide"
+    },
+    {
+      "id": 9,
+      "publisher": "B2B Notes",
+      "url": "https://b2bnotes.com/blog/ai-powered-pricing-optimization-how-b2b-companies-are-reclaiming-millions-in-leaked-margin",
+      "claim": "B2B companies with AI pricing see 12% average profit margin increase; McKinsey (Nov 2025): 65–85% of B2B pricing executives expect to adopt gen/agentic AI in pricing within 1–3 years; 1% price increase = 6–14% operating profit boost",
+      "verifiable": true,
+      "type": "industry analysis"
+    },
+    {
+      "id": 10,
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/price-optimization-software-market",
+      "claim": "Price Optimization Software Market (broader category) valued at $1.95B in 2026, growing at 16.06% CAGR to $4.17B by 2031",
+      "verifiable": true,
+      "type": "market research"
+    }
+  ],
+  "notes": {
+    "growth_5y": "Estimated back-calculation from 23.5% CAGR (TrendXInsights): $2.80B (2025) implies ~$1.11B (2020) — growth ~+152% [estimated, treat as directional]",
+    "growth_1y": "Official CAGR projection of 23.5% per annum (TrendXInsights)",
+    "growth_3m": "~+6% quarterly estimate derived from 23.5% annual CAGR [unverified, directional only]",
+    "search_volume": "60,000+ monthly searches [unverified — based on composite of 'pricing optimization', 'dynamic pricing AI', 'AI pricing software' keyword estimates]",
+    "market_share": "Company market share percentages are estimated [unverified] — no single authoritative source provides breakdown; figures derived from relative company revenues and analyst positioning"
+  }
+}
