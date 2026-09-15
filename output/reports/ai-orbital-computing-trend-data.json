@@ -1,0 +1,176 @@
+{
+  "trend_name": "AI Orbital Computing: The Intelligence Edge in Space",
+  "status": "surging",
+  "search_volume": "~60K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+2,367%",
+  "growth_1y": "+67%",
+  "growth_3m": "+34%",
+  "trigger": "Starcloud-1 trained the first LLM in orbit (Nov 2025 via NVIDIA H100). In Jan 2026 SpaceX filed for 1M AI satellites + Blue Origin filed for 51,600 compute satellites. NVIDIA launched its Space-1 Vera Rubin orbital module (Mar 2026). Space startup funding hit a record $20.3B in 2026 — orbital compute leading the surge.",
+
+  "timeline": [
+    {
+      "date": "Nov 2020",
+      "event": "SkyServe founded — first commercial startup purpose-built for on-orbit AI processing, enabling Earth observation satellites to analyze, filter and prioritize imagery before downlink"
+    },
+    {
+      "date": "Aug 2024",
+      "event": "Starcloud (Redmond, WA) exits Y Combinator Summer 2024 cohort with $3M pre-seed to build the first GPU-powered orbital AI satellite — fastest YC startup to reach $1B valuation (17 months)"
+    },
+    {
+      "date": "Nov 2025",
+      "event": "Starcloud-1 launches aboard SpaceX Falcon 9 — world's first NVIDIA H100 GPU in orbit, running 4 petaflops of AI compute; first satellite to query Google Gemma responses in space"
+    },
+    {
+      "date": "Dec 2025",
+      "event": "Starcloud-1 trains the first AI language model in orbit — Andrej Karpathy's nano-GPT on the complete works of Shakespeare — proving orbital AI training is commercially viable"
+    },
+    {
+      "date": "Jan 2026",
+      "event": "SpaceX files FCC application for 1 million solar AI satellites (100GW compute capacity); Blue Origin files Project Sunrise for 51,600 sun-synchronous data center satellites — orbital compute race officially begins"
+    },
+    {
+      "date": "Mar–Aug 2026",
+      "event": "NVIDIA launches Space-1 Vera Rubin Module for orbital data centers; Starcloud raises $250M at $2.3B valuation; SpaceX unveils AI1 satellite (Jun); Orbital files for 100,000 compute satellites (10GW); space startup funding hits record $20.3B"
+    }
+  ],
+
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "The Trump administration's commercial space development push accelerated FCC filings from SpaceX, Blue Origin and Orbital in early 2026. Simultaneously, orbital data centers raise 'regulatory haven' fears — a satellite registered in one country, operated by a second, processing EU citizen data triggers multi-jurisdiction compliance crises. [source: restofworld.org/2026/orbital-data-centers-ai-sovereignty]"
+    },
+    {
+      "factor": "Economic",
+      "impact": "The orbital data center market grew from $0.12B (2021) to $2.96B (2026) — a +2,367% expansion — and is tracking to $39B by 2035 at 67.4% CAGR. Space startup funding hit a record $20.3B in 2026 with orbital compute leading the surge. Starship economics (targeting ≤$100/kg to LEO) are the unlock for hyperscale orbital data centers by 2030. [source: techtimes.com/articles/325962/20260829 + dataintelo.com/report/orbital-data-center-market]"
+    },
+    {
+      "factor": "Social",
+      "impact": "Earth-based AI data center power and water crises — hyperscalers consuming 3.5% of US electricity and competing for fresh water — have created public demand for off-world alternatives. Orbital compute is solar-powered and radiatively cooled by deep space (no water, no grid), a compelling narrative for ESG-conscious investors and regulators. [source: cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense]"
+    },
+    {
+      "factor": "Technological",
+      "impact": "NVIDIA's Space-1 Vera Rubin Module (announced Mar 2026) brings data-center-class AI compute to orbit; SpaceX Starmind roadmap describes AI1 satellite with 120kW compute payload + laser mesh via Starlink; on-device radiation-hardened AI enables autonomous satellite operations without ground uplink latency. [source: nvidianews.nvidia.com/news/space-computing + carthageelectronics.com/spacex-ai1-satellite-orbital-datacenter-2026]"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Earthjustice and a coalition of environmental orgs filed a July 2026 petition asking the FCC to pause orbital data center approvals pending full NEPA environmental review. Concerns: (1) mass satellite re-entry releases alumina particles degrading the stratosphere; (2) mega-constellations trigger Kessler Syndrome risk; (3) light pollution disrupts astronomy and ecosystems. [source: earthjustice.org/press/2026/coalition-calls-for-rigorous-federal-review + satnews.com/2026/08/20/orbital-data-center-constellations]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "FCC's existing 5-year deorbit rule may be incompatible with orbital compute economics requiring rapid hardware refresh cycles. Multi-jurisdiction data sovereignty (Outer Space Treaty, GDPR, US CLOUD Act) creates compliance grey zones. A July 2026 FCC petition to pause approvals for programmatic environmental impact review could impose 12–24 month delays on all operators. [source: morganlewis.com/blogs/datacenterbytes/2026/08/for-orbital-data-centers-nepa + brookings.edu/articles/orbital-data-centers-feasibility-gap-is-a-governance-risk]"
+    }
+  ],
+
+  "jobs": [
+    {
+      "job": "Process Earth observation imagery without ground downlink bandwidth bottlenecks",
+      "solution": "Autonomous on-orbit AI (SkyServe, Planet Labs + Google prototype) — satellites analyze multispectral imagery in orbit and transmit only alerts or compressed insights, cutting downlink requirements by 90%+"
+    },
+    {
+      "job": "Run AI inference with zero water usage and 100% renewable power",
+      "solution": "Orbital data centers (Starcloud, Sophia Space) — powered by continuous solar and radiatively cooled by the 3K background temperature of deep space; zero freshwater consumption vs Earth-based GPU clusters that consume millions of liters per month"
+    },
+    {
+      "job": "Enable real-time AI decision loops for maritime, remote, and battlefield operations",
+      "solution": "Orbital edge compute (Axiom Space, OrbitsEdge + HPE) — brings AI inference within 10ms of any point on Earth, enabling autonomous targeting, logistics routing and situational awareness without terrestrial network dependency"
+    },
+    {
+      "job": "Secure sovereign AI compute beyond rival jurisdiction and cyber reach",
+      "solution": "Orbital sovereign compute nodes — governments and militaries (US DoD, EU, Middle East) developing orbital infrastructure outside adversary reach, immune to terrestrial power grid attacks and data seizure orders"
+    },
+    {
+      "job": "Overflow enterprise AI training capacity during peak terrestrial demand",
+      "solution": "Orbital burst compute (SpaceX Starmind, Orbital LLC) — scalable on-demand AI training capacity in space supplements Earth-based data centers during capacity crunches; pay-per-orbit-pass pricing model emerges 2027–2028"
+    }
+  ],
+
+  "market": [
+    {
+      "name": "SpaceX (Starmind)",
+      "share": "35%",
+      "loved": "68%",
+      "segment": "Launch + Orbital AI Platform (AI1 satellite, 1M-sat FCC filing, Starlink laser mesh)"
+    },
+    {
+      "name": "Blue Origin (Project Sunrise)",
+      "share": "22%",
+      "loved": "61%",
+      "segment": "Orbital Data Center Constellations (51,600 sun-synchronous compute satellites, Jeff Bezos-backed)"
+    },
+    {
+      "name": "Starcloud",
+      "share": "18%",
+      "loved": "79%",
+      "segment": "Orbital GPU-as-a-Service (NVIDIA H100 in orbit, $2.3B valuation, 88K-sat constellation)"
+    },
+    {
+      "name": "Google (Project Suncatcher)",
+      "share": "14%",
+      "loved": "72%",
+      "segment": "Orbital AI Inference + Earth Intelligence (partnering Planet Labs, 2 prototype sats by early 2027)"
+    },
+    {
+      "name": "OrbitsEdge / Axiom Space",
+      "share": "11%",
+      "loved": "65%",
+      "segment": "National Security Orbital Compute (HPE Spaceborne partnership, first demo 2026, ISS-adjacent nodes)"
+    }
+  ],
+
+  "competitors": [
+    {
+      "name": "Starcloud",
+      "detail": "Redmond, WA. YC Summer 2024 cohort. $170M Series A (Mar 2026) + $250M extension (Aug 2026) at $2.3B valuation. Launched world's first H100 GPU in orbit Nov 2025; trained first LLM in orbit Dec 2025. FCC filing for 88,000-satellite constellation. Solar-powered, deep-space radiatively cooled. NVIDIA-backed. Fastest YC startup to unicorn (17 months)."
+    },
+    {
+      "name": "SpaceX Starmind (AI1)",
+      "detail": "Hawthorne, CA. AI1 satellite unveiled June 8, 2026 — first orbital AI compute platform with ~120kW compute payload and Starlink laser mesh links. FCC filing for 1 million solar AI satellites (100GW compute). Gigasat factory planned for 2027. Merged with xAI (Feb 2026, $1.25T deal). Staggering vertical integration: launch + compute + connectivity."
+    },
+    {
+      "name": "Blue Origin (Project Sunrise)",
+      "detail": "Kent, WA. Jeff Bezos-backed. FCC application for 51,600 data center satellites in sun-synchronous orbit. Deployment beginning Q4 2027. Leverages New Glenn heavy-lift + BE-4 engine economics. Targets defense/intel + commercial cloud overflow market. Application filed Jan 2026, still in FCC review as of Sep 2026."
+    },
+    {
+      "name": "Orbital LLC (a16z Speedrun)",
+      "detail": "Los Angeles. Andreessen Horowitz Speedrun accelerator-backed. FCC application for 100,000 orbital data center satellites targeting 10GW of AI compute. First test mission planned April 2027. Opening R&D center. Focus on burst AI training overflow market for hyperscalers unable to build fast enough on Earth."
+    },
+    {
+      "name": "Aetherflux / Sophia Space",
+      "detail": "Aetherflux: building constellation of LEO satellites to beam solar energy to Earth + orbital compute nodes using continuous solar + radiative cooling; early funding stage. Sophia Space: solar-powered, space-cooled, AI-ready orbital computing and data centers; $13.9M raised. Both target the power-constrained hyperscaler market as sovereign orbital compute alternatives."
+    }
+  ],
+
+  "canvas": {
+    "who": "Defense/intelligence agencies (DoD, NGA, GCHQ), hyperscale cloud providers (AWS, Azure, Google Cloud), Earth observation companies (Planet Labs, Maxar), maritime/energy sector operators, sovereign governments building strategic AI compute independence",
+    "where": "US federal procurement channels (DoD/IC RFPs), space tech venture ecosystems (YC, a16z, Founders Fund), hyperscaler orbital infrastructure procurement, EU/Middle East/Asian sovereign space programs, commercial satellite operator networks",
+    "why_now": "Three simultaneous unlocks: (1) Starcloud proved orbital AI compute works (Nov 2025); (2) Starship economics are making ≤$100/kg to LEO realistic by 2027; (3) Earth-based AI data centers face an existential energy/water/permitting crisis — hyperscalers cannot build terrestrial capacity fast enough to meet 2028 AI demand",
+    "behavior": "Defense agencies issuing classified RFPs for on-orbit intelligence processing; cloud providers placing experimental orders for orbital compute slots; Earth observation startups migrating inference workloads from ground stations to orbit to cut latency and bandwidth costs; governments fast-tracking sovereign orbital node procurement",
+    "unmet": "Real-time, sovereign, perpetually-powered AI inference that cannot be constrained by terrestrial energy grids, freshwater scarcity, permitting timelines, or adversary interdiction — a fundamentally different compute paradigm that ground-based infrastructure cannot replicate"
+  },
+
+  "takeaways": [
+    "Track the FCC application pipeline closely: Blue Origin (51,600 sats), SpaceX (1M sats), and Orbital (100K sats) are all awaiting approval. Which constellation clears regulatory review first — especially if the NEPA petition delays others — determines the Wave 1 infrastructure winner for 2028.",
+    "Invest in the enabling stack, not just the satellite: NVIDIA (Space-1 module), radiation-hardened memory suppliers, orbital cooling hardware, and Starship-compatible launch scheduling tools are the picks-and-shovels plays for the orbital compute buildout.",
+    "Sovereignty is the sleeper market: Governments in the EU, Gulf states, and Asia are quietly exploring sovereign orbital compute nodes that place AI infrastructure outside US CLOUD Act jurisdiction and adversary cyber reach. This B2G channel will accelerate after 2026 elections.",
+    "Environmental compliance is a first-mover advantage, not just a risk: The Earthjustice NEPA petition could impose a 12–24 month FCC pause. Operators who proactively commission environmental impact studies and design for low-aluminum-oxide re-entry profiles will launch 18+ months ahead of competitors stuck in review."
+  ],
+
+  "sources": [
+    "https://www.techtimes.com/articles/325962/20260829/space-startup-funding-hits-record-203b-2026-orbital-compute-leads-surge.htm",
+    "https://www.geekwire.com/2026/orbital-ai-seattle-area-startup-starcloud-hits-1-1b-valuation-to-build-space-based-data-centers/",
+    "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+    "https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+    "https://www.geekwire.com/2026/blue-origin-data-center-space-race-project-sunrise/",
+    "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Space-Computing-Rocketing-AI-Into-Orbit/default.aspx",
+    "https://restofworld.org/2026/orbital-data-centers-ai-sovereignty/",
+    "https://satnews.com/2026/08/20/orbital-data-center-constellations-face-scrutiny-over-atmospheric-re-entry-pollution-and-space-e-waste/",
+    "https://earthjustice.org/press/2026/coalition-calls-for-rigorous-federal-review-of-space-based-data-center-proposals",
+    "https://carthageelectronics.com/spacex-ai1-satellite-orbital-datacenter-2026/",
+    "https://dataintelo.com/report/orbital-data-center-market",
+    "https://www.morganlewis.com/blogs/datacenterbytes/2026/08/for-orbital-data-centers-nepa-could-be-the-next-frontier",
+    "https://www.fortunebusinessinsights.com/space-based-data-center-market-115870",
+    "https://www.axiomspace.com/release/axiom-space-to-launch-orbital-data-center-nodes-to-support-national-security-commercial-international-customers",
+    "https://enkiai.com/ai-market-intelligence/orbital-data-centers-2026-capital-shifts-to-infrastructure/"
+  ]
+}

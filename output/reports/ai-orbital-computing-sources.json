@@ -1,0 +1,124 @@
+{
+  "trend_name": "AI Orbital Computing: The Intelligence Edge in Space",
+  "slug": "ai-orbital-computing",
+  "generated": "2026-09-15",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "TechTimes",
+      "url": "https://www.techtimes.com/articles/325962/20260829/space-startup-funding-hits-record-203b-2026-orbital-compute-leads-surge.htm",
+      "claim": "Space startup funding hits record $20.3B in 2026; orbital compute leads the surge",
+      "supports": ["search_volume", "growth_1y", "trigger"]
+    },
+    {
+      "id": 2,
+      "publisher": "GeekWire",
+      "url": "https://www.geekwire.com/2026/orbital-ai-seattle-area-startup-starcloud-hits-1-1b-valuation-to-build-space-based-data-centers/",
+      "claim": "Starcloud hit $1.1B valuation in 17 months — fastest YC startup to unicorn — building space-based AI data centers",
+      "supports": ["competitors[Starcloud]", "timeline[Aug 2024]"]
+    },
+    {
+      "id": 3,
+      "publisher": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "claim": "Starcloud raises $250M extension at $2.3B valuation for orbital data centers",
+      "supports": ["competitors[Starcloud]", "timeline[Mar–Aug 2026]"]
+    },
+    {
+      "id": 4,
+      "publisher": "CNBC",
+      "url": "https://www.cnbc.com/2025/12/10/nvidia-backed-starcloud-trains-first-ai-model-in-space-orbital-data-centers.html",
+      "claim": "NVIDIA-backed Starcloud trains first AI model in space — nano-GPT on complete works of Shakespeare",
+      "supports": ["timeline[Dec 2025]", "trigger"]
+    },
+    {
+      "id": 5,
+      "publisher": "GeekWire",
+      "url": "https://www.geekwire.com/2026/blue-origin-data-center-space-race-project-sunrise/",
+      "claim": "Blue Origin files FCC application for 51,600 data center satellites (Project Sunrise) in sun-synchronous orbit",
+      "supports": ["timeline[Jan 2026]", "competitors[Blue Origin]", "pestal[Political]"]
+    },
+    {
+      "id": 6,
+      "publisher": "NVIDIA Investor Relations",
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Launches-Space-Computing-Rocketing-AI-Into-Orbit/default.aspx",
+      "claim": "NVIDIA launches Space-1 Vera Rubin Module for orbital AI data centers — Space Computing platform",
+      "supports": ["timeline[Mar–Aug 2026]", "pestal[Technological]", "competitors[Starcloud]"]
+    },
+    {
+      "id": 7,
+      "publisher": "Rest of World",
+      "url": "https://restofworld.org/2026/orbital-data-centers-ai-sovereignty/",
+      "claim": "Orbital data centers raise data sovereignty concerns — satellite registered in one country, operated by another, processing data of citizens in dozens",
+      "supports": ["pestal[Political]", "pestal[Legal]", "canvas[why_now]"]
+    },
+    {
+      "id": 8,
+      "publisher": "SatNews",
+      "url": "https://satnews.com/2026/08/20/orbital-data-center-constellations-face-scrutiny-over-atmospheric-re-entry-pollution-and-space-e-waste/",
+      "claim": "Orbital data center constellations face scrutiny over atmospheric re-entry pollution (alumina particles) and space e-waste",
+      "supports": ["pestal[Environmental]"]
+    },
+    {
+      "id": 9,
+      "publisher": "Earthjustice",
+      "url": "https://earthjustice.org/press/2026/coalition-calls-for-rigorous-federal-review-of-space-based-data-center-proposals",
+      "claim": "Coalition calls for rigorous federal (NEPA) review of space-based data center proposals — July 2026 FCC petition",
+      "supports": ["pestal[Environmental]", "pestal[Legal]", "takeaways[3]"]
+    },
+    {
+      "id": 10,
+      "publisher": "Carthage Electronics / SpaceX Analysis",
+      "url": "https://carthageelectronics.com/spacex-ai1-satellite-orbital-datacenter-2026/",
+      "claim": "SpaceX AI1 satellite unveiled June 8 2026 — 120kW compute payload, Starlink laser mesh, Gigasat factory by late 2027",
+      "supports": ["timeline[Mar–Aug 2026]", "competitors[SpaceX]", "pestal[Technological]"]
+    },
+    {
+      "id": 11,
+      "publisher": "DataIntelo / Market Research",
+      "url": "https://dataintelo.com/report/orbital-data-center-market",
+      "claim": "Orbital data center market: $0.12B (2021) → $1.77B (2025) → $2.96B (2026) → $39B (2035) at 67.4% CAGR",
+      "supports": ["growth_5y", "growth_1y", "market size", "pestal[Economic]"]
+    },
+    {
+      "id": 12,
+      "publisher": "Morgan Lewis / Data Center Bytes",
+      "url": "https://www.morganlewis.com/blogs/datacenterbytes/2026/08/for-orbital-data-centers-nepa-could-be-the-next-frontier",
+      "claim": "NEPA could be the next frontier for orbital data centers — environmental review obligations and FCC 5-year deorbit rule tension",
+      "supports": ["pestal[Legal]", "takeaways[3]"]
+    },
+    {
+      "id": 13,
+      "publisher": "Fortune Business Insights",
+      "url": "https://www.fortunebusinessinsights.com/space-based-data-center-market-115870",
+      "claim": "Space-based data center market size projections and segment breakdown",
+      "supports": ["market size", "pestal[Economic]"]
+    },
+    {
+      "id": 14,
+      "publisher": "Axiom Space",
+      "url": "https://www.axiomspace.com/release/axiom-space-to-launch-orbital-data-center-nodes-to-support-national-security-commercial-international-customers",
+      "claim": "Axiom Space launching orbital data center nodes for national security, commercial, and international customers",
+      "supports": ["competitors[OrbitsEdge/Axiom]", "jobs[defense]"]
+    },
+    {
+      "id": 15,
+      "publisher": "ENKI AI / Market Intelligence",
+      "url": "https://enkiai.com/ai-market-intelligence/orbital-data-centers-2026-capital-shifts-to-infrastructure/",
+      "claim": "Capital shifts to orbital data center infrastructure — Wave 1 (defense + Earth obs) by 2028, Wave 2 (AI training overflow) by 2030",
+      "supports": ["takeaways[1]", "canvas[behavior]"]
+    }
+  ],
+  "verification_notes": {
+    "market_size_5y": "SOURCED: $0.12B (2021) to $2.96B (2026) per dataintelo.com — +2,367% growth confirmed",
+    "market_size_1y": "SOURCED: $1.77B (2025) to $2.96B (2026) per dataintelo.com — +67% confirmed",
+    "growth_3m": "[unverified] — +34% estimated based on record $20.3B space funding pace and Q3 2026 FCC filing surge; no direct quarterly search volume data available",
+    "market_share_pct": "[unverified] — market share % per competitor is estimated based on funding, filings, and positioning; no public market share report covers this nascent segment",
+    "search_volume": "[unverified] — ~60K/mo estimated as combined cluster (AI in space + orbital data centers + space AI computing); no direct Google Trends data verified",
+    "starcloud_valuation": "SOURCED: $2.3B valuation confirmed via TechCrunch Aug 2026 article",
+    "h100_in_orbit": "SOURCED: Nov 2025 launch confirmed via CNBC, DataCenterFrontier, YCombinator tweet",
+    "blue_origin_project_sunrise": "SOURCED: 51,600 satellites confirmed via GeekWire + DataCenterDynamics FCC filing reporting",
+    "spacex_ai1": "SOURCED: June 8, 2026 unveiling confirmed via Carthage Electronics SpaceX analysis",
+    "environmental_petition": "SOURCED: July 2026 FCC petition confirmed via Earthjustice press release + Gizmodo coverage"
+  }
+}
