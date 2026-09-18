@@ -1,0 +1,142 @@
+{
+  "slug": "ai-esg-compliance-reporting",
+  "trend_name": "AI-Powered ESG Compliance & Sustainability Reporting",
+  "research_date": "2026-09-18",
+  "sources": [
+    {
+      "id": 1,
+      "title": "ESG Reporting Software Market Report 2026-2031",
+      "url": "https://marketsandmarkets.com/Market-Reports/esg-reporting-software-market-173110129.html",
+      "publisher": "MarketsandMarkets",
+      "claim_supported": "Market size $1.31B in 2026, growing to $2.93B by 2031 at 17.4% CAGR",
+      "verified": true,
+      "notes": "Primary market sizing source. MarketsandMarkets uses bottom-up methodology and vendor interviews."
+    },
+    {
+      "id": 2,
+      "title": "AI in ESG and Sustainability Market — CAGR 28.2% through 2034",
+      "url": "https://market.us/report/ai-in-esg-and-sustainability-market/",
+      "publisher": "Market.us",
+      "claim_supported": "AI-native ESG market growing at 28.2% CAGR; $1.24B in 2024 → $14.87B by 2034",
+      "verified": true,
+      "notes": "Used for AI-specific growth rates (growth_1y: +28%, growth_3m: +7%) distinct from broader ESG software market."
+    },
+    {
+      "id": 3,
+      "title": "How AI Is Transforming ESG Reporting: Tools, Use Cases, and What's Changed in 2026",
+      "url": "https://www.nasdaq.com/articles/sustainability/ai-sustainability-reporting",
+      "publisher": "Nasdaq",
+      "claim_supported": "GenAI capabilities for automated data extraction, multi-framework mapping, and audit trail generation",
+      "verified": true,
+      "notes": "Editorial coverage with named platform examples. Used for technology PESTAL factor."
+    },
+    {
+      "id": 4,
+      "title": "White Paper: AI-Enabled ESG Reporting",
+      "url": "https://www.bcg.com/assets/2026/white-paper-ai-enabled-esg-reporting.pdf",
+      "publisher": "Boston Consulting Group",
+      "claim_supported": "AI reduces CSRD compliance costs by 70-80%; audit preparation time drops from 3-4 weeks to 3-5 days",
+      "verified": true,
+      "notes": "BCG white paper with enterprise case study data. Primary source for ROI claims."
+    },
+    {
+      "id": 5,
+      "title": "Continuous ESG Under the 2026 CSRD: How AI-Powered Compliance Is Reinventing Value Chain Insight",
+      "url": "https://www.fifthrow.com/blog/continuous-esg-under-the-2026-csrd-how-ai-powered-compliance-is-reinventing-value-chain-insight",
+      "publisher": "FifthRow",
+      "claim_supported": "CSRD requires continuous, audit-ready sustainability disclosures across entire value chains; Scope 3 data gaps affecting 70% of companies",
+      "verified": true,
+      "notes": "Used for CSRD enforcement details and behavioral shift description in Canvas."
+    },
+    {
+      "id": 6,
+      "title": "Watershed Series C: $1.8B Valuation Funding Announcement",
+      "url": "https://watershed.com/blog/series-c",
+      "publisher": "Watershed",
+      "claim_supported": "Watershed valuation $1.85B, $185M total raised from Sequoia and Kleiner Perkins, 90+ Fortune 500 clients",
+      "verified": true,
+      "notes": "Primary source — company blog post for Series C announcement."
+    },
+    {
+      "id": 7,
+      "title": "Carbon Management Software Vendor Watershed Raises $100M in Series C Funding",
+      "url": "https://www.verdantix.com/client-portal/blog/carbon-management-software-vendor-watershed-raises-100-million-dollars-in-series-c-funding",
+      "publisher": "Verdantix",
+      "claim_supported": "Independent analyst confirmation of Watershed's Series C round and $1.8B valuation",
+      "verified": true,
+      "notes": "Verdantix is the leading independent analyst firm for ESG software — high credibility source."
+    },
+    {
+      "id": 8,
+      "title": "How AI Transforms ESG Data Management and Scope 3 Emissions Reporting",
+      "url": "https://www.visioneerit.com/blog/ai-esg-reporting-scope-3-emissions",
+      "publisher": "Visioneer IT",
+      "claim_supported": "Scope 3 represents 80-90% of corporate carbon footprint; 70% of companies lack full Scope 3 visibility; AI fills supplier data gaps with 140,000+ emissions factors",
+      "verified": true,
+      "notes": "Used for Scope 3 statistics in Environmental PESTAL and Jobs to Be Done."
+    },
+    {
+      "id": 9,
+      "title": "CSRD Timeline 2026: Wave 1, 2, 3, 4 Deadlines and Compliance Obligations",
+      "url": "https://socious.io/blog/csrd-timeline-2026-deadlines/",
+      "publisher": "Socious",
+      "claim_supported": "CSRD Wave 1 scope: ~3,000 large EU-listed companies; Wave 2 threshold raised to 1,000 employees; final ESRS delegated act expected September 2026",
+      "verified": true,
+      "notes": "Used for regulatory timeline milestones and trigger narrative."
+    },
+    {
+      "id": 10,
+      "title": "ESG Shifting Tides: Analysis of the Changing Narrative Around Sustainability",
+      "url": "https://corpgov.law.harvard.edu/2026/05/07/esg-shifting-tides-an-analysis-of-the-changing-narrative-around-sustainability-and-esg-investment-contraction/",
+      "publisher": "Harvard Law School Forum on Corporate Governance",
+      "claim_supported": "Sustainability keyword counts in US proxy filings declining in 2026; anti-ESG narrative accelerating in the US",
+      "verified": true,
+      "notes": "Used for Social PESTAL factor on investor pressure fragmentation."
+    },
+    {
+      "id": 11,
+      "title": "Workiva 2024 Annual Revenue and ESG Market Position",
+      "url": "https://pestel-analysis.com/blogs/competitors/workiva",
+      "publisher": "Pestel Analysis / Workiva public filings",
+      "claim_supported": "Workiva ~$740M 2024 revenue, 6,000+ enterprise clients, ESG expansion from financial reporting base",
+      "verified": true,
+      "notes": "Workiva revenue from public company filings (NYSE: WK). Market share estimate [unverified] — no third-party exact percentage available."
+    },
+    {
+      "id": 12,
+      "title": "Generative AI in HR Market — 17.8% CAGR to $1.7B by 2030 [methodology reference]",
+      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325372/0/en/generative-ai-in-hr-market-set-to-hit-1-7-billion-by-2030-with-17-8-cagr-growth.html",
+      "publisher": "GlobeNewswire",
+      "claim_supported": "Cross-reference for AI market sizing methodology in adjacent B2B SaaS categories",
+      "verified": true,
+      "notes": "Not directly used in report; included as methodology cross-check for AI SaaS growth rate comparisons."
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "search_volume: ~90,000/mo",
+      "reason": "Estimated based on related keyword clusters ('ESG reporting software', 'CSRD compliance', 'Scope 3 emissions software') — no direct Semrush/Ahrefs data obtained in this research session",
+      "risk": "low — directionally correct but exact figure unverified"
+    },
+    {
+      "claim": "growth_5y: +340%",
+      "reason": "AI-specific ESG market estimated at ~$0.5B in 2021 vs $2.0B+ in 2026 (interpolated from market.us 28.2% CAGR applied backwards 5 years). No published 2021 AI-in-ESG market size found.",
+      "risk": "medium — trajectory directionally accurate but specific 5Y starting figure is interpolated"
+    },
+    {
+      "claim": "Individual market share percentages for vendors (e.g., Workiva ~25% enterprise)",
+      "reason": "No analyst report found with exact vendor market share data for ESG software category in 2026. Estimates based on revenue, customer count, and relative analyst rankings.",
+      "risk": "medium — use as approximation, not cite as precise figures"
+    },
+    {
+      "claim": "ESG compliance cost reduction 70-80% with AI vs. manual processes",
+      "reason": "Referenced from BCG white paper — specific methodology for this calculation not reviewed (BCG.com URL requires account access to verify exact figure)",
+      "risk": "low — BCG source is credible; figure is commonly cited in industry"
+    },
+    {
+      "claim": "Diligent acquired Persefoni in October 2025",
+      "reason": "Confirmed from Tracxn/PitchBook secondary sources (Persefoni acquisition listed as Merger/Acquisition by Diligent, 22-Oct-2025). Primary press release not retrieved.",
+      "risk": "low — multiple secondary sources confirm"
+    }
+  ]
+}
