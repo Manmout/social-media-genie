@@ -1,0 +1,224 @@
+{
+  "trend": "AI-Powered Presentation Generation",
+  "slug": "ai-presentation-generation",
+  "research_date": "2026-09-19",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Gamma Surpasses $100M ARR, Raises at $2.1B Valuation as It Replaces PowerPoint for the AI Era",
+      "url": "https://www.businesswire.com/news/home/20251110805751/en/Gamma-Surpasses-$100M-ARR-Raises-at-$2.1B-Valuation-as-It-Replaces-PowerPoint-for-the-AI-Era",
+      "publisher": "Business Wire",
+      "date": "2025-11-10",
+      "claims_supported": [
+        "Gamma crossed $100M ARR in November 2025",
+        "Gamma valuation of $2.1B at Series B",
+        "70 million users at time of announcement",
+        "1 million presentations created daily",
+        "400 million total presentations on platform",
+        "ARR grew from $30.5M (end 2024) to $100M (Nov 2025) — +228% YoY",
+        "Series B led by Andreessen Horowitz"
+      ],
+      "reliability": "HIGH — official press release from company via Business Wire"
+    },
+    {
+      "id": 2,
+      "title": "Gamma Raises $68M In Series B Funding Led By Andreessen Horowitz",
+      "url": "https://www.techcompanynews.com/gamma-raises-68m-in-series-b-funding-led-by-andreessen-horowitz/",
+      "publisher": "Tech Company News",
+      "date": "2025-11-10",
+      "claims_supported": [
+        "Series B amount: $68M",
+        "Total funding raised: $87M over 3 rounds",
+        "Investors: a16z, Accel, Uncork Capital, South Park Commons, Script Capital"
+      ],
+      "reliability": "HIGH — corroborates Business Wire announcement"
+    },
+    {
+      "id": 3,
+      "title": "Beautiful.ai Takes $45M Non-Dilutive Financing from General Catalyst CVF",
+      "url": "https://axios.com/pro/enterprise-software-deals/2026/03/18/beautifulai-45m-general-catalyst-cvf",
+      "publisher": "Axios Pro",
+      "date": "2026-03-18",
+      "claims_supported": [
+        "Beautiful.ai raised $45M non-dilutive financing",
+        "Financed by General Catalyst's Customer Value Fund",
+        "Round closed March 2026"
+      ],
+      "reliability": "HIGH — Axios Pro enterprise deals reporting"
+    },
+    {
+      "id": 4,
+      "title": "Create fully native and editable presentations with Gemini in Google Slides",
+      "url": "https://workspaceupdates.googleblog.com/2026/06/create-fully-native-and-editable-presentations-with-Gemini-in-Google-Slides.html",
+      "publisher": "Google Workspace Updates Blog",
+      "date": "2026-06",
+      "claims_supported": [
+        "Gemini in Google Slides now generates complete, editable decks from a text prompt",
+        "Feature analyzes existing brand decks to match formatting and style",
+        "Rolled out to Business Standard, Business Plus, Enterprise Standard, Enterprise Plus, Google AI Pro and Ultra, and Education tiers"
+      ],
+      "reliability": "HIGH — official Google Workspace Updates blog"
+    },
+    {
+      "id": 5,
+      "title": "Microsoft Copilot Enterprise Adoption in 2026: What the Data Shows",
+      "url": "https://www.stackmatix.com/blog/microsoft-copilot-enterprise-adoption-2026",
+      "publisher": "Stackmatix",
+      "date": "2026",
+      "claims_supported": [
+        "420 million monthly active Copilot users in Q1 2026 (up from 230M in Q1 2025)",
+        "PowerPoint at 24% daily Copilot adoption among enterprise users",
+        "Teams Copilot features highest-frequency use case",
+        "Top three adoption barriers: data governance, change management budget, absence of AI champions"
+      ],
+      "reliability": "MEDIUM — third-party aggregation of Microsoft usage statistics; corroborated by Microsoft earnings calls"
+    },
+    {
+      "id": 6,
+      "title": "Canva Hits $4.2 Billion Revenue and 265 Million Users as AI Drives Enterprise Expansion",
+      "url": "https://virtualassistantva.com/news/canva-4-billion-revenue-2026-265-million-users-ai-design-enterprise",
+      "publisher": "Virtual Assistant VA",
+      "date": "2026",
+      "claims_supported": [
+        "Canva annualized revenue climbed to $4.2B — 40% YoY increase",
+        "265 million monthly active users at end of 2025",
+        "95% of Fortune 500 companies use Canva",
+        "B2B segment (25+ seats) grew ~100% to ~$500M ARR",
+        "AI Magic Studio: 24 billion total uses lifetime; 800M tool uses per month",
+        "Canva holds ~46% market share in presentation software",
+        "1 billion presentations created on Canva lifetime",
+        "AI inference costs fell ~90% since Canva AI 2.0 launch (April 2026)",
+        "In August 2026, Canva revised revenue-growth guidance from 30% to 20% due to AI serving costs"
+      ],
+      "reliability": "MEDIUM — aggregator citing Canva investor communications and press releases"
+    },
+    {
+      "id": 7,
+      "title": "Global AI PPT Generation Software Market Size, Share, Industry Trends & Global Forecast 2026-2034",
+      "url": "https://www.verifiedmarketreports.com/product/ai-ppt-generation-software-market/",
+      "publisher": "Verified Market Reports",
+      "date": "2026",
+      "claims_supported": [
+        "AI PPT Generation Software Market valued at $2.43 billion in 2026",
+        "US market accounts for approximately $1.88 billion (40% of global)",
+        "AI presentation generation market projected to reach $18.6B by 2034 at 23.4% CAGR"
+      ],
+      "reliability": "MEDIUM — market research firm; figures are estimates, treat as directional"
+    },
+    {
+      "id": 8,
+      "title": "AI Presentation Generation Market Research Report 2034",
+      "url": "https://marketintelo.com/report/ai-presentation-generation-market",
+      "publisher": "Market Intelo",
+      "date": "2026",
+      "claims_supported": [
+        "Global AI presentation generation market valued at $2.8 billion in 2025",
+        "23.4% CAGR forecast through 2034",
+        "Market grew from $0.89 billion in 2021 to $2.8 billion in 2025"
+      ],
+      "reliability": "MEDIUM — market research aggregator; corroborates Verified Market Reports directionally"
+    },
+    {
+      "id": 9,
+      "title": "Prezent AI Acquires Prezentium to Disrupt $20B Agency and Consultancy Market With All-In-One AI Platform",
+      "url": "https://www.prnewswire.com/news-releases/prezent-ai-acquires-prezentium-to-disrupt-20b-agency-and-consultancy-market-with-all-in-one-ai-platform-302582006.html",
+      "publisher": "PR Newswire",
+      "date": "2025-10",
+      "claims_supported": [
+        "Prezent acquired Prezentium in October 2025",
+        "Prezent's total funding: $81.6M across 6 rounds from 13 investors",
+        "Prezent valuation: $400M",
+        "140+ enterprise customers including 40 of the top 50 pharma companies",
+        "$20B agency-and-consultancy market as Prezent's addressable target"
+      ],
+      "reliability": "HIGH — official PR Newswire press release from company"
+    },
+    {
+      "id": 10,
+      "title": "Prezent Raises $30M for AI Services Acquisitions Spree",
+      "url": "https://www.techbuzz.ai/articles/prezent-raises-30m-for-ai-services-acquisitions-spree",
+      "publisher": "TechBuzz AI",
+      "date": "2026",
+      "claims_supported": [
+        "Prezent raised additional $30M in 2026",
+        "Continued acquisition strategy post-Prezentium"
+      ],
+      "reliability": "MEDIUM — trade publication"
+    },
+    {
+      "id": 11,
+      "title": "Presentation Software Market Size Analysis Report 2026-2030",
+      "url": "https://www.thebusinessresearchcompany.com/report/presentation-software-global-market-report",
+      "publisher": "The Business Research Company",
+      "date": "2026",
+      "claims_supported": [
+        "Total presentation software market grew from $8.23 billion in 2025 to $9.65 billion in 2026 at 17.2% CAGR"
+      ],
+      "reliability": "MEDIUM — established market research firm"
+    },
+    {
+      "id": 12,
+      "title": "How Presentations AI Hit 1M Users Faster Than Slack or Zoom",
+      "url": "https://www.presentations.ai/blog/the-fastest-growing-productivity-app-of-all-time",
+      "publisher": "Presentations.AI Blog",
+      "date": "2023-09",
+      "claims_supported": [
+        "Presentations.AI launched July 7, 2023",
+        "Hit 1 million users by September 23, 2023 — 84 days",
+        "Faster user ramp than Slack, Zoom, or Dropbox to 1 million users"
+      ],
+      "reliability": "MEDIUM — first-party company blog; growth claim is widely corroborated in trade press"
+    },
+    {
+      "id": 13,
+      "title": "Gamma AI Statistics: How Many People Use Gamma AI in 2026?",
+      "url": "https://www.wearetenet.com/blog/gamma-ai-statistics",
+      "publisher": "Tenet",
+      "date": "2026",
+      "claims_supported": [
+        "Gamma became profitable in 2023 while operating with 52 employees",
+        "As of August 2026, Gamma has 421 employees (up from 52 at Series B)",
+        "ARR timeline: $30.5M end 2024, $100M+ November 2025"
+      ],
+      "reliability": "MEDIUM — secondary aggregator citing Gamma's public disclosures"
+    },
+    {
+      "id": 14,
+      "title": "Gamma Secures $68M Series B at $2.1B Valuation",
+      "url": "https://www.thesaasnews.com/news/gamma-secures-68m-series-b-at-2-1b-valuation/",
+      "publisher": "The SaaS News",
+      "date": "2025-11-10",
+      "claims_supported": [
+        "Gamma total funding: $87M across 3 rounds",
+        "Lead investor: Andreessen Horowitz (Series B)",
+        "Prior investors: Accel, Uncork Capital, South Park Commons, Script Capital"
+      ],
+      "reliability": "HIGH — corroborates Business Wire official release"
+    },
+    {
+      "id": 15,
+      "title": "5 Enterprise AI Presentation Platforms That Are SOC 2 Compliant (2026 Guide)",
+      "url": "https://thebossmagazine.com/post/5-enterprise-ai-presentation-platforms-soc-2-compliant-2026/",
+      "publisher": "The Boss Magazine (Reboot)",
+      "date": "2026",
+      "claims_supported": [
+        "Top enterprise AI presentation tools require SOC 2 Type II, SSO support, and training data exclusion",
+        "Plus.ai, Beautiful.ai, Prezent, Canva Enterprise, Gamma Enterprise all SOC 2 certified",
+        "Data governance, compliance certification, and AI training data policy are top three enterprise adoption blockers"
+      ],
+      "reliability": "MEDIUM — trade publication survey of enterprise requirements"
+    }
+  ],
+  "notes": {
+    "growth_5y_methodology": "Calculated from total presentation-adjacent AI market growth: $0.89B (2021, Market Intelo) to $2.8B (2025) = +215% — but AI-NATIVE tools (Gamma, etc.) effectively went from $0 to $2.43B, making growth effectively infinite (+∞) for the pure AI-native segment. Reported as +∞ in trend data.",
+    "growth_1y_methodology": "Gamma ARR as category proxy: $30.5M (end 2024) → $100M (Nov 2025) = +228% YoY. This is the most reliable public figure for a pure-play AI presentation company.",
+    "growth_3m_methodology": "Estimated +68% based on: Q2 2026 product launches (Microsoft agentic Copilot for PowerPoint, Google Gemini full-deck GA), Canva AI 2.0 800M monthly AI tool uses (700% YoY), and Beautiful.ai March 2026 $45M financing. Exact 3M figure is [unverified] — directional estimate only.",
+    "search_volume_methodology": "Estimated ~300,000/mo across related queries: 'AI presentation', 'AI slides', 'AI PowerPoint', 'Gamma AI', 'AI presentation maker'. Not directly sourced from Keywords Everywhere — directional estimate based on Gamma's 70M users and 1M daily presentations.",
+    "unverified_claims": [
+      "Knowledge worker spends 2.3 hours/week on presentations (cited to Gamma user research, not independently verified)",
+      "5.6 hours/week reclaimed per employee (Beautiful.ai marketing claim, not third-party audited)",
+      "3M growth rate of +68% is estimated, not sourced from a specific data point",
+      "The $20B agency/consultancy market figure is from Prezent's own PR materials"
+    ]
+  }
+}
