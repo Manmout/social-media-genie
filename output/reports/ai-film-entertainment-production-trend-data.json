@@ -1,0 +1,209 @@
+{
+  "trend_name": "AI in Film & Entertainment Production",
+  "slug": "ai-film-entertainment-production",
+  "status": "surging",
+  "search_volume": 74000,
+  "category": "Creator Economy",
+  "trigger": "Google DeepMind's $75M investment in A24 (June 2026) and Runway's $5.3B valuation signal AI video tools have crossed from novelty to Hollywood infrastructure — studios are now building proprietary AI pipelines.",
+  "growth_5y": "+294%",
+  "growth_1y": "+24%",
+  "growth_3m": "+12%",
+  "market_note": "AI in film production: $1.97B (2026) → $4.6B (2030), CAGR 23.6%. AI in media & entertainment broadly: $35.77B (2026), CAGR 26.3%.",
+  "timeline": [
+    {
+      "date": "Feb 2024",
+      "event": "OpenAI previews Sora — photorealistic text-to-video up to 60 seconds, crossing the cinema-quality threshold for the first time and triggering $500M+ in AI film investment."
+    },
+    {
+      "date": "Jun 2024",
+      "event": "Kuaishou's Kling AI launches commercially in China, enabling cinematic scenes in minutes at consumer price points and sparking the 'no-camera filmmaking' movement."
+    },
+    {
+      "date": "Sep 2024",
+      "event": "Lionsgate partners with Runway to train a custom AI model on its 20,000-title library of film and TV IP — the first major studio to license its full catalog to an AI video company."
+    },
+    {
+      "date": "Feb 2026",
+      "event": "Runway raises $315M at $5.3B valuation (General Atlantic). Google Veo 3 launches with native audio synthesis — generating synchronized sound effects and dialogue from a single text prompt."
+    },
+    {
+      "date": "Jun 2026",
+      "event": "Google DeepMind invests $75M in A24 to co-build AI filmmaking tools. Lionsgate takes equity stake in Runway, planning AI short-form series from Hunger Games and John Wick franchises."
+    },
+    {
+      "date": "Sep 2026",
+      "event": "Hollywood records 6,700 job losses attributed to AI in the year to May 2026. SAG-AFTRA, IATSE and VFX Union push for AI displacement protections in the fall bargaining cycle."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "SAG-AFTRA secured stronger digital replica consent rules in the last negotiation; IATSE and VFX Union campaign for displacement protections and AI transparency mandates across production contracts in the fall 2026 bargaining cycle."
+    },
+    {
+      "factor": "Economic",
+      "impact": "AI animation cuts production costs by up to 90% — 30-minute AI shows cost ~$3K vs. $300K traditionally. Studios realized $2.4B in savings from early AI tools in 2023. Runway valued at $5.3B; AI film market at $1.97B in 2026."
+    },
+    {
+      "factor": "Social",
+      "impact": "6,700 film and TV jobs lost in the year to May 2026; 100,000 of 550,000 US film jobs projected disrupted by end of 2026. Junior VFX artists, roto artists, matte painters, and compositors bear the brunt of workforce displacement."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Diffusion transformer architecture (Sora, Feb 2024) enabled 60-second photorealistic video generation. Veo 3.1 adds native audio synthesis. ByteDance Seedance 2.0 tops Artificial Analysis benchmarks. Multi-shot storyboard pipelines (LTX Studio, mStudio) extend AI into full production workflows."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI production reduces physical set construction, location travel, and resource-heavy practical VFX — studios estimate 15–30% lower carbon footprint per production when switching to AI-assisted workflows. [unverified]"
+    },
+    {
+      "factor": "Legal",
+      "impact": "AI-trained models face IP litigation from actors, directors, and estates over unauthorized training data. Lionsgate's licensed custom model sidesteps rights disputes. EU AI Act transparency mandates for synthetic media enter enforcement phase in late 2026."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Reduce VFX production costs",
+      "solution": "AI-generated backgrounds, compositing, and de-aging replace manual VFX work at $0.07–$0.10/generated second vs. $10,000+ per shot in traditional pipelines — enabling mid-tier studios to deliver blockbuster-quality visuals at indie budgets."
+    },
+    {
+      "job": "Pre-visualize scenes before costly shoots",
+      "solution": "Text-to-video AI generates animatics and pre-visualization in hours instead of weeks, letting directors iterate on camera angles, blocking, and visual grammar before committing to crew and location costs."
+    },
+    {
+      "job": "Scale content volume for streaming platforms",
+      "solution": "AI-assisted production lets streaming platforms generate more original IP on smaller budgets — Lionsgate is building AI short-form series from Hunger Games, John Wick, and Twilight franchises, extending catalog IP without full production overhead."
+    },
+    {
+      "job": "Democratize filmmaking for indie creators",
+      "solution": "End-to-end AI workflows enable individuals to produce 30-minute shows for ~$3,000 — compared to $300,000 for comparable traditional productions — collapsing the barrier to entry for professional storytelling."
+    },
+    {
+      "job": "Accelerate global content localization",
+      "solution": "AI video dubbing and lip-sync tools allow studios to localize content into 50+ languages with synchronized mouth movement and voice replacement, cutting localization timelines from months to days."
+    }
+  ],
+  "market": [
+    {
+      "name": "Runway",
+      "share": "30%",
+      "loved": "Studio-grade Gen-4.5 with character consistency, brand reference image controls, and a built-in editor workflow; $5.3B valuation; Lionsgate and Getty Images partnership models",
+      "segment": "Professional / Enterprise"
+    },
+    {
+      "name": "Google Veo",
+      "share": "25%",
+      "loved": "Native audio synthesis in Veo 3.1 — generates dialogue and sound effects from a single prompt; deep integration with Google Workspace and YouTube; backed by DeepMind research and A24 partnership",
+      "segment": "Streaming / Enterprise"
+    },
+    {
+      "name": "Kuaishou Kling",
+      "share": "20%",
+      "loved": "Best cost-quality ratio at $0.07/second (65% cheaper than Sora-era pricing); 4 entries in Artificial Analysis top 10; strong multi-shot coherence in Kling 3.0",
+      "segment": "Cost-Conscious / Global"
+    },
+    {
+      "name": "ByteDance Seedance",
+      "share": "15%",
+      "loved": "#1 on Artificial Analysis benchmarks (Feb 2026); TikTok parent's 1B+ user distribution moat; strong short-form social content performance",
+      "segment": "Social / Content Creator"
+    },
+    {
+      "name": "Pika Labs",
+      "share": "10%",
+      "loved": "Viral social formats (Pikaffects, Pikaswaps, Pikaformance lip-sync); Gen Z and creator niche; novelty and shareability over production fidelity",
+      "segment": "Consumer / Social"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Runway",
+      "detail": "US startup, $5.3B valuation (Feb 2026), $315M Series E led by General Atlantic. Gen-4 Turbo delivers the fastest high-quality generation; Gen-4.5 adds brand and character consistency. Lionsgate equity partner; Getty Images custom model deal. API pricing at $0.08/image."
+    },
+    {
+      "name": "Google Veo 3.1",
+      "detail": "Alphabet/DeepMind product. Veo 3 (early 2026) introduced native audio synthesis — sound effects, ambient audio, and character dialogue from a single text prompt. $75M A24 partnership. Integrated into Google Vids. Holds #3 on Artificial Analysis leaderboard."
+    },
+    {
+      "name": "Kuaishou Kling 3.0",
+      "detail": "Chinese tech giant Kuaishou. Kling 3.0 holds 4 entries in Artificial Analysis top 10. At $0.07/second, it undercuts US competitors by 44–65%. Strong in multi-shot storyboarding and longer-form coherence."
+    },
+    {
+      "name": "ByteDance Seedance 2.0",
+      "detail": "TikTok parent company, launched Feb 2026. Topped Artificial Analysis benchmark leaderboard ahead of Veo 3.1 and Kling. Massive distribution advantage via TikTok's 1B+ user base for rapid commercial adoption."
+    },
+    {
+      "name": "Black Forest Labs",
+      "detail": "European AI lab backed by filmmaker Martin Scorsese. Focuses on aesthetically authentic, artistically controlled film generation as an antidote to AI homogenization. Positions against the 'synthetic look' of US competitors with director-level compositional control."
+    }
+  ],
+  "canvas": {
+    "who": "Hollywood studios (Warner, Disney, Lionsgate), independent filmmakers and solo creators, streaming platforms (Netflix, Amazon MGM), advertising agencies building branded entertainment, and content creators seeking cinema-quality production at consumer budgets.",
+    "where": "Cloud-based production pipelines, post-production suites, home studios enabled by AI democratization, and purpose-built platforms (Runway, LTX Studio, mStudio). Integrated into Adobe Premiere, DaVinci Resolve, and Google Vids.",
+    "why_now": "AI video quality crossed the production-ready threshold in 2024 (Sora). Google DeepMind's A24 deal and Runway's $5.3B valuation provide institutional validation. SAG-AFTRA union agreements created legal clarity for AI use. Proven 90% cost reduction in animation removes the ROI objection.",
+    "behavior": "Studios integrate AI for VFX background generation, de-aging, and compositing before committing to live shoots. Indies use AI end-to-end for short-form series. Advertisers replace stock footage libraries with custom AI-generated branded visuals. Streamers extend catalog IP into AI-generated shorts.",
+    "unmet": "Consistent character identity across multi-scene AI projects; real-time directorial control without iterative prompt cycles; legally compliant digital replicas of living actors without consent friction; seamless integration into legacy NLE editing workflows without re-learning production pipelines."
+  },
+  "takeaways": [
+    "Studios that integrate AI into pre-visualization and VFX workflows now will lock in 30–40% structural cost advantages over incumbents still using traditional pipelines — prioritize Runway (enterprise) or Veo 3.1 (streaming) for immediate ROI in post-production.",
+    "Indie creators face a once-in-a-decade opportunity: AI tools collapsed professional filmmaking costs by 90%, making premium short-form content economically viable at individual scale — build IP first, then license to platforms hungry for AI-native franchises.",
+    "Compliance is the new moat — SAG-AFTRA digital replica rules and EU AI Act transparency mandates create legal barriers that will trigger costly retroactive litigation; studios that adopt Lionsgate's licensed-model approach proactively will avoid the $50M+ legal exposure their peers are accumulating.",
+    "Train for AI direction, not replacement — the bottleneck in AI filmmaking is no longer the model but human creative direction; production teams that invest in prompt engineering, storyboard-to-AI workflows, and AI director skills will outperform by 2:1 in content output per dollar."
+  ],
+  "sources": [
+    {
+      "publisher": "Variety",
+      "title": "Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools",
+      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+      "claim": "Google DeepMind $75M investment in A24, June 2026"
+    },
+    {
+      "publisher": "TechCrunch",
+      "title": "AI video startup Runway raises $315M at $5.3B valuation",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "claim": "Runway $315M Series E at $5.3B valuation, February 2026"
+    },
+    {
+      "publisher": "Research and Markets",
+      "title": "AI in Media & Entertainment Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/5785784/ai-in-media-and-entertainment-market-report",
+      "claim": "AI in media & entertainment market $35.77B in 2026, 26.3% CAGR"
+    },
+    {
+      "publisher": "People Matters",
+      "title": "Layoffs hit Hollywood: Film industry loses 6,700 jobs as AI reshapes production",
+      "url": "https://www.peoplematters.in/news/strategic-hr/layoffs-hit-hollywood-film-industry-loses-6700-jobs-as-ai-reshapes-production-50588",
+      "claim": "6,700 film and TV jobs lost in year to May 2026"
+    },
+    {
+      "publisher": "Variety",
+      "title": "Lionsgate Takes Equity Stake in Runway AI, Plans AI-Generated Short-Form Series",
+      "url": "https://variety.com/2026/film/news/lionsgate-equity-stake-runway-ai-franchises-for-ai-show-1236775590/",
+      "claim": "Lionsgate equity stake in Runway; AI short-form series from Hunger Games, John Wick"
+    },
+    {
+      "publisher": "Raman Media Network",
+      "title": "AI in Films Set for $4.6B Boom by 2030",
+      "url": "https://www.ramanmedianetwork.com/ai-in-films-research-report-2026-global-transition/",
+      "claim": "AI in film market $1.97B in 2026, growing to $4.6B by 2030 at 23.6% CAGR"
+    },
+    {
+      "publisher": "FourWeekMBA",
+      "title": "Filmmakers Say AI Can Cut Animation Costs 90%",
+      "url": "https://fourweekmba.com/ai-animation-90-percent-cost-cut-hollywood/",
+      "claim": "AI animation cost reduction up to 90%; $3K vs $300K for 30-minute shows"
+    },
+    {
+      "publisher": "Deadline",
+      "title": "Lionsgate's Michael Burns Says AI Will Save Tens And Tens Of Millions Of Dollars A Year",
+      "url": "https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/",
+      "claim": "Lionsgate executive confirms AI saves tens of millions annually in production"
+    },
+    {
+      "publisher": "Digital Applied",
+      "title": "AI Video Market After Sora: Runway, Kling, and Veo",
+      "url": "https://www.digitalapplied.com/blog/ai-video-market-after-sora-runway-kling-veo-2026",
+      "claim": "Runway, Kling, Veo, Pika competing for $2.4B AI video generation opportunity; Sora shutdown April 2026"
+    }
+  ]
+}

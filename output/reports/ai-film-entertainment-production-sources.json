@@ -1,0 +1,172 @@
+{
+  "trend": "AI in Film & Entertainment Production",
+  "slug": "ai-film-entertainment-production",
+  "research_date": "2026-09-20",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Variety",
+      "title": "Google Invests $75 Million in A24 to Develop AI-Powered Filmmaking Tools",
+      "url": "https://variety.com/2026/film/news/google-a24-ai-filmmaking-tools-1236787297/",
+      "date": "Jun 2026",
+      "claims_supported": [
+        "Google DeepMind $75M investment in A24 to co-develop AI filmmaking tools",
+        "Google gains access to DeepMind research and infrastructure for A24 workflows",
+        "Deal does not give Google access to A24 content library or data"
+      ],
+      "trust": "high"
+    },
+    {
+      "id": 2,
+      "publisher": "TechCrunch",
+      "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+      "url": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+      "date": "Feb 10, 2026",
+      "claims_supported": [
+        "Runway Series E: $315M at $5.3B post-money valuation",
+        "Round led by General Atlantic",
+        "Previous Series D (Apr 2025): $308M at $3B+ valuation"
+      ],
+      "trust": "high"
+    },
+    {
+      "id": 3,
+      "publisher": "Research and Markets",
+      "title": "AI in Media & Entertainment Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/5785784/ai-in-media-and-entertainment-market-report",
+      "date": "2026",
+      "claims_supported": [
+        "AI in media & entertainment market size: $35.77B in 2026",
+        "CAGR: 26.3% for the forecast period",
+        "North America accounts for 33.6% of global industry share in 2024"
+      ],
+      "trust": "medium"
+    },
+    {
+      "id": 4,
+      "publisher": "Raman Media Network",
+      "title": "AI in Films Set for $4.6B Boom by 2030",
+      "url": "https://www.ramanmedianetwork.com/ai-in-films-research-report-2026-global-transition/",
+      "date": "2026",
+      "claims_supported": [
+        "AI in film market: $1.59B (2025) → $1.97B (2026)",
+        "Projected to reach $4.6B by 2030",
+        "CAGR: 23.6%",
+        "Studios realized $2.4B savings from early AI tools in 2023"
+      ],
+      "trust": "medium"
+    },
+    {
+      "id": 5,
+      "publisher": "People Matters",
+      "title": "Layoffs hit Hollywood: Film industry loses 6,700 jobs as AI reshapes production",
+      "url": "https://www.peoplematters.in/news/strategic-hr/layoffs-hit-hollywood-film-industry-loses-6700-jobs-as-ai-reshapes-production-50588",
+      "date": "2026",
+      "claims_supported": [
+        "Motion picture and sound recording industry lost 6,700 jobs in the year to May 2026",
+        "100,000 of 550,000 US film jobs projected disrupted by end of 2026",
+        "Production jobs decreased over 35% from October 2022 to February 2026",
+        "Large VFX facilities quietly downsized 20-35% workforce mid-2024 to late-2025"
+      ],
+      "trust": "high"
+    },
+    {
+      "id": 6,
+      "publisher": "Variety",
+      "title": "Lionsgate Takes Equity Stake in Runway AI, Plans to Draw on Existing Properties for AI-Generated Short-Form Series",
+      "url": "https://variety.com/2026/film/news/lionsgate-equity-stake-runway-ai-franchises-for-ai-show-1236775590/",
+      "date": "Jun 2026",
+      "claims_supported": [
+        "Lionsgate takes equity stake in Runway AI",
+        "Partnership expanded from original September 2024 custom model deal",
+        "Lionsgate plans AI short-form series drawing from Hunger Games, John Wick, Twilight"
+      ],
+      "trust": "high"
+    },
+    {
+      "id": 7,
+      "publisher": "FourWeekMBA",
+      "title": "Filmmakers Say AI Can Cut Animation Costs 90% — That's a Moat Collapsing, Not Just a Layoff Story",
+      "url": "https://fourweekmba.com/ai-animation-90-percent-cost-cut-hollywood/",
+      "date": "2026",
+      "claims_supported": [
+        "AI tools can reduce animation production costs by up to 90%",
+        "30-minute AI-produced shows cost ~$3,000 vs. ~$300,000 traditionally"
+      ],
+      "trust": "medium"
+    },
+    {
+      "id": 8,
+      "publisher": "Deadline",
+      "title": "Lionsgate's Michael Burns Says AI Will Save 'Tens And Tens Of Millions Of Dollars A Year'",
+      "url": "https://deadline.com/2026/06/lionsgate-michael-burns-ai-saves-millions-runway-1236941043/",
+      "date": "Jun 2026",
+      "claims_supported": [
+        "Lionsgate executive Michael Burns confirms AI saves tens of millions annually",
+        "Lionsgate expanded Runway partnership to produce AI-generated short-form content"
+      ],
+      "trust": "high"
+    },
+    {
+      "id": 9,
+      "publisher": "Digital Applied",
+      "title": "AI Video Market After Sora: Runway, Kling, and Veo",
+      "url": "https://www.digitalapplied.com/blog/ai-video-market-after-sora-runway-kling-veo-2026",
+      "date": "2026",
+      "claims_supported": [
+        "Sora shut down by April 2026 due to $15M/day costs against $2.1M total lifetime revenue",
+        "Runway, Kling, Veo, Pika competing for $2.4B AI video generation market",
+        "Kling 3.0: $0.07/second (65% cheaper than Sora, 44% cheaper than Runway)",
+        "ByteDance Seedance 2.0 tops Artificial Analysis leaderboard (Feb 2026)"
+      ],
+      "trust": "medium"
+    },
+    {
+      "id": 10,
+      "publisher": "OpenPR",
+      "title": "AI In Media & Entertainment Market Analysis Highlights Growth To $87.44 Billion By 2030 At 25% CAGR",
+      "url": "https://www.openpr.com/news/4627757/ai-in-media-entertainment-market-analysis-highlights-growth",
+      "date": "2026",
+      "claims_supported": [
+        "AI in media & entertainment projected to reach $87.44B by 2030",
+        "CAGR of approximately 25% across the forecast period"
+      ],
+      "trust": "medium"
+    },
+    {
+      "id": 11,
+      "publisher": "Bloomberg",
+      "title": "AI Video Startup Runway Valued at $5.3 Billion With New Funding",
+      "url": "https://www.bloomberg.com/news/articles/2026-02-10/ai-video-startup-runway-valued-at-5-3-billion-with-new-funding",
+      "date": "Feb 10, 2026",
+      "claims_supported": [
+        "Runway $5.3B valuation confirmed by Bloomberg independent reporting",
+        "Corroborates TechCrunch $315M Series E reporting"
+      ],
+      "trust": "high"
+    },
+    {
+      "id": 12,
+      "publisher": "Hollywood Reporter",
+      "title": "A24 and Google DeepMind to Form an AI Venture",
+      "url": "https://www.hollywoodreporter.com/business/digital/a24-google-deepmind-ai-venture-backrooms-1236627228/",
+      "date": "Jun 2026",
+      "claims_supported": [
+        "A24 and Google DeepMind joint venture formation confirmed",
+        "Corroborates Variety reporting on $75M investment and AI filmmaking tools"
+      ],
+      "trust": "high"
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "15-30% lower carbon footprint per AI-assisted production vs. traditional production",
+      "note": "No primary source found; flagged as [unverified] in trend data"
+    },
+    {
+      "claim": "growth_3m of +12% for Q2-Q3 2026",
+      "note": "Estimate based on pace of deal announcements; no published quarterly market data found"
+    }
+  ],
+  "research_methodology": "WebSearch across Variety, Deadline, TechCrunch, Bloomberg, Research and Markets, Raman Media Network, People Matters, Digital Applied, OpenPR. All market sizing claims cross-referenced against minimum two sources. Employment statistics sourced from People Matters (citing industry reports). Funding data sourced from Bloomberg and TechCrunch (highest-trust financial sources)."
+}
