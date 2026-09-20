@@ -1,0 +1,125 @@
+{
+  "trend": "A2A Protocol — Agent-to-Agent Interoperability",
+  "slug": "a2a-agent-to-agent-protocol",
+  "research_date": "2026-09-17",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Linux Foundation",
+      "url": "https://www.linuxfoundation.org/press/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year",
+      "date": "2026-04-09",
+      "claim": "A2A Protocol surpasses 150 supporting organizations at one-year mark; production deployments confirmed in Microsoft Azure AI Foundry, Amazon Bedrock AgentCore, and Salesforce Agentforce; 22,000+ GitHub stars",
+      "verified": true,
+      "used_for": ["org_count_150", "production_deployments", "github_stars", "timeline_april_2026"]
+    },
+    {
+      "id": 2,
+      "publisher": "Google Developers Blog",
+      "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/",
+      "date": "2025-04-09",
+      "claim": "Google announces Agent2Agent Protocol on April 9, 2025 with 50+ founding partners including Salesforce, SAP, ServiceNow, Atlassian, PayPal, and LangChain",
+      "verified": true,
+      "used_for": ["launch_date", "founding_partners", "protocol_origin", "timeline_april_2025"]
+    },
+    {
+      "id": 3,
+      "publisher": "Linux Foundation",
+      "url": "https://www.linuxfoundation.org/press/linux-foundation-launches-the-agent2agent-protocol-project-to-enable-secure-intelligent-communication-between-ai-agents",
+      "date": "2025-06-23",
+      "claim": "Google donates A2A to Linux Foundation on June 23, 2025; AWS, Cisco, Google, Microsoft, Salesforce, SAP, and ServiceNow named as founding members",
+      "verified": true,
+      "used_for": ["linux_foundation_donation", "founding_members", "timeline_june_2025"]
+    },
+    {
+      "id": 4,
+      "publisher": "Google Open Source Blog",
+      "url": "https://opensource.googleblog.com/2026/04/a-year-of-open-collaboration-celebrating-the-anniversary-of-a2a.html",
+      "date": "2026-04-09",
+      "claim": "A2A one-year anniversary retrospective: 22,000+ GitHub stars, stable v1.0 milestone, and confirmed production deployments at enterprise scale",
+      "verified": true,
+      "used_for": ["github_stars", "v1_stable", "ecosystem_growth", "timeline_april_2026"]
+    },
+    {
+      "id": 5,
+      "publisher": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/Market-Reports/ai-agents-market-15761548.html",
+      "date": "2025",
+      "claim": "Global AI Agents market size: USD 7.84 billion in 2025, projected USD 52.62 billion by 2030, registering CAGR of 46.3%",
+      "verified": true,
+      "used_for": ["market_size_2025", "market_size_2030", "cagr_46pct", "pestal_economic"]
+    },
+    {
+      "id": 6,
+      "publisher": "Gartner",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-04-07-gartner-forecasts-supply-chain-management-software-with-agentic-ai-will-grow-to-53-billion-in-spend-by-2030",
+      "date": "2026-04-07",
+      "claim": "Gartner forecasts agentic AI software spend at $201.9B in 2026; supply chain management software with agentic AI to reach $53B in spend by 2030",
+      "verified": true,
+      "used_for": ["agentic_ai_spend_2026", "supply_chain_forecast", "pestal_economic", "jobs_supply_chain"]
+    },
+    {
+      "id": 7,
+      "publisher": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/a2a-protocol-surpasses-150-organizations-lands-in-major-cloud-platforms-and-sees-enterprise-production-use-in-first-year-302737641.html",
+      "date": "2026-04-09",
+      "claim": "Official press release confirming A2A one-year milestone; vertical adoption spans supply chain, financial services, insurance, and IT operations",
+      "verified": true,
+      "used_for": ["enterprise_verticals", "jobs_to_be_done", "canvas_who", "canvas_where"]
+    },
+    {
+      "id": 8,
+      "publisher": "AI Growth Agent (DataForSEO data)",
+      "url": "https://aigrowthagent.co/articles/a2a-protocol-bot-traffic-growth/",
+      "date": "2026-04",
+      "claim": "'a2a protocol' search volume grew 52% quarter-over-quarter and 22% month-over-month per DataForSEO April 2026 data",
+      "verified": true,
+      "used_for": ["growth_3m_52pct", "search_volume_trend"]
+    },
+    {
+      "id": 9,
+      "publisher": "EU Legal Nodes",
+      "url": "https://www.legalnodes.com/article/eu-ai-act-2026-updates-compliance-requirements-and-business-risks",
+      "date": "2026",
+      "claim": "EU AI Act transparency rules came into effect August 2026; high-risk AI systems (including autonomous financial and medical agents) require auditability, human oversight, and conformity assessment",
+      "verified": true,
+      "used_for": ["pestal_legal", "pestal_political", "takeaways_eu_act"]
+    },
+    {
+      "id": 10,
+      "publisher": "Zylos Research",
+      "url": "https://zylos.ai/research/2026-02-15-agent-to-agent-communication-protocols/",
+      "date": "2026-02-15",
+      "claim": "AI agent ecosystem converging on four complementary protocols: A2A (Google), MCP (Anthropic), ACP (IBM), ANP (community). MCP crossed 97M monthly SDK downloads (Python + TypeScript) by February 2026",
+      "verified": true,
+      "used_for": ["competitors_mcp", "competitors_anp", "competitors_acp", "protocol_stack_description"]
+    },
+    {
+      "id": 11,
+      "publisher": "Belitsoft / Barchart",
+      "url": "https://www.barchart.com/story/news/1204699/belitsoft-releases-ai-agent-development-forecast-2026-40-of-enterprise-applications-to-include-task-specific-agents-by-year-end",
+      "date": "2026",
+      "claim": "40% of enterprise applications projected to include task-specific AI agents by end of 2026, up from less than 5% in 2025 (Gartner/Belitsoft)",
+      "verified": true,
+      "used_for": ["pestal_social", "market_scale_40pct"]
+    },
+    {
+      "id": 12,
+      "publisher": "Stellagent",
+      "url": "https://stellagent.ai/insights/a2a-protocol-google-agent-to-agent",
+      "date": "2026",
+      "claim": "Salesforce Agentforce grew from launch to $1.2B ARR in 18 months; ServiceNow Now Assist crossed $1B ARR in 14 months — both powered by A2A-compatible agent infrastructure",
+      "verified": true,
+      "used_for": ["market_players_salesforce_arr", "market_players_servicenow_arr"]
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Total monthly search volume ~75,000 for 'a2a protocol' and related terms",
+      "note": "Estimated from 52% QoQ growth signal; exact absolute volume not confirmed by a primary source"
+    },
+    {
+      "claim": "Market share % breakdown among Google, Microsoft, Salesforce, ServiceNow, AWS",
+      "note": "Percentages represent estimated ecosystem influence/enterprise reach based on adoption reports, not published revenue share figures"
+    }
+  ]
+}
