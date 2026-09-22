@@ -1,0 +1,77 @@
+{
+  "topic": "AI in Veterinary & Animal Health",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "GlobeNewswire",
+      "title": "Rapid Growth in AI for Animal Health: Market Expected to Reach $4.21 Billion by 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322908/0/en/Rapid-Growth-in-AI-for-Animal-Health-Market-Expected-to-Reach-4-21-Billion-by-2030.html",
+      "claim": "Global AI in animal health market is expected to reach $4.21 billion by 2030 at a CAGR of 19.6%; market grew from $1.72B in 2025 to $2.06B in 2026",
+      "date": "July 2026"
+    },
+    {
+      "id": 2,
+      "publisher": "IDEXX Laboratories Investor Relations",
+      "title": "IDEXX Laboratories Acquires CoVetAI to Advance Veterinary Workflow Intelligence",
+      "url": "https://ir.idexx.com/news-events/press-releases/detail/417/idexx-laboratories-acquires-covetai-to-advance-veterinary-workflow-intelligence",
+      "claim": "IDEXX acquired CoVetAI on September 16, 2026 to integrate AI ambient listening and clinical workflow software into its veterinary diagnostics ecosystem",
+      "date": "September 2026"
+    },
+    {
+      "id": 3,
+      "publisher": "PRNewswire / Digitail",
+      "title": "Digitail Raises $23M USD Series B Led by Five Elms Capital",
+      "url": "https://www.prnewswire.com/news-releases/digitail-raises-23m-usd-series-b-led-by-five-elms-capital-302609456.html",
+      "claim": "Digitail raised $23M Series B in November 2025, bringing total investment to $37M, supporting 10,000 veterinarians and 3 million pet parents across its AI-native practice management platform",
+      "date": "November 2025"
+    },
+    {
+      "id": 4,
+      "publisher": "GlobeNewswire",
+      "title": "AI Is Reshaping Veterinary Medicine: Investment Surges as Diagnostic, Documentation, and Remote Monitoring Technologies Gain Traction",
+      "url": "https://www.globenewswire.com/news-release/2026/08/19/3347772/0/en/ai-is-reshaping-veterinary-medicine-investment-surges-as-diagnostic-documentation-and-remote-monitoring-technologies-gain-traction.html",
+      "claim": "AI adoption in veterinary practices grew from 11% in 2025 to 27% in 2026; Lupa Pets secured ~$20M Series A funding; diagnostic imaging identified as highest-impact clinical AI application",
+      "date": "August 2026"
+    },
+    {
+      "id": 5,
+      "publisher": "Precedence Research",
+      "title": "Artificial Intelligence (AI) In Animal Health Market Size, Report By 2035",
+      "url": "https://www.precedenceresearch.com/artificial-intelligence-in-animal-health-market",
+      "claim": "AI in animal health market predicted to increase from USD 2.01 billion in 2026 to approximately USD 9.56 billion by 2035, expanding at a CAGR of 18.99%",
+      "date": "2026"
+    },
+    {
+      "id": 6,
+      "publisher": "OpenPR",
+      "title": "AI Veterinary Diagnostics Market: Regaining Its Glory | Mars Petcare, IDEXX Laboratories, Zoetis",
+      "url": "https://www.openpr.com/news/4572109/ai-veterinary-diagnostics-market-regaining-its-glory-mars",
+      "claim": "Mars Petcare's Banfield captures 11.5% and VCA captures 10% of AI veterinary citation share; companion animal diagnostics market valued at USD 7.6 billion in 2026",
+      "date": "2026"
+    },
+    {
+      "id": 7,
+      "publisher": "USDA",
+      "title": "United States Department of Agriculture Fiscal Year 2025-2026 AI Strategy",
+      "url": "https://www.usda.gov/sites/default/files/documents/fy-2025-2026-usda-ai-strategy.pdf",
+      "claim": "USDA published formal AI strategy for FY2025-2026 targeting livestock disease surveillance and zoonotic outbreak early warning systems with AI",
+      "date": "2025"
+    },
+    {
+      "id": 8,
+      "publisher": "Springer Nature / One Health Outlook",
+      "title": "One health strategies against antimicrobial resistance integrating artificial intelligence genomics and environmental surveillance for planetary health",
+      "url": "https://link.springer.com/article/10.1186/s12982-026-02076-w",
+      "claim": "AI-driven surveillance systems for antimicrobial resistance integrate genomic sequences, clinical records, environmental samples, antimicrobial usage, and epidemiological data from human, veterinary, and environmental sources",
+      "date": "2026"
+    },
+    {
+      "id": 9,
+      "publisher": "Dallas Express / Market Research",
+      "title": "Pet Humanization: Millennials And Gen Z Turn Pets Into Family — Fueling Pet Boom",
+      "url": "https://dallasexpress.com/national/pet-humanization-millennials-and-gen-z-turn-pets-into-family-fueling-pet-boom/",
+      "claim": "69% of Millennials and Gen Z view pets as family members; U.S. pet industry expenditures reached $158 billion in 2025; average pet owner spends $1,100+/year on health costs",
+      "date": "2026"
+    }
+  ]
+}
