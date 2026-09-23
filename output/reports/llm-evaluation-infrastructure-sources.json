@@ -1,0 +1,121 @@
+{
+  "slug": "llm-evaluation-infrastructure",
+  "trend_name": "AI Model Evaluation Infrastructure",
+  "research_date": "2026-09-23",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "publisher": "TechCrunch",
+      "claim": "Vals AI raised $40M Series A led by a16z on August 13, 2026. The company positions as a neutral third-party AI benchmarking platform for enterprise procurement decisions. TechCrunch describes it as seeking to become 'the gold standard for AI benchmarking.'",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Vals AI Raises $40M in Series A Funding at $400M Valuation",
+      "url": "https://www.finsmes.com/2026/08/vals-ai-raises-40m-in-series-a-funding-at-400m-valuation.html",
+      "publisher": "Finsmes",
+      "claim": "Vals AI raised $40M Series A at $400M valuation on August 13, 2026, led by a16z with participation from HRT Ventures and Next Ladder Ventures. Total funding raised stands at $45M.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "The $800M Race to Own AI Agent Evaluation: Braintrust, Arize, Patronus, and the Infrastructure Layer Every Production Team Needs",
+      "url": "https://agentmarketcap.ai/blog/2026/04/10/ai-agent-eval-infrastructure-market-2026",
+      "publisher": "AgentMarketCap",
+      "claim": "Collective valuation of AI evaluation companies (Braintrust, Arize AI, Patronus AI, Galileo, Fiddler, HoneyHive, Scorecard) surpasses $2.2B. Documents 37% gap between lab benchmark scores and real-world production AI performance. LLM eval platform market reached $1.35B in 2024 and is projected to reach $8.2B by 2032 at 25.3% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Braintrust — 2026 Company Profile, Funding & Competitors",
+      "url": "https://tracxn.com/d/companies/braintrust/__oa36ci6gZZRhWulUAavDKOZLtVKKCXdoLz0NSTi-HOw",
+      "publisher": "Tracxn",
+      "claim": "Braintrust closed $80M Series B in February 2026 at $800M post-money valuation, led by Iconiq with participation from a16z, Greylock, Basecase Capital, and Elad Gil. Customer list includes Notion, Replit, Cloudflare, Ramp, Dropbox, Vercel, Navan, and BILL.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "AI Model Evaluation Platform Market Size Report 2026-2030",
+      "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-model-evaluation-platform-market-report",
+      "publisher": "The Business Research Company",
+      "claim": "AI Model Evaluation Platform market reached $2.36 billion in 2026, projected to grow to $6.24 billion by 2030 at a 27.5% CAGR. North America holds 46% market share in 2026.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Large Language Model (LLM) Observability Platform Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6215671/large-language-model-llm-observability",
+      "publisher": "Research and Markets",
+      "claim": "LLM Observability Platform market valued at $2.69B in 2026, projected to reach $9.26B by 2030, growing at a 36.2% CAGR.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "Agent-eval startups: funding a benchmark nobody trusts",
+      "url": "https://www.thedeepfeed.ai/posts/2026-06-25-agent-eval-startups-metric-nobody-trusts/",
+      "publisher": "The Deep Feed",
+      "claim": "Patronus AI raised $50M Series B on June 25, 2026. Documents the market dynamic of enterprise agentic AI showing 37% gap between benchmark scores and production performance, validating evaluation infrastructure as a category.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "AI Benchmarks 2026: Top Evaluations and Their Limits",
+      "url": "https://kili-technology.com/blog/ai-benchmarks-guide-the-top-evaluations-in-2026-and-why-theyre-not-enough",
+      "publisher": "Kili Technology",
+      "claim": "Documents benchmark saturation in 2026: frontier models including Gemini 3 Pro (~90.1%), Claude Opus 4.5 (~89.5%), and DeepSeek-V3.2 (~85.0%) are approaching the MMLU-Pro ceiling, rendering academic benchmarks increasingly meaningless for enterprise evaluation.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Model Evaluation and Benchmarking Tools Market Size to Hit USD 9.57 Billion by 2035",
+      "url": "https://www.precedenceresearch.com/model-evaluation-and-benchmarking-tools-market",
+      "publisher": "Precedence Research",
+      "claim": "Global model evaluation and benchmarking tools market is expanding from 2026 to approximately $9.57 billion by 2035 at a 9.57% CAGR. Gartner predicts 60% of software engineering teams will use AI evaluation and observability platforms by 2028, up from 18% in 2025.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "EU AI Act Regulations and Governance in 2026",
+      "url": "https://sombrainc.com/blog/ai-regulations-2026-eu-ai-act",
+      "publisher": "Sombra",
+      "claim": "EU AI Act enforcement begins August 2, 2026. High-risk AI systems must pass conformity assessments and maintain technical documentation. Models already on market before August 2, 2025 must comply by August 2, 2027. Four risk tiers defined: unacceptable, high, limited, and minimal risk.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Compute Power AI — Technology Predictions 2026",
+      "url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2026/compute-power-ai.html",
+      "publisher": "Deloitte",
+      "claim": "Inference workloads account for roughly two-thirds of all AI compute in 2026, up from one-third in 2023 and half in 2025. The market for inference-optimized chips will grow to over $50B in 2026.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "The LLM Eval Vendor Buyer's Guide for 2026",
+      "url": "https://futureagi.com/blog/llm-eval-vendor-buyer-guide-2026/",
+      "publisher": "FutureAGI",
+      "claim": "Comprehensive 2026 buyer's guide for LLM evaluation platforms. Documents the three-tier market segmentation: open-source observability (Langfuse, Arize/Phoenix), evaluation and testing platforms (Patronus AI, Braintrust, Galileo), and governance/compliance platforms (Credo AI, Fiddler AI, Holistic AI).",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Market share percentages for Braintrust (~23%), Arize (~18%), Patronus (~14%), Vals AI (~11%), Galileo (~8%)",
+      "note": "No public market share breakdown available. These are internal estimates based on reported funding, valuation, and customer count data. All flagged as [est] in trend data. [unverified]"
+    },
+    {
+      "claim": "Growth rates: +4,800% (5Y), +31% (1Y), +28% (3M Q3)",
+      "note": "5Y growth is an approximation reflecting market creation (near-zero category in 2021 to $2.36B in 2026). 1Y growth derived from CAGR figures. 3M growth estimated from accelerating funding activity in Q2-Q3 2026. All figures are directionally sound but not sourced from a single authoritative report. [partially verified]"
+    },
+    {
+      "claim": "Search volume ~65,000/mo",
+      "note": "Estimated combined monthly search volume for 'LLM evaluation', 'AI model testing', 'AI benchmarking tools', and related terms. Not verified via Keyword Everywhere or Google Search Console. [unverified]"
+    },
+    {
+      "claim": "LLM-judge frameworks correlate 85-90% with human judgments",
+      "note": "Directionally accurate based on multiple academic papers on LLM-as-judge frameworks, but the specific 85-90% figure varies by domain and task type. [partially verified]"
+    }
+  ]
+}
