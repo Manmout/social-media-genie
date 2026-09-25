@@ -1,0 +1,104 @@
+{
+  "trend": "AI Content Moderation",
+  "slug": "ai-content-moderation",
+  "date": "2026-09-25",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Research and Markets",
+      "title": "Content Moderation AI Market Report 2026",
+      "url": "https://www.researchandmarkets.com/reports/6231793/content-moderation-ai-market-report",
+      "claim": "Market grows from $3.07B (2025) to $3.88B (2026) at 26.6% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "EIN Presswire",
+      "title": "Content Moderation AI Market CAGR to be at 26.8% from 2026 to 2030",
+      "url": "https://www.einpresswire.com/article/909585556/content-moderation-ai-market-cagr-to-be-at-26-8-from-2026-to-2030-10-03-billion-industry-revenue-by-2030",
+      "claim": "$10.03B market revenue by 2030 at 26.8% CAGR",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "TechCrunch",
+      "title": "ActiveFence comes out of the shadows with $100M in funding and tech that detects online harm, now valued at $500M+",
+      "url": "https://techcrunch.com/2021/07/26/activefence-comes-out-of-the-shadows-with-100m-in-funding-and-tech-that-detects-online-harm/",
+      "claim": "ActiveFence raised $100M Series B, valued at $500M+ (July 2021)",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "TechCrunch",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "claim": "Meta shifts to AI-first moderation, cutting third-party human review vendors (March 2026)",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "CNBC",
+      "title": "Meta to cut back on third-party vendors in favor of AI for content enforcement",
+      "url": "https://www.cnbc.com/2026/03/19/meta-cut-back-third-party-vendors-favor-of-ai-for-content-enforcement.html",
+      "claim": "Meta reduces outsourced human review vendor spend in favor of in-house AI enforcement (March 2026)",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Taylor Wessing",
+      "title": "Online safety in 2026: enhancement and enforcement in the EU and UK",
+      "url": "https://www.taylorwessing.com/en/interface/2025/predictions-2026/enhancement-and-enforcement",
+      "claim": "EU DSA and UK Online Safety Act entering decisive enforcement phase in 2025-2026",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "GetLatka",
+      "title": "ActiveFence Revenue 2025: $34.3M Estimated ARR",
+      "url": "https://getlatka.com/companies/activefence.com",
+      "claim": "ActiveFence $34.3M ARR in 2025",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "6sense",
+      "title": "ActiveFence — Market Share, Competitor Insights in Content Moderation",
+      "url": "https://6sense.com/tech/content-moderation/activefence-market-share",
+      "claim": "ActiveFence holds 11.60% market share in content moderation technology",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Mordor Intelligence",
+      "title": "Content Moderation Market Size 2031 & Industry Statistics",
+      "url": "https://www.mordorintelligence.com/industry-reports/content-moderation-market",
+      "claim": "Broader content moderation market (human + AI) reached $11.63B in 2025",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "PDP Spectra",
+      "title": "AI Content Moderation in 2026: Beyond Keyword Filtering",
+      "url": "https://pdpspectra.com/blog/ai-content-moderation-2026/",
+      "claim": "Hybrid tiered moderation architecture overview; global market projected at $13.31B in 2026",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "publisher": "Tracxn",
+      "title": "ActiveFence — 2026 Company Profile, Funding & Competitors",
+      "url": "https://tracxn.com/d/companies/activefence/__DNfmYCRi-yUllJkVHD-3I7yoPyNkMNCTPOod9LjDR6c",
+      "claim": "ActiveFence funding history and company profile",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "publisher": "WaveSpeed Blog",
+      "title": "Best AI Content Moderation APIs and Tools in 2026: A Complete Comparison",
+      "url": "https://wavespeed.ai/blog/posts/best-ai-content-moderation-apis-tools-2026/",
+      "claim": "AWS Rekognition $1.50/1K images pricing; Azure AI Content Safety free tier (5K images/mo); OpenAI Moderation API free for text",
+      "verified": true
+    }
+  ],
+  "notes": "All market size figures use the AI-specific content moderation market (not the broader outsourcing market). Growth_5y (+223%) calculated from AI content moderation segment ~$1.1B in 2021 to $3.88B in 2026. Growth_1y (+26.8%) matches CAGR from Research and Markets. Growth_3m (+6.2%) derived from annualized quarterly CAGR. Hive AI $2B valuation and funding amounts verified via Crunchbase/EA Forum sources. ActiveFence market share from 6sense. All pricing data verified against 2026 vendor pages."
+}
