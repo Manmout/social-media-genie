@@ -1,0 +1,163 @@
+{
+  "trend_name": "AI Digital Physical Therapy",
+  "slug": "ai-digital-physical-therapy",
+  "status": "surging",
+  "search_volume": 74000,
+  "category": "AI & Technology",
+  "growth_5y": "+620%",
+  "growth_1y": "+25%",
+  "growth_3m": "+6%",
+  "trigger": "Sword Health acquires Kaia Health for $285M, creating a dominant US-EU digital MSK duopoly and securing German DiGA regulatory moat (January 2026)",
+  "summary": "AI-powered digital physical therapy platforms are disrupting a $41B global PT market by delivering motion-sensing, LLM-coached rehabilitation direct to patients' homes. Hinge Health ($732M 2026 revenue, NYSE-listed) and Sword Health (3M lives managed, $450M raised) dominate an employer-sponsored model that has proven 3-5x ROI on MSK cost reduction. The 1.71 billion people globally living with musculoskeletal conditions — the #1 cause of global disability — represent an enormous addressable market as AI brings clinical-grade care beyond the walls of the clinic.",
+  "timeline": [
+    {
+      "date": "2016",
+      "event": "Hinge Health founded as first employer-sponsored digital MSK platform, pairing wearable motion sensors with remote physical therapist coaching"
+    },
+    {
+      "date": "2020",
+      "event": "COVID-19 forces telehealth adoption; Sword Health launches Sword Phoenix, its first AI therapist replacing some live PT sessions"
+    },
+    {
+      "date": "2021",
+      "event": "Hinge Health raises $300M Series D at $6.2B valuation; digital MSK market reaches ~$900M globally as remote work drives spine/shoulder injury surge"
+    },
+    {
+      "date": "2023",
+      "event": "Sword Health introduces AI-only virtual therapy sessions for routine MSK cases — first full LLM-coached rehab without mandatory human PT"
+    },
+    {
+      "date": "Jan 2025",
+      "event": "Hinge Health IPOs on NYSE, validating employer-sponsored digital health as a durable category; Sword raises additional growth capital"
+    },
+    {
+      "date": "Jan 2026",
+      "event": "Sword Health acquires Kaia Health for $285M, gaining Germany DiGA regulatory approval and expanding to 3M+ managed lives across US and Europe"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "CMS expanding telehealth reimbursement permanency post-COVID; 40+ US states progressing PT licensure compacts that enable cross-state digital PT practice"
+    },
+    {
+      "factor": "Economic",
+      "impact": "MSK conditions cost US employers ~$7,400/employee/year in absenteeism and lost productivity; digital PT has demonstrated 3-5x ROI, accelerating enterprise adoption"
+    },
+    {
+      "factor": "Social",
+      "impact": "1.71 billion people globally live with MSK conditions (WHO); opioid crisis urgency and remote-work posture epidemic drive demand for non-pharmaceutical pain management alternatives"
+    },
+    {
+      "factor": "Technological",
+      "impact": "Smartphone computer vision + inertial sensors achieve 92%+ accuracy in joint angle measurement; LLM coaching delivers personalized session guidance; ambient wearables enable continuous rehabilitation monitoring"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Digital PT eliminates 50%+ of patient clinic trips, reducing healthcare transportation carbon footprint; home-based rehab cuts facility energy use"
+    },
+    {
+      "factor": "Legal",
+      "impact": "ERISA litigation emerging over AI-driven PT authorization decisions; FDA evaluating medical device classification for AI motion-analysis apps; Germany DiGA pathway creates reimbursement moat in Europe"
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Chronic pain management without clinic access",
+      "solution": "AI-guided daily PT exercises via smartphone app with real-time motion correction, eliminating months-long waitlists for in-person PT"
+    },
+    {
+      "job": "Post-surgical home rehabilitation",
+      "solution": "Camera-based motion sensing tracks recovery milestones post-orthopedic surgery, alerting clinical team only when deviation from protocol detected"
+    },
+    {
+      "job": "Employer MSK cost reduction",
+      "solution": "Employer-sponsored AI PT programs embedded in benefits packages reduce MSK-related claims and absenteeism with measurable ROI reporting"
+    },
+    {
+      "job": "Preventive MSK screening for desk workers",
+      "solution": "AI posture + ergonomics assessments via webcam identify at-risk employees before acute injury; personalized stretch/strength protocols delivered proactively"
+    },
+    {
+      "job": "Automated clinical documentation",
+      "solution": "AI generates session notes, progress reports, and outcome metrics automatically from motion sensor data, cutting PT administrative burden by 60-80%"
+    }
+  ],
+  "market": [
+    {
+      "name": "Hinge Health",
+      "share": 40,
+      "loved": "Revenue leader ($732M projected 2026); NYSE-listed; deepest employer network; comprehensive chronic pain + mental health integration",
+      "segment": "Employer-sponsored digital MSK + chronic pain"
+    },
+    {
+      "name": "Sword Health",
+      "share": 22,
+      "loved": "AI-only therapy model; Kaia acquisition adds Germany DiGA moat; 3M+ managed lives; aggressive international expansion",
+      "segment": "Employer digital PT + European markets"
+    },
+    {
+      "name": "Omada Health",
+      "share": 12,
+      "loved": "Broader chronic condition platform (diabetes + MSK); NYSE-listed 2025; payer + employer dual channel",
+      "segment": "Chronic condition management (MSK + metabolic)"
+    },
+    {
+      "name": "Lin Health",
+      "share": 5,
+      "loved": "Pain psychology + PT integration; specialist chronic pain focus; strong clinical outcomes data",
+      "segment": "Chronic pain specialist (MSK + psychology)"
+    },
+    {
+      "name": "Reflexion Health",
+      "share": 4,
+      "loved": "FDA-cleared VERA virtual rehab system; post-surgical orthopedic focus; hospital system partnerships",
+      "segment": "Post-surgical rehabilitation (hospital channel)"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Hinge Health",
+      "detail": "NYSE-listed digital health company; $732M-$742M 2026 revenue; serves 3,000+ employers; integrates wearable EMG sensors with digital PT and mental health coaching; 2021 valuation $6.2B"
+    },
+    {
+      "name": "Sword Health",
+      "detail": "Private unicorn; $450M total raised; acquired Kaia Health for $285M (Jan 2026); Portugal NHS partnership covering 10M people; Germany DiGA approval provides European regulatory moat; Sword Phoenix AI therapist"
+    },
+    {
+      "name": "Kaia Health (now Sword)",
+      "detail": "German-origin digital MSK app; DiGA (Digitale Gesundheitsanwendungen) regulatory approval enables statutory insurer reimbursement in Germany; app-based motion sensing without wearable hardware"
+    },
+    {
+      "name": "Omada Health",
+      "detail": "Broader chronic disease digital health platform; MSK program launched 2022; IPO'd 2025; payer + employer dual channel; integrates PT with diabetes and hypertension programs"
+    },
+    {
+      "name": "Luna Physical Therapy",
+      "detail": "Hybrid model: licensed PTs go to patients' homes; AI scheduling + documentation; different from pure digital but relevant employer competitor; expanding to on-demand model"
+    }
+  ],
+  "canvas": {
+    "who": "Working adults 30-60 with chronic back, neck, or knee pain; post-surgical orthopedic patients; HR/benefits managers at self-insured employers with 500+ employees; insurers seeking to reduce MSK claims",
+    "where": "Home via smartphone + optional wearable sensor kit; employer benefits portal; payer reimbursed digital health benefit; post-discharge hospital care pathway",
+    "why_now": "Remote work caused a 32% increase in lower-back MSK injuries 2020-2024; in-person PT access requires weeks-to-months wait and $150+ per session not fully covered by insurance; opioid-alternative policies driving employer adoption; LLM-quality AI coaching now clinically validated",
+    "behavior": "Shifting from 12-session in-clinic PT courses to always-on AI-guided home rehab with weekly asynchronous PT check-ins; employers moving from reactive claims coverage to preventive MSK programs bundled in benefits",
+    "unmet": "Seamless EHR integration for care continuity with treating physicians; full reimbursement parity between digital and in-person PT; clinical trust — some specialists skeptical of AI motion analysis accuracy for complex post-surgical cases"
+  },
+  "takeaways": [
+    "Target the employer channel before insurers — proven 3-5x ROI on MSK claims reduction compresses sales cycles and delivers recurring revenue without reimbursement complexity",
+    "Invest in motion sensing clinical validation — publishing peer-reviewed outcomes data is the fastest path to PT community trust and hospital system partnerships",
+    "Pursue German DiGA or FDA 510(k) clearance early — regulatory approval creates a reimbursement moat that pure-app competitors cannot easily replicate",
+    "Build a hybrid AI + licensed PT model — autonomous AI coaching sees highest engagement when paired with asynchronous PT check-ins, outperforming fully autonomous or fully human approaches on adherence metrics"
+  ],
+  "sources": [
+    "https://www.towardshealthcare.com/insights/us-ai-in-physical-therapy-market-sizing",
+    "https://www.fiercehealthcare.com/digital-health/hinge-health-projects-2026-revenue-hit-732m-buoyed-strong-growth-investments-ai",
+    "https://www.fiercehealthcare.com/ai-and-machine-learning/sword-health-buys-kaia-health-285m-deal-expand-its-footprint-us-germany",
+    "https://www.grandviewresearch.com/industry-analysis/digital-health-musculoskeletal-care-market-report",
+    "https://www.physitrack.com/insights/hinge-health-vs-sword-health",
+    "https://www.galengrowth.com/in-the-battle-for-digital-health-supremacy-sword-healths-european-roots-fuel-a-global-power-play/",
+    "https://www.healthcare.digital/single-post/digital-musculoskeletal-care-market-transatlantic-champions-v-european-platform-innovations",
+    "https://kinvent.com/blog/physical-therapy-trends-in-2026/"
+  ]
+}

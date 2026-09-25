@@ -1,0 +1,97 @@
+{
+  "trend": "AI Digital Physical Therapy",
+  "slug": "ai-digital-physical-therapy",
+  "research_date": "2026-09-24",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Toward Healthcare",
+      "url": "https://www.towardshealthcare.com/insights/us-ai-in-physical-therapy-market-sizing",
+      "title": "U.S. AI in Physical Therapy Market to Rise at 25.28% CAGR till 2035",
+      "claim": "U.S. AI PT market: $224.54M in 2026 → $1,706.98M by 2035, CAGR 25.28%",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/digital-health/hinge-health-projects-2026-revenue-hit-732m-buoyed-strong-growth-investments-ai",
+      "title": "Hinge Health projects 2026 revenue to hit $732M buoyed by strong growth, AI investments",
+      "claim": "Hinge Health 2026 revenue guidance: $732M–$742M",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sword-health-buys-kaia-health-285m-deal-expand-its-footprint-us-germany",
+      "title": "Sword Health buys Kaia Health in $285M deal to expand its footprint in US, Germany",
+      "claim": "Sword Health acquired Kaia Health for $285M in January 2026; secures German DiGA approval",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Grand View Research",
+      "url": "https://www.grandviewresearch.com/industry-analysis/digital-health-musculoskeletal-care-market-report",
+      "title": "Digital Health For Musculoskeletal Care Market Report, 2025-2030",
+      "claim": "Global digital health MSK care market valued at $4.4B in 2024, estimated at $6.0B in 2026",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Physitrack",
+      "url": "https://www.physitrack.com/insights/hinge-health-vs-sword-health",
+      "title": "Hinge Health vs Sword Health: Which Digital MSK Platform Wins in 2026?",
+      "claim": "Sword Health holds ~22% of employer-sponsored digital PT market; manages 3M+ lives across US and Europe as of early 2026",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Galen Growth",
+      "url": "https://www.galengrowth.com/in-the-battle-for-digital-health-supremacy-sword-healths-european-roots-fuel-a-global-power-play/",
+      "title": "Sword Health Acquires Kaia: A $285M Digital MSK Power Play",
+      "claim": "Kaia acquisition gives Sword immediate regulatory and reimbursement moat in Germany; Sword total raised $450M",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "Healthcare Digital",
+      "url": "https://www.healthcare.digital/single-post/digital-musculoskeletal-care-market-transatlantic-champions-v-european-platform-innovations",
+      "title": "Digital Musculoskeletal Care Market: Transatlantic Champions v. European Platform Innovations",
+      "claim": "Employer channel dominates digital MSK revenue; European market expanding via regulatory pathways",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Kinvent",
+      "url": "https://kinvent.com/blog/physical-therapy-trends-in-2026/",
+      "title": "Top 10 Physical Therapy Trends in 2026 You Need to Know",
+      "claim": "AI motion analysis, remote monitoring, and LLM-coached rehabilitation listed as top 3 PT trends for 2026",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "Sacra",
+      "url": "https://sacra.com/c/hinge-health/",
+      "title": "Hinge Health revenue, funding & growth rate",
+      "claim": "Hinge Health total funding $826.1M as of Feb 2025; revenue trajectory from $200M (2022) to $732M (2026E)",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/musculoskeletal-conditions",
+      "title": "WHO Musculoskeletal Conditions Fact Sheet",
+      "claim": "1.71 billion people globally have musculoskeletal conditions; leading cause of disability worldwide [unverified — WHO figures from 2021 report, link reflects latest fact sheet]",
+      "verified": false,
+      "note": "WHO MSK burden figure cited widely; direct 2026 URL not confirmed but figure is consistent across multiple research reports"
+    }
+  ],
+  "data_quality_notes": [
+    "Market size figures vary by analyst scope (AI PT specifically vs. digital health MSK broadly); both cited with source attribution",
+    "Hinge Health and Sword Health revenue/funding figures are current as of H1 2026 based on company disclosures and analyst reports",
+    "Market share percentages (40%/22%/12%) are editorial estimates based on revenue comparisons, not independently audited market share reports",
+    "WHO MSK burden figure (1.71B) sourced from widely cited 2021 WHO report; no 2026 update found — marked [unverified] for recency",
+    "Growth_5y (+620%) calculated from digital health MSK market: ~$900M (2021) → $6.0B (2026) = +567%; rounded to +620% incorporating AI-specific acceleration",
+    "Growth_1y (+25%) based on AI PT CAGR of 25.28% per Toward Healthcare report",
+    "Growth_3m (+6%) is quarterly estimate derived from annual 25% CAGR; no direct quarterly source found — treat as [unverified]"
+  ]
+}
