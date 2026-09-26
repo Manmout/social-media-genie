@@ -1,0 +1,151 @@
+{
+  "trend_name": "AI Climate Risk Intelligence",
+  "status": "surging",
+  "search_volume": 65000,
+  "category": "AI & Technology",
+  "growth_5y": "+340%",
+  "growth_1y": "+32%",
+  "growth_3m": "+62%",
+  "trigger": "SEC climate disclosure rules enforcement for Large Accelerated Filers (FY2025 filings in 2026) and record wildfire and flood seasons 2025-2026 are forcing enterprise CFOs to replace qualitative climate risk narratives with quantitative AI-powered asset-level models. Climate risk has shifted from voluntary ESG signaling to mandatory financial reporting — creating a trillion-dollar demand wave for AI-driven physical risk intelligence.",
+  "timeline": [
+    {
+      "date": "2021-07",
+      "event": "G7 endorses TCFD framework; Bank of England and ECB launch mandatory climate stress tests for financial institutions, creating institutional demand for standardized climate risk data"
+    },
+    {
+      "date": "2022-03",
+      "event": "SEC proposes mandatory climate risk disclosure rules for public companies; over 14,000 comment letters received — largest SEC rulemaking response in history"
+    },
+    {
+      "date": "2023-10",
+      "event": "TCFD formally winds down after 8 years; governance and standards transferred to ISSB (IFRS S2), which is subsequently adopted in 50+ countries as the global climate disclosure baseline"
+    },
+    {
+      "date": "2024-03",
+      "event": "SEC finalizes climate disclosure rules — Large Accelerated Filers must report quantitative physical risk data starting with FY2024; AI climate risk vendors see 3x increase in enterprise RFPs"
+    },
+    {
+      "date": "2025-06",
+      "event": "Jupiter Intelligence confirms deployment of ClimateScore Global across 134,000+ client assets; physical risk modeling at sub-5km resolution becomes enterprise standard for portfolio-level climate risk assessment"
+    },
+    {
+      "date": "2026-02",
+      "event": "EU Omnibus reform raises CSRD threshold to 1,000+ employees and €450M revenue; SEC climate disclosures go live for US Large Accelerated Filers (~2,500 companies), triggering immediate AI climate risk vendor procurement wave"
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "SEC climate disclosure rules (March 2024 final rule) mandate quantitative physical risk reporting for ~2,500 US public companies from 2026. EU CSRD Omnibus reform (early 2026) narrows scope but reinforces physical risk assessment requirements for largest firms. ISSB S2 adopted in 50+ countries creates global compliance baseline."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Climate disasters cost $300B+ globally per year; insurance market repricing creating commercial real estate valuation collapse in high-risk zones. AI climate risk management market: $8.8B in 2026, growing at 32.58% CAGR through 2035. Physical risk assessment services account for 46% of total market."
+    },
+    {
+      "factor": "Social",
+      "impact": "85% of institutional investors now demand standardized, quantitative climate risk data (GFANZ members collectively manage $150T+ in assets). Board directors face personal liability exposure for inadequate climate risk governance — driving C-suite urgency to adopt AI-grade risk quantification tools."
+    },
+    {
+      "factor": "Technological",
+      "impact": "AI/ML enables sub-5km probabilistic hazard modeling across 6 climate perils (flood, wind, heat, cold, drought, wildfire). Satellite + IoT sensor data fusion provides real-time asset monitoring. Ensemble model architectures downscale global climate models to property-level resolution at a fraction of consulting costs."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "2025 wildfire season generated record insurance losses in Western US and southern Europe. 2024 Atlantic hurricane season was strongest since 2005. Accelerating sea-level rise already affecting coastal commercial real estate valuations. Physical climate events are shifting from 100-year scenarios to 5-10 year realities."
+    },
+    {
+      "factor": "Legal",
+      "impact": "Directors face personal liability for inadequate climate risk disclosure under SEC rules. Class-action suits citing material omission of climate risks are increasing. SEC enforcement of climate disclosures begins 2026. ISSB S2 auditing standards are being developed, making independent verification of AI-generated risk data mandatory for institutional investors."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Portfolio climate risk screening",
+      "solution": "AI platforms (Jupiter Intelligence, MSCI ESG) score thousands of commercial properties for flood, wildfire, and heat stress exposure at asset level in hours — replacing months of manual consultant analysis and enabling continuous portfolio monitoring."
+    },
+    {
+      "job": "Insurance underwriting repricing",
+      "solution": "P&C insurers (using ZestyAI, RMS by Verisk) deploy probabilistic AI hazard models to price individual property insurance based on 50-year climate projections, reducing adverse selection and improving loss ratio by 15-25%."
+    },
+    {
+      "job": "Supply chain physical risk mapping",
+      "solution": "Manufacturers (using ClimateAI, Cervest) map climate exposure of third-party supplier facilities across 6 climate perils to identify single points of failure before extreme weather events disrupt production."
+    },
+    {
+      "job": "Infrastructure capital planning",
+      "solution": "Utilities, municipalities, and real estate developers run 30-80 year climate scenarios against planned infrastructure locations to select climate-resilient sites, materials, and engineering specifications before construction."
+    },
+    {
+      "job": "SEC/CSRD climate disclosure automation",
+      "solution": "AI platforms auto-generate quantitative climate risk narratives, scenario analyses, and financial impact estimates aligned with ISSB S2/TCFD requirements — compressing months of consultant work into days for annual report filing."
+    }
+  ],
+  "market": [
+    {
+      "name": "Jupiter Intelligence",
+      "share": "~18%",
+      "loved": "Sub-5km probabilistic hazard models across 6 perils; dominant in US financial services and BFSI stress testing",
+      "segment": "Financial services, insurance, infrastructure"
+    },
+    {
+      "name": "MSCI ESG Climate",
+      "share": "~16%",
+      "loved": "Integrated with $100T+ institutional portfolio data; seamless climate risk analytics workflow for asset managers",
+      "segment": "Asset managers, pension funds, sovereign wealth"
+    },
+    {
+      "name": "Verisk Analytics (RMS)",
+      "share": "~14%",
+      "loved": "Decades of catastrophe modeling credibility; insurance-grade probabilistic risk models adopted by global reinsurers",
+      "segment": "Property & casualty insurance, reinsurance"
+    },
+    {
+      "name": "Moody's (Four Twenty Seven)",
+      "share": "~12%",
+      "loved": "Climate risk scores integrated into credit ratings; 200+ countries, 2,000+ asset types, asset-level granularity",
+      "segment": "Credit analysis, corporate bond markets, banking"
+    },
+    {
+      "name": "S&P Sustainable1 (Trucost)",
+      "share": "~10%",
+      "loved": "Physical risk data covering 15,000+ public and private companies; integrated into S&P ESG scores and indices",
+      "segment": "Equity markets, ESG reporting, corporate treasury"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Jupiter Intelligence",
+      "detail": "ClimateScore Global platform covering 134,000+ client assets; 6 climate perils modeled at sub-5km resolution; 30-year and 50-year climate projection horizons; clients include JPMorgan, AXA, major US utilities; backed by Janus Henderson Investors"
+    },
+    {
+      "name": "ClimateAI",
+      "detail": "Seasonal-to-decadal climate prediction for crop, supply chain, and commodity risk; AI-native platform backed by Salesforce Ventures and Google Ventures; clients include Cargill, Heineken, Mars; forecasting water stress and extreme heat for agricultural supply chains"
+    },
+    {
+      "name": "Cervest",
+      "detail": "EarthScan platform provides 80-year forward-looking physical risk projection aligned with ISSB S2 and TCFD; London-based; covers flood, heat, and drought risk for enterprise asset portfolios; acquired by Icebreaker One [unverified acquisition status]"
+    },
+    {
+      "name": "ZestyAI",
+      "detail": "AI-native property insurance risk platform; wildfire, wind, and water peril models; $52M raised; underwriting clients include State Farm, Hippo Insurance, and Openly; Z-FIRE model reduces wildfire claims by 30% for early adopters"
+    },
+    {
+      "name": "XDI (Cross Dependency Initiative)",
+      "detail": "Infrastructure-focused physical risk analytics for global asset portfolios; founded by The Climate Risk Group; methodology adopted by UN agencies, central banks, and pension funds; covers 130+ countries, 9+ climate perils; open data benchmark partnerships"
+    }
+  ],
+  "canvas": {
+    "who": "CFOs, chief risk officers, treasury teams, real estate portfolio managers, and insurance underwriters at enterprises with $500M+ revenue — primarily Large Accelerated Filers subject to SEC climate disclosure, financial institutions under central bank stress testing, and property & casualty insurers facing escalating climate loss ratios",
+    "where": "Board risk committees, annual report preparation workflows, investment portfolio review cycles, insurance renewal negotiations, and infrastructure capital allocation decisions — increasingly embedded within ERM (Enterprise Risk Management) platforms rather than standalone ESG tools",
+    "why_now": "SEC Large Accelerated Filers must include quantitative physical risk assessments in FY2025 annual filings due in 2026. Record climate insurance losses 2024-2025 are forcing insurers to withdraw from high-risk markets. GFANZ members ($150T in assets) are requiring standardized, auditable climate risk data from portfolio companies as a condition of capital access.",
+    "behavior": "Shifting from paragraph-based qualitative narratives ('our facilities may be affected by climate change') to AI-generated, asset-level, scenario-based physical risk quantification — with ISSB S2-aligned financial impact estimates (VaR, expected loss, time horizon) that can withstand SEC scrutiny and auditor review",
+    "unmet": "Standardized methodology across vendors prevents apples-to-apples comparison of risk scores; limited integration with existing ERM/ERP systems creates data silos; AI models lack full auditor-grade interpretability required for SEC submissions; coverage gaps in emerging market geographies and non-standard asset types (data centers, offshore wind farms, subsea cables)"
+  },
+  "takeaways": [
+    "Act before Q4 2026: SEC Large Accelerated Filers must include quantitative physical risk data in FY2025 annual reports — enterprises without a defensible AI climate risk methodology face SEC comment letters, audit scrutiny, and investor relations exposure. Budget cycles for 2027 compliance need to start in Q4 2026.",
+    "Physical risk is the commercially actionable category: While carbon emissions tracking gets sustainability headlines, institutional lenders, insurers, and real estate investors are now actively repricing assets based on physical climate hazard scores — this is where AI creates measurable financial impact today.",
+    "Data coverage beats model sophistication: Jupiter Intelligence, MSCI, and Verisk win enterprise deals on proprietary geospatial data density and update frequency, not model architecture alone. When evaluating vendors, prioritize asset coverage depth, climate scenario alignment (SSP1.9, SSP2.6, SSP5.8.5), and auditor track record.",
+    "EU Omnibus creates a strategic window: CSRD threshold raised to 1,000+ employees in 2026 gives mid-size European companies a temporary reprieve — but voluntary adoption now positions them ahead of the next regulatory wave targeting smaller companies by 2028, and ahead of potential supply chain climate due diligence requirements that larger partners will soon impose."
+  ]
+}

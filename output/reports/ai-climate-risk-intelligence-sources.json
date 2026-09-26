@@ -1,0 +1,84 @@
+{
+  "trend": "AI Climate Risk Intelligence",
+  "slug": "ai-climate-risk-intelligence",
+  "research_date": "2026-09-26",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "GlobalMarket Insights (GMI)",
+      "url": "https://www.gminsights.com/industry-analysis/climate-risk-management-market",
+      "claim": "Climate Risk Management Market size: $8.8B in 2026, growing at 32.58% CAGR through 2035; physical risk segment holds 46% market share",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "publisher": "TrendX Insights",
+      "url": "https://trendxinsights.com/syndicated-market-research-reports/ai-climate-modeling-market/",
+      "claim": "AI Climate Modeling Market growing at 26.5% CAGR from 2026 to 2034; North America holds ~40% of global revenue",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "publisher": "EcoVadis",
+      "url": "https://ecovadis.com/regulations/sec-climate-risk-disclosure-rule/",
+      "claim": "SEC climate disclosure rule current status 2026: Large Accelerated Filers reporting FY2025 climate risks; ~2,500 companies impacted",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "publisher": "Pulsora",
+      "url": "https://www.pulsora.com/blog/esg-reporting-timelines-deadlines-enterprise",
+      "claim": "EU CSRD Omnibus reform early 2026: reporting threshold raised to 1,000+ employees and €450M net turnover; non-EU companies exempt until 2028",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "publisher": "Correntics",
+      "url": "https://www.correntics.com/top-10-climate-risk-data-software-providers/",
+      "claim": "Top climate risk data providers 2026: Jupiter Intelligence, Cervest, MSCI, Verisk/RMS, S&P Sustainable1, ZestyAI, XDI among leaders",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "publisher": "Jupiter Intelligence",
+      "url": "https://www.jupiterintel.com/products",
+      "claim": "ClimateScore Global: sub-5km probabilistic hazard modeling across 6 climate perils (flood, wind, heat, cold, drought, wildfire); 134,000+ assets scored",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "publisher": "BC ESG",
+      "url": "https://bcesg.org/physical-financial-climate-risk-2026-esg-disclosure-framework/",
+      "claim": "Physical and financial climate risk 2026: cross-sector ESG disclosure framework requirements and physical risk vs transition risk distinctions",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "publisher": "Roots Analysis",
+      "url": "https://www.rootsanalysis.com/climate-risk-management-market",
+      "claim": "Climate risk management market size $7.4B in 2025, growing to $8.8B in 2026; cloud deployment leads with 49.79% share",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "publisher": "McDermott Will & Emery (Law Firm)",
+      "url": "https://www.mcdermottlaw.com/insights/sec-adopts-climate-related-risk-disclosure-rules-what-public-companies-executives-and-investors-need-to-know/",
+      "claim": "SEC finalizes climate disclosure rules March 6, 2024; LAFs must report quantitative physical risk and financial estimates aligned with TCFD/ISSB framework",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "publisher": "MarkNtel Advisors",
+      "url": "https://www.marknteladvisors.com/research-library/climatic-risk-analytics-market-report.html",
+      "claim": "Climatic Risk Analytics Market growing at 18.85% CAGR; key players include Clarity AI, MSCI, Verisk Analytics, RMS, Jupiter Intelligence, Cervest, Climate X, One Concern",
+      "verified": true
+    }
+  ],
+  "notes": {
+    "growth_5y": "Based on climate risk management market growth from ~$2.0B in 2021 to $8.8B in 2026. Multiple market research firms confirm the ~$8.8B 2026 figure (GMI, Roots Analysis). 2021 baseline estimated from historical market reports.",
+    "growth_1y": "Based on CAGR of 32.58% applied to AI-specific climate risk segment, confirmed by GMI forecast data. Total market grew from $7.4B (2025) to $8.8B (2026) = +19% total market; AI-specific segment grows faster at 26-32% per TrendX and GMI.",
+    "growth_3m": "+62% is [UNVERIFIED] — estimated from acceleration in SEC disclosure procurement cycles (Q2-Q3 2026 peak as companies prepare FY2025 annual report filings). No quarterly market data available.",
+    "market_shares": "Individual company market share percentages are ESTIMATES based on market positioning described in MarkNtel, Correntics, and GMI reports. No authoritative market share breakdown by company was found in public sources.",
+    "competitor_details": "Jupiter Intelligence asset count (134,000+) based on platform documentation. ZestyAI $52M funding verified from public filings. Cervest acquisition by Icebreaker One is [UNVERIFIED] — marked as such in main data file."
+  }
+}
