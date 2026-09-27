@@ -1,0 +1,180 @@
+{
+  "trend": "Agentic AI Marketing",
+  "slug": "agentic-ai-marketing",
+  "research_date": "2026-09-27",
+  "sources": [
+    {
+      "id": 1,
+      "title": "Salesforce Agentic Enterprise Index: Agent Deployments More Than Double Year over Year",
+      "url": "https://www.salesforce.com/news/stories/agentic-enterprise-index-insights-2026/",
+      "publisher": "Salesforce",
+      "type": "primary",
+      "claims_supported": [
+        "Agent deployments doubled YoY",
+        "Average enterprise running 11.4 active marketing agents as of June 2026",
+        "$800M Agentforce ARR up 169%",
+        "18,500 enterprise deals"
+      ],
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Agentforce Statistics and Trends (2025-2026)",
+      "url": "https://cyntexa.com/blog/agentforce-statistics-and-trends/",
+      "publisher": "Cyntexa",
+      "type": "secondary",
+      "claims_supported": [
+        "Agentforce reached $500M ARR in Q3 FY2026, up 330% YoY",
+        "9,500 paid deals",
+        "84% self-resolution rate for customer support cases",
+        "Wiley: 213% ROI, $230,000 savings in 8 weeks"
+      ],
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "Breeze and the Rise of Agentic CRM: What HubSpot Changed in Spring 2026",
+      "url": "https://www.fastslowmotion.com/hubspot-breeze/",
+      "publisher": "Fast Slow Motion",
+      "type": "secondary",
+      "claims_supported": [
+        "HubSpot Spring 2026 launched 15+ specialized agents",
+        "Breeze Customer Agent: 65% autonomous resolution rate",
+        "8,000+ active Customer Agent deployments",
+        "39% cut in resolution time"
+      ],
+      "verified": true
+    },
+    {
+      "id": 4,
+      "title": "Agentic AI in Marketing Analytics: What Salesforce, HubSpot and Adobe Are Changing for SaaS Teams",
+      "url": "https://www.darwinapps.com/blog/agentic-ai-in-marketing-analytics-what-salesforce-hubspot-and-adobe-are-changing-for-saas-teams/",
+      "publisher": "DarwinApps",
+      "type": "secondary",
+      "claims_supported": [
+        "Salesforce Agentforce uses Atlas Reasoning Engine",
+        "Adobe Experience Platform Agent Orchestrator coordinates Audience, Journey, Experimentation, Data Insights agents",
+        "CX Enterprise Coworker announced April 2026"
+      ],
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "Marketing Automation Market Size and Share Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/marketing-automation-global-market-report",
+      "publisher": "The Business Research Company",
+      "type": "market_research",
+      "claims_supported": [
+        "Global AI marketing market reached $47.32 billion in 2026",
+        "Projected to climb to $107.5 billion by 2028",
+        "36.6% CAGR"
+      ],
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "The Agentic Marketing Stack 2026: HubSpot, Jasper, and Copy.ai Automating the $30B Content Creation Layer",
+      "url": "https://agentmarketcap.ai/blog/2026/04/10/agentic-marketing-stack-2026-hubspot-jasper-copyai-content-creation",
+      "publisher": "AgentMarketCap",
+      "type": "industry_analysis",
+      "claims_supported": [
+        "Jasper AI dominant in content creation layer",
+        "Copy.ai rebranded as GTM AI platform",
+        "100,000+ Jasper business users"
+      ],
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "ICO Shares Early Views on Agentic AI & Data Protection",
+      "url": "https://www.insideprivacy.com/artificial-intelligence/ico-shares-early-views-on-agentic-ai-data-protection/",
+      "publisher": "Inside Privacy (covering UK ICO guidance)",
+      "type": "regulatory",
+      "claims_supported": [
+        "UK ICO published agentic AI data protection guidance in January 2026",
+        "Explicit consent may be difficult in agentic AI context",
+        "Agentic systems may violate GDPR purpose limitation"
+      ],
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Artificial Intelligence In Marketing Market Report, 2025-2030",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-marketing-market-report",
+      "publisher": "Grand View Research",
+      "type": "market_research",
+      "claims_supported": [
+        "AI in marketing market estimated at $35.0 billion for 2026",
+        "25.0% CAGR from 2025 to 2030"
+      ],
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "EU AI Act Risk Tiers, GDPR Data Minimization, and Agentic AI Compliance in 2026",
+      "url": "https://www.law.berkeley.edu/research/bclt/bclt-legal-analysis/eu-ai-act/",
+      "publisher": "UC Berkeley Law",
+      "type": "legal_analysis",
+      "claims_supported": [
+        "EU AI Act reached general application August 2026",
+        "Transparency requirements for AI marketing personalization",
+        "GDPR Article 22 prohibition on automated significant decisions without human oversight"
+      ],
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "2026 Marketing Automation Report: Market Share & Trends",
+      "url": "https://technologychecker.io/blog/marketing-automation-report-market-share-trends",
+      "publisher": "TechnologyChecker",
+      "type": "industry_analysis",
+      "claims_supported": [
+        "Salesforce Marketing Cloud: ~50% enterprise market share, $5.43B revenue",
+        "HubSpot: $3.13B revenue, 19% YoY growth, 23%+ market share",
+        "Adobe Marketo: $5.86B Digital Experience revenue",
+        "Klaviyo: $1.2B revenue, 32% growth"
+      ],
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Salesforce Puts an AI Marketing Team in Every Marketer's Hands",
+      "url": "https://www.salesforce.com/news/stories/agentic-marketing-teams-announcement/",
+      "publisher": "Salesforce",
+      "type": "primary",
+      "claims_supported": [
+        "Agentforce Atlas Reasoning Engine architecture",
+        "Autonomous task execution across workflows",
+        "Customer support self-resolution rates"
+      ],
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "39 Marketing Automation Statistics and Trends for 2026",
+      "url": "https://www.gtm8020.com/blog/marketing-automation-statistics",
+      "publisher": "GTM 8020",
+      "type": "industry_analysis",
+      "claims_supported": [
+        "80% more leads generated by AI marketing automation adopters",
+        "77% higher conversion rates versus non-AI users",
+        "Marketing automation software market: $8.31 billion in 2026"
+      ],
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Google AI Overviews reduced organic CTR by 30-40% for informational queries",
+      "note": "[unverified] Multiple industry reports cite this range but methodology varies; Gartner and Semrush have published supporting data but specific figures require direct source verification"
+    },
+    {
+      "claim": "Companies with rich first-party data run agents 2-3x more effective than competitors",
+      "note": "[unverified] Directionally supported by platform benchmark data but no peer-reviewed study confirms this specific multiplier"
+    },
+    {
+      "claim": "Marketing budgets grew 4.7% while expectations grew 40% (Gartner CMO Spend Survey 2026)",
+      "note": "[unverified] Gartner typically publishes this data behind paywall; figure is consistent with industry consensus but specific 2026 survey not publicly confirmed"
+    }
+  ]
+}
