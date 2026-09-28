@@ -1,0 +1,95 @@
+{
+  "slug": "ai-rcm-healthcare-revenue-cycle",
+  "trend_name": "AI Revenue Cycle Management — Autonomous Healthcare Billing",
+  "research_date": "2026-09-28",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-in-revenue-cycle-management-market",
+      "title": "AI In Revenue Cycle Management (RCM) Market Size, Share & 2031 Growth Trends Report",
+      "claim": "AI in RCM market valued at $21.49B in 2026, growing at 27.1% CAGR to $71.27B by 2031.",
+      "used_for": ["market_size_2026", "growth_1y", "growth_5y_baseline"]
+    },
+    {
+      "id": 2,
+      "publisher": "GlobeNewsWire / Research & Markets",
+      "url": "https://www.globenewswire.com/news-release/2026/09/01/3353862/28124/en/healthcare-revenue-cycle-management-software-market-report-2026-forecasts-market-growth-from-40-58b-2026-to-57-35b-by-2030-profiling-epic-systems-optum-oracle-health-r1-rcm-and-17-.html",
+      "title": "Healthcare Revenue Cycle Management Software Market Report 2026",
+      "claim": "Healthcare RCM software market $40.58B in 2026. Top vendors: Epic Systems, Optum, Oracle Health, R1 RCM, Waystar. Published September 1, 2026.",
+      "used_for": ["broader_market_size", "market_players"]
+    },
+    {
+      "id": 3,
+      "publisher": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/waystar-boasts-growth-investments-q1-2026-earnings",
+      "title": "Waystar kicks off 2026 with strong growth as it targets AI at $100B RCM labor pool",
+      "claim": "Waystar Q1 2026: $313.9M revenue (+22% YoY). 1M+ providers, 7.5B transactions. Acquired Iodine Software for $1.25B Oct 2025. Targets $100B RCM labor pool with AI.",
+      "used_for": ["growth_3m", "timeline_2025", "market_players_waystar", "trigger"]
+    },
+    {
+      "id": 4,
+      "publisher": "Toward Healthcare",
+      "url": "https://www.towardshealthcare.com/insights/us-healthcare-revenue-cycle-management-market-sizing",
+      "title": "US Healthcare Revenue Cycle Management Market Trends for 2026",
+      "claim": "US RCM market $72.96B in 2026, growing to $195.92B by 2035 at 11.6% CAGR.",
+      "used_for": ["us_market_size", "pestal_economic"]
+    },
+    {
+      "id": 5,
+      "publisher": "Oliver Wyman",
+      "url": "https://www.oliverwyman.com/our-expertise/perspectives/health/2026/may/ai-impact-revenue-cycle-healthcare.html",
+      "title": "AI in revenue cycle is delivering results across healthcare — May 2026",
+      "claim": "70-90% of healthcare decision-makers expect to increase AI RCM spending over next 3 years. AI delivering measurable results across provider organizations.",
+      "used_for": ["canvas_why_now", "pestal_economic", "takeaways"]
+    },
+    {
+      "id": 6,
+      "publisher": "CM-Alliance",
+      "url": "https://www.cm-alliance.com/change-healthcare-cyber-attack-timeline",
+      "title": "Change Healthcare Cyber Attack Timeline",
+      "claim": "Change Healthcare ransomware attack Feb 21, 2024. 40%+ of US claims processing disrupted. 100M patient records exposed. $20M Bitcoin ransom paid to BlackCat.",
+      "used_for": ["trigger", "timeline_2024", "pestal_legal", "canvas_why_now"]
+    },
+    {
+      "id": 7,
+      "publisher": "Quadax / HFMA-AKASA Survey",
+      "url": "https://blog.quadax.com/ai-and-beyond-whats-ahead-for-healthcare-rcm-in-2026",
+      "title": "AI and Beyond: What's Ahead for Healthcare RCM in 2026",
+      "claim": "CMS FHIR ePA mandate effective January 2026 — 7-day standard, 72-hour urgent. 80% of health systems now exploring/piloting/implementing GenAI for RCM (up from 58% in 2023).",
+      "used_for": ["timeline_jan2026", "pestal_political", "canvas_behavior", "growth_3m_context"]
+    },
+    {
+      "id": 8,
+      "publisher": "Ventus AI",
+      "url": "https://www.ventus.ai/blog/change-healthcare-alternatives-ai-first-rcm-strategy-2026/",
+      "title": "Change Healthcare Alternatives: Building an AI-First RCM Strategy (2026)",
+      "claim": "Guide to FHIR-native direct payer connections as architectural replacement for Change Healthcare clearinghouse dependency. AI-first RCM strategy post-attack.",
+      "used_for": ["takeaway_clearinghouse", "jobs_claim_routing"]
+    },
+    {
+      "id": 9,
+      "publisher": "Waystar",
+      "url": "https://www.waystar.com/insights-resources/resources-page/ai-revenue-cycle-management/",
+      "title": "RPA and AI in Revenue Cycle Management",
+      "claim": "AltitudeAI platform overview; processes 7.5B+ healthcare payment transactions/year; 1M+ distinct providers.",
+      "used_for": ["market_players_waystar_detail", "jobs_touchless_claim"]
+    },
+    {
+      "id": 10,
+      "publisher": "RevCycleAI",
+      "url": "https://revcycleai.com/blog/rcm-ai-market-map/",
+      "title": "The 2026 RCM AI Market Map: Every AI Tool in Revenue Cycle Management",
+      "claim": "Comprehensive 2026 map of AI RCM vendors by category. AI-native challengers (Adonis, Enter Health) listed alongside incumbents. Black Book: Waystar #1 Agentic/GenAI RCM platform Q1 2026.",
+      "used_for": ["competitors", "market_players_context"]
+    }
+  ],
+  "verification_notes": {
+    "market_size": "Two distinct market framings: (1) AI-specific RCM tools $21.49B (Mordor Intelligence) and (2) total RCM software market $40.58B (Research & Markets). The difference reflects scope — Mordor counts only AI-native/AI-powered tools; Research & Markets includes all RCM software. We use the AI-specific figure for growth tracking since this report covers the AI transformation trend.",
+    "waystar_q1": "Q1 2026 revenue figure ($313.9M, +22% YoY) sourced directly from Fierce Healthcare coverage of Waystar earnings call. This is a publicly traded company (NYSE: WAY) so earnings data is verifiable via SEC filings.",
+    "change_healthcare": "Attack date (Feb 21, 2024), ransom amount ($20M), and patient records scope (100M) are sourced from CM-Alliance timeline which aggregates public reports and congressional testimony. The '40%+ of US claims' figure is a widely-cited industry estimate; exact market share varied by source (some sources say 'one in every three' US claims processed by Change Healthcare). Marked as [well-sourced estimate] rather than exact audited figure.",
+    "market_players_shares": "Market share percentages are editorial estimates based on segment data from multiple sources (GlobeNewsWire vendor listing, individual company revenue disclosures, KLAS rankings). Optum and Epic do not break out RCM revenue separately from their broader businesses. These represent estimated relative positioning, not audited share figures.",
+    "akasa_acquisition": "AKASA acquisition by Waystar in 2025 referenced in multiple industry sources. Specific acquisition price not publicly disclosed; the $1.25B figure cited in the timeline is the Iodine Software acquisition (confirmed by Fierce Healthcare), not AKASA.",
+    "growth_5y": "The $5.5B (2021) baseline is a backward extrapolation from the 27.1% CAGR (Mordor). No primary source directly states the 2021 figure; it's derived arithmetic. Marked as estimated."
+  }
+}
