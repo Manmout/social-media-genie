@@ -1,0 +1,111 @@
+{
+  "trend": "AI Newsroom Technology & Automated Journalism",
+  "slug": "ai-newsroom-journalism",
+  "research_date": "2026-09-30",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "AI In Media Market Share Analysis Report 2026-2030",
+      "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-in-media-global-market-report",
+      "publisher": "The Business Research Company",
+      "data_used": "AI in media market size $13.67B in 2025, $18.47B in 2026, 35.1% CAGR; growth_1y +35%",
+      "verified": true
+    },
+    {
+      "id": "s2",
+      "title": "AI In Media And Entertainment Market Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-media-entertainment-market-report",
+      "publisher": "Grand View Research",
+      "data_used": "Broader AI in media & entertainment market at $35.77B in 2026 growing at 25% CAGR; segment dominance by tech giants; market context",
+      "verified": true
+    },
+    {
+      "id": "s3",
+      "title": "Journalism, media, and technology trends and predictions 2026",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-predictions-2026",
+      "publisher": "Reuters Institute for the Study of Journalism (University of Oxford)",
+      "data_used": "Agentic automation forecast for 2026-2027; newsroom AI adoption trends; editorial workflow changes; public trust in AI-generated news",
+      "verified": true
+    },
+    {
+      "id": "s4",
+      "title": "Muck Rack's 2026 State of Journalism Report Finds 82% of Journalists Use AI",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/muck-rack-2026-state-journalism-140000040.html",
+      "publisher": "Muck Rack / Yahoo Finance",
+      "data_used": "82% journalist AI adoption rate; ChatGPT used by 47% of journalists; Gemini by 22%; baseline adoption figures for PESTAL and canvas",
+      "verified": true
+    },
+    {
+      "id": "s5",
+      "title": "Journalism job cuts in 2026 tracked: Latest from BBC Sport, Reach, Forbes",
+      "url": "https://pressgazette.co.uk/news/journalism-job-cuts-in-2026-updates/",
+      "publisher": "Press Gazette",
+      "data_used": "2,300+ newsroom jobs cut in H1 2026 (34% above all 2025 losses); GB News automating 90 editorial roles; WaPo 300+ staff cuts February 2026; NPR buyouts",
+      "verified": true
+    },
+    {
+      "id": "s6",
+      "title": "OpenAI Publisher Deals: The Complete Map of Every Media Partnership (2023-2026)",
+      "url": "https://llmpulse.ai/blog/openai-publisher-deals/",
+      "publisher": "LLM Pulse",
+      "data_used": "OpenAI licensing deals with 20+ publishers; News Corp $250M+ over 5 years; Guardian (Feb 2025); Washington Post (Apr 2025); Axios (Jan 2025); Schibsted; timeline of licensing market formation",
+      "verified": true
+    },
+    {
+      "id": "s7",
+      "title": "The AI content market is taking shape: Four imperatives news publishers must tackle now",
+      "url": "https://wan-ifra.org/2026/03/the-ai-content-market-is-taking-shape-four-imperatives-news-publishers-must-tackle-now/",
+      "publisher": "WAN-IFRA (World Association of News Publishers)",
+      "data_used": "Publisher strategic imperatives for AI integration; licensing vs. resistance framing; industry-wide analysis of AI market structure for news",
+      "verified": true
+    },
+    {
+      "id": "s8",
+      "title": "AI in Journalism 2026-2027: 'more agentic automation'",
+      "url": "https://etcjournal.com/2026/04/03/ai-in-journalism-2026-2027-more-agentic-automation/",
+      "publisher": "ETC Journal",
+      "data_used": "Agentic automation for end-to-end editorial workflows; AP's agentic newsroom strategy; emerging job functions (AI ethics specialists, workflow architects, output auditors)",
+      "verified": true
+    },
+    {
+      "id": "s9",
+      "title": "After a Rocky Year, Newsrooms Push Deeper Into AI",
+      "url": "https://www.thewrap.com/media-platforms/journalism/ai-in-newsrooms-2026/",
+      "publisher": "The Wrap",
+      "data_used": "Newsroom AI deployment narrative for 2026; Washington Post, Los Angeles Times, NPR AI strategy details; industry context for trigger and canvas sections",
+      "verified": true
+    },
+    {
+      "id": "s10",
+      "title": "AI in media and entertainment Market Size, Share Forecast by 2034",
+      "url": "https://www.polarismarketresearch.com/industry-analysis/ai-in-media-and-entertainment-market",
+      "publisher": "Polaris Market Research",
+      "data_used": "AI in media market projected at $30.32B in 2026; services segment 60.5% revenue share; Asia Pacific 32.5% regional share; contextual market sizing",
+      "verified": true
+    },
+    {
+      "id": "s11",
+      "title": "Automated Journalism Market Size, Share, Trends, Report 2035",
+      "url": "https://www.wiseguyreports.com/reports/automated-journalism-market",
+      "publisher": "WiseGuy Reports",
+      "data_used": "Automated journalism sub-market sizing at ~$1.3B in 2025; CAGR 11.5-20% depending on definition; segment-specific growth rates for competitors section",
+      "verified": true
+    },
+    {
+      "id": "s12",
+      "title": "Global Automated Journalism Market Size, Growth Analysis & Forecast 2026-2034",
+      "url": "https://www.verifiedmarketreports.com/product/automated-journalism-market/",
+      "publisher": "Verified Market Reports",
+      "data_used": "Automated journalism market at $2.1B in 2026 with 38.5% CAGR; growth context for competitor analysis; NLG platform landscape",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    "growth_5y +380% — uses The Business Research Company AI in media figure for 2026 ($18.47B) projected back 5 years at 35.1% CAGR baseline, implying ~$3.87B in 2021; exact 2021 figure not independently confirmed",
+    "growth_3m +9% — estimated from sector acceleration trends in H1 2026 layoff data and adoption rates; no quarterly revenue figure for automated journalism specifically was found",
+    "search_volume ~75,000/month — estimated for 'AI journalism' + 'automated journalism' + 'AI newsroom' combined; precise figure requires SEMrush/Ahrefs verification",
+    "Market share percentages for OpenAI, Google, Microsoft, Veritone, Synthesia — no public market share breakdown for AI tool usage in newsrooms was found; figures are estimates based on journalist adoption surveys and company announcements",
+    "AI-generated deepfake news spreading at 3× 2023 rate — directionally supported by multiple sources on disinformation growth but exact multiplication factor is [unverified]",
+    "AI search reducing news referral traffic by 30-50% — cited directionally across multiple industry sources; precise figure is platform-specific and varies widely"
+  ]
+}
