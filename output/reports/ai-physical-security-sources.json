@@ -1,0 +1,97 @@
+{
+  "trend_name": "AI Physical Security",
+  "slug": "ai-physical-security",
+  "research_date": "2026-10-02",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Fortune Business Insights",
+      "claim": "AI in video surveillance market was $6.41B in 2025, projected $7.32B in 2026 at 18.25% CAGR",
+      "url": "https://www.fortunebusinessinsights.com/ai-in-surveillance-market-109303",
+      "category": "market_size"
+    },
+    {
+      "id": 2,
+      "publisher": "Mordor Intelligence",
+      "claim": "Global AI in video surveillance market projected to grow from $7.04B in 2026 to $26.90B by 2034 at 18.2% CAGR",
+      "url": "https://www.mordorintelligence.com/industry-reports/ai-in-video-surveillance-market",
+      "category": "market_size"
+    },
+    {
+      "id": 3,
+      "publisher": "SiliconANGLE",
+      "claim": "Verkada takes Nvidia investment to expand its physical AI platform — deal meant to speed up AI across Verkada's 2.4M connected devices",
+      "url": "https://siliconangle.com/2026/07/01/verkada-takes-nvidia-investment-expand-physical-ai-platform/",
+      "category": "funding_trigger"
+    },
+    {
+      "id": 4,
+      "publisher": "Forge Global / Forgeglobal.com",
+      "claim": "Verkada hit $5.8B valuation in December 2025, $1B annualised bookings",
+      "url": "https://forgeglobal.com/insights/how-to-invest-in-verkada-stock-pre-ipo/",
+      "category": "company_data"
+    },
+    {
+      "id": 5,
+      "publisher": "Memoori",
+      "claim": "Flock Safety secured $275M in 2025 at $5B+ valuation, reaching $300M recurring revenue. Brivo + Eagle Eye Networks merged to form world's largest AI cloud-native physical security company.",
+      "url": "https://memoori.com/physical-security-video-surveillance-startups-2026/",
+      "category": "company_data"
+    },
+    {
+      "id": 6,
+      "publisher": "Memoori",
+      "claim": "Video surveillance market leaders 2026: Hikvision 10%, Dahua 7%, Axis 2%, Bosch/Honeywell/Motorola/Genetec/Hanwha each ~1% of AI video surveillance segment",
+      "url": "https://memoori.com/video-surveillance-market-leaders-2026/",
+      "category": "market_share"
+    },
+    {
+      "id": 7,
+      "publisher": "Intellisee / AI Physical Security Intelligence",
+      "claim": "AI physical security M&A and consolidation accelerating in 2026 — vendor roll-ups and strategic acquirers reshaping the market",
+      "url": "https://intellisee.com/intelligence/ai-physical-security-ma-consolidation-2026-vendor-rollups-strategic-acquirers-platform-risk-buyers/",
+      "category": "market_trends"
+    },
+    {
+      "id": 8,
+      "publisher": "Hanwha Vision",
+      "claim": "2026 video surveillance trends: Trusted Data Environment, vision-language models replacing rule engines, natural language queries for video search",
+      "url": "https://www.hanwhavision.com/global/news-events/article/1651433",
+      "category": "technology_trends"
+    },
+    {
+      "id": 9,
+      "publisher": "Brivo",
+      "claim": "5 Video Surveillance and AI Trends for 2026 — convergence of access control and video analytics on unified cloud platforms",
+      "url": "https://www.brivo.com/resources/blog/2026-trends-in-video-surveillance/",
+      "category": "technology_trends"
+    },
+    {
+      "id": 10,
+      "publisher": "Spot.ai",
+      "claim": "Evolution of video surveillance: timeline from analog CCTV through IP cameras to AI-native cloud platforms",
+      "url": "https://www.spot.ai/ai-camera-system/evolution-of-video-surveillance",
+      "category": "timeline"
+    },
+    {
+      "id": 11,
+      "publisher": "Fora Soft",
+      "claim": "YOLOv11/v12 and RT-DETR replaced 2024 rule engines; edge AI on Jetson Orin Nano Super ($250–800) enabling multi-stream object detection in 2026",
+      "url": "https://www.forasoft.com/blog/article/video-surveillance-software-development",
+      "category": "technology"
+    },
+    {
+      "id": 12,
+      "publisher": "Motorola Solutions (Annual Report via Coram.ai)",
+      "claim": "Motorola Solutions Video Security & Access Control revenue $2.1B (2025), 14% YoY growth",
+      "url": "https://www.coram.ai/post/verkada-competitors-and-alternatives",
+      "category": "company_data"
+    }
+  ],
+  "data_notes": {
+    "search_volume": "Estimated from combined query volume: 'AI security cameras', 'AI video surveillance', 'AI physical security'. No single keyword-everywhere API pull in this session — marked [unverified] for exact figure.",
+    "growth_5y": "Calculated from AI video surveillance market ~$1.8B (2021 est.) to $7B (2026) — multiple sources confirm 2026 size, 2021 baseline interpolated from CAGR [unverified baseline].",
+    "growth_1y": "18.25% CAGR per Fortune Business Insights — confirmed across multiple sources.",
+    "growth_3m": "+5% estimated from quarterly extrapolation of 18% annual CAGR [unverified — no quarterly data found]."
+  }
+}

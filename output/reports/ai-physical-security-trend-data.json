@@ -1,0 +1,151 @@
+{
+  "trend_name": "AI Physical Security",
+  "status": "surging",
+  "search_volume": "~65K/mo",
+  "category": "AI & Technology",
+  "growth_5y": "+289%",
+  "growth_1y": "+18%",
+  "growth_3m": "+5%",
+  "trigger": "Nvidia invested in Verkada (July 2026) to accelerate AI across its 2.4M connected devices, while Brivo and Eagle Eye Networks merged to form the world's largest AI cloud-native physical security company — signalling the industry's full shift from hardware to intelligence platforms.",
+  "timeline": [
+    {
+      "date": "2020",
+      "event": "NDAA Section 889 takes effect, banning Hikvision and Dahua from US federal procurement — opening a $3B+ gap for NDAA-compliant alternatives."
+    },
+    {
+      "date": "2022",
+      "event": "Ambarella CV72 and Nvidia Jetson Orin edge AI chips ship at scale, enabling on-camera deep-learning inference for under $200 per device."
+    },
+    {
+      "date": "2023",
+      "event": "Verkada crosses $400M annualised bookings; Flock Safety reaches $100M ARR covering 1,000+ US cities with AI license-plate recognition."
+    },
+    {
+      "date": "Feb 2025",
+      "event": "EU AI Act prohibition on real-time remote biometric identification in public spaces takes effect — forcing European operators to redesign surveillance architectures."
+    },
+    {
+      "date": "Dec 2025",
+      "event": "Alphabet's CapitalG leads Verkada to a $5.8B valuation; Flock Safety raises $275M, hits $300M ARR and begins domestic US manufacturing."
+    },
+    {
+      "date": "Jul 2026",
+      "event": "Nvidia takes strategic stake in Verkada to accelerate AI across 2.4M connected devices; Brivo + Eagle Eye Networks merge into largest AI cloud-native physical security platform."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "NDAA Section 889 bans Hikvision/Dahua from US federal and critical infrastructure — driving multi-billion-dollar rip-and-replace upgrades to NDAA-compliant vendors like Axis, Hanwha, Verkada, and Flock Safety."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Surge in organised retail crime and rising commercial insurance premiums push CFOs to treat AI security as a P&L decision; insurers now offer 12–18% premium discounts for AI-monitored premises."
+    },
+    {
+      "factor": "Social",
+      "impact": "Post-COVID return-to-office drives campus security upgrades; growing public intolerance for crime pushes 300+ US municipalities to deploy AI license-plate recognition and gunshot-detection systems."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Vision-language models (VLMs) enable natural-language video queries ('person in red jacket near loading dock'); YOLOv11/12 + $250–800 edge AI boxes replace expensive GPU servers for multi-stream object detection."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "Cloud-native AI analytics compress video storage 50–60% vs legacy systems via scene-aware bitrate control, reducing data-centre energy footprint and eliminating truck-roll maintenance cycles."
+    },
+    {
+      "factor": "Legal",
+      "impact": "GDPR, BIPA, and 12+ US state biometric privacy laws create a compliance moat for vendors with privacy-by-design architecture; EU AI Act bans real-time public biometric ID in force since Feb 2025."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Retail operators want to catch organised theft in real time without hiring more guards",
+      "solution": "AI cameras + edge inference detect concealment behaviour and alert staff mid-act, with Verkada's Theft Analytics module reducing shrink 20–35% in pilots."
+    },
+    {
+      "job": "Enterprise facilities managers need to unify access control, video, and visitor management in one cloud dashboard",
+      "solution": "Cloud-native platforms (Verkada, Brivo) replace disparate DVR/NVR/access systems with a single SaaS licence, cutting IT overhead 40% and enabling remote management."
+    },
+    {
+      "job": "Cities want to solve crimes faster using historical vehicle and person search",
+      "solution": "Flock Safety's LPR network across 1,200+ US cities enables detectives to query all cameras retroactively with licence plates, reducing vehicle-related case resolution time from days to hours."
+    },
+    {
+      "job": "Healthcare campuses need to monitor patient safety and staff compliance 24/7 without violating privacy",
+      "solution": "AI pose-estimation and fall-detection models run on-device, alerting nurses in real time without streaming identifiable video to the cloud, satisfying HIPAA requirements."
+    },
+    {
+      "job": "Schools and universities need to detect weapons or threats before an incident escalates",
+      "solution": "AI weapon-detection cameras (ZeroEyes, Omnilert) integrate with existing IP-camera infrastructure and push sub-3-second alerts to on-site staff and law enforcement simultaneously."
+    }
+  ],
+  "market": [
+    {
+      "name": "Hikvision",
+      "share": "~10%",
+      "loved": "Lowest hardware cost, massive global installed base of 300M+ cameras",
+      "segment": "Global enterprise, government (ex-US federal)"
+    },
+    {
+      "name": "Motorola Solutions (Avigilon)",
+      "share": "~7%",
+      "loved": "Only radio-to-video-to-command-centre ecosystem; $2.1B video revenue (2025)",
+      "segment": "Large enterprise, public safety, critical infrastructure"
+    },
+    {
+      "name": "Verkada",
+      "share": "~5% (growing)",
+      "loved": "Cloud-native, no NVR needed, unified dashboard; $5.8B valuation, $1B+ annualised bookings",
+      "segment": "SMB and mid-enterprise in North America"
+    },
+    {
+      "name": "Flock Safety",
+      "share": "~3% (public safety niche)",
+      "loved": "Best AI license-plate recognition for law enforcement; $300M ARR, 1,200+ cities",
+      "segment": "US municipalities, law enforcement, HOAs"
+    },
+    {
+      "name": "Hanwha Vision",
+      "share": "~2%",
+      "loved": "NDAA-compliant South Korean hardware challenger; $1B+ revenue; converting Hikvision share losses",
+      "segment": "US federal and regulated industries replacing banned Chinese hardware"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Verkada",
+      "detail": "Cloud-native physical security platform: AI cameras + access control + environmental sensors + command-centre SaaS. Nvidia strategic partner. $5.8B valuation (Dec 2025). Growth driver: 'no NVR needed' model eliminates on-prem hardware, slashing TCO vs legacy."
+    },
+    {
+      "name": "Flock Safety",
+      "detail": "Public-safety AI platform specialising in license-plate recognition (LPR) and gunshot detection. 1,200+ US cities and 40,000+ cameras. $300M ARR ($275M raised 2025). Key moat: the largest private LPR network in the US, making it nearly impossible to replicate."
+    },
+    {
+      "name": "Motorola Solutions (Avigilon)",
+      "detail": "Incumbent enterprise giant with end-to-end physical security: radio, video analytics, access control, and dispatch. $2.1B video segment revenue (2025). Key moat: deep integrations with 911 dispatch and command-centre software used by 10,000+ agencies."
+    },
+    {
+      "name": "Axis Communications (Canon subsidiary)",
+      "detail": "Open network-camera platform with the largest third-party analytics ecosystem (1,000+ apps). Pioneer of the IP camera standard. Key moat: vendor-neutral, NDAA-compliant hardware that supports any VMS or analytics partner — no lock-in."
+    },
+    {
+      "name": "Brivo + Eagle Eye Networks (merged 2026)",
+      "detail": "Newly merged entity forming the world's largest AI cloud-native physical security company — combining AI access control (Brivo) with cloud video intelligence (Eagle Eye). Serves 50,000+ global sites. Key moat: unified identity-to-video intelligence with 300+ VMS and access-control integrations."
+    }
+  ],
+  "canvas": {
+    "who": "CISOs and Facilities/Operations VPs at retail chains (100+ locations), corporate campuses, healthcare systems, universities, and smart cities. Secondary: county sheriffs and city public-safety directors managing budgets under $10M/yr.",
+    "where": "Triggered at industry events (GSX, ISC West), insurance renewal cycles, and post-incident reviews. Evaluated via Gartner and Forrester reports, SIA (Security Industry Association) benchmarks, and peer referrals in public-safety Slack groups.",
+    "why_now": "Three converging forces: (1) NDAA ban forces hardware refresh for any US regulated entity still running Hikvision/Dahua; (2) VLM-powered natural-language video search makes AI cameras genuinely useful rather than just recording; (3) Nvidia's investment in Verkada signals a platform, not a product — accelerating enterprise FOMO.",
+    "behavior": "Buyers pilot 20–50 cameras in one facility, prove ROI on shrink reduction or incident-response time, then roll out to all sites. SaaS budgets are shifting from IT to physical security; security integrators are losing to direct cloud-vendor sales motions.",
+    "unmet": "Truly proactive threat prediction (not just reactive video review). Interoperability across multi-vendor environments without ripping out existing infrastructure. Privacy-preserving AI that satisfies EU AI Act and BIPA without losing analytic value."
+  },
+  "takeaways": [
+    "NDAA compliance is a forcing function: any US enterprise still running Hikvision or Dahua on federally-funded infrastructure faces imminent rip-and-replace mandates — a $4B+ addressable opportunity for NDAA-certified vendors.",
+    "Vision-language models (VLMs) are the new analytics moat: vendors shipping natural-language video queries by H1 2027 will dominate RFPs; security teams should demand VLM roadmaps from incumbent suppliers before signing multi-year contracts.",
+    "Platform consolidation is accelerating — Brivo + Eagle Eye is the first of many mergers; buyers should prioritise vendors with open APIs and proven integrations to avoid being stranded by the next acquisition.",
+    "AI physical security is moving from the CISO's budget to the CFO's P&L: quantify ROI in shrink reduction, insurance premium savings, and headcount avoidance to unlock larger deployments — not just security outcomes."
+  ]
+}
