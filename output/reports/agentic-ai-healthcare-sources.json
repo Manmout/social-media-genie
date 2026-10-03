@@ -1,0 +1,167 @@
+{
+  "trend": "Agentic AI in Healthcare",
+  "slug": "agentic-ai-healthcare",
+  "research_date": "2026-10-03",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Towardshealthcare.com / InsightAce Analytic",
+      "title": "Agentic AI in Healthcare Market Sizing — 45.6% CAGR to 2035",
+      "url": "https://www.towardshealthcare.com/insights/agentic-ai-in-healthcare-market-sizing",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Agentic AI in healthcare market: $0.80B (2025) → $1.14B (2026) → $33.66B by 2035",
+        "CAGR 45.6% for 2026–2035 period",
+        "YoY growth 2025→2026: +46.3%",
+        "Market segmented by: clinical documentation, patient engagement, clinical decision support, administrative automation"
+      ]
+    },
+    {
+      "id": 2,
+      "publisher": "GlobeNewswire / MarketsandMarkets",
+      "title": "AI Agents in Healthcare Market Set to Surge to USD 6.92 Billion by 2030",
+      "url": "https://www.globenewswire.com/news-release/2026/01/26/3225727/0/en/AI-Agents-in-Healthcare-Market-Set-to-Surge-to-USD-6.92-Billion-by-2030-MarketsandMarkets.html",
+      "date": "2026-01-26",
+      "verified": true,
+      "claims": [
+        "AI Agents in Healthcare market: expected to reach $6.92B by 2030",
+        "Major players: Microsoft, Oracle, Salesforce, AWS, Innovaccer, Hippocratic AI, NVIDIA, IQVIA",
+        "Growth driven by clinical workflow automation, patient engagement, and administrative AI"
+      ]
+    },
+    {
+      "id": 3,
+      "publisher": "valueaddvc.com",
+      "title": "Abridge Valuation 2026: $5.3B, $100M+ ARR, and How It Beat Nuance",
+      "url": "https://valueaddvc.com/blog/abridge-valuation-2026-5-3b-100m-arr-and-how-the-ai-scribe-beat-nuance-and-ambience",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Abridge valuation: $5.3B (set by $300M Series E, June 2025; reaffirmed by $316M Series E extension, April 2026)",
+        "Abridge ARR: $100M+ (2026)",
+        "Deployed across 250+ health systems",
+        "Kaiser Permanente deployment: 40 hospitals + 600+ medical offices — largest generative AI healthcare rollout in history",
+        "Best in KLAS for Ambient AI 2024 and 2025"
+      ]
+    },
+    {
+      "id": 4,
+      "publisher": "FierceHealthcare",
+      "title": "Hippocratic AI lands $126M Series C to expand patient-facing AI agents, fuel acquisition deals",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-lands-126m-series-c-expand-patient-facing-ai-agents-fuel-m-a",
+      "date": "2025-11",
+      "verified": true,
+      "claims": [
+        "Hippocratic AI raised $126M Series C in November 2025",
+        "Valuation: $3.5B",
+        "150M+ clinical AI interactions logged",
+        "Deployed at Universal Health Services for post-discharge patient engagement",
+        "Series C funds expansion into M&A and new care pathway agents"
+      ]
+    },
+    {
+      "id": 5,
+      "publisher": "OpenPR / Future Market Insights",
+      "title": "Global Healthcare Agentic AI Market Set to Reach USD 24.6 Billion by 2036",
+      "url": "https://www.openpr.com/news/4621183/global-healthcare-agentic-ai-market-set-to-reach-usd-24-6-billion",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Global healthcare agentic AI market: $3.9B (2026) → $24.6B by 2036",
+        "CAGR: 20.2% (conservative estimate; other sources project 35–48%)",
+        "USA leads with 21.5% CAGR",
+        "Hospitals moving from AI pilots to full workflow automation — adoption is the 2026 story"
+      ]
+    },
+    {
+      "id": 6,
+      "publisher": "Modern Healthcare / valueaddvc.com",
+      "title": "Abridge lands $300M in funding from a16z, Khosla",
+      "url": "https://www.modernhealthcare.com/health-tech/ai/mh-abridge-a16z-khosla-funding-ambient/",
+      "date": "2025-06",
+      "verified": true,
+      "claims": [
+        "Abridge raised $300M Series E (June 2025) led by a16z and Khosla",
+        "Total raised: $550M in 2025 across Series D ($250M) + Series E ($300M)",
+        "a16z investment signals institutional conviction in ambient AI as a healthcare infrastructure category"
+      ]
+    },
+    {
+      "id": 7,
+      "publisher": "newmarketpitch.com",
+      "title": "Healthcare AI Funding Trends 2026",
+      "url": "https://newmarketpitch.com/blogs/news/healthcare-ai-funding-trends",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Healthcare AI raised $3.56B across 49 deals in 2025",
+        "2026 YTD (through July): $2.05B across 49 qualifying deals",
+        "Q2 2026: strongest quarter with $1.09B across 26 deals",
+        "Innovaccer raised $275M Series F at $3.45B valuation ($675M total raised)",
+        "Hippocratic AI raised $126M Series C"
+      ]
+    },
+    {
+      "id": 8,
+      "publisher": "clearwatersecurity.com",
+      "title": "Agentic AI in Healthcare: Navigating Regulatory Uncertainty and Building Governance That Lasts",
+      "url": "https://clearwatersecurity.com/blog/agentic-ai-regulatory-uncertainty-governance/",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "FDA has authorized 1,250+ AI-enabled medical devices total",
+        "Zero approved AI-enabled medical devices are generative or agentic",
+        "HIPAA Business Associate Agreements required for all LLM-based clinical AI tools",
+        "EU AI Act classifies clinical decision support as 'high-risk AI' requiring documentation, bias testing, and human oversight",
+        "Liability for AI-assisted clinical decisions remains legally undefined in the US"
+      ]
+    },
+    {
+      "id": 9,
+      "publisher": "Grand View Research",
+      "title": "Agentic AI in Healthcare Market Size, Share Report 2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/agentic-ai-healthcare-market-report",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Agentic AI in healthcare market projected to grow from $1.83B (2026) to $19.71B by 2034",
+        "CAGR: 34.61% (2026–2034)",
+        "North America leads by geography; clinical documentation is largest application segment"
+      ]
+    },
+    {
+      "id": 10,
+      "publisher": "Fortune Business Insights",
+      "title": "Agentic AI in Healthcare Market Size, Share",
+      "url": "https://www.fortunebusinessinsights.com/agentic-ai-in-healthcare-market-115702",
+      "date": "2026",
+      "verified": true,
+      "claims": [
+        "Agentic AI in healthcare: $1,082.8M (2026) → $17,292.3M by 2033",
+        "CAGR: 48.6% (2026–2033) — highest projected CAGR estimate across surveyed sources",
+        "Market driven by ambient documentation, patient engagement agents, and clinical decision support"
+      ]
+    },
+    {
+      "id": 11,
+      "publisher": "FierceHealthcare / Abridge Press Release",
+      "title": "ViVE 2025: Abridge scores $250M, adds new AI tool to streamline 'billable notes'",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-scores-250m-series-d-ambient-ai-tech-now-use-100-health-systems",
+      "date": "2025-02",
+      "verified": true,
+      "claims": [
+        "Abridge raised $250M Series D at ViVE 2025",
+        "Ambient AI in use at 100+ health systems at time of Series D",
+        "New billable note generation feature added for revenue cycle support"
+      ]
+    }
+  ],
+  "unverified_claims": [
+    "AMA March 2026 stat (81% of physicians using AI) — cited from secondary source (Intellias blog); direct AMA survey publication not confirmed",
+    "St. Joseph Health 27% ER wait time reduction / 18% readmission reduction — from aggregated use case literature, not confirmed via direct press release",
+    "Innovaccer ARR >$100M — estimated from funding scale and customer count; no public disclosure found",
+    "growth_5y: '+∞' — the agentic AI healthcare segment as a defined category did not exist before 2023; the claim represents category emergence, not a precise percentage calculation",
+    "Nabla Series funding status in 2025–2026 — described as European company with no confirmed recent US press release; funding details not found in search results"
+  ]
+}
