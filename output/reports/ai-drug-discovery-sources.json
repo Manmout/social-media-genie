@@ -1,151 +1,122 @@
 {
   "trend": "AI Drug Discovery",
   "slug": "ai-drug-discovery",
-  "retrieved": "2026-04-08",
+  "compiled": "2026-10-04",
   "sources": [
     {
-      "title": "AI in Drug Discovery Market to Hit USD 10.29 Bn by 2031 at 27%+ CAGR — Mordor Intelligence",
-      "url": "https://www.globenewswire.com/news-release/2026/03/30/3264774/0/en/AI-in-Drug-Discovery-Market-to-Hit-USD-10.29-Bn-by-2031-with-Quantum-Machine-Learning-Advancing-Rapidly-at-27-CAGR-Mordor-Intelligence-Report.html",
-      "publisher": "GlobeNewswire / Mordor Intelligence",
-      "date": "2026-03-30",
-      "type": "market_research",
-      "key_data": "Market to reach USD 10.29B by 2031 at 25.94% CAGR; quantum ML advancing rapidly"
+      "id": 1,
+      "publisher": "GlobeNewsWire",
+      "url": "https://www.globenewswire.com/news-release/2026/10/01/3372573/28124/en/global-drug-discovery-market-2026-2031-ai-driven-target-identification-accelerates-growth.html",
+      "claim": "Global AI-in-drug-discovery market valued at $6.93B in 2025, forecast to reach $7.62B in 2026, growing to $17.81B by 2035 at 9.90% CAGR",
+      "used_for": ["market_size", "growth_1y"]
     },
     {
-      "title": "Artificial Intelligence In Drug Discovery Market Report, 2033",
-      "url": "https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-drug-discovery-market",
-      "publisher": "Grand View Research",
-      "date": "2025-01-01",
-      "type": "market_research",
-      "key_data": "Market at USD 2.35B in 2025; 24.83% CAGR from 2026 to 2033"
+      "id": 2,
+      "publisher": "Axis Intelligence",
+      "url": "https://axis-intelligence.com/ai-drug-discovery-2026-complete-analysis/",
+      "claim": "173 AI drug programs in clinical development (April 2026): 94 Phase 1, 56 Phase 2, 15 Phase 3. Up from ~24 in late 2023.",
+      "used_for": ["growth_3m", "timeline", "trigger"]
     },
     {
-      "title": "AI in Drug Discovery Market Rises USD 160.49 Billion by 2035",
-      "url": "https://www.towardshealthcare.com/insights/artificial-intelligence-in-drug-discovery",
-      "publisher": "Towards Healthcare",
-      "date": "2025-06-01",
-      "type": "market_research",
-      "key_data": "High-end forecast: $160.49B by 2035 at 23.22% CAGR"
+      "id": 3,
+      "publisher": "Isomorphic Labs (official)",
+      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-series-b-investment-round",
+      "claim": "Isomorphic Labs raises $2.1B Series B on May 12, 2026, led by Thrive Capital with MGX, Temasek, CapitalG, UK Sovereign AI Fund, Alphabet, and GV",
+      "used_for": ["trigger", "timeline", "competitors"]
     },
     {
-      "title": "Google DeepMind and Isomorphic Labs introduce AlphaFold 3 AI model",
-      "url": "https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/",
-      "publisher": "Google DeepMind",
-      "date": "2024-05-08",
-      "type": "product_launch",
-      "key_data": "AF3 can predict interactions across proteins, DNA, RNA, small molecules, ions"
+      "id": 4,
+      "publisher": "Intuition Labs",
+      "url": "https://intuitionlabs.ai/articles/isomorphic-labs-series-b-ai-drug-discovery",
+      "claim": "Isomorphic Labs $2.1B Series B analysis; IsoDDE engine combines structure prediction, ligand binding, ADMET and antibody modelling in unified pipeline (released Feb 2026)",
+      "used_for": ["competitors", "timeline", "jobs"]
     },
     {
-      "title": "AlphaFold 3: transformative advances in drug design and therapeutics — PMC",
-      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11292590/",
-      "publisher": "PubMed Central / NCBI",
-      "date": "2024-07-01",
-      "type": "academic",
-      "key_data": "AF3 predicts 76% of protein-ligand interactions correctly vs. 52% for previous best tool"
+      "id": 5,
+      "publisher": "On Healthcare Tech",
+      "url": "https://www.onhealthcare.tech/p/the-ai-drug-discovery-capital-stack",
+      "claim": "Schrödinger $255.9M FY2025 revenue; Insilico Medicine $106.3M H1 2026; Recursion $74.7M FY2025; top 5 players hold ~11.8% combined market share",
+      "used_for": ["market_players", "competitors"]
     },
     {
-      "title": "Isomorphic Labs announces $600M external investment round",
-      "url": "https://www.isomorphiclabs.com/articles/isomorphic-labs-announces-600m-external-investment-round",
-      "publisher": "Isomorphic Labs",
-      "date": "2025-03-31",
-      "type": "funding",
-      "key_data": "$600M Series A led by Thrive Capital + GV; first external funding since DeepMind spinout (2021)"
+      "id": 6,
+      "publisher": "WillCure AI Funding Tracker",
+      "url": "https://wewillcure.com/insights/news/ai-and-machine-learning/ai-drug-discovery-venture-funding-tracker-2026",
+      "claim": "AI drug discovery venture funding surged 94.6% YoY in 2025 to $3.08B; Earendil Labs raised $787M (March 2026) from Sanofi + Pfizer-Hillhouse",
+      "used_for": ["growth_1y", "economic_pestal", "competitors"]
     },
     {
-      "title": "Isomorphic Labs raises $600M toward AI drug design — BioPharma Dive",
-      "url": "https://www.biopharmadive.com/news/isomorphic-venture-raise-alphabet-ai-drug-discovery/743983/",
-      "publisher": "BioPharma Dive",
-      "date": "2025-03-31",
-      "type": "news",
-      "key_data": "Funding to power AI drug design engine and advance therapeutic programs to clinic"
+      "id": 7,
+      "publisher": "Intuition Labs",
+      "url": "https://intuitionlabs.ai/articles/ai-biopharma-regulation-2025",
+      "claim": "FDA released inaugural draft AI guidance for drug/biologics regulation in January 2025; EU AI Act high-risk provisions take effect August 2, 2026",
+      "used_for": ["political_pestal", "legal_pestal"]
     },
     {
-      "title": "A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial",
-      "url": "https://www.nature.com/articles/s41591-025-03743-2",
-      "publisher": "Nature Medicine",
-      "date": "2025-06-03",
-      "type": "clinical_trial",
-      "key_data": "First AI-designed drug Phase IIa: +98.4 mL FVC in 60mg QD group vs. −62.3 mL placebo (71 patients, 12 weeks)"
+      "id": 8,
+      "publisher": "Drug Discovery News",
+      "url": "https://www.drugdiscoverynews.com/regulating-ai-in-drug-discovery-what-fda-ema-and-ich-guidance-means-for-pharma-r-d-17366",
+      "claim": "FDA + EMA jointly published 10 guiding principles for AI in medicine development (January 14, 2026)",
+      "used_for": ["political_pestal", "legal_pestal", "timeline"]
     },
     {
-      "title": "Insilico Medicine announces Nature Medicine publication of Phase IIa results of Rentosertib",
-      "url": "https://insilico.com/news/tnrecuxsc1-insilico-announces-nature-medicine-publi",
-      "publisher": "Insilico Medicine",
-      "date": "2025-06-03",
-      "type": "clinical_trial",
-      "key_data": "Rentosertib (ISM001-055) — both target and molecule discovered entirely by generative AI; IPF indication"
+      "id": 9,
+      "publisher": "Presenc AI / Intuition Labs",
+      "url": "https://intuitionlabs.ai/articles/isomorphic-labs-alphafold-ai-drug-discovery-trials",
+      "claim": "AlphaFold 3 released May 2024; 50%+ of AI drug programs use AlphaFold structures; Isomorphic signed deals with Novartis + Eli Lilly in January 2024 (~$3B potential)",
+      "used_for": ["timeline", "technological_pestal"]
     },
     {
-      "title": "FDA Draft Guidance: Considerations for the Use of AI to Support Regulatory Decision-Making",
-      "url": "https://www.federalregister.gov/documents/2025/01/07/2024-31542/considerations-for-the-use-of-artificial-intelligence-to-support-regulatory-decision-making-for-drug",
-      "publisher": "U.S. FDA / Federal Register",
-      "date": "2025-01-06",
-      "type": "regulatory",
-      "key_data": "First FDA guidance on AI in drug development; 7-step risk-based credibility assessment framework; comment period closed April 7, 2025"
+      "id": 10,
+      "publisher": "AI Biotech Platforms (Nexi Fund)",
+      "url": "https://nexi.fund/ai-biotech-platforms-comparison/",
+      "claim": "Comparison of Insitro, Recursion, Benchling platforms; Recursion: high-throughput phenotypic imaging + NVIDIA $50M investment; Insitro: Gilead partnership, disease biology-first",
+      "used_for": ["market_players", "competitors"]
     },
     {
-      "title": "Recursion and Exscientia combine to create global AI drug discovery leader",
-      "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-and-exscientia-two-leaders-ai-drug-discovery-space",
-      "publisher": "Recursion Pharmaceuticals",
-      "date": "2024-10-01",
-      "type": "merger",
-      "key_data": "Merger of Recursion + Exscientia — combined 60+ PB proprietary data, 2.2M experiments/week, $20B+ in future milestones"
+      "id": 11,
+      "publisher": "Clinical Trial Vanguard",
+      "url": "https://www.clinicaltrialvanguard.com/opinion/ai-drug-discovery-has-8-9-billion-in-hype-and-zero-fda-approvals-when-does-the-bill-come-due/",
+      "claim": "$8.9B invested in AI drug discovery with zero FDA approvals as of mid-2026; zero FDA approvals expected before 2028",
+      "used_for": ["canvas_unmet", "legal_pestal"]
     },
     {
-      "title": "AI-Discovered Drugs Reach Phase III — 2026 Will Determine Whether All the Promises Were Real",
-      "url": "https://www.humai.blog/ai-discovered-drugs-reach-phase-iii-and-2026-will-determine-whether-all-the-promises-were-real/",
-      "publisher": "Humai Blog",
-      "date": "2026-01-15",
-      "type": "analysis",
-      "key_data": "173 AI-discovered programs in clinical trials (94 Phase I, 56 Phase II, 15 Phase III); 15-20 pivotal trials expected in 2026"
+      "id": 12,
+      "publisher": "FDLI (Food and Drug Law Institute)",
+      "url": "https://www.fdli.org/2025/07/regulating-the-use-of-ai-in-drug-development-legal-challenges-and-compliance-strategies/",
+      "claim": "FDA transparency requirements potentially conflict with trade secret protection; AI model architecture and training data disclosures create IP risk for pharma AI platforms",
+      "used_for": ["legal_pestal"]
     },
     {
-      "title": "AI Biotech Funding: A 2025 Analysis of VC Investment Trends",
-      "url": "https://intuitionlabs.ai/articles/ai-biotech-funding-trends",
-      "publisher": "IntuitionLabs",
-      "date": "2025-11-01",
-      "type": "market_research",
-      "key_data": "$3.3B invested in AI drug discovery in 2024 (+27% YoY); 530+ companies globally; total sector raised $420B+ in disclosed funding"
+      "id": 13,
+      "publisher": "Biotecnika",
+      "url": "https://www.biotecnika.org/2026/03/ai-in-drug-discovery-startups-career-paths-2026/",
+      "claim": "Demand for AI/ML biologists in drug discovery exceeds supply 3:1; talent shortage emerging as key bottleneck to scaling AI drug programs",
+      "used_for": ["social_pestal", "canvas"]
     },
     {
-      "title": "Who Owns the AI-Discovered Drug? Patent Ownership Guide for Pharma IP Teams",
-      "url": "https://www.drugpatentwatch.com/blog/ai-meets-drug-discovery-but-who-gets-the-patent/",
-      "publisher": "DrugPatentWatch",
-      "date": "2025-03-01",
-      "type": "legal",
-      "key_data": "USPTO: AI cannot be named as inventor; human must 'significantly contribute' to every claim; black-box AI makes attribution legally ambiguous"
-    },
-    {
-      "title": "AI Drug Discovery and Patent Law — Goodwin Law",
-      "url": "https://www.goodwinlaw.com/en/insights/publications/2025/12/insights-lifesciences-ip-ai-drug-discovery-tests-the-limits-of-patent-law",
-      "publisher": "Goodwin Law",
-      "date": "2025-12-01",
-      "type": "legal",
-      "key_data": "Analysis of AI inventorship doctrines; co-ownership risks in pharma AI partnerships; data licensing gaps"
-    },
-    {
-      "title": "2026: The Year AI Reinvents Drug Discovery",
-      "url": "https://aiworldjournal.com/2026-the-year-ai-reinvents-drug-discovery/",
-      "publisher": "AI World Journal",
-      "date": "2026-01-01",
-      "type": "analysis",
-      "key_data": "Summary of 2025 milestones; 2026 as inflection year for AI clinical proof"
-    },
-    {
-      "title": "AI accelerates drug discovery from decades to months — Isomorphic Labs Drug Design Engine",
-      "url": "https://techstartups.com/2026/02/10/ai-accelerates-drug-discovery-from-decades-to-months-isomorphic-labs-drug-design-engine-pushes-beyond-nobel-level-science/",
-      "publisher": "Tech Startups",
-      "date": "2026-02-10",
-      "type": "product",
-      "key_data": "Isomorphic's Drug Design Engine advances beyond AlphaFold — multimodal optimization across targets, off-targets, ADMET"
-    },
-    {
-      "title": "Leading AI-driven drug discovery platforms: 2025 landscape and global outlook",
-      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118",
-      "publisher": "ScienceDirect / Drug Discovery Today",
-      "date": "2025-08-01",
-      "type": "academic",
-      "key_data": "Comprehensive 2025 landscape of 530+ AI drug discovery companies; platform comparison across discovery modalities"
+      "id": 14,
+      "publisher": "PMC / NCBI",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12298131/",
+      "claim": "AI drug discovery reduces preclinical timelines from 4-5 years to 12-18 months; 90%+ clinical trial failure rate drives demand for better candidate selection",
+      "used_for": ["jobs", "economic_pestal"]
     }
-  ]
+  ],
+  "data_quality_notes": {
+    "verified": [
+      "Isomorphic Labs $2.1B Series B date (May 12, 2026) confirmed from official company announcement + multiple sources",
+      "173+ clinical programs figure from Axis Intelligence (April 2026) cross-checked with Intuition Labs",
+      "FDA + EMA joint AI principles date (Jan 14, 2026) from Drug Discovery News",
+      "Schrödinger revenue ($255.9M FY2025, $58.6M Q1 2026) from financial reports",
+      "Funding surge 94.6% YoY from WillCure tracker",
+      "AlphaFold 3 release date (May 2024) confirmed multiple sources"
+    ],
+    "unverified": [
+      "search_volume ~40K/mo is estimated — keyword tool data not verified",
+      "growth_5y +424% computed from ~$1.45B (2022 baseline, GMInsights) to $7.62B (2026); methodology gap between 2021 and 2022 baseline",
+      "growth_3m '+173 prgs' is a program count proxy, not a standard percentage metric",
+      "Individual market share percentages (~3.5%, ~3.2%, etc.) are derived from the stated collective 11.8% — not individually cited",
+      "Eli Lilly + NVIDIA $1B co-investment detail not independently verified from primary source in this research session"
+    ]
+  }
 }
