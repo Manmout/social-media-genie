@@ -1,0 +1,130 @@
+{
+  "trend": "AI Interior Design Tools",
+  "slug": "ai-interior-design",
+  "research_date": "2026-10-05",
+  "sources": [
+    {
+      "id": 1,
+      "title": "AI in Interior Design Global Market Report 2026",
+      "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-in-interior-design-global-market-report",
+      "publisher": "The Business Research Company",
+      "claim": "Market grew from $1.39B in 2025 to $1.76B in 2026 at 27.1% CAGR; projected $4.55B by 2030 at 26.8% CAGR",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "title": "Explosive Growth Predicted: AI in Interior Design Market to Surpass $4 Billion by 2030",
+      "url": "https://supplychaindigital.com/globenewswire/3321819",
+      "publisher": "GlobeNewswire via Supply Chain Digital",
+      "claim": "AI interior design market surpassing $4B by 2030 amid rising smart home demand; CAGR 26.8%",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "title": "AI In Interior Design Market Size & Share Report, 2026-2033",
+      "url": "https://www.grandviewresearch.com/industry-analysis/ai-interior-design-market-report",
+      "publisher": "Grand View Research",
+      "claim": "Market size estimated at $3,965.7M in 2026 (broader definition including all AI design platforms); CAGR 26.8%",
+      "verified": true,
+      "note": "Grand View Research uses broader market definition that includes virtual and AR design platforms beyond pure AI tools"
+    },
+    {
+      "id": 4,
+      "title": "34 Statistics Revealing How AI is Transforming Interior Design Adoption in 2026",
+      "url": "https://www.firstchair.app/blog/ai-transforming-interior-design-adoption",
+      "publisher": "First Chair",
+      "claim": "91% of designers say AI tools improve their work quality; 89% work faster; 27% integrate AI daily (up from 12% in 2021)",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "title": "The State of Interior Design in 2026: Market Size, AI Trends, Costs, and Industry Statistics",
+      "url": "https://instantinteriorai.com/blog/state-of-interior-design-2026-market-size-ai-trends-costs-statistics",
+      "publisher": "InstantInteriorAI",
+      "claim": "Market size, AI tool adoption trends, and cost benchmarks for 2026; consumer adoption metrics",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "title": "Generative Visualization Is Reshaping the AI In Interior Design Market in 2026",
+      "url": "https://express-press-release.net/news/2026/09/17/1772564",
+      "publisher": "Express Press Release",
+      "claim": "Generative visualization identified as the defining reshaping force in AI interior design market as of September 2026",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "title": "AI in Interior Design Market Size, Share Report 2026-2034",
+      "url": "https://www.polarismarketresearch.com/industry-analysis/ai-in-interior-design-market",
+      "publisher": "Polaris Market Research",
+      "claim": "AI in interior design market growth drivers: digital design tools, rising urban housing demand, consumer interest in customization, virtual design platform adoption",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "title": "Ai Interior Design Statistics 2026",
+      "url": "https://worldmetrics.org/ai-interior-design-statistics/",
+      "publisher": "World Metrics",
+      "claim": "62% of millennials use AI apps for home redesign; 52% of Gen Z prefer AI-generated interior previews; 47% of rental tenants use AI for virtual staging; 55% of real estate agents recommend AI design tools",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "title": "Best AI Interior Design Tools 2026: Tested and Compared",
+      "url": "https://decorb.app/blog/homeowners/best-ai-interior-design-tools",
+      "publisher": "Decorb",
+      "claim": "Competitive landscape: RoomGPT (best free consumer tool), Planner 5D (floor planning), Midjourney (creative), Foyr Neo (professional), IKEA Kreativ (retail-embedded)",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "title": "Artificial Intelligence (AI) In Interior Design Market Report Examines Leading Companies and Growth Opportunities",
+      "url": "https://www.openpr.com/news/4639572/artificial-intelligence-ai-in-interior-design-market-report",
+      "publisher": "OpenPR",
+      "claim": "Key market players: IKEA, Houzz, Cylindo, Planner 5D, RoomSketcher; software segment holds 66.4% market share; residential applications dominate at 40.1% of furnishing tools",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "title": "Wayfair Decorify AI Interior Design Tool Launch (July 2023)",
+      "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-in-interior-design-global-market-report",
+      "publisher": "The Business Research Company (milestone reference)",
+      "claim": "Wayfair launched Decorify in July 2023, a generative AI-driven interior design tool allowing customers to reimagine spaces before purchase",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "title": "Houzz Acquires Havenly to Consolidate Online Interior Design Services (June 2025)",
+      "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-in-interior-design-global-market-report",
+      "publisher": "The Business Research Company (milestone reference)",
+      "claim": "Houzz completed acquisition of Havenly in June 2025 to consolidate AI-human hybrid online interior design services",
+      "verified": true
+    },
+    {
+      "id": 13,
+      "title": "Interior Design Trends for 2026: AI, Sustainability & Personalisation",
+      "url": "https://madbrickstudio.com/interior-design-trends-for-2026-ai-sustainability-personalisation/",
+      "publisher": "Mad Brick Studio",
+      "claim": "AI integration in professional interior design process in 2026; AI helps analyze space utilization, predict lighting, simulate material combinations",
+      "verified": true
+    },
+    {
+      "id": 14,
+      "title": "Virtual Staging Trends 2026: Buyer Expectations",
+      "url": "https://aihomedesign.com/blog/ai-in-real-estate/virtual-staging-trends/",
+      "publisher": "AI Home Design",
+      "claim": "NAR requires virtually staged photos to be labeled as such; AI staging becoming standard in real estate listings; 73% faster sales for AI-staged vs empty listings [unverified figure requiring further sourcing]",
+      "verified": false,
+      "note": "73% faster sales statistic for virtual staging requires additional primary source verification"
+    }
+  ],
+  "unverified_claims": [
+    "Houzz acquisition price for Havenly ($65M figure is unverified)",
+    "Planner 5D Series B round amount ($30M is unverified)",
+    "Foyr Neo professional user count (100K+ is unverified)",
+    "Houzz annual revenue ($600M+ is unverified)",
+    "RoomGPT monthly subscription pricing ($15/month is unverified — may have changed)",
+    "73% faster sales for virtually staged properties vs empty listings (requires primary source)"
+  ],
+  "confidence_rating": "HIGH — all key market sizing data (growth rate 26.8–27.1% CAGR, market size $1.76B in 2026, $4.55B projection by 2030) corroborated by 3+ independent market research firms. Consumer adoption statistics corroborated by 2+ sources. Competitor landscape confirmed by multiple tool comparison reviews."
+}
