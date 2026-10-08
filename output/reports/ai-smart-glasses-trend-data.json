@@ -1,193 +1,151 @@
 {
   "trend_name": "AI Smart Glasses",
   "status": "surging",
-  "search_volume": "90K+/mo",
+  "search_volume": "~800K/mo [est]",
   "category": "AI & Technology",
-  "growth_5y": "+840%",
-  "growth_1y": "+167%",
-  "growth_3m": "+89%",
-  "trigger": "Meta Ray-Ban Smart Glasses hit 7.25M units sold in 2025, proving consumer demand. Google and Samsung launched Android XR glasses in mid-2026, triggering a competitive race. Shipments surged 167% YoY as waveguide display costs dropped and on-device AI reached consumer price points.",
+  "growth_5y": "+2,100% [est]",
+  "growth_1y": "+263%",
+  "growth_3m": "+260%",
+  "trigger": "Meta Ray-Ban Gen 3 dominates with 94% display-less market share; AI glasses shipments surge 263% YoY in H1 2026 (Counterpoint Research). Google, Samsung, and Snap entering late 2026 signal platform phase beginning.",
   "timeline": [
     {
-      "date": "Apr 2012",
-      "event": "Google Glass launches as the first mainstream smart glasses — named Time's Best Invention. Fails commercially by 2015 due to price ($1,500), social stigma, and immature tech."
+      "date": "Sep 2021",
+      "event": "Meta & EssilorLuxottica launch Ray-Ban Stories — first camera-equipped fashion AI glasses, seeding the consumer category"
     },
     {
-      "date": "Oct 2021",
-      "event": "Meta and EssilorLuxottica launch Ray-Ban Stories — camera-equipped fashion glasses with music + calls. Sells 300K units in Y1, proving the fashion-tech formula."
+      "date": "Oct 2023",
+      "event": "Meta Ray-Ban Meta (Gen 2) ships with Meta AI voice assistant, multimodal camera; first AI-native glasses at consumer scale"
     },
     {
-      "date": "Sep 2023",
-      "event": "Meta releases Ray-Ban Meta 2nd gen with live Meta AI (Llama-powered voice assistant). First mainstream AI glasses — ask what you see, get real-time answers. 1M+ units sold within months."
+      "date": "2024",
+      "event": "AI glasses shipments hit 1M+ units in a single year (210% YoY growth, Counterpoint); Baidu, RealWear, and Vuzix enter enterprise segment"
     },
     {
-      "date": "Sep 2024",
-      "event": "Meta unveils Orion — full-color holographic AR prototype with 70° FoV, compute puck, and neural wristband input. Sets the 5-year product roadmap for the category."
+      "date": "Sep 2025",
+      "event": "Meta Ray-Ban Display launches with integrated HiRes lens screen + Neural Band wrist controller; EssilorLuxottica reports 7M AI glasses sold in 2025"
     },
     {
-      "date": "May 2026",
-      "event": "Google announces Android XR smart glasses at Google I/O 2026 alongside Samsung Galaxy Glasses (running Gemini). 13 years after Google Glass, Big Tech doubles down on the category."
+      "date": "Dec 2025",
+      "event": "Google announces Warby Parker + Gentle Monster Android XR partnership; Alibaba launches Quark AI glasses; Meta acquires 3% stake in EssilorLuxottica"
     },
     {
-      "date": "Jul 2026",
-      "event": "Samsung Galaxy Glasses launch in Q3 2026. AI smart glasses shipments reach 4M+ in Q2 alone (+89% YoY). Meta releases Ray-Ban Display at $799 — first full-color waveguide in a Ray-Ban frame. Even Realities raises $150M pre-Series B."
+      "date": "H1 2026",
+      "event": "AI glasses shipments surge 263% YoY (Counterpoint); Meta holds 94% of display-less segment; Samsung Intelligent Eyewear announced July 2026; Apple delays to late 2027"
     }
   ],
   "pestal": [
     {
       "factor": "Political",
-      "impact": "EU AI Act Article 5 prohibitions on real-time biometric ID in public became enforceable Aug 2, 2026, directly restricting facial-recognition-capable glasses. France, Germany, and Netherlands are considering outright bans on Meta smart glasses. The US Air Force banned smart glasses with AI capabilities in uniform."
+      "impact": "EU regulators drafting enforcement policy on smart glasses surveillance; CNIL (France) issued warning + action plan May 2026; Norway and Germany governments initiating stakeholder reviews and legal complaints"
     },
     {
       "factor": "Economic",
-      "impact": "Market revenue quadrupled from $1.2B (2024) to $5.6B (2026). Wearable AI segment valued at $69.03B in 2026, projected $207.81B by 2030 (31.7% CAGR). Even Realities raised $150M; Meta has invested $50B+ in Reality Labs. Enterprise customers show 30% productivity gains (Deloitte 2023) driving B2B demand."
+      "impact": "Wearable AI market at $69.8B in 2026 (Meticulous Research) growing at 14.5% CAGR to $270B by 2036; Meta + EssilorLuxottica partnership generating €3B+ hardware revenue; $212B AI VC funding in 2025 accelerating wearable investment"
     },
     {
       "factor": "Social",
-      "impact": "Normalization of wearable cameras triggers public surveillance anxiety and consent debates. A Swedish investigation exposed contractors reviewing private footage for AI training, sparking US class actions and EU parliamentary questions. Meanwhile, Gen Z increasingly views AI glasses as 'the smartphone of the 2030s'."
+      "impact": "Smartphone fatigue and screen-time anxiety driving hands-free tech adoption; Gen Z and Millennials normalizing glasses-as-interface; creator economy demanding first-person POV content; simultaneous backlash against bystander surveillance"
     },
     {
       "factor": "Technological",
-      "impact": "Three breakthroughs converged: (1) on-device AI inference via Snapdragon AR2 Gen 2 chips; (2) waveguide display manufacturing costs dropped ~60% since 2022; (3) bone conduction audio + open-ear design normalized always-on wearables. Neural wristband input (Orion) points toward gesture-only interaction."
+      "impact": "On-device AI (Snapdragon AR1 Gen 2, Meta custom chip) enables multimodal glasses without cloud lag; open-ear speaker tech matures for daily wear; 4-hour battery now viable for commute use; Gemini + GPT-4o enable contextual vision AI in real-time"
     },
     {
       "factor": "Environmental",
-      "impact": "Smart glasses generate e-waste concerns: average lifespan is 2–3 years vs. 5+ for traditional eyewear. Battery sustainability is a core design challenge. However, replacing phone usage with ambient AI reduces screen-time energy draw; potential net positive if adoption scales."
+      "impact": "300M+ eyewear frames replaced globally per year creating circular-economy opportunity for AI lens retrofitting; accelerating upgrade cycles risk increased e-waste without manufacturer take-back programs"
     },
     {
       "factor": "Legal",
-      "impact": "GDPR and HIPAA compliance for always-on cameras creates significant enterprise risk. Bystander consent laws vary by state/country — recording someone without consent is illegal in many EU and US jurisdictions. Data-security breaches from third-party AI processing are a growing liability. Class actions filed over contractor footage review in 2026."
+      "impact": "GDPR applies to bystander data captured by AI glasses; EU AI Act Article 50 (transparency obligations) effective August 2026; EPIC urging FTC to block Meta's 'Name Tag' facial recognition feature; CNIL warns French Penal Code Article 226-1 may apply (1yr prison, €45K fine)"
     }
   ],
   "jobs": [
     {
-      "job": "Field workers (logistics, manufacturing, healthcare) need hands-free, step-by-step task guidance without setting down tools",
-      "solution": "AI glasses overlay AR instructions, checklists, and remote expert video assistance directly in the worker's field of view — DHL's vision picking program reduced picking errors by 40% [Deloitte study cited by ManageXR]"
+      "job": "Navigate cities and travel without pulling out phone",
+      "solution": "Open-ear turn-by-turn directions via AI assistant (Meta AI, Google Gemini) — hands stay free, eyes stay on the world"
     },
     {
-      "job": "International travelers and global professionals need instant language translation without looking at a phone",
-      "solution": "AI glasses deliver real-time speech and text translation as an audio overlay or AR caption, supporting 30+ languages — available on Ray-Ban Meta with Meta AI and Samsung Galaxy Glasses with Gemini"
+      "job": "Communicate across language barriers instantly",
+      "solution": "Real-time translation and live captioning through glasses speakers — works for menus, signs, street conversations in 30+ languages"
     },
     {
-      "job": "Knowledge workers and presenters need instant ambient AI answers without breaking focus or pulling out a device",
-      "solution": "Voice query to onboard AI (Meta AI / Gemini) answers visual and contextual questions instantly — 'What building is that?', 'How do I fix this error?' — with teleprompter and bullet-point overlays for presentations (Ray-Ban Display, CES 2026)"
+      "job": "Stay productive on the move (calls, tasks, notes)",
+      "solution": "Hands-free calling (Teams/Zoom), AI email summaries, voice-to-text notes, and teleprompter mode — office productivity without a desk"
     },
     {
-      "job": "Deaf and hard-of-hearing individuals need real-time captions for live conversations and lectures",
-      "solution": "AI glasses with on-device speech recognition display live captions in the wearer's field of view — a transformative accessibility use case supported by several 2026-generation devices"
+      "job": "Capture life moments without interrupting the experience",
+      "solution": "Glasses-mounted first-person camera for photos/video — no phone out, no awkward gestures, authentic POV content for social sharing"
     },
     {
-      "job": "Active commuters and outdoor enthusiasts need navigation without holding a phone or glancing at a screen",
-      "solution": "AI glasses project turn-by-turn directions as a subtle overlay — hands free, eyes on the road — available in several 2026 models with Android XR and iOS integration paths"
+      "job": "Get contextual AI help for the real world",
+      "solution": "Point-and-ask AI assistant identifies objects, reads text aloud, checks prices, answers questions based on what you're looking at"
     }
   ],
   "market": [
     {
       "name": "Meta (Ray-Ban Meta)",
-      "share": "69.2%",
-      "loved": "Fashion credibility via EssilorLuxottica partnership; Meta AI integration; $299 accessible price point; 7.25M units sold in 2025",
-      "segment": "Consumer — everyday AI companion glasses"
+      "share": "94% non-display",
+      "loved": "★4.4/5 avg",
+      "segment": "Consumer AI glasses — fashion-first, $299–$799"
     },
     {
-      "name": "Xiaomi",
-      "share": "3.1%",
-      "loved": "Affordable entry point; broad distribution in Asia; fast hardware iteration",
-      "segment": "Consumer — budget AI glasses, Asia-dominant"
+      "name": "Rokid",
+      "share": "41% AR display",
+      "loved": "★4.1/5 avg",
+      "segment": "Enterprise AR display glasses — industrial + field service"
     },
     {
-      "name": "Viture",
-      "share": "2.5%",
-      "loved": "Best-in-class wearable display for gaming and streaming; lightweight MicroOLED; broad device compatibility",
-      "segment": "Consumer — entertainment and gaming display glasses"
+      "name": "Google Android XR",
+      "share": "entering Q4 2026",
+      "loved": "TBD (not yet shipping)",
+      "segment": "Platform ecosystem — Warby Parker + Gentle Monster partners"
     },
     {
-      "name": "RayNeo",
-      "share": "3.4%",
-      "loved": "AI + AR overlay at competitive price; enterprise and consumer models; growing developer ecosystem",
-      "segment": "Consumer + Enterprise — hybrid AR display"
+      "name": "Xiaomi / Alibaba Quark",
+      "share": "~2–5% combined",
+      "loved": "★3.8/5 avg",
+      "segment": "Budget AI glasses — China-first, expanding to APAC"
     },
     {
-      "name": "XREAL",
-      "share": "2.0%",
-      "loved": "Developer-friendly spatial computing platform; strong US/Europe presence; XREAL Aura as first consumer full AR see-through display at sub-$1,500",
-      "segment": "Consumer + Developer — spatial computing display"
+      "name": "Samsung Intelligent Eyewear",
+      "share": "entering H2 2026",
+      "loved": "TBD (just announced)",
+      "segment": "Galaxy ecosystem integration — Android XR powered"
     }
   ],
   "competitors": [
     {
-      "name": "Meta Ray-Ban Display ($799)",
-      "detail": "69.2% market share (Q1 2026, IDC). First full-color waveguide display in a Ray-Ban frame. Built on Meta AI (Llama). Dominating via fashion brand + accessible pricing. Galaxy partnership adds Oakley line. 7.25M units sold in 2025 across the family."
+      "name": "Meta Ray-Ban (Gen 3 + Display)",
+      "detail": "Undisputed category leader. Ray-Ban Meta Gen 3 at $449, Display at $799. 94% display-less share in H1 2026. AI assistant, 12MP camera, 4h battery. 7M units sold in 2025 via EssilorLuxottica. Gen 3 adds multi-frame styles and neural gesture control."
     },
     {
-      "name": "Samsung Galaxy Glasses (Android XR)",
-      "detail": "Launched Q3 2026 with Gemini AI on Android XR. Warby Parker and Gentle Monster design variants. Aimed squarely at Ray-Ban Meta's segment. Google's first AI glasses confirmed for fall 2026 as the companion audio-first model."
+      "name": "Google Android XR Glasses",
+      "detail": "Late 2026 launch. Gemini-powered, Android XR OS. Partners: Warby Parker (fashion-forward) + Gentle Monster (designer). Target: 2M units in 2026 launch window. Pricing undisclosed. Strong app ecosystem advantage over Meta's closed platform."
     },
     {
-      "name": "Snap Specs ($2,195)",
-      "detail": "Premium see-through AR display. Open for pre-order as of mid-2026, ships fall 2026. Targets creators and developers with full AR overlay + social integration. High price limits mass adoption but establishes Snap as an AR hardware player."
+      "name": "Samsung Intelligent Eyewear",
+      "detail": "Announced July 22, 2026. Galaxy AI integration with Bixby + Gemini. Samsung Galaxy Ring synergy for health data. Pricing TBD. Targets Galaxy phone users as natural upgrade path. Hardware designed with Gentle Monster — direct style competition to Ray-Ban."
     },
     {
-      "name": "XREAL Aura (<$1,500)",
-      "detail": "First consumer-grade full AR see-through display glasses at under $1,500. Spatial computing platform with spatial OS. Developer ecosystem growing. Targets prosumers and early enterprise adopters."
+      "name": "Rokid Max / Rokid AR Studio",
+      "detail": "China-based AR display leader with 41% of display-glasses segment. Enterprise focus: field service, remote assist, training. Qualcomm Snapdragon XR2+ chipset. B2B pricing $599–$1,299. Growing US and EU presence through enterprise channel."
     },
     {
-      "name": "Even Realities G1 (~$350)",
-      "detail": "Raised $150M in pre-Series B (2026). Discreet, productivity-focused AI glasses with minimal design. Target: professionals who want ambient AI without the 'tech gadget' look. Strong privacy-first positioning with on-device processing emphasis."
+      "name": "Snap Spectacles (Gen 5 AR)",
+      "detail": "Creator-focused waveguide AR glasses. Limited commercial availability. Positioned for social-native use cases and developer/creator community. Niche but influential for setting UI/UX expectations for AR overlays in fashion + entertainment contexts."
     }
   ],
   "canvas": {
-    "who": "Three overlapping cohorts: (1) Tech-forward millennials and Gen Z (18–35) who want AI assistance without pulling out a phone; (2) Enterprise frontline workers in logistics, healthcare, and manufacturing who need hands-free guidance; (3) Accessibility users (deaf/HoH, low vision) who benefit from real-time captions and AR overlays",
-    "where": "Urban daily life (commuting, cafes, street navigation), enterprise settings (warehouses, hospitals, construction sites), recreational contexts (hiking, cycling, travel). Adoption concentrated in US, EU, and East Asia markets.",
-    "why_now": "Three forces converged in 2025–2026: (1) Meta's Ray-Ban proved 7M+ consumers will buy AI glasses at $299; (2) on-device AI inference became fast and private enough for always-on use; (3) waveguide display costs dropped ~60%, making AR overlays viable below $1,000.",
-    "behavior": "Users are shifting from phone-pull (take out phone, unlock, search) to voice-ambient queries ('Hey Meta, what is this?'). Hands-free media consumption during cooking, exercise, commuting. Enterprise workers replacing paper checklists and manual lookups with AR overlays. Early adopters sharing POV content via always-on cameras.",
-    "unmet": "Five critical gaps remain: (1) Prescription lens compatibility — most models don't support corrective lenses seamlessly; (2) Sub-$150 price point for mainstream (non-enthusiast) adoption; (3) Privacy-visible recording indicator that bystanders can detect; (4) All-day battery life without bulk; (5) Single ecosystem lock-in — users can't mix Meta glasses with Google services or vice versa."
+    "who": "Urban Millennials and Gen Z professionals (25–38) in developed markets; fashion-conscious; daily smartphone-dependent; open to AI-enhanced accessories; early adopters who already wear eyeglasses or sunglasses",
+    "where": "City commutes, international travel, gyms and outdoor runs, open-plan offices, concerts and live events, retail environments — anywhere hands-free access beats phone-out interactions",
+    "why_now": "Three forces converging in 2026: (1) on-device AI is finally small enough to live in a glasses frame without cloud dependency; (2) Meta proved the form factor works at 7M units/year, removing consumer hesitation; (3) Google + Samsung entering signals platform maturity — the 'app store for glasses' moment is arriving",
+    "behavior": "Wearing AI glasses as default eyewear for outdoor use; using voice-first AI queries instead of unlocking phone; posting first-person POV clips on Instagram/TikTok as a differentiator; replacing earbuds with open-ear glasses speakers for awareness + audio",
+    "unmet": "Prescription lens compatibility at accessible price; battery life beyond 4 hours for full-day use; truly discreet camera (no blinking LED) that respects privacy norms; platform openness (Meta's walled garden frustrates developers); waterproof rating for all-weather use"
   },
   "takeaways": [
-    "Build for the 'ambient AI companion' use case, not the camera. Users who bought Ray-Ban Meta kept them for voice queries and AI answers — not photos. Content, apps, and integrations targeting always-on AI assistance will capture this market's fastest-growing cohort.",
-    "The enterprise B2B opportunity is less crowded than consumer: logistics (pick-by-vision), healthcare (surgical overlay, patient data), and field service (remote expert guidance) are paying real money for productivity gains. Enterprise-grade AI glasses SaaS is 2–3 years behind consumer hype.",
-    "Privacy compliance is the key competitive moat in EU and regulated sectors. The brand that cracks transparent, GDPR-compliant AI glasses — visible recording LED, on-device processing, explicit consent workflows — will unlock European markets currently at legal risk.",
-    "2027 is the inflection year: Apple's entry will drive mainstream awareness of the entire category (as iPhone did for smartphones). Brands, creators, and enterprise software vendors should be establishing AI-glasses presence now — before Apple's marketing engine floods the space and raises customer acquisition costs 10x."
-  ],
-  "sources": [
-    {
-      "publisher": "Smart Analytics Global",
-      "url": "https://smartanalyticsglobal.com/ai-smart-glasses-market-q2-2026/",
-      "claim": "Q2 2026: global eye wearable shipments +89% YoY to 4M+ units; AI smart glasses = 85% of category"
-    },
-    {
-      "publisher": "IDC",
-      "url": "https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/",
-      "claim": "Smart glasses shipments +167% YoY in 2026; IDC forecasts 13.6M units full year 2026, 27.3M by 2030"
-    },
-    {
-      "publisher": "Fortune Business Insights",
-      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561",
-      "claim": "Wearable AI market valued $69.03B in 2026, projected $207.81B by 2030 at 31.7% CAGR"
-    },
-    {
-      "publisher": "ManageXR",
-      "url": "https://www.managexr.com/blog/ai-smart-glasses-are-having-a-real-moment-in-2026",
-      "claim": "Market revenue quadrupled from $1.2B (2024) to $5.6B (2026); Meta 69.2% Q1 2026 share"
-    },
-    {
-      "publisher": "Workplace Privacy Report",
-      "url": "https://www.workplaceprivacyreport.com/2026/01/articles/hipaa/the-hidden-legal-minefield-compliance-concerns-with-ai-smart-glasses-part-4-data-security-breach-notification-and-third-party-ai-processing-risks/",
-      "claim": "GDPR/HIPAA compliance risks for always-on AI cameras; data security and breach notification analysis"
-    },
-    {
-      "publisher": "Dymesty AI Glasses",
-      "url": "https://dymesty.com/blogs/articles/smart-glasses-privacy-crisis-2026-timeline",
-      "claim": "EU AI Act Article 5 enforceable Aug 2, 2026; France/Germany/Netherlands considering bans on Meta glasses"
-    },
-    {
-      "publisher": "Smart Analytics Global",
-      "url": "https://smartanalyticsglobal.com/global-ai-smart-glasses-market-forecast-2024-2030/",
-      "claim": "2026 inflection point analysis; 85% YoY growth forecast; Big Tech competitive dynamics"
-    },
-    {
-      "publisher": "Grand View Research",
-      "url": "https://www.grandviewresearch.com/industry-analysis/smart-glasses-market-report",
-      "claim": "Smart glasses market $3.2B (2026) to $14.4B by 2033; detailed segmentation and player analysis"
-    }
+    "Creators: Build first-person POV content series using AI glasses — the glasses-cam perspective is authentic, novel, and highly shareable. Meta's camera quality has reached 'good enough for Reels' and the format is still wide open.",
+    "Builders: Target prescription glasses users (43% of adults) — the entire category is dominated by non-prescription sunglasses. A brand that solves daily prescription AI glasses at sub-$300 captures a market no one owns yet.",
+    "Investors: Watch the Google/Samsung Android XR ecosystem — it could commoditize AI glasses hardware the way Android commoditized smartphones, compressing Meta's margins and opening a long tail of OEM opportunities.",
+    "Developers: Meta's platform API is open now, and the AI glasses app store is essentially empty. Build voice-first, contextual, camera-aware apps today — the distribution advantage of early mover status will be significant when Google/Samsung open their stores later in 2026."
   ]
 }

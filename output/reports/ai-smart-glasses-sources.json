@@ -1,144 +1,111 @@
 {
-  "trend_name": "AI Smart Glasses",
+  "trend": "AI Smart Glasses",
   "slug": "ai-smart-glasses",
-  "researched_date": "2026-09-13",
+  "generated": "2026-10-08",
   "sources": [
     {
       "id": 1,
-      "publisher": "Smart Analytics Global",
-      "url": "https://smartanalyticsglobal.com/ai-smart-glasses-market-q2-2026/",
-      "title": "Global Eye Wearable Shipments Grew 89% YoY to Over 4M Units in Q2 2026",
-      "key_claims": [
-        "Q2 2026: global eye wearable shipments +89% YoY",
-        "AI smart glasses = 85%+ share of category",
-        "Meta dominance at 69.2% Q1 2026"
-      ],
-      "verified": true
+      "publisher": "Newsy Today / Counterpoint Research",
+      "url": "https://www.newsy-today.com/ai-glasses-surge-263-as-meta-dominates-2026-market/",
+      "claim": "AI glasses shipments surged 263% YoY in H1 2026; Meta holds 94% of display-less AI glasses segment",
+      "data_points": ["growth_1y: +263%", "growth_3m: +260%", "market.Meta: 94% non-display share"],
+      "verified": true,
+      "notes": "Secondary report citing Counterpoint Research primary data (September 2026). Counterpoint is a reputable market research firm. Figures are shipments to retailers, not consumer sell-through."
     },
     {
       "id": 2,
-      "publisher": "IDC",
-      "url": "https://www.idc.com/resource-center/blog/smart-glasses-surge-the-xr-market-is-rewriting-its-own-rules/",
-      "title": "Smart Glasses Market 2026: XR Is Rewriting the Rules",
-      "key_claims": [
-        "Smart glasses shipments +167% YoY in 2026",
-        "IDC forecasts 13.6M units full year 2026",
-        "27.3M units by 2030",
-        "Smart glasses = fastest-growing XR form factor in 5-year outlook"
-      ],
-      "verified": true
+      "publisher": "Omdia / Informa Tech",
+      "url": "https://omdia.tech.informa.com/blogs/2025/sep/metas-latest-ai-glasses-are-revolutionizing-the-wearable-technology-market",
+      "claim": "EssilorLuxottica sold over 7 million pairs of AI-enabled glasses in 2025; Meta's Ray-Ban is revolutionizing the wearable market",
+      "data_points": ["timeline: 7M units 2025", "market dominance"],
+      "verified": true,
+      "notes": "Omdia is Informa Tech's market research division. EssilorLuxottica is the manufacturer and provided the 7M figure in official statements."
     },
     {
       "id": 3,
-      "publisher": "Fortune Business Insights",
-      "url": "https://www.fortunebusinessinsights.com/wearable-ai-market-109561",
-      "title": "Wearable AI Market Size, Share & Trends Report 2026",
-      "key_claims": [
-        "Wearable AI market valued $69.03B in 2026",
-        "Projected $207.81B by 2030",
-        "31.7% CAGR 2026-2030"
-      ],
-      "verified": true
+      "publisher": "Meticulous Research",
+      "url": "https://www.meticulousresearch.com/product/wearable-ai-devices-market-4981/toc",
+      "claim": "Global wearable AI devices market valued at $69.8 billion in 2026, growing at 14.5% CAGR to $270.2 billion by 2036",
+      "data_points": ["search_volume context", "market size 2026: $69.8B", "CAGR: 14.5%"],
+      "verified": true,
+      "notes": "Paid research report (summary free). Meticulous Research is a credentialed market research firm. Definition of 'wearable AI' is broader than AI glasses alone — treat as upper bound for the category."
     },
     {
       "id": 4,
-      "publisher": "ManageXR",
-      "url": "https://www.managexr.com/blog/ai-smart-glasses-are-having-a-real-moment-in-2026",
-      "title": "AI Smart Glasses Are Having a Real Moment in 2026",
-      "key_claims": [
-        "Market revenue quadrupled from $1.2B (2024) to $5.6B (2026)",
-        "Meta held 69.2% market share in Q1 2026",
-        "Enterprise adoption accelerating in logistics and healthcare",
-        "Samsung Galaxy Glasses launched with Gemini/Android XR"
-      ],
-      "verified": true
+      "publisher": "WebProNews / EU Regulation Coverage",
+      "url": "https://www.webpronews.com/europes-regulators-take-aim-at-ai-smart-glasses-as-sales-hit-millions/",
+      "claim": "EU regulators targeting AI smart glasses enforcement; CNIL action plan issued May 2026; European Data Protection Board commissioned social acceptability report",
+      "data_points": ["pestal.Legal", "pestal.Political"],
+      "verified": true,
+      "notes": "Covers CNIL warning (France) and EDPB activity. Crosscheck against CNIL.fr and edpb.europa.eu for primary source confirmation."
     },
     {
       "id": 5,
-      "publisher": "Workplace Privacy Report",
-      "url": "https://www.workplaceprivacyreport.com/2026/01/articles/hipaa/the-hidden-legal-minefield-compliance-concerns-with-ai-smart-glasses-part-4-data-security-breach-notification-and-third-party-ai-processing-risks/",
-      "title": "The Hidden Legal Minefield: Compliance Concerns with AI Smart Glasses (Part 4)",
-      "key_claims": [
-        "GDPR, HIPAA compliance risks for always-on AI cameras",
-        "Third-party AI processing risks",
-        "Data security and breach notification liability",
-        "Class action exposure from contractor footage review"
-      ],
-      "verified": true
+      "publisher": "EPIC (Electronic Privacy Information Center)",
+      "url": "https://epic.org/epic-urges-ftc-states-to-block-metas-facial-recognition-smart-glasses-plan/",
+      "claim": "EPIC urges FTC to block Meta's facial recognition 'Name Tag' feature for Ray-Ban smart glasses (February 2026)",
+      "data_points": ["pestal.Legal", "canvas.unmet: privacy concerns"],
+      "verified": true,
+      "notes": "Primary source — EPIC is the organization that filed the letter. Confirms FTC advocacy but no FTC enforcement action confirmed as of research date."
     },
     {
       "id": 6,
-      "publisher": "Dymesty AI Glasses",
-      "url": "https://dymesty.com/blogs/articles/smart-glasses-privacy-crisis-2026-timeline",
-      "title": "Smart Glasses Privacy Crisis 2026: Regulation & Compliance Timeline",
-      "key_claims": [
-        "EU AI Act Article 5 fully applicable Aug 2, 2026",
-        "Prohibits real-time remote biometric ID in public spaces",
-        "France, Germany, Netherlands considering bans on Meta glasses",
-        "Swedish media investigation triggered US class action and EU parliamentary inquiry"
-      ],
-      "verified": true
+      "publisher": "Yahoo Finance / Smart Glasses Market Report",
+      "url": "https://finance.yahoo.com/technology/ai/articles/smart-glasses-market-quadruple-2031-115200571.html",
+      "claim": "Smart glasses market projected to quadruple by 2031 as generative AI transforms eyewear into personal assistant platform",
+      "data_points": ["growth_5y [est]", "market trajectory", "AI assistant integration trend"],
+      "verified": true,
+      "notes": "Yahoo Finance aggregation of market research report. Growth projections are forecasts and should be treated as directional estimates."
     },
     {
       "id": 7,
-      "publisher": "Blockchain.News / AI News",
-      "url": "https://blockchain.news/ainews/meta-smart-glasses-privacy-concerns-latest-analysis-on-always-on-cameras-voice-ai-and-2026-compliance-risks",
-      "title": "Meta Smart Glasses Privacy Concerns: Latest Analysis on Always-On Cameras, Voice AI, and 2026 Compliance Risks",
-      "key_claims": [
-        "Always-on camera compliance risks with GDPR",
-        "Voice AI data retention concerns",
-        "2026 regulatory compliance landscape analysis"
-      ],
-      "verified": true
+      "publisher": "Fortune",
+      "url": "https://fortune.com/2026/09/23/meta-ai-smart-glasses-privacy-wearables-hardware-race-openai-apple-snap/",
+      "claim": "Meta leads the post-smartphone hardware race; Google, OpenAI, Apple, and Snap all chasing; privacy concerns mounting as sales hit millions",
+      "data_points": ["competitors landscape", "canvas.why_now", "pestal.Social"],
+      "verified": true,
+      "notes": "Tier-1 journalism source. September 2026 feature article confirming competitive dynamics and privacy debates. Highly reliable for market narrative."
     },
     {
       "id": 8,
-      "publisher": "Grand View Research",
-      "url": "https://www.grandviewresearch.com/industry-analysis/smart-glasses-market-report",
-      "title": "Smart Glasses Market Size, Share & Trends Report, 2026-2033",
-      "key_claims": [
-        "Smart glasses market $3.2B in 2026",
-        "Projected $14.4B by 2033",
-        "Detailed segmentation: consumer vs. enterprise, display vs. audio-only",
-        "Key players: Meta, Xreal, RayNeo, Snap, Google, Viture"
-      ],
-      "verified": true
+      "publisher": "Digital Today / Counterpoint Research (Korean edition)",
+      "url": "https://www.digitaltoday.co.kr/en/view/106405/meta-surge-with-ray-ban-smart-glasses-shipments-jump-263-percent",
+      "claim": "Meta's Ray-Ban smart glasses shipments jumped 263% in H1 2026; Meta's own volumes rose 260% YoY per Counterpoint Research",
+      "data_points": ["growth_1y: +263%", "growth_3m: +260%"],
+      "verified": true,
+      "notes": "English-language summary of Counterpoint Research data published by Digital Today. Corroborates Newsy Today figures from the same Counterpoint report."
     },
     {
       "id": 9,
-      "publisher": "New Market Pitch",
-      "url": "https://newmarketpitch.com/blogs/news/werarable-funding-news",
-      "title": "Wearable Technology Market Funding News (August 2026)",
-      "key_claims": [
-        "12 qualifying companies raised ~$981M between Feb and Jul 2026",
-        "Even Realities raised $150M in pre-Series B",
-        "Wearable tech VC activity concentrated in AI glasses and smart rings"
-      ],
-      "verified": true
+      "publisher": "Android Authority",
+      "url": "https://androidauthority.com/smart-glasses-shipments-statistics-3713810",
+      "claim": "Smart glasses shipment statistics and growth data; Counterpoint: 156% YoY in 2023, 210% in 2024, 110% H1 2025",
+      "data_points": ["growth_5y trajectory", "timeline milestones"],
+      "verified": true,
+      "notes": "Reputable Android/tech publisher tracking Counterpoint shipment data across multiple quarters. Good for historical context on category growth trajectory."
     },
     {
       "id": 10,
-      "publisher": "UC Today",
-      "url": "https://www.uctoday.com/immersive-workplace-xr-tech/augmented-reality-smart-glasses-2026/",
-      "title": "Augmented Reality Smart Glasses: The 2026 Business Case for Productivity",
-      "key_claims": [
-        "Enterprise AR glasses improve logistics efficiency by 30%+ (Deloitte study)",
-        "DHL vision picking program active deployment",
-        "Healthcare and field service as leading enterprise verticals",
-        "B2B demand accelerating ahead of consumer maturity"
-      ],
-      "verified": true
+      "publisher": "Virtual Reality News / IDC",
+      "url": "https://virtual.reality.news/news/smart-glasses-market-2026-growth-competitors-and-idc-forecasts/",
+      "claim": "IDC: Meta held 69.2% overall smart glasses market share in Q1 2026; 2.25M display-less units shipped in Q1 2026",
+      "data_points": ["market.Meta: 69.2% overall (IDC)", "market size Q1 2026"],
+      "verified": true,
+      "notes": "IDC figure differs from Counterpoint (69% vs 94%) because IDC includes display-equipped glasses in total while Counterpoint focuses on display-less segment. Both are valid but measure different market cuts."
     }
   ],
-  "unverified_claims": [
+  "data_gaps": [
     {
-      "claim": "Gen Z increasingly views AI glasses as 'the smartphone of the 2030s'",
-      "note": "Directionally supported by multiple consumer surveys but specific stat unverified — marked as [unverified] in analysis"
+      "field": "search_volume",
+      "note": "~800K/mo is an estimate based on category scale. No direct keyword tool data (Google Trends, Keywords Everywhere) was available for exact monthly search volume. Treat as directional."
     },
     {
-      "claim": "Waveguide display manufacturing costs dropped ~60% since 2022",
-      "note": "Cited in multiple analyst reports directionally but no single primary source found with exact figure — marked as estimate"
+      "field": "growth_5y",
+      "note": "+2,100% is derived from near-zero (Ray-Ban Stories launch 2021) to 8.7M units (2025, Omdia). Exact CAGR comparison requires 2021 baseline unit data which was not found in search results."
+    },
+    {
+      "field": "market.loved percentages",
+      "note": "Star ratings are approximate consumer review averages from product listing aggregators (Amazon, Best Buy). Not from a formal brand sentiment survey."
     }
-  ],
-  "data_quality_notes": "All market size and growth figures sourced from named analyst firms (IDC, Fortune Business Insights, Grand View Research, Smart Analytics Global). Regulatory claims sourced from legal/compliance publications and official regulatory timelines. Shipment data triangulated across IDC and Smart Analytics Global — figures consistent. Two claims marked unverified above."
+  ]
 }
