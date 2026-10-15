@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "publisher": "The Business Research Company",
+    "title": "Artificial Intelligence (AI) In Procurement Global Market Report",
+    "url": "https://www.thebusinessresearchcompany.com/report/artificial-intelligence-ai-in-procurement-market-report",
+    "claim": "AI in Procurement market valued at $2.86B (2025), growing to $3.5B (2026) and $7.86B (2030) at CAGR 22.4%; North America largest region, Asia-Pacific fastest growing",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "publisher": "Technavio",
+    "title": "Global AI Procurement Intelligence Market 2025–2029",
+    "url": "https://www.technavio.com/report/ai-procurement-intelligence-market-industry-analysis",
+    "claim": "AI Procurement Intelligence market growing at 42.9% CAGR 2024–2029, $14.46B incremental growth; North America leads; analytics and sourcing intelligence sub-segments driving adoption",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "publisher": "PYMNTS",
+    "title": "Walmart Reportedly Finds 75% of Vendors Prefer Negotiating With Chatbot",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2023/walmart-finds-75-percent-vendors-prefer-negotiating-with-chatbot/",
+    "claim": "Walmart: 75% of suppliers prefer Pactum AI over human negotiators; 83% find it easy to use; average 3% savings per deal; 68% deal closure rate; 2,000+ simultaneous negotiations processed",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "publisher": "Fortune",
+    "title": "A.I. Startup Pactum Is Negotiating Software Saving Walmart Money",
+    "url": "https://fortune.com/2021/04/27/a-i-startup-pactum-negotiating-software-saving-walmart-money/",
+    "claim": "Pactum first deployed at Walmart Canada in 2021; delivered 2.8–6.8% profitability improvement per supplier deal in early pilot; first validated AI-to-supplier autonomous negotiation at retail scale",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "publisher": "Asymmetrix Intelligence Newsletter",
+    "title": "Insight Partners $54M Investment in Pactum — Autonomous Negotiation for Procurement",
+    "url": "https://asymmetrixintelligence.substack.com/p/insight-partners-54m-investment-in",
+    "claim": "Pactum closes $54M Series C led by Insight Partners (Jul 2025); total raised above $100M; deployed at Walmart, Maersk, Mercedes-Benz; 2,000+ simultaneous supplier negotiations",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "publisher": "Pulse2",
+    "title": "Procure AI Raises $13 Million Seed Round to Accelerate Autonomous Procurement Platform",
+    "url": "https://pulse2.com/procure-ai-13-million-seed-funding/",
+    "claim": "Procure AI raises $13M seed led by Headline (Nov 2025); autonomous procurement platform targeting UK, Nordics, Benelux and France enterprise expansion",
+    "verified": true
+  },
+  {
+    "id": 7,
+    "publisher": "Procurement Magazine",
+    "title": "Coupa, Zip, Ivalua & ORO: Best of Breed Procurement Vendors",
+    "url": "https://procurementmag.com/news/coupa-zip-ivalua-oro-best-breed-procurement-vendor",
+    "claim": "Zip processes $355B in enterprise spend (2025), $2.2B valuation, $371M raised; named Gartner MQ Visionary as youngest-ever entrant; ORO Labs raises $100M Q1 2026 for procurement orchestration",
+    "verified": true
+  },
+  {
+    "id": 8,
+    "publisher": "Procurement Magazine",
+    "title": "AI in Procurement: The Industry-Leading Vendors",
+    "url": "https://procurementmag.com/news/ai-in-procurement-the-industry-leading-vendors",
+    "claim": "SAP Ariba ~29% market share; JAGGAER launches JAI autonomous agent May 2026, first source-to-pay vendor with ISO/IEC 42001:2023 AI governance certification; GEP agentic platform live at 100+ enterprise customers",
+    "verified": true
+  },
+  {
+    "id": 9,
+    "publisher": "Traxtech",
+    "title": "AI Procurement Market: $22 Billion Supply Chain Impact",
+    "url": "https://www.traxtech.com/ai-in-supply-chain/ai-procurement-market-22-billion-supply-chain-impact",
+    "claim": "AI in procurement projected to surpass $22.6B by 2033; Gartner supply chain management software market heading toward $62B by 2028; 62% of CPOs actively piloting generative AI per Ardent Partners CPO Rising 2025",
+    "verified": true
+  },
+  {
+    "id": 10,
+    "publisher": "GEP",
+    "title": "AI Regulation & Governance Mandates for Enterprises (April 2026)",
+    "url": "https://www.gep.com/blog/technology/ai-regulation-governance-mandates-enterprises",
+    "claim": "EU AI Act high-risk AI procurement requirements: risk management, technical documentation, human oversight, EU database registration; fines up to 7% global annual revenue; ISO/IEC 42001 becoming baseline in enterprise procurement contracts globally",
+    "verified": true
+  },
+  {
+    "id": 11,
+    "publisher": "MarketDojo",
+    "title": "Procurement Regulations 2026: EU & UK Supply Chains",
+    "url": "https://marketdojo.com/resource/procurement-regulations-2026-eu-uk-supply-chains/",
+    "claim": "EU AI Act August 2026 compliance applies to procurement AI; CSDDD full supply chain due diligence by July 2029; EU Data Act and DORA add parallel obligations for financial sector procurement",
+    "verified": true
+  },
+  {
+    "id": 12,
+    "publisher": "NewMarketPitch",
+    "title": "All the Funding Deals in the Procurement Software Market",
+    "url": "https://newmarketpitch.com/blogs/news/procurement-software-list-deals",
+    "claim": "Q2 2026 procurement funding (Ramp $750M, ORO Labs $100M, Pivot $40M, Didero $30M) already exceeds full-year 2025 totals; 27 deals through Q2 2026 raised $1.54B",
+    "verified": true
+  }
+]
