@@ -1,0 +1,115 @@
+{
+  "trend": "AI-Powered Business Intelligence",
+  "slug": "ai-powered-business-intelligence",
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.intelmarketresearch.com/ai-business-intelligence-market-46935",
+      "title": "AI Business Intelligence Market Forecast 2026-2034",
+      "publisher": "Intel Market Research",
+      "accessed": "2026-10-22",
+      "supports": ["growth_1y: +28% CAGR", "market size: $15B in 2026", "projected $134B by 2034"],
+      "notes": "Market research report; methodology not publicly disclosed. Treat CAGR and size figures as directional."
+    },
+    {
+      "id": 2,
+      "url": "https://www.htfmarketintelligence.com/press-release/global-ai-powered-business-intelligence-market",
+      "title": "Global AI-Powered Business Intelligence Market — Latest Estimates",
+      "publisher": "HTF Market Intelligence",
+      "accessed": "2026-10-22",
+      "supports": ["CAGR of 15.5% (conservative estimate)", "conversational BI and autonomous analytics named key drivers", "market size: $68.42B by 2034"],
+      "notes": "Press release from paid market research firm. Used as a conservative cross-check against Intel Market Research estimate."
+    },
+    {
+      "id": 3,
+      "url": "https://promethium.ai/resources/gartner-cdao-agenda-survey-2026-analytics-use-cases-deliver-the-highest-roi-on-ai/",
+      "title": "Gartner CDAO Agenda Survey 2026 — Analytics Use Cases Deliver Highest AI ROI",
+      "publisher": "Gartner (via Promethium AI summary)",
+      "accessed": "2026-10-22",
+      "supports": ["AI analytics delivers up to 42% improvement in outcomes", "data management AI yields up to 33% gains", "survey of 502 data and analytics leaders"],
+      "notes": "Secondary summary of Gartner paywalled report. Figures are cited as Gartner data. Full report behind paywall at gartner.com/en/documents/7666361."
+    },
+    {
+      "id": 4,
+      "url": "https://thoughtspot.com/press",
+      "title": "ThoughtSpot Press Releases: Spotter Launch (Nov 2024), Analyst Studio (Jan 2025)",
+      "publisher": "ThoughtSpot",
+      "accessed": "2026-10-22",
+      "supports": ["ThoughtSpot Spotter autonomous analytics agent launched November 2024", "Analyst Studio launched January 2025", "timeline milestone sourcing"],
+      "notes": "Official vendor press release page. Product launch dates are first-party verified."
+    },
+    {
+      "id": 5,
+      "url": "https://app.dealroom.co/news/feed/sigma-computing-raises-200m-in-series-d",
+      "title": "Sigma Computing Raises $200M in Series D",
+      "publisher": "Dealroom",
+      "accessed": "2026-10-22",
+      "supports": ["Sigma Computing $200M Series D (May 2024)", "led by Spark Capital and Avenir Growth Capital", "funding milestone"],
+      "notes": "Dealroom aggregator citing press coverage. Cross-check against Sigma's official press release."
+    },
+    {
+      "id": 6,
+      "url": "https://intuitionlabs.ai/pdfs/tableau-vs-power-bi-bi-platform-market-analysis-comparison.pdf",
+      "title": "Tableau vs Power BI: BI Platform Market Analysis & Comparison",
+      "publisher": "Intuition Labs",
+      "accessed": "2026-10-22",
+      "supports": ["Power BI ~22% market share (via 6sense data)", "Tableau ~17-18% market share", "market share comparison methodology"],
+      "notes": "Third-party analysis citing 6sense market data. Market share figures vary across sources and methodologies; use as approximate."
+    },
+    {
+      "id": 7,
+      "url": "https://mea.powerbi.microsoft.com/en-my/blog/tag/copilot",
+      "title": "Microsoft Power BI Copilot Blog",
+      "publisher": "Microsoft Power BI",
+      "accessed": "2026-10-22",
+      "supports": ["Power BI Copilot features and rollout timeline", "Copilot default enablement for Fabric tenants from September 2025", "NL-to-DAX query generation"],
+      "notes": "Official Microsoft product blog. First-party source for feature availability dates."
+    },
+    {
+      "id": 8,
+      "url": "https://www.thebricks.com/resources/guide-when-is-tableau-gpt-available",
+      "title": "When Is Tableau GPT / Tableau Pulse Available?",
+      "publisher": "The Bricks",
+      "accessed": "2026-10-22",
+      "supports": ["Tableau Pulse GA in February 2024", "proactive AI metrics feed feature description", "Tableau Next agentic platform launch April 2025"],
+      "notes": "Third-party Tableau resource guide. Dates corroborated with Salesforce/Tableau official announcements where possible."
+    },
+    {
+      "id": 9,
+      "url": "https://pixelplex.io/blog/business-intelligence-bi-statistics/",
+      "title": "Top 50 Business Intelligence Statistics, Predictions, and Trends for 2026",
+      "publisher": "PixelPlex",
+      "accessed": "2026-10-22",
+      "supports": ["Overall BI market size ~$37-41B in 2026", "BI market CAGR 8.4%", "AI-BI adoption statistics"],
+      "notes": "Vendor blog aggregating market statistics from Fortune Business Insights, Mordor Intelligence, and others. Individual figures should be traced to primary sources."
+    },
+    {
+      "id": 10,
+      "url": "https://www.ibm.com/ae-ar/think/insights/ai-adoption-challenges",
+      "title": "The Biggest AI Adoption Challenges for 2026",
+      "publisher": "IBM",
+      "accessed": "2026-10-22",
+      "supports": ["Data privacy and governance as top AI adoption barrier", "fragmented data and talent gaps as key challenges", "PESTAL legal and social factors"],
+      "notes": "IBM vendor blog. Directionally useful for enterprise AI adoption barriers; methodology for statistics not disclosed."
+    },
+    {
+      "id": 11,
+      "url": "https://www.cmswire.com/the-wire/new-liferay-study-finds-54-of-companies-are-running-ai-agents-yet-only-25-measure-their-impact/",
+      "title": "New Liferay Study: 54% of Companies Running AI Agents, Only 21% Have Mature Governance",
+      "publisher": "CMSWire (citing Liferay study)",
+      "accessed": "2026-10-22",
+      "supports": ["54% of companies running AI agents", "21% mature AI governance model", "takeaway #4 sourcing"],
+      "notes": "CMSWire article summarizing Liferay survey. Liferay is a vendor; survey methodology and sample size unspecified. Use as directional signal."
+    },
+    {
+      "id": 12,
+      "url": "https://codewave.com/feeds/blog/data-analytics-solutions",
+      "title": "Business Intelligence Marketplace Growth Trends 2026",
+      "publisher": "Codewave / FanRuan",
+      "accessed": "2026-10-22",
+      "supports": ["AI features now table stakes across BI vendors", "natural language querying as baseline feature", "market consolidation trends"],
+      "notes": "Vendor blog. Used for qualitative market narrative; quantitative figures verified separately."
+    }
+  ],
+  "verification_notes": "All market size figures come from third-party market research firms with varying methodologies. The $15B AI-BI market size (2026) comes from Intel Market Research; the conservative $68.42B-by-2034 figure from HTF MI may use a broader market definition. Product launch dates for Tableau Pulse (Feb 2024), ThoughtSpot Spotter (Nov 2024), and Power BI Copilot default enablement (Sep 2025) are corroborated by vendor blogs and press releases. Sigma Computing 2026 Series E details [marked unverified in trend data] could not be confirmed from a primary source. Market share figures (Power BI ~22%, Tableau ~18%) come from 6sense deployment data via third-party analysis and vary by methodology."
+}

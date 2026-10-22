@@ -1,0 +1,163 @@
+{
+  "trend_name": "AI-Powered Business Intelligence",
+  "status": "surging",
+  "search_volume": 480000,
+  "category": "AI & Technology",
+  "growth_5y": "+650%",
+  "growth_1y": "+28%",
+  "growth_3m": "+7%",
+  "trigger": "LLMs matured to reliably convert plain English into SQL and DAX, while cloud data warehouses unified fragmented enterprise data — collapsing the 12-18 month analyst bottleneck into a seconds-long conversation and triggering a race to replace static dashboards with AI agents that proactively surface the metrics business users actually need.",
+  "timeline": [
+    {
+      "date": "2021-06",
+      "event": "IDC names AI/ML integration the top BI trend for 2021. BI market grows 5.2% YoY to $19.2B despite pandemic, confirming durable demand. IDC's Dan Vesset coins 'augmented analytics era' as the inflection point where machines generate insights rather than just display them."
+    },
+    {
+      "date": "2022-10",
+      "event": "Google rebrands Data Studio to Looker Studio, unifying self-service analytics under the Looker brand. First major signal that cloud hyperscalers are converging BI, data warehouses, and AI into single platforms — setting the stage for Gemini integration three years later."
+    },
+    {
+      "date": "2023-11",
+      "event": "Microsoft launches Power BI Copilot in preview — LLM-powered natural language converts questions to DAX queries and generates narrative summaries. Rollout to 250M+ Microsoft 365 users marks enterprise AI BI going mainstream and forces every incumbent to accelerate AI roadmaps."
+    },
+    {
+      "date": "2024-02",
+      "event": "Tableau Pulse reaches general availability on Tableau Cloud — proactive AI metrics feed surfaces anomalies in plain English without dashboard navigation. ThoughtSpot launches Spotter (Nov 2024), the first NL-native autonomous analytics agent with multi-step reasoning for complex business questions."
+    },
+    {
+      "date": "2025-04",
+      "event": "Tableau Next launches as an agentic AI platform for data prep, querying, and observability. Sigma Computing closes $200M Series D led by Spark Capital. Hex raises $70M for AI-first data notebooks. Google embeds Gemini in Looker for NL-to-LookML generation. AI-native BI officially becomes a standalone category."
+    },
+    {
+      "date": "2026-01",
+      "event": "AI-BI market crosses $15B globally (Intel Market Research). Microsoft enables Power BI Copilot by default for all Fabric tenants. Databricks, ServiceNow, and Workday Ventures invest in Sigma's $80M Series E [unverified]. Gartner CDAO Agenda Survey (502 leaders) finds AI-driven analytics delivers up to 42% improvement in revenue, cost, and stakeholder outcomes."
+    }
+  ],
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act's high-risk classification triggers transparency and explainability requirements for AI systems used in consequential business decisions (credit, hiring, procurement). Public-sector analytics face stricter auditability rules. US executive orders on AI governance push federal agencies to mandate AI oversight frameworks for automated analytical systems — rippling into enterprise procurement requirements."
+    },
+    {
+      "factor": "Economic",
+      "impact": "Global BI software market reaches ~$40B in 2026 (Mordor Intelligence: $41.16B), growing 8.4% CAGR. AI-BI segment outpaces the category at 15–28% CAGR, projected to reach $68–134B by 2034 depending on scope definition. Enterprise AI/ML software now accounts for ~18% of enterprise software spend (Gartner). Hyperscaler investments in cloud data platforms (Snowflake, Databricks, BigQuery) accelerate the data foundation AI-BI requires."
+    },
+    {
+      "factor": "Social",
+      "impact": "Data democratization pressure intensifies — business users demand self-service access without SQL skills as data teams can't scale to meet dashboard requests. 'Citizen analyst' adoption grows as 73% of enterprise employees report they need faster data access to do their jobs (IBM survey). Natural language querying removes the technical barrier, shifting BI from a specialist tool to a universal business utility."
+    },
+    {
+      "factor": "Technological",
+      "impact": "Generative AI transforms BI from static dashboards to conversational agents. Multi-step reasoning in LLMs enables autonomous analysis (ThoughtSpot Spotter, Tableau Next agents). Semantic layers (dbt, LookML) mature as governed connective tissue for AI queries. Vector databases and retrieval-augmented generation improve the accuracy and transparency of AI-generated insights. Agentic BI platforms now run proactive anomaly detection without human prompting."
+    },
+    {
+      "factor": "Environmental",
+      "impact": "AI BI processing offloaded to cloud data warehouses increases cloud energy consumption — Snowflake and BigQuery workloads now carry ESG reporting implications. However, AI-driven insight automation reduces redundant manual data processing, with efficiency gains partially offsetting compute costs. Edge AI inference models for lightweight analytics emerging as energy-efficient alternatives for edge deployments."
+    },
+    {
+      "factor": "Legal",
+      "impact": "GDPR and CCPA mandate data lineage and purpose limitation for AI-generated insights, requiring BI vendors to add audit trails. SOX compliance creates liability concerns around AI-generated financial summaries without human sign-off. EU AI Act Art. 13 mandates explainability for high-stakes automated decisions. Only 21% of organizations have a mature governance model for AI agents (Liferay/2026 survey), creating significant legal exposure as autonomous analytics agents make operational recommendations."
+    }
+  ],
+  "jobs": [
+    {
+      "job": "Analyze business performance without writing SQL",
+      "solution": "Power BI Copilot and Tableau Pulse let finance managers ask 'Why did Q3 margin drop?' in plain English and receive a sourced, narrative answer in seconds — eliminating the analyst queue that previously took 2-3 days per ad-hoc request."
+    },
+    {
+      "job": "Surface C-suite insights proactively",
+      "solution": "ThoughtSpot Spotter and Tableau Pulse agents continuously monitor KPIs and deliver anomaly alerts directly to Slack or email before executives ask — replacing static weekly reporting with real-time intelligence that acts as an always-on analyst."
+    },
+    {
+      "job": "Build data products without data engineering",
+      "solution": "Hex and Sigma Computing enable product managers and ops leads to create live data apps and interactive dashboards with AI assistance — bypassing the traditional BI ticket queue and reducing time-to-dashboard from weeks to hours."
+    },
+    {
+      "job": "Unify fragmented data for a single source of truth",
+      "solution": "AI BI platforms federate Salesforce, HubSpot, Stripe, warehouse, and ERP data into a governed semantic layer — then apply LLM querying across the unified model, eliminating the 'whose number is right?' debate that plagues multi-source organizations."
+    },
+    {
+      "job": "Accelerate board and investor reporting",
+      "solution": "Generative AI drafts narrative sections of board decks, investor updates, and operational reviews directly from warehouse data — cutting CFO and FP&A team preparation time by an estimated 40–60% [unverified] and reducing manual copy-paste errors."
+    }
+  ],
+  "market": [
+    {
+      "name": "Microsoft (Power BI)",
+      "share": 22,
+      "loved": "Deep Microsoft 365 integration, Copilot NL-to-DAX, Fabric unification",
+      "segment": "Enterprise Microsoft shops, SMB, public sector"
+    },
+    {
+      "name": "Salesforce (Tableau)",
+      "share": 18,
+      "loved": "Tableau Pulse proactive AI, Tableau Next agents, best-in-class visualization",
+      "segment": "Sales-led organizations, data teams, Salesforce ecosystem"
+    },
+    {
+      "name": "Google (Looker)",
+      "share": 8,
+      "loved": "LookML semantic layer governance, Gemini NL-to-LookML, GCP-native scale",
+      "segment": "Tech companies, GCP-native stacks, data-mature enterprises"
+    },
+    {
+      "name": "SAP Analytics Cloud",
+      "share": 6,
+      "loved": "SAP ERP integration, financial planning + BI in one, enterprise compliance",
+      "segment": "Large enterprises running SAP ERP, manufacturing, finance"
+    },
+    {
+      "name": "ThoughtSpot",
+      "share": 3,
+      "loved": "Search-driven AI-native analytics, Spotter autonomous agent, LiveBoard",
+      "segment": "AI-forward enterprises, retail, financial services, technology"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Microsoft Power BI + Copilot",
+      "detail": "Market leader at ~22% share. Power BI Copilot enables NL-to-DAX query generation and AI narrative summaries; enabled by default for Fabric tenants since Sept 2025. 250M+ Microsoft 365 user distribution is a structural moat. Fabric integration unifies data lakehouse, pipelines, and BI into one platform. $10/user/month premium for Copilot features."
+    },
+    {
+      "name": "Tableau (Salesforce) + Tableau Next",
+      "detail": "#2 at ~18% share. Tableau Pulse (GA Feb 2024) delivers proactive AI metrics in natural language. Tableau Next (Apr 2025) is a full agentic AI platform for data prep, querying, and automated observability. Deep Salesforce CRM integration creates a 150,000-customer distribution advantage. Creator license starts at $75/user/month."
+    },
+    {
+      "name": "Google Looker + Gemini",
+      "detail": "~8% share, dominant in GCP-native enterprises. LookML semantic layer provides the governed, consistent data definitions that AI querying requires to avoid hallucinations. Gemini integration enables natural language to LookML code generation. Strong in media, ad-tech, and data-mature tech companies. Tight BigQuery integration drives cloud data warehouse co-sell."
+    },
+    {
+      "name": "ThoughtSpot + Spotter",
+      "detail": "The original AI-native BI company (~3% market share by deployment). Spotter (Nov 2024) is the most advanced autonomous analytics agent — capable of multi-step reasoning, data exploration, and insight generation without human prompting. Raised at $4.2B valuation (2021 Series F). 2024 revenue estimated at $318M. Target: enterprises that need AI-first, not AI-added BI."
+    },
+    {
+      "name": "Sigma Computing + Sigma Agents",
+      "detail": "Fast-growing cloud-native challenger with spreadsheet-like BI for both technical and business users. $200M Series D (May 2024, Spark Capital/Avenir). Sigma Agents launched 2025 — agentic analytics with autonomous query execution. Databricks, ServiceNow, Workday Ventures invested in 2026 Series E [unverified]. Best for analytics engineers who want data app flexibility without traditional BI rigidity."
+    }
+  ],
+  "canvas": {
+    "who": "Mid-to-large enterprises (250+ employees) with data-hungry business functions: finance, sales operations, marketing analytics, supply chain, and C-suite executives. Primary personas are the 'Citizen Analyst' (a non-technical business user blocked by SQL requirements), the 'Analytics Engineer' (manages the data layer), and the 'Executive Sponsor' (needs real-time KPI visibility without analyst intermediaries).",
+    "where": "Cloud data warehouses (Snowflake, BigQuery, Databricks) as the data layer; AI BI platforms as the intelligence layer; delivered via embedded analytics in Salesforce CRM, Microsoft Teams, Slack, and enterprise portals. The shift is from standalone BI tools to embedded AI insights within existing workflows.",
+    "why_now": "Three converging forces: (1) LLMs are now reliable enough to generate accurate SQL and DAX, ending years of NL-to-query hallucination problems; (2) cloud data warehouses unified fragmented enterprise data into queryable single sources of truth; (3) business user demand for self-service analytics outgrew data team capacity — with analyst-to-business-user ratios commonly at 1:50, AI is the only scalable path.",
+    "behavior": "Shifting from 'schedule a report' to 'ask a question now.' Business users increasingly prefer proactive anomaly alerts (Tableau Pulse model) over navigating dashboards. Early adopters are experimenting with autonomous analytics agents that run nightly KPI sweeps and push exceptions to Slack. The metrics 'CEO asks about on Mondays' are being automated away from analyst queues.",
+    "unmet": "Trustworthy AI that cites its data sources and doesn't hallucinate figures — the #1 barrier to adoption. Explainable insights with transparent lineage remain unsolved at scale. Governance frameworks that don't slow down AI querying. Embedded BI that surfaces insights within tools people already use (Salesforce, HubSpot, Slack) rather than requiring a separate platform visit. Better handling of time-series comparisons and multi-datasource joins without manual semantic layer setup."
+  },
+  "takeaways": [
+    "Standardize your semantic layer before deploying AI querying — dbt or LookML-governed data models are the foundation that prevents AI-generated hallucinations; enterprises that skip this step report unreliable AI outputs that erode user trust within weeks of rollout.",
+    "Run a citizen analyst pilot first — identify 10–15 non-technical business users with high ad-hoc reporting frequency, deploy Power BI Copilot or Tableau Pulse, and measure time-to-insight reduction over 30 days to build the CFO-ready ROI case before enterprise-wide rollout.",
+    "Evaluate AI-native challengers alongside incumbents — ThoughtSpot Spotter's multi-step autonomous reasoning and Sigma's agentic architecture offer capabilities that Power BI's and Tableau's bolt-on Copilot features can't yet match; run a 3-way bake-off on your most complex recurring analytical questions.",
+    "Build an AI analytics governance policy now — with 54% of companies running AI agents but only 21% having mature governance frameworks (Liferay 2026 survey), define data access policies, hallucination audit cadences, and human-in-the-loop requirements for consequential business decisions before an AI-generated insight causes a costly error."
+  ],
+  "sources": [
+    "https://www.intelmarketresearch.com/ai-business-intelligence-market-46935",
+    "https://www.htfmarketintelligence.com/report/global-ai-powered-business-intelligence-market",
+    "https://promethium.ai/resources/gartner-cdao-agenda-survey-2026-analytics-use-cases-deliver-the-highest-roi-on-ai/",
+    "https://thoughtspot.com/press",
+    "https://app.dealroom.co/news/feed/sigma-computing-raises-200m-in-series-d",
+    "https://intuitionlabs.ai/pdfs/tableau-vs-power-bi-bi-platform-market-analysis-comparison.pdf",
+    "https://mea.powerbi.microsoft.com/en-my/blog/tag/copilot",
+    "https://www.thebricks.com/resources/guide-when-is-tableau-gpt-available",
+    "https://pixelplex.io/blog/business-intelligence-bi-statistics/",
+    "https://www.ibm.com/ae-ar/think/insights/ai-adoption-challenges"
+  ]
+}
