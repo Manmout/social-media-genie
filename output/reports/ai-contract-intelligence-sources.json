@@ -1,0 +1,94 @@
+{
+  "slug": "ai-contract-intelligence",
+  "trend_name": "AI Contract Intelligence",
+  "generated_date": "2026-10-29",
+  "sources": [
+    {
+      "id": 1,
+      "publisher": "Research and Markets",
+      "url": "https://www.researchandmarkets.com/reports/6226779/ai-in-contract-management-system-global-market",
+      "title": "AI in Contract Management System Global Market Report 2026",
+      "claim": "AI in contract management market valued at $1.86B in 2026, projected $4.25B by 2030 at 22.9% CAGR",
+      "verified": true,
+      "notes": "Paid report; headline figures visible in abstract"
+    },
+    {
+      "id": 2,
+      "publisher": "BusinessWire / Icertis",
+      "url": "https://www.businesswire.com/news/home/20240311499706/en/Generative-AI-Contracting-Copilots-Drive-Icertis-Above-250-Million-in-Annual-Recurring-Revenue",
+      "title": "Generative AI Contracting Copilots Drive Icertis Above $250 Million in Annual Recurring Revenue",
+      "claim": "Icertis surpasses $250M ARR; Gen AI Copilots launched July 2023; 3 in 4 deals include AI products (Mar 2024)",
+      "verified": true,
+      "notes": "Company press release — self-reported ARR, confirmed by multiple news sources"
+    },
+    {
+      "id": 3,
+      "publisher": "Mordor Intelligence",
+      "url": "https://www.mordorintelligence.com/industry-reports/contract-lifecycle-management-software-market",
+      "title": "Contract Lifecycle Management Software Market Size, Share & Forecast Report 2031",
+      "claim": "Overall CLM software market $3.39B in 2026, projected $6.26B by 2031 at 13.06% CAGR",
+      "verified": true,
+      "notes": "Paid report; figures visible in public preview"
+    },
+    {
+      "id": 4,
+      "publisher": "KPMG",
+      "url": "https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2026/ai-revolution-contract-lifecycle-management.pdf",
+      "title": "AI Revolution in Contract Lifecycle Management (2026)",
+      "claim": "KPMG 2026 report validating AI CLM as enterprise transformation priority; covers extraction, renewal, risk, and drafting use cases",
+      "verified": true,
+      "notes": "Major consulting firm publication — highest-credibility source in the set"
+    },
+    {
+      "id": 5,
+      "publisher": "Procurement Tactics (citing 2026 State of Contracting Report)",
+      "url": "https://procurementtactics.com/contract-management-statistics/",
+      "title": "Contract Management Statistics 2026",
+      "claim": "44% of companies deploying AI for contracting workflows in 2026; 55% cite data quality as adoption barrier; 26% report 40–50% workload reduction (Zoho 2026 survey)",
+      "verified": false,
+      "notes": "[unverified] Secondary aggregator — primary survey sources not linked; treat as indicative only"
+    },
+    {
+      "id": 6,
+      "publisher": "World Commerce & Contracting (via ContractPodAi)",
+      "url": "https://contractpodai.com/news/automate-contract-data-extraction",
+      "title": "How to Automate Data Extraction from Contracts with AI",
+      "claim": "World Commerce & Contracting estimates 9% revenue leakage from poor contract management",
+      "verified": false,
+      "notes": "[unverified] Secondary citation — figure widely cited by CLM vendors; check primary WCC source for exact methodology"
+    },
+    {
+      "id": 7,
+      "publisher": "Sacra",
+      "url": "https://sacra.com/c/ironclad/",
+      "title": "Ironclad — Company Profile and Revenue Estimates",
+      "claim": "Ironclad estimated at $200M ARR as of January 2026; $333M total raised; Series E at $3.2B valuation",
+      "verified": false,
+      "notes": "[unverified] Sacra estimates are third-party projections, not company disclosures"
+    },
+    {
+      "id": 8,
+      "publisher": "Morgan Lewis",
+      "url": "https://www.morganlewis.com/blogs/sourcingatmorganlewis/2025/02/and-so-it-begins-an-eu-ai-act-update",
+      "title": "And So It Begins: An EU AI Act Update (Feb 2025)",
+      "claim": "EU AI Act enforcement began February 2025; contract AI tools potentially classified as 'high-risk'; penalties up to €35M or 7% of worldwide annual turnover",
+      "verified": true,
+      "notes": "Law firm analysis — authoritative on regulatory interpretation"
+    },
+    {
+      "id": 9,
+      "publisher": "FeaturedCustomers",
+      "url": "https://www.wboc.com/online_features/press_releases/the-top-contract-lifecycle-management-software-according-to-the-featuredcustomers-summer-2026-customer-success-report/article_460ac2d6-7e31-5371-ab88-282d6dcc0479.html",
+      "title": "Top CLM Software — FeaturedCustomers Summer 2026 Customer Success Report",
+      "claim": "Summer 2026 Market Leaders: Agiloft, CobbleStone, Conga, DocuSign, Icertis, Ironclad, PandaDoc",
+      "verified": true,
+      "notes": "Award based on customer references and scale — useful for competitive landscape, not revenue share"
+    }
+  ],
+  "data_quality_notes": [
+    "Market size figures from Research and Markets and Mordor Intelligence use different market definitions (AI-specific vs. total CLM); use both for context, citing the definition",
+    "Ironclad and Icertis ARR/revenue figures are either company-reported or Sacra estimates — treat as directional",
+    "The 9% revenue leakage figure (World Commerce & Contracting) is widely cited by vendors but primary methodology not independently verified",
+    "PeerSpot mindshare % reflects user engagement, not revenue market share — useful for comparative positioning only"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "trend_name": "AI Contract Intelligence",
+  "slug": "ai-contract-intelligence",
+  "status": "surging",
+  "search_volume": 85000,
+  "category": "Business & SaaS",
+  "growth_5y": "+195%",
+  "growth_1y": "+23%",
+  "growth_3m": "+6%",
+  "trigger": "Generative AI turns contract review from manual to automated; Icertis surpasses $250M ARR on Gen AI Copilots (Mar 2024); ContractPodAi rebrands to Leah (Jan 2026); KPMG publishes enterprise CLM transformation guide; 44% of enterprises now deploying AI contracting tools",
+  "market_size_2026": "$1.86B (AI-specific segment)",
+  "market_size_2031": "$6.26B (overall CLM)",
+  "cagr": "22.9% (AI segment) / 13.06% (overall CLM)",
+
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Icertis founded with vision of enterprise contract intelligence; early NLP-based clause extraction tools emerge"
+    },
+    {
+      "date": "Jul 2019",
+      "event": "ContractPodAi raises $55M Series B led by Insight Partners — largest legal AI funding round at the time; signals institutional conviction in the category"
+    },
+    {
+      "date": "Oct 2022",
+      "event": "Icertis secures $150M in debt financing to accelerate product development; CLM category passes $200M ARR for the first time at a single pure-play vendor"
+    },
+    {
+      "date": "Jul 2023",
+      "event": "Icertis launches first generative AI 'Copilots' for enterprise contract management — natural language Q&A over contracts, AI clause drafting, risk scoring"
+    },
+    {
+      "date": "Mar 2024",
+      "event": "Icertis surpasses $250M ARR driven by Gen AI Copilots — 3 in 4 deals include AI products; declares milestone as first pure-play CLM to cross this threshold (BusinessWire)"
+    },
+    {
+      "date": "Jan 2026",
+      "event": "ContractPodAi rebrands to Leah, repositioning as a full enterprise AI legal platform; 44% of companies actively deploying AI contracting tools per 2026 State of Contracting Report"
+    }
+  ],
+
+  "pestal": [
+    {
+      "factor": "Political",
+      "impact": "EU AI Act (enforceable Feb 2025) classifies contract AI tools as potentially 'high-risk' requiring explainability and auditability; vendors must demonstrate model governance or face fines up to €35M / 7% of turnover"
+    },
+    {
+      "factor": "Economic",
+      "impact": "World Commerce & Contracting estimates 9% revenue leakage from poor contract management; AI CLM delivers 30–50% cycle time reduction (vendor claims); Icertis $250M ARR confirms enterprise budget shift toward automated contracting"
+    },
+    {
+      "factor": "Social",
+      "impact": "General Counsel and CPO offices face talent shortages; average enterprise manages 40,000+ contracts manually; rising complexity of ESG, GDPR, and supply chain obligations forces automation adoption"
+    },
+    {
+      "factor": "Technological",
+      "impact": "LLMs (GPT-4, Claude, Gemini) now perform clause extraction, risk scoring, and first-draft generation at near-attorney accuracy; agentic AI enabling autonomous contract review pipelines without human handoffs"
+    },
+    {
+      "factor": "Environmental",
+      "impact": "ESG disclosure mandates (EU CSRD, SEC climate rules) require enterprises to track and report sustainability obligations embedded in supplier contracts — AI contract monitoring becomes compliance infrastructure"
+    },
+    {
+      "factor": "Legal",
+      "impact": "GDPR and CCPA clauses must be validated in every vendor contract; post-Brexit UK contracting changes and proliferating data-transfer agreements increase volume AI must process; EU AI Act adds vendor due-diligence obligations for buyers"
+    }
+  ],
+
+  "jobs": [
+    {
+      "job": "Extract key terms from legacy contract repositories",
+      "solution": "AI ingests PDFs, scans, and Word docs; extracts parties, dates, obligations, SLAs, and renewal terms at scale — turning unstructured contracts into structured data usable in dashboards"
+    },
+    {
+      "job": "Never miss a contract renewal or obligation deadline",
+      "solution": "AI proactively monitors contract databases and sends alerts ahead of auto-renewal windows, milestone payments, and reporting obligations — replacing spreadsheet-based contract calendars"
+    },
+    {
+      "job": "Detect risky or non-standard clauses before signing",
+      "solution": "AI scores each clause against company playbook; flags non-standard indemnification, missing data protection terms, and unfavorable termination clauses before legal review — cutting redlining cycles by 40%"
+    },
+    {
+      "job": "Accelerate contract drafting and internal approvals",
+      "solution": "AI generates first drafts from approved templates, pre-fills standard clauses, and routes contracts to the right approver automatically — reducing average contract cycle time from 30 days to under 10"
+    },
+    {
+      "job": "Monitor post-execution obligations and SLA compliance",
+      "solution": "AI continuously monitors active contracts for obligations (delivery, reporting, pricing adjustments) and flags violations before they become disputes — the most underserved gap in traditional CLM"
+    }
+  ],
+
+  "market": [
+    {
+      "name": "Icertis",
+      "share": "6.5%",
+      "loved": "Deep Microsoft Azure integration; enterprise-grade; 75+ Fortune 500 clients; fastest AI adoption in CLM",
+      "segment": "Enterprise (1000+ employees)"
+    },
+    {
+      "name": "Agiloft",
+      "share": "5.9%",
+      "loved": "6-time Gartner Magic Quadrant Leader; no-code customization; strong compliance workflows",
+      "segment": "Mid-market to Enterprise"
+    },
+    {
+      "name": "DocuSign CLM",
+      "share": "5.6%",
+      "loved": "Bundled with eSignature leader (1M+ customers); familiar brand; easy procurement",
+      "segment": "SMB to Enterprise"
+    },
+    {
+      "name": "Ironclad",
+      "share": "4.8%",
+      "loved": "Lawyer-first UX; $200M ARR (Jan 2026, Sacra estimate); fastest-growing mid-market CLM",
+      "segment": "Mid-market (200–2000 employees)"
+    },
+    {
+      "name": "SAP Ariba Contracts",
+      "share": "4.5%",
+      "loved": "Native ERP integration for SAP customers; procurement-centric; global compliance templates",
+      "segment": "Large Enterprise (SAP ecosystem)"
+    }
+  ],
+
+  "competitors": [
+    {
+      "name": "Icertis",
+      "detail": "Founded 2009, Bellevue WA. Pure-play CLM leader; $250M+ ARR (Mar 2024); $571M total raised; Microsoft co-pilot and Azure AI integration; 10M+ contracts under management; first to launch gen AI copilots (Jul 2023)"
+    },
+    {
+      "name": "Ironclad",
+      "detail": "Founded 2014, San Francisco. $200M ARR (Jan 2026, Sacra); $333M total raised; Series E at $3.2B valuation; lawyer-centric design with workflow automation; strong Legal Operations segment; CounselGo mobile app for legal teams"
+    },
+    {
+      "name": "Agiloft",
+      "detail": "Founded 1991, Redwood City CA. Bootstrapped profitability; 6 consecutive Gartner Magic Quadrant Leaders; no-code CLM platform; launched ConvoAI (Jan 2023) for AI-powered contract Q&A; strong in government and regulated industries"
+    },
+    {
+      "name": "Leah (ex-ContractPodAi)",
+      "detail": "Founded 2012, London UK. $55M+ raised; Jan 2026 rebrand from ContractPodAi to Leah signals full AI platform pivot; focused on enterprise legal + procurement + finance convergence; strong UK/EU presence"
+    },
+    {
+      "name": "DocuSign CLM",
+      "detail": "San Francisco. Leverages 1M+ eSignature customer base for bundled CLM upsell; AI-powered contract review via Analyzer feature; 2024 pivot to 'IAM' (Intelligent Agreement Management) platform; competing on distribution advantage vs pure-plays"
+    }
+  ],
+
+  "canvas": {
+    "who": "General Counsels, CLOs, and CPOs at enterprises with 500+ employees; Legal Ops and Procurement teams drowning in manual contract review; CFOs seeking to eliminate revenue leakage from missed renewals and obligations",
+    "where": "Enterprise software buying cycles (Gartner Magic Quadrant evaluations, Forrester Wave); initial deployment in Legal Ops, expanding to Procurement, Finance, and Sales Operations",
+    "why_now": "LLMs now perform contract intelligence at near-attorney accuracy at ~$0.01/contract (vs $100–$500 for attorney review); EU AI Act and ESG mandates add new compliance pressure; 44% of companies already deploying creates competitive pressure on laggards",
+    "behavior": "Starting with a POC on legacy contract repository digitization → extending to new contract drafting → expanding to post-execution obligation monitoring; buying often triggered by a missed renewal or contract dispute",
+    "unmet": "Trust in AI extraction accuracy for high-stakes contracts; seamless integration with existing CRM/ERP without custom dev work; multi-language contract intelligence for global operations; explainability for EU AI Act compliance"
+  },
+
+  "takeaways": [
+    "Prioritize AI CLM vendors with native ERP/CRM integrations (SAP, Salesforce, Microsoft 365) — implementation failure most often stems from data silos, not AI capability",
+    "Start with obligation monitoring and renewal alerts, not drafting — this delivers fastest ROI and builds internal trust in AI accuracy before expanding to higher-stakes use cases",
+    "Audit and digitize legacy contract repositories before deployment — AI can only create value from contracts it can read; an estimated 60% of enterprise contracts still exist only as paper or unstructured PDFs",
+    "Build your EU AI Act compliance posture into vendor selection criteria now — demand model explainability documentation, audit logs, and human override capabilities to avoid renegotiating your CLM contract when enforcement tightens"
+  ],
+
+  "sources": [
+    "https://www.researchandmarkets.com/reports/6226779/ai-in-contract-management-system-global-market",
+    "https://www.businesswire.com/news/home/20240311499706/en/Generative-AI-Contracting-Copilots-Drive-Icertis-Above-250-Million-in-Annual-Recurring-Revenue",
+    "https://www.mordorintelligence.com/industry-reports/contract-lifecycle-management-software-market",
+    "https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2026/ai-revolution-contract-lifecycle-management.pdf",
+    "https://procurementtactics.com/contract-management-statistics/",
+    "https://contractpodai.com/news/automate-contract-data-extraction",
+    "https://sacra.com/c/ironclad/",
+    "https://www.morganlewis.com/blogs/sourcingatmorganlewis/2025/02/and-so-it-begins-an-eu-ai-act-update"
+  ]
+}
