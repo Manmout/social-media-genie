@@ -1,0 +1,117 @@
+{
+  "trend": "AI Smart Home Automation",
+  "slug": "ai-smart-home-automation",
+  "researched_date": "2026-11-19",
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.parksassociates.com/blogs/home-systems-and-controls/smart-home-growth-continues-as-matter-and-ai-drive-ease-of-use",
+      "publisher": "Parks Associates",
+      "title": "Smart Home Growth Continues as Matter and AI Drive Ease of Use",
+      "claim": "49% of US internet households now own at least one smart home device, up 4 points year-over-year. Amazon and Google accelerated Alexa+ and Gemini for Home rollouts as AI value layers for the connected home ecosystem.",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "url": "https://www.fortunebusinessinsights.com/industry-reports/smart-home-market-101900",
+      "publisher": "Fortune Business Insights",
+      "title": "Smart Home Market Size, Share & Trends Report 2034",
+      "claim": "Global smart home market valued at USD 180.12 billion in 2026, projected to grow at a CAGR of 15.4% through 2034. Market was USD 152.52 billion in 2025.",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "url": "https://www.nextmsc.com/report/ai-in-smart-home-market-ic5444",
+      "publisher": "NextMSC",
+      "title": "AI in Smart Home Market Size Worth USD 148.75 Bn by 2035",
+      "claim": "AI-in-smart-home market growing from approximately USD 18–20 billion in 2026 to USD 148.75 billion by 2035 at an 11% CAGR. AI assistants, energy management, and security are primary growth drivers.",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "url": "https://www.emarketer.com/content/amazon-google-square-off-with-ai-driven-smart-home-strategies",
+      "publisher": "eMarketer",
+      "title": "Amazon and Google Square Off With AI-Driven Smart Home Strategies",
+      "claim": "Amazon Alexa+ and Google Gemini for Home are the defining AI competitive moves of 2025–2026 in the smart home market. Both platforms report smart home feature adoption acceleration following AI upgrades.",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "url": "https://www.nextmsc.com/blogs/alexa-and-gemini-for-home-the-battle-reshaping-the-voice-assistant-market",
+      "publisher": "NextMSC",
+      "title": "Alexa+ and Gemini for Home: The Battle Reshaping the Voice Assistant Market",
+      "claim": "Amazon completed free Alexa+ rollout to all Echo device owners in February 2026, removing the $19.99/month paywall. Amazon claims Alexa+ users adopt smart home features at 2× the rate of classic Alexa users. Google replaced Google Assistant with Gemini for Home in August 2025.",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "url": "https://smarthomecompared.com/reports/july-2026",
+      "publisher": "SmartHomeCompared",
+      "title": "Monthly Smart Home Report — July 2026",
+      "claim": "Home Assistant reached 89.2% Matter platform compatibility as of July 2026 — highest of any smart home platform. The Matter standard itself covers 26.1% of tracked smart home devices by July 2026. Matter 1.6 released June 2026.",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "url": "https://voxbooster.com/blog/smart-home-statistics-2026/",
+      "publisher": "VoxBooster",
+      "title": "Smart Home Statistics 2026: 50+ Data Points on Market Growth, Adoption, and Devices",
+      "claim": "Comprehensive smart home device adoption statistics for 2026, including US and global penetration rates, most popular device categories, and consumer behavior patterns.",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "url": "https://www.landbase.com/blog/fastest-growing-smart-home-companies-startups",
+      "publisher": "Landbase",
+      "title": "Fastest Growing Smart Home Companies and Startups (August 2026)",
+      "claim": "Base Power Company raised a $1 billion Series D at a $13 billion post-money valuation in August 2026 — the largest smart home energy infrastructure funding round on record.",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "url": "https://www.globenewswire.com/news-release/2025/07/21/3118539/0/en/Artificial-Intelligence-AI-in-Home-Automation-Market-Opportunities-and-Strategies-Report-2025-2034-Market-to-Gain-23-28-Billion-from-Hardware-by-2029-Driven-by-Voice-Assistants-and.html",
+      "publisher": "GlobeNewswire / Research and Markets",
+      "title": "AI in Home Automation Market Opportunities and Strategies Report 2025–2034",
+      "claim": "AI home automation hardware market projected to gain $23.28 billion by 2029, driven by voice assistants, smart speakers, and AI security cameras. Report covers PESTAL landscape and investment opportunities.",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "url": "https://www.parksassociates.com/blogs/analyst-blog/the-intelligent-home-the-next-phase-of-the-connected-home",
+      "publisher": "Parks Associates",
+      "title": "The Intelligent Home: The Next Phase of the Connected Home",
+      "claim": "Analysis of how AI is transitioning smart homes from reactive command-based systems to proactive, anticipatory environments. Parks Associates identifies aging-in-place, energy management, and security as the three primary AI value drivers.",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "url": "https://www.pewresearch.org/chart/roughly-1-in-3-u-s-adults-have-a-smart-speaker-fewer-have-other-smart-home-devices/",
+      "publisher": "Pew Research Center",
+      "title": "Roughly 1 in 3 U.S. Adults Have a Smart Speaker, Fewer Have Other Smart Home Devices",
+      "claim": "Independent verification: approximately 1 in 3 US adults (33%) own a smart speaker as of February 2026 Pew survey. Smart speaker ownership is higher among college-educated adults and those with household incomes over $75,000.",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "url": "https://www.androidcentral.com/accessories/smart-home/exclusive-how-google-and-amazon-are-making-your-smart-home-truly-intelligent",
+      "publisher": "Android Central",
+      "title": "Exclusive: How Google and Amazon Are Making Your Smart Home Truly Intelligent",
+      "claim": "Technical deep-dive on Alexa+ and Gemini for Home AI capabilities, natural language routine creation, and the competitive dynamics reshaping the smart home AI platform market.",
+      "verified": true
+    }
+  ],
+  "unverified_claims": [
+    {
+      "claim": "Amazon's 500M+ Alexa-capable devices globally",
+      "note": "[unverified] Amazon does not publish exact device count; estimate cited by multiple secondary sources but not confirmed in a primary Amazon press release. Likely directionally correct but treat as approximate."
+    },
+    {
+      "claim": "Smart home AI reduces energy use by 10–23%",
+      "note": "[unverified] ACEEE studies cite 10–15% for smart thermostats specifically; the 23% figure includes smart lighting and additional optimizations and may come from vendor-funded studies. Conservative estimate is 10–15%."
+    },
+    {
+      "claim": "Alexa+ users adopt smart home features at 2× the rate of classic Alexa users",
+      "note": "[unverified] Amazon self-reported claim from press materials; not independently verified. Cited as company claim, not independent data."
+    }
+  ]
+}
